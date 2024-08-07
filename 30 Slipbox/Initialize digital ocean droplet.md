@@ -17,7 +17,7 @@ cat ~/.ssh/id_rsa.pub
 ```
 **ssh into the server using that key**
 ```
-ssh -i ~/.ssh/id_rsa root@134.209.38.244
+ssh -i ~/.ssh/id_rsa root@5.161.114.220
 ```
 3. [Install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
 ```
