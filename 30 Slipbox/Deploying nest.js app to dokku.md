@@ -42,7 +42,7 @@ Install Dokku and add SSH key
 ```bash
 dokku domains:set-global retwitter.co
 dokku domains:add bookcue-api api.retwitter.co
-dokku domains:report bookcue-api
+
 ```
 Set global domain and add app-specific domain
 
