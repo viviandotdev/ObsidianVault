@@ -24,6 +24,9 @@ It inverts any layout changes done by the browser
 3. 
 
 
+- AnimatePresence is needed to wrap motion.div in order for exit animations to work
+	- **delays** the the **unmounting** of the component until the **exit animation has completed**. lets framer motion know when to apply exit animations or else the component would just be removed instantly. 
+- You can add a key to a element for react to know when to mount and unmount it
 ### Resources
 [Inside Framer's Magic Motion](https://www.nan.fyi/magic-motion)
 
