@@ -26,3 +26,4 @@ related:
 ### Drivers
 1. [Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad](https://github.com/imbushuo/mac-precision-touchpad)
 
+[[windows setup]]
