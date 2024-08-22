@@ -23,32 +23,29 @@ Don't you think it is weird to say you don't believe in God but you believe in m
 Overtime ambition can become greed if you don't have the self awareness to correct it.
 
 
-The best way to get things done or learn something new is to through short periods of intensity and then dailing it down to learn new things, choose one thing and learn it intently for 7 weeks and then learn another thing
-
-
-Human beings are so weird, there is nothing that I can say to him to make want stop wasting his time and playing games. The more I tell him to stop that more he will 
-
-the world is designed to force you to specialize, schools want you to pick a major as soon as possible and stick with it for the rest of your life. However life is long and you most likely will not be doing that one thing for the rest of your life 
+The best way to get things done or learn something new is to through short periods of intensity and then dialing it down to learn new things, choose one thing and learn it intently for 7 weeks and then learn another thing
+Similiar to Paul Grahm's suggestion of learning many new things but exponenitally less time on each, for example 8 hours coding 4 hours rock climbing 2 hours piano, and more 1 hour reading 
+choose a skill and learn it well for 7 weeks
 **blender modeling 7-weeks**
 chess 7 -weeks
 drawing 7-wweek
 piano
 
-D
-developer producityt cotis
+
+Human beings are so weird, there is nothing that I can say to him to make want stop wasting his time and playing games. The more I tell him to stop that more he will 
+
+the world is designed to force you to specialize, schools want you to pick a major as soon as possible and stick with it for the rest of your life. However life is long and you most likely will not be doing that one thing for the rest of your life 
 
 
 we only get such a short time so i want to use it 
 
-  
+
 
 **Opportunity is everywhere, there are millions of ways to make money but they require time and skills, if you develop your skills overtime you will gain wealth, if you focus on the right things you will become healthy, I think we are much closer to the smartest people in the world than we think, if we focused on the same things they did and learned from the same people could we be just like them?**
 
-
+spir
 
 Same thing how religions or god is not reality it just our way of thinking about reality
-
-  
 
 Everything is relative so there is no truth.
 
@@ -56,7 +53,6 @@ People think they are different but the structure of their mind is the same.
 
 Those people on TV arguing about Capitalism and Communism, however if their experience were the same they would believe the opposite all they see is right and wrong
 
-  
 
 How are you supposed to develop if you don't know what you will develop into? 
 
