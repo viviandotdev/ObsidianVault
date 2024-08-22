@@ -43,7 +43,7 @@ we only get such a short time so i want to use it
 
 **Opportunity is everywhere, there are millions of ways to make money but they require time and skills, if you develop your skills overtime you will gain wealth, if you focus on the right things you will become healthy, I think we are much closer to the smartest people in the world than we think, if we focused on the same things they did and learned from the same people could we be just like them?**
 
-spir
+spiral dynamics
 
 Same thing how religions or god is not reality it just our way of thinking about reality
 
@@ -73,3 +73,4 @@ A lovely house hold is just a byproduct of those things, you are healthy and a c
 Makes you money (software development)
 Keeps you fit (working out)
 Makes you creative or makes you smarter (reading)
+
