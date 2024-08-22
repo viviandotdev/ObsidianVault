@@ -14,7 +14,7 @@ It is not the goal, just pick a direction of where you want to go, or else you w
 
 Salaries and money are byproducts of ambition not because they were your primary desire.
 If your primary desire is to make as much money as possible that is greed.
-On the spiral dynamics chart at stage orange people value efficency and maximizing profits no matter what this is what capitialism is based off of.
+On the spiral dynamics chart at stage orange people value efficiency and maximizing profits no matter what this is what capitalism is based off of.
 
 I don't need anymore money I don't need any more things. I already get to wake up everyday, spend my time how I want to if you choose to chase money and things there will never be enough. There will always be more money and things to have, 
 Money is infinite we can print more of it and and create it from nothing its just paper.
@@ -22,7 +22,8 @@ Don't you think it is weird to say you don't believe in God but you believe in m
 
 Overtime ambition can become greed if you don't have the self awareness to correct it.
 
-The best way to get things done or learn something new is to through short periods of intensity and then dailing it down to learn new things, choose one thing and learn it intently for 7 weeks and then learn  another thing
+
+The best way to get things done or learn something new is to through short periods of intensity and then dailing it down to learn new things, choose one thing and learn it intently for 7 weeks and then learn another thing
 
 
 Human beings are so weird, there is nothing that I can say to him to make want stop wasting his time and playing games. The more I tell him to stop that more he will 
