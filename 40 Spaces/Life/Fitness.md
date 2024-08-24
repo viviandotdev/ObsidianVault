@@ -6,7 +6,7 @@ Workout routine
 - Lose weight
 - Gain strength
 - Make is sustainable
-My weight fluctuates between 107 - 115 usually hovering around 110- 113 for most the the year. over the winter it is on the high end and over the summer it moves a little toward the loawrd. 
+My weight fluctuates between 107 - 115 usually hovering around 110- 113 for most the the year. over the winter it is on the high end and over the summer it moves a little toward the lower end. 
 I want the feeling of lightness and energy losing some weight will bring me. 
 Strength is a just a side of effect of losing weight, when I am **lighter I feel more energetic and want to do the exercises.** The exercises become easier when I lighter. 
 
