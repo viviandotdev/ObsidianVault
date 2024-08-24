@@ -14,7 +14,7 @@ Prioritize consistency
 
 - [x] **Pistol Squat**
 - [ ] Pull up
-	10 sets of 18 reps a day
+
 
 
 **current workout** 
@@ -32,6 +32,8 @@ setting skill goals seems to make me want to work out more.
 **exercises**
 [Upper Body Strength, Power & Size w/ Mike Tyson Push Ups - YouTube](https://www.youtube.com/watch?v=gcWqt3V92MA)
 [World's Most POWERFUL Kick!? The Side Kick - YouTube](https://www.youtube.com/watch?v=p3Shoq1LNI8)
+Mountain Climber Presses
+Step Ups
 
 ### Resources
 **Fitness Protocol**

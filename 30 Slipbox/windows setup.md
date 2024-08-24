@@ -1,4 +1,4 @@
-
+[[Windows]]
 
 
 - [ ] documemt your steps
@@ -31,10 +31,3 @@
 
 - [ ] use auto hotkeys to map alt q for ctrl to quit the openede app
 
-**Later**
-
-When I get my usb
-
-Book linux onto the think pad
-
-Boot ghost windows onto the mini computer (tutorial)
