@@ -9,9 +9,7 @@ links::
 ## My Skills
 
 **In Progress**
-1. Rock Climbin
-2. Ice Skating
-   - Learn a jump or spin
+1. Rock Climbing
 3. Build and deploy a Micro Software as a Service
 4. Learn languages through immersion
    - Chinese
@@ -19,6 +17,10 @@ links::
    - French
    - Korean
 
+**Hold**
+1. Ice Skating
+   - Learn a jump or spin
+   
 **Later**
 1. Rock Climbing
 2. Writing
