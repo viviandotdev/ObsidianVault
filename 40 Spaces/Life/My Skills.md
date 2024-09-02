@@ -9,7 +9,7 @@ links::
 ## My Skills
 
 **In Progress**
-1. Rock Climbing
+1. Rock Climbin
 2. Ice Skating
    - Learn a jump or spin
 3. Build and deploy a Micro Software as a Service
