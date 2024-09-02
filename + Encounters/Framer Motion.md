@@ -3,7 +3,7 @@ created: 2024-07-29 14:21
 modified: Monday 29th July 2024 14:21:12
 alias: 
 ---
-up::  
+p::  
 type:: #note/atomic🌳 
 links::
 ## Framer Motion
