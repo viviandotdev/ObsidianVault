@@ -16,3 +16,4 @@ These are the dials that determine where I go.
 	- 05 - [[My Manifesto]] | [[My Goals]] | [[My Career]]
 	- 06 - [[My Obituary]]
 
+[[My Systems]]
