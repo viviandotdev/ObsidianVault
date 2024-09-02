@@ -36,6 +36,7 @@ My Daily Routine
 12:15 pm - 3pm rock climbing
 3pm - 6pm dinner work on project
 
+1 hour reading before bed
 September
 October
 November
