@@ -78,4 +78,5 @@ Makes you creative or makes you smarter (reading)
 
 I think an important criteria for me is to that my parents like them,
 I learn from examples, I don't think I have ever seen an example in real life of a relationship that I would like to emulate or like look up to.
-But like a year or two I remember watching a show 
+But like a year or two I remember watching a show that really showed a relationship that i would like to emulate
+all i want is to have someone believe in me at the times when i don't believe in myself 
