@@ -29,6 +29,7 @@ How to not be socially awkward
 2. Where do you watch it? Just clips on YouTube?
 3. How fast are they going on those bikes?
 4. Do know how to ride bikes?
+5. What time of year is it? is it going on now?
 
 Make people feel better
 
