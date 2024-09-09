@@ -31,6 +31,13 @@ How to not be socially awkward
 4. Do know how to ride bikes?
 5. What time of year is it? is it going on now?
 
+
+3. ex. I went to korea?
+	1. do you live in korea?
+	2. how long have you lived there?
+	3. do your parents live there?
+	4. 
+
 Make people feel better
 
 Goals
