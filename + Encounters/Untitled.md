@@ -36,7 +36,7 @@ How to not be socially awkward
 	1. do you live in korea?
 	2. how long have you lived there?
 	3. do your parents live there?
-	4. 
+	4. do you like living there?
 
 Make people feel better
 
