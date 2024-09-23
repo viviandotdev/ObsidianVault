@@ -10,12 +10,10 @@ How to not be socially awkward
   
 
 1. Active listening
-
 1. Be genuinely curious about what they are talking about
 2. When people say something they often leave out a lot of context, so just ask more questions
 
 1. Ex. I cut my hand on Sunday while working on a car.
-
 1. What kind of car?
 2. Was it your car
 3. How did you cut it?
@@ -31,7 +29,6 @@ How to not be socially awkward
 4. Do know how to ride bikes?
 5. What time of year is it? is it going on now?
 
-
 3. ex. I went to korea?
 	1. do you live in korea?
 	2. how long have you lived there?
@@ -39,9 +36,5 @@ How to not be socially awkward
 	4. do you like living there?
 
 Make people feel better
-
 Goals
-
-  
-
 Heart of gold
