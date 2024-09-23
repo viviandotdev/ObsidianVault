@@ -27,7 +27,7 @@ tags:: #productivity
 
 [The Weekly Review: A Productivity Ritual to Get More Done](https://todoist.com/productivity-methods/weekly-review)
 
-Scheduling (2-3 days)
+Every Scheduling (2-3 days)
 
 [What I learnt after 3000 days of scheduling - YouTube](https://www.youtube.com/watch?v=2ZS5Ek0PtcI&list=WL&index=2)
 
