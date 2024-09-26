@@ -86,3 +86,8 @@ all i want is to have someone believe in me at the times when i don't believe in
 - Someone who supports me and my dreams
 - Someone who does not make me feel exhausted when I am with them.
 - Someone who is straightforward and can communicate clearly and effectively
+
+
+to get your day right you will get your life right, life is built on top a set of system or routines that you follow everydat
+
+[If you can get one day right, you have a shot at getting your life right | by Thomas Oppong | Personal Growth | Medium](https://medium.com/personal-growth/if-you-can-get-one-day-right-you-have-a-shot-at-getting-your-life-right-523b12758d16)
