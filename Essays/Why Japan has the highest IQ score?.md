@@ -9,4 +9,4 @@ DHA is best found in seafood
 shore based diet was important for the the development of the brain
 Helps development of the prefrontal coretex
 reduces adhd helps with attention 
-Makes sense why dolphins are so smart 
+Makes sense why dolphins are so smart because they get 
