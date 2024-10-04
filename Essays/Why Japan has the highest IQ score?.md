@@ -9,4 +9,13 @@ DHA is best found in seafood
 shore based diet was important for the the development of the brain
 Helps development of the prefrontal coretex
 reduces adhd helps with attention 
-Makes sense why dolphins are so smart because they get 
+Makes sense why dolphins are so smart because they get so much DHA
+HUmans may have eveolved from aquatic apes which is why we are so smart,
+The diet of the japense people have so much DHA which is why they have higher iqs  
+
+
+Linoleic acid makes yyou dumb hogs up space in the brain cells so DHA cannot get in
+
+Vegtable oil reduce DHA because it has so much linoleic acid
+
+People in japan consume about half the vegtable oil that we do
