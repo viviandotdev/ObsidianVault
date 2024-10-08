@@ -15,12 +15,15 @@ links:: [HAPPINESS: The Science of How To Be Happy - YouTube](https://www.youtub
 		you win and you'll be happy 
   societies are less happy then countries higher on **social collectivism**
  Win and You Will Be Happy - Ben Goldhirsh The Neuroscience of Happiness - Axel Bouchon 
- Dopamine -> create motiviation to find more food.
- testorsone + dopamine -> exual desiere
- serotin _ dopamine -> experience of reconginition
- oxytoicin + dopmaine -> family love, without this you will not be excited to take care of children
- cannabis + dopamine -> friendship love, team work
- dopamine +
+how to increase, with which activities can increase each molecule
+ **Dopamine** (**The Reward Molecule**)-> create motiviation to find more food.
+ testorsone + dopamine -> sexual desiere
+ **Serotonin** (Confidence) + dopamine -> experience of reconginition,  building self-esteem 
+	 
+ **(Bonding)** **oxytoicin** + dopmaine -> family love, without this you will not be excited to take care of children
+ **cannabis** + dopamine -> friendship love, team work
+ dopamine + **opioids** -> gratitude, and pleasure (advantage factor in determinng where you go in life)
+Every emotion you experience is a combination of these 6 molecules
   The Evolution of Happiness 
   Your Six Neurotransmitters 
    Money and Hard Work Only Get You Two
