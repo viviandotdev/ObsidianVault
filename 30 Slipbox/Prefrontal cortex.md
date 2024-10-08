@@ -4,6 +4,7 @@ modified: Monday 7th October 2024 20:51:42
 alias: 
 ---
 up::  
+tags:: #brain 
 type:: #note/atomic🌳 
 links::
 ## Prefrontal cortex

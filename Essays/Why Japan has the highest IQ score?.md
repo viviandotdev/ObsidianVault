@@ -5,8 +5,3 @@
 
 
 
-### Linoleic Acid and Its Effects
-
-- [[Linoleic acid]] makes you dumb; it hogs up space in the brain cells so DHA cannot get in. It shoves out DHA and other fats that are good for your brain.
-- Vegetable oil reduces DHA because it has so much linoleic acid.
-- People in Japan consume about half the vegetable oil that we do in America.
