@@ -1,5 +1,3 @@
-**Why start ups are counterintuitive**
-
 Intelligence and Determination
 
 If you have 100% determination and Intelligence, you can take away more intelligence and still succeed
