@@ -12,6 +12,7 @@ Linoleic acid is an essential (this means that humans cannot produce it, it is o
  - [[Linoleic acid]] makes you dumb; it hogs up space in the brain cells so DHA cannot get in. It shoves out DHA and other fats that are good for your brain.
 - Vegetable oil reduces DHA because it has so much linoleic acid.
 - Your body needs to balance the amount of linoleic acid and [[Docosahexaenoic acid]](DHA)
+- 
 
 Too much linoleic acid can lead to inflammation
 ### Links to this page
