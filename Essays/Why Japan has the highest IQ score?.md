@@ -4,16 +4,6 @@
 [ulsterinstitute.org/ebook/THE INTELLIGENCE OF NATIONS - Richard Lynn, David Becker.pdf](https://www.ulsterinstitute.org/ebook/THE%20INTELLIGENCE%20OF%20NATIONS%20-%20Richard%20Lynn,%20David%20Becker.pdf)
 
 
-### DHA During Development
-
-- Early humans were able to get [[Docosahexaenoic acid]](DHA).
-- DHA is best found in seafood.
-- A shore-based diet was important for the development of the brain.
-- Helps development of the prefrontal cortex.
-- Reduces ADHD, helps with attention.
-- Makes sense why dolphins are so smart because they get so much DHA.
-- Humans may have evolved from aquatic apes, which is why we are so smart.
-- The diet of Japanese people has so much DHA, which is why they have higher IQs.
 
 ### Linoleic Acid and Its Effects
 
