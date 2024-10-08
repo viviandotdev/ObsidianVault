@@ -8,7 +8,16 @@ type:: #source/video  #source
 links:: [HAPPINESS: The Science of How To Be Happy - YouTube](https://www.youtube.com/watch?v=nlQQxvfSotQ)
 ## HAPPINESS- The Science of How to Be Happy
 
-The Black Hole In My Heart [01:22](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=82s) - The Mental State of the World - Tara Thiagarajan [03:38](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=218s) - Win and You Will Be Happy - Ben Goldhirsh [07:00](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=420s) - The Neuroscience of Happiness - Axel Bouchon [09:26](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=566s) - The Evolution of Happiness [12:00](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=720s) - Your Six Neurotransmitters [12:38](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=758s) - Money and Hard Work Only Get You Two [15:44](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=944s) - A Compass for Your Mind [17:15](https://www.youtube.com/watch?v=nlQQxvfSotQ&t=1035s) - Credits
+ The Mental State of the World - Tara Thiagarajan 
+ **Performance Orientated**
+	your individual worth is based on certain types of success like wealth or game.
+		you win and you'll be happy 
+  societies are less happy then countries higher on **social collectivism**
+ Win and You Will Be Happy - Ben Goldhirsh The Neuroscience of Happiness - Axel Bouchon 
+  The Evolution of Happiness 
+  Your Six Neurotransmitters 
+   Money and Hard Work Only Get You Two
+A Compass for Your Mind 
 
 ##
 
