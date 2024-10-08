@@ -3,6 +3,7 @@
 
 [ulsterinstitute.org/ebook/THE INTELLIGENCE OF NATIONS - Richard Lynn, David Becker.pdf](https://www.ulsterinstitute.org/ebook/THE%20INTELLIGENCE%20OF%20NATIONS%20-%20Richard%20Lynn,%20David%20Becker.pdf)
 
+
 ### DHA During Development
 
 - Early humans were able to get [[Docosahexaenoic acid]](DHA).

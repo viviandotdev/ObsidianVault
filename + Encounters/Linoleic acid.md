@@ -9,7 +9,7 @@ links::
 ## Linoleic acid
 
 
-Li
+Linoleic acid 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview

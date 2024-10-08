@@ -5,7 +5,7 @@ alias:
 ---
 up::  
 type:: #note/atomic🌳 
-links::
+links::[Docosahexaenoic Acid benefits, dosage, and side effects](https://examine.com/supplements/docosahexaenoic-acid/)
 ## Docosahexaenoic acid
 
 Omega-3 fatty acid that is important for brain and development, and for the health of the eyes, skin, and retina
