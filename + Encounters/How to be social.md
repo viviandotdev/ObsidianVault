@@ -7,7 +7,6 @@ How to not be socially awkward
 
   
 
-  
 
 1. Active listening
 1. Be genuinely curious about what they are talking about

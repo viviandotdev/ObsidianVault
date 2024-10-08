@@ -8,4 +8,6 @@ Paul worked on a website builder and went to users and asked them if they wanted
 
 From this he learned a lot from manually creating the store using his own builder because he was using he own products and could make fixes as he used it.
 
+
+[[Why Startups are Counterintuitive]]
   
