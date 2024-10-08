@@ -17,13 +17,11 @@ links:: [HAPPINESS: The Science of How To Be Happy - YouTube](https://www.youtub
  Win and You Will Be Happy - Ben Goldhirsh The Neuroscience of Happiness - Axel Bouchon 
 how to increase, with which activities can increase each molecule
  **Dopamine** (**The Reward Molecule**)-> create motiviation to find more food.
- testorsone + dopamine -> sexual desiere
+ **testorsone** + dopamine -> sexual desiere
  **Serotonin** (Confidence) + dopamine -> experience of reconginition,  building self-esteem 
-	 
- **(Bonding)** **oxytoicin** + dopmaine -> family love, without this you will not be excited to take care of children, cooperation
- **cannaboids** + dopamine -> friendship love, team work
+ **(Bonding)** **oxytoicin** + dopmaine -> family love, without this you will not be excited to take care of children, cooperation, love
  dopamine + **opioids** -> gratitude, and pleasure (advantage factor in determinng where you go in life)
-Every emotion you experience is a combination of these 6 molecules
+Every emotion you experience is a combination of these molecules
   The Evolution of Happiness 
   Your Six Neurotransmitters 
    Money and Hard Work Only Get You Two
