@@ -4,6 +4,7 @@ modified: Tuesday 8th October 2024 06:58:53
 alias: 
 ---
 up::  
+tags:: #happiness 
 type:: #source/video  #source  
 links:: [HAPPINESS: The Science of How To Be Happy - YouTube](https://www.youtube.com/watch?v=nlQQxvfSotQ)
 ## HAPPINESS- The Science of How to Be Happy
@@ -14,6 +15,12 @@ links:: [HAPPINESS: The Science of How To Be Happy - YouTube](https://www.youtub
 		you win and you'll be happy 
   societies are less happy then countries higher on **social collectivism**
  Win and You Will Be Happy - Ben Goldhirsh The Neuroscience of Happiness - Axel Bouchon 
+ Dopamine -> create motiviation to find more food.
+ testorsone + dopamine -> exual desiere
+ serotin _ dopamine -> experience of reconginition
+ oxytoicin + dopmaine -> family love, without this you will not be excited to take care of children
+ cannabis + dopamine -> friendship love, team work
+ dopamine +
   The Evolution of Happiness 
   Your Six Neurotransmitters 
    Money and Hard Work Only Get You Two
