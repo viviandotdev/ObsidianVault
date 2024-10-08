@@ -20,7 +20,7 @@ how to increase, with which activities can increase each molecule
  testorsone + dopamine -> sexual desiere
  **Serotonin** (Confidence) + dopamine -> experience of reconginition,  building self-esteem 
 	 
- **(Bonding)** **oxytoicin** + dopmaine -> family love, without this you will not be excited to take care of children
+ **(Bonding)** **oxytoicin** + dopmaine -> family love, without this you will not be excited to take care of children, cooperation
  **cannabis** + dopamine -> friendship love, team work
  dopamine + **opioids** -> gratitude, and pleasure (advantage factor in determinng where you go in life)
 Every emotion you experience is a combination of these 6 molecules
