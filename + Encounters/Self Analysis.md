@@ -65,7 +65,8 @@ If your primary desire is to make as much money as possible
 
 
 
-it is not that i don't care it is because i don't want to fight, i know how to are going to be like and i am the one who is going to end up getting the most hurt anyways 
+it is not that i don't care it is because i don't want to fight, i know how to are going to be like and i am the one who is going to end up getting the most hurt anyways so i just give up and let you win.
+like i am so scared to making you upset i will do anything to prevent that from happening 
 
 **Values**
 Ambitious- I want to be a more capable person who is fully independent and does not nee the help of others. 
