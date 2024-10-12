@@ -91,3 +91,10 @@ all i want is to have someone believe in me at the times when i don't believe in
 to get your day right you will get your life right, life is built on top a set of system or routines that you follow everydat
 
 [If you can get one day right, you have a shot at getting your life right | by Thomas Oppong | Personal Growth | Medium](https://medium.com/personal-growth/if-you-can-get-one-day-right-you-have-a-shot-at-getting-your-life-right-523b12758d16)
+
+**Values**
+
+- I think it is better to assume the better of people then to assume the worst of people.
+- i don't believe in getting angry, i think anger shows a lack of control over your own emotions. Often getting angry hurts another individual emotionally or physically which is not some thing i want to do/
+
+
