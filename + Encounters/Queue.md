@@ -92,9 +92,39 @@ to get your day right you will get your life right, life is built on top a set o
 
 [If you can get one day right, you have a shot at getting your life right | by Thomas Oppong | Personal Growth | Medium](https://medium.com/personal-growth/if-you-can-get-one-day-right-you-have-a-shot-at-getting-your-life-right-523b12758d16)
 
+
+**You are happiest when working towards your goals, not when you have achieved them**
+
+This means that you are much closer to being the happiest version of yourself than you think
+
+  
+
+You can tell how much you love yourself based on the partner you choose
+
+  
+
+I think love is platonic and does not have to have to be romantic, I think its important to prioritize love for my friendships and family, I that romantic love usually ends and are experiences that you can look back on fondly , why would I want to keep putting effort into memories that you eventually want to forget when instead I can just put more energy into my family and friends and can always look back on them?
+
+  
+
+Being a relationship and getting married is more like a side quest, the main question is **finding ways to make my self happy** and if along the way I find someone that can **help me make myself happier** great if not I’m still happy regardless. 
+
+
+I want to be able to make myself happy.
+
+Not find someone else to make me happy.
+
+In life happiness is my end goal. If being in a relationship with a man helps make that more achievable great if not than I’m still happy regardless
+  
+
+Philosophy means the love of wisdom, philosophy was created from anxious who love to theorize and ruminate about themselves and why they are the way they are, and like to think about why things are they way they are because **they are not content with what they know or believe about the world**
+
+
 **Values**
 
 - I think it is better to assume the better of people then to assume the worst of people.
-- i don't believe in getting angry, i think anger shows a lack of control over your own emotions. Often getting angry hurts another individual emotionally or physically which is not some thing i want to do/
+- i don't believe in getting angry, i think anger shows a lack of control over your own emotions. Often getting angry hurts another individual emotionally or physically which is not some thing i want to do.
 
+
+One of the best ways to test other people's temper is to test their patience over small things. If they get upset over the littlest things then that is gives you a clue into the way they will react over larger issues. 
 
