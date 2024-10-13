@@ -71,3 +71,7 @@ like i am so scared to making you upset i will do anything to prevent that from 
 **Values**
 Ambitious- I want to be a more capable person who is fully independent and does not nee the help of others. 
 
+The feeling of being able to achieve something you never knew was possible is enpowering and makes you feel like you can achieve anything.
+
+This is one of the main reasons I love rock climbing everyday I get to go there and try something that I then get better everyday.
+The 
