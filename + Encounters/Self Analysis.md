@@ -74,4 +74,4 @@ Ambitious- I want to be a more capable person who is fully independent and does 
 The feeling of being able to achieve something you never knew was possible is enpowering and makes you feel like you can achieve anything.
 
 This is one of the main reasons I love rock climbing everyday I get to go there and try something that I then get better everyday.
-The 
+Within rock climbing where are so many ways to improve whereas if you are weight lifting like the only time I would get a dopamine hit is when I lift a heavier weight, but that does not happen every day. 
