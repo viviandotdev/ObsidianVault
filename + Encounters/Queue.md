@@ -22,7 +22,6 @@ Don't you think it is weird to say you don't believe in God but you believe in m
 
 Overtime ambition can become greed if you don't have the self awareness to correct it.
 
-
 The best way to get things done or learn something new is to through short periods of intensity and then dialing it down to learn new things, choose one thing and learn it intently for 7 weeks and then learn another thing
 Similiar to Paul Grahm's suggestion of learning many new things but exponenitally less time on each, for example 8 hours coding 4 hours rock climbing 2 hours piano, and more 1 hour reading 
 choose a skill and learn it well for 7 weeks
