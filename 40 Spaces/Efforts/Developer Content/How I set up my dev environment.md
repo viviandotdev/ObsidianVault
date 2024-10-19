@@ -108,6 +108,7 @@ ticktick
 notion
 obsidian
 arc
+spark
 iterm2
 docker
 google-drive
