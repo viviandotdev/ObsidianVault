@@ -114,3 +114,8 @@ emotional abondonment
 inconsisteny in feeling validated and loved. 
 my dad never showed up for me at all .
 growing up i never remeber seeing him there at my birthday, or when i had a piano performance for when i won an award at school my dad was never there only my mom, but also he never comes home for dinner, i think i can count on my fingers the number of times my dad has sat the dinner table with us as a family.
+
+inconsisitency in parenting, somedays it seems like they love you can care for you and other days they criticize you
+
+hitting your kids, falls under inconsistent parenting, as a child you may not undertand how could someone that is suppoed to love you want to hurt you.
+I thi
