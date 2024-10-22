@@ -116,6 +116,8 @@ my dad never showed up for me at all .
 growing up i never remeber seeing him there at my birthday, or when i had a piano performance for when i won an award at school my dad was never there only my mom, but also he never comes home for dinner, i think i can count on my fingers the number of times my dad has sat the dinner table with us as a family.
 
 inconsisitency in parenting, somedays it seems like they love you can care for you and other days they criticize you
+parents who crticize theri cuildren, creates children who will no longer share with them their hopes and dreams because they are just going to knock you down, 
+they only like me down 
 
-hitting your kids, falls under inconsistent parenting, as a child you may not undertand how could someone that is suppoed to love you want to hurt you.
-I thi
+hitting your kids, falls under **inconsistent** parenting, as a child you may not undertand how could someone that is suppoed to love you want to hurt you.
+I think that is very confusing for a kid to understand 
