@@ -75,3 +75,9 @@ The feeling of being able to achieve something you never knew was possible is en
 
 This is one of the main reasons I love rock climbing everyday I get to go there and try something that I then get better everyday.
 Within rock climbing where are so many ways to improve whereas if you are weight lifting like the only time I would get a dopamine hit is when I lift a heavier weight, but that does not happen every day. 
+
+
+Why am i so avoidant
+avoidant people are fear of being abandoned, i feel like that like everyone's fear but we cope with it differently 
+anxious people who fear abaondoned will overthink and be nervous and stress about it
+avoidants will push people away or keep them at a distance so that they can abandon the other person before they can abandon the, 
