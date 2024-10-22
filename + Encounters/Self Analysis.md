@@ -96,4 +96,16 @@ fear
 
 adult not attuned to emotions
 i did not see adults clearly communicate abd work through issues and respect each other's differences of opinions
+mom and dad definityly did not clearly communicate with each other and learn to respect each other's difference in opinions
 
+even currently their differences of opinion with money is not healhyt
+even the way mom makes me talk to him instead of talking to him herself 
+grew up in a home where nothing is ever talked about and everything is ignored or swept under the rug
+when i became an adult i learned how to not express my emotions 
+and when i did i was just dismiessed and told to stop being dramatic or even punished
+
+
+for example every time i cried or displayed emotion i was punished, i was yelled at for crying  
+
+this is why i learned to avoid my emotions and choose to suppress them 
+running away from the way to feel actually makes the relationship more difficult.
