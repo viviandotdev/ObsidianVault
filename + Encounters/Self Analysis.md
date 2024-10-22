@@ -88,3 +88,12 @@ my sister and mom were really dismissive,
 for example every winter my room gets like really fucking cold like, i would wake up in the middle of the night shivering, i would tell my dad and my sister all the time, but i was just ignored, 
 maybe thats why i feel not pain, i just blocked it out so its easier for me to cope. 
 its easier to suffer if you don't feel any pain, 
+\
+focsed on them selves
+parents did n't attue to their emotions and struggle to vulnderablee, 
+primitive instinct to focus on my s elf and where i need to go in life
+fear
+
+adult not attuned to emotions
+i did not see adults clearly communicate abd work through issues and respect each other's differences of opinions
+
