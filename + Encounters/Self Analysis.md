@@ -109,3 +109,8 @@ for example every time i cried or displayed emotion i was punished, i was yelled
 
 this is why i learned to avoid my emotions and choose to suppress them 
 running away from the way to feel actually makes the relationship more difficult.
+
+emotional abondonment
+inconsisteny in feeling validated and loved. 
+my dad never showed up for me at all .
+growing up i never remeber seeing him there at my birthday, or when i had a piano performance for when i won an award at school my dad was never there only my mom, but also he never comes home for dinner, i think i can count on my fingers the number of times my dad has sat the dinner table with us as a family.
