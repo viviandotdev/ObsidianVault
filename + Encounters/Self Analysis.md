@@ -85,4 +85,6 @@ i think subconsiouly it comes from my childhood, basically immediately when i wa
 i think that alone already fucked up my brain chemsitry 
 i expressed my wants and needs and was immediately shut down, i realized that i have to figure out everything myself because they aren't going to help me anyway
 my sister and mom were really dismissive,
-for example every winter my room gets like really fucking cold like, i would wake up in the middle of the night shivering, i would tell my dad and my sister all the time, 
+for example every winter my room gets like really fucking cold like, i would wake up in the middle of the night shivering, i would tell my dad and my sister all the time, but i was just ignored, 
+maybe thats why i feel not pain, i just blocked it out so its easier for me to cope. 
+its easier to suffer if you don't feel any pain, 
