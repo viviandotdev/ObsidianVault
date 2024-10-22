@@ -121,3 +121,5 @@ they only like me down
 
 hitting your kids, falls under **inconsistent** parenting, as a child you may not undertand how could someone that is suppoed to love you want to hurt you.
 I think that is very confusing for a kid to understand 
+
+your also inconssitent sometimes, like sometimes you seem like you really like me but other times, 
