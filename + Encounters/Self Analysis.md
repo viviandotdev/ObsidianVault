@@ -123,3 +123,7 @@ hitting your kids, falls under **inconsistent** parenting, as a child you may no
 I think that is very confusing for a kid to understand 
 
 your also inconssitent sometimes, like sometimes you seem like you really like me but other times, 
+
+emotionally immature parents view children as a source of their self esteem
+
+my parents
