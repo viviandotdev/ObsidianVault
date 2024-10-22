@@ -82,4 +82,7 @@ avoidant people are fear of being abandoned, i feel like that like everyone's fe
 anxious people who fear abaondoned will overthink and be nervous and stress about it
 avoidants will push people away or keep them at a distance so that they can abandon the other person before they can abandon the, 
 i think subconsiouly it comes from my childhood, basically immediately when i was born i was abandoned by my parents, i felt like those years are extremely important in forming a secure relationship, I mean still i don't feel that close to my parents or anyone.
-i think that alone already fucked up my brain chemsitry and 
+i think that alone already fucked up my brain chemsitry 
+i expressed my wants and needs and was immediately shut down, i realized that i have to figure out everything myself because they aren't going to help me anyway
+my sister and mom were really dismissive,
+for example every winter my room gets like really fucking cold like, i would wake up in the middle of the night shivering, i would tell my dad and my sister all the time, 
