@@ -127,3 +127,21 @@ your also inconssitent sometimes, like sometimes you seem like you really like m
 emotionally immature parents view children as a source of their self esteem
 
 my parents
+
+
+in consisteny
+**Do you even like hanging out with me or just find me annoying most of the time?**
+
+I felt liked I did something to annoy you during mikado,
+
+I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
+
+Was it because I was late?
+
+Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
+
+And then you whispered to Sandy about something 
+
+Did I do something to annoy you during mikado, tuesday
+
+I get the same feeling with my sister, like I feel like being myself is annoying to yo
