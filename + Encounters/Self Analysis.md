@@ -144,4 +144,4 @@ And then you whispered to Sandy about something 
 
 Did I do something to annoy you during mikado, tuesday
 
-I get the same feeling with my sister, like I feel like being myself is annoying to you so should i try t
+I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i 
