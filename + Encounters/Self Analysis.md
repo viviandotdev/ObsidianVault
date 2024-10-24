@@ -156,6 +156,16 @@ i hate it when people assume my intentions, but also i think people assume my in
 
 for example, when my sister asked me for money, i jokingly said year for 5% interest or whatever
 like before i even get the chance to explain myself. she assumed the worst of me, like she literally said i am a bad person like, she made me feel so guilty for making a joke,
+like for example sometimes my brother does not clean the dishes because he forgets and my dad comes home and cleans it, my sister likes to think i he intentionally leaves the dishes out and waits for my dad to come home so he doesn't have to clean it, whereas i like to first give him the benefit of the doubt 
 
 
 another time with you
+
+i think this is a difference in values and in the way I see people. personally there is not reason for me to see other people as bad if they have 
+
+my mom is definitly the type of person who sees the worst in people 
+i think I would just be a happier person if i choose to see the best in people and then change if i see a reason to
+
+like for example 
+
+i'm sure its a defensive mechanism, maybe you have had someone wrong you or you gave people the benefit of the doubt too person and all they did was prove you wrong
