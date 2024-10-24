@@ -144,4 +144,11 @@ And then you whispered to Sandy about something 
 
 Did I do something to annoy you during mikado, tuesday
 
-I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i 
+I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i would just shut the fuck up and pretend like i'm invisible so i don't annoy you/
+the difference is that you make more happy than anxious so i will hang out with you because there is a higher probability that I will have fun but there is still that 
+
+but also i'm sure you also don't like feeling annoyed at me either but i'm just being me so like should i just not be myself. or what is want is for me to be who you want me to be? or do what you want me to do for you?
+
+for example there is this instance were we 
+
+i hate it when people assume my intentions
