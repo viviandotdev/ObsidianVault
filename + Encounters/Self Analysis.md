@@ -151,4 +151,11 @@ but also i'm sure you also don't like feeling annoyed at me either but i'm just 
 
 for example there is this instance were we 
 
-i hate it when people assume my intentions
+i hate it when people assume my intentions, but also i think people assume my intentions is because i don't communicate clearly, but also i feel like people just assume the worst in me
+
+
+for example, when my sister asked me for money, i jokingly said year for 5% interest or whatever
+like before i even get the chance to explain myself. she assumed the worst of me, like she literally said i am a bad person like, she made me feel so guilty for making a joke,
+
+
+another time with you
