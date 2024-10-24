@@ -168,4 +168,20 @@ i think I would just be a happier person if i choose to see the best in people a
 
 like for example 
 
-i'm sure its a defensive mechanism, maybe you have had someone wrong you or you gave people the benefit of the doubt too person and all they did was prove you wrong
+i'm sure its a defensive mechanism, maybe you have had someone wrong you or you gave people the benefit of the doubt too person and all they did was prove you **Do you even like hanging out with me or just find me annoying most of the time?**
+
+  
+
+I felt liked I did something to annoy you during mikado,
+
+I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
+
+Was it because I was late?
+
+Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
+
+And then you whispered to Sandy about something 
+
+  
+
+Did I do something to annoy you during mikado, tuesday
