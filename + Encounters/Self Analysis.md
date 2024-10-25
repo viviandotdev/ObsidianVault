@@ -170,7 +170,6 @@ like for example
 
 i'm sure its a defensive mechanism, maybe you have had someone wrong you or you gave people the benefit of the doubt too person and all they did was prove you **Do you even like hanging out with me or just find me annoying most of the time?**
 
-  
 
 I felt liked I did something to annoy you during mikado,
 
@@ -185,3 +184,5 @@ And then you whispered to Sandy about something 
   
 
 Did I do something to annoy you during mikado, tuesday
+
+Bro i think you need to chill, everything is fine no need to hold it iside forgert and move on,
