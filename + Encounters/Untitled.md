@@ -14,17 +14,22 @@
 - **Ketosis Benefits:** Fasting increases ketones, allowing sustenance on an 800-calorie diet after two weeks. This is the principle behind the keto diet.
   - [Study on Ketosis and Appetite](https://pubmed.ncbi.nlm.nih.gov/23632752/)
 - **Upton Sinclair Fasting Protocol:** Hunger disappears for a few days during total fasting but eventually returns.
-
+- If you are worried about losing muscle during fasting, ketones actually help preserve muscle
+[Anticatabolic Effects of Ketone Bodies in Skeletal Muscle - PubMed](https://pubmed.ncbi.nlm.nih.gov/30712977/)
+- Doesn't your brain need carbs (surgar/glucose).
+	- yes but your brain can also survive off on ketone bodies![[Screenshot 2024-10-27 at 7.49.35 PM.png]]
 **Benefits of Fasting:**
 - Raises ketones
 - Reduces seizures
 - Improves depression
 - Lowers anxiety, inflammation, pain, and allergies
-	- 
+
 
 **Fasting Hormones:**
-
 - BDNF, insulin, ghrelin, growth hormone
+
+
+Fasting -> Fat Adaption ()-> Less Hunger
 
 **Historical Insight:**
 
