@@ -67,5 +67,8 @@ Salt affects hunger
 **Secret #3  Increase Energy and Build Lean Muscle**
 
 - **Breaking the Fast:** Avoid watery carbs like watermelon and congee.
-- **Refeed on Lean Protein:** Helps IGF-1 levels rise again.
+- **Refeed on Lean Protein:** Helps **IGF-1** levels rise again.
+- - Myostatin -> protein that limits muscle growth in humans and other animals
+	-thererfor if you want to gain more muslce reduce myostatin
+	- after a prolonged fast your body will reduce myostatin a period of time after refeeding
 - **Refeed Protocol:** Follow a feast and fast protocol for optimal results.
