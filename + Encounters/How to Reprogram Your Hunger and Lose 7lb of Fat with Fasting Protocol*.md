@@ -63,7 +63,7 @@ Common fasting fatigue symptoms are similar to low sodium symptoms, so maybe the
   - **Salt Intake:** Higher salt intake (4000 mg = 12 grams) may lower heart disease risk.
 - **Electrolyte Balance:** Ensure a balance of magnesium and potassium with sodium.
 - **Hot Salty Broth:** A miso soup or hot salty drink can help overcome fasting challenges.
-
+Salt affects hunger
 **Secret #3  Increase Energy and Build Lean Muscle**
 
 - **Breaking the Fast:** Avoid watery carbs like watermelon and congee.
