@@ -49,14 +49,13 @@ The main way to make fasting easier is to speed up the process of getting into k
 ![[Screenshot 2024-10-27 at 8.10.16 PM.png]]
 ---
 
-**#1 Start the Fast in Ketosis:**
-
+**#1 Start the Fast in Ketosis or as close to ketosis as possible:**
 - **Preparation:** Eat a low-carb/keto diet for a week beforehand to ease the fasting process.
-- **Carb Tapering:** Gradually reduce carbs over the week.
-- **Exercise:** Engage in low-intensity steady exercise, like walking, to reduce carbohydrate stores and preserve muscle.
+- **Carb Tapering:** Gradually reduce carbs over the week.![[Screenshot 2024-10-27 at 8.29.34 PM.png]]
+- **Exercise:** Engage in low-intensity steady exercise, like walking, to reduce carbohydrate stores and preserve muscle. Walking helps the fast, I fasted for 5 days and walked 7 hours, was the easiest fast.
+	- Plan lectures, audio books and and things to listen to during the walks
 
 **#2 Avoid Fasting Fatigue:**
-
 - **Sodium Loss:** Fasting leads to sodium loss, causing fatigue, nausea, low energy, and muscle weakness.
   - Avoid saunas and excessive water intake, which can flush out electrolytes.
   - Include sodium in your water to prevent fatigue.
