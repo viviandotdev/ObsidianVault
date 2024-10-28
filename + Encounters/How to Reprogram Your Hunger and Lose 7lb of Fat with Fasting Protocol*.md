@@ -72,3 +72,5 @@ Salt affects hunger
 	-thererfor if you want to gain more muslce reduce myostatin
 	- after a prolonged fast your body will reduce myostatin a period of time after refeeding
 - **Refeed Protocol:** Follow a feast and fast protocol for optimal results.
+
+[WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
