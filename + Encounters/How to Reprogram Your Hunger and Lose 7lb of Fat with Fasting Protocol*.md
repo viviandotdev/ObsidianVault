@@ -29,8 +29,12 @@
 - BDNF, insulin, ghrelin, growth hormone
 
 
-Fasting -> Fat Adaption ()-> Less Hunger
+Fasting -> Fat Adaption (PPAR(alpha))-> Less Hunger ([[PPAR-alpha]])
+Getting the body to use it own body tissue for energy (fat adapation)
+	when you do multiple fasts your bad gets fat adapted can you can 
 
+Fasting gets easier
+PPAR induces fat adaption 
 **Historical Insight:**
 
 - **Minnesota Starvation Experiment**
