@@ -56,6 +56,7 @@ The main way to make fasting easier is to speed up the process of getting into k
 	- Plan lectures, audio books and and things to listen to during the walks
 
 **#2 Avoid Fasting Fatigue:**
+Common fasting fatigue symptoms are similar to low sodium symptoms, so maybe these symptoms are from sodium loss not hunger. Do not drink to much water, but it will make you flush out more electrolytes which is not what you want.
 - **Sodium Loss:** Fasting leads to sodium loss, causing fatigue, nausea, low energy, and muscle weakness.
   - Avoid saunas and excessive water intake, which can flush out electrolytes.
   - Include sodium in your water to prevent fatigue.
@@ -63,7 +64,7 @@ The main way to make fasting easier is to speed up the process of getting into k
 - **Electrolyte Balance:** Ensure a balance of magnesium and potassium with sodium.
 - **Hot Salty Broth:** A miso soup or hot salty drink can help overcome fasting challenges.
 
-**Secret #4: Increase Energy and Build Lean Muscle**
+**Secret #3  Increase Energy and Build Lean Muscle**
 
 - **Breaking the Fast:** Avoid watery carbs like watermelon and congee.
 - **Refeed on Lean Protein:** Helps IGF-1 levels rise again.
