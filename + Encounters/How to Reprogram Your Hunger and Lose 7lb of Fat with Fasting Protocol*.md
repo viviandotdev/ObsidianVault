@@ -30,11 +30,16 @@
 
 
 Fasting -> Fat Adaption (PPAR(alpha))-> Less Hunger ([[PPAR-alpha]])
-Getting the body to use it own body tissue for energy (fat adapation)
+Getting the body to use it own body tissue (fat tissue) for energy (fat adapation)
 	when you do multiple fasts your bad gets fat adapted can you can 
 
 Fasting gets easier
-PPAR induces fat adaption 
+PPAR induces fat adaption leads to less hunger
+Fat adaption (more efficiet at burning fat)
+Area of fat around mid section, 26% reduction in mid area reduction, fasting gets easier and, the more often you fast the body learns how to turn fat into energy more efficently each time you do it, increase the amount of fat loss in each subsequent fast ![[Screenshot 2024-10-27 at 8.03.21 PM.png]]
+Prolonged vs intermittenet fasting 
+fat burning reaches a peak at day 5 
+
 **Historical Insight:**
 
 - **Minnesota Starvation Experiment**
