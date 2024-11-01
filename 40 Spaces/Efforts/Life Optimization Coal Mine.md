@@ -19,7 +19,7 @@ links:
 - [Animations.dev](https://animations.dev/)
 - [Center a Div - Josh W Comeau](https://www.joshwcomeau.com/css/center-a-div/)
 
-> People don't like to read, so I can just turn the books into a well-formatted book. People like visuals, present the information that is not just a string of text. People love comics and picture, present information with comics, why i want want to draw
+> People don't like to read, so I can just turn the books into a well-formatted book. People like visuals, present the information that is not just a string of text. People love comics and picture, present information with comics, why i want want to draw.
 
 
 ### Productivity Tools for Everyday Life (Life Optimization)

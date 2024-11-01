@@ -21,7 +21,6 @@
 > You’ll get closer to actionable takeaways by looking for broad patterns of success and failure. The more common the pattern, the more applicable it might be to your life. Trying to emulate Warren Buffett’s investment success is hard, because his results are so extreme that the role of luck in his lifetime performance is very likely high, and luck isn’t something you can reliably emulate
 
   
-
 ---
 
 > When things are going extremely well, realize it’s not as good as you think. You are not invincible, and if you acknowledge that luck brought you success then you have to believe in luck’s cousin, risk, which can turn your story around just as quickly.
@@ -34,7 +33,6 @@
 
 > make money they didn’t have and didn’t need, they risked what they did have and did need. And that’s foolish. It is just plain foolish. If you risk something that is important to you for something that is unimportant to you, it just does not make any sense.
 
->  
 
 > There is no reason to risk what you have and need for what you don’t have and don’t need.
 

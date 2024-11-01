@@ -65,6 +65,4 @@ For example half of warren buffet’s portfolio is just Apple. Just one company 
 In investing you don’t want the most efficient strategy instead you want the strategy that maximizes how well you sleep at night. Don’t trade a night’s sleep with some extra profits.
 Keep things simple, put all your net worth in a house, checking account and vanguard index funds.
 
-
-
 Good decisions are not always rational, sometimes you have to choose between being happy or being “right”.
