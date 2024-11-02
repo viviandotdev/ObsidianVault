@@ -29,11 +29,13 @@ Can be very extroverted,
 What you like
 Very likable person, she is very vulnerable and expresses her self very clearly
 Honest and says the truth,
-Can be a bit of a hater towards people she does not like.
-
 I admire her ability to make people feel comfortable around her. 
 
 What you don't like
+Can be a bit of a hater towards people she does not like.
+Can be a little mean some times,
+Chooses to see the flaws or the bad sides smiliar to Vicky, like i feel like they choose too find your faults instead of seeing the good parts about the person. for example i like to assume all people are good until their actions prove me otherwise.
+
 
 
 
