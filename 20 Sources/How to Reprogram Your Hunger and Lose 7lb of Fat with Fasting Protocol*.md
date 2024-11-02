@@ -1,6 +1,12 @@
-**How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol**
-
 ---
+created: 2024-10-27 19:37 
+modified: Friday 1st November 2024 21:07:18
+alias: 
+---
+up::  
+type:: #note/atomic🌳 
+links:: 
+## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol*
 
 **Transform Body Composition and Increase Lifespan with Fasting**
 
@@ -65,7 +71,6 @@ Common fasting fatigue symptoms are similar to low sodium symptoms, so maybe the
 - **Hot Salty Broth:** A miso soup or hot salty drink can help overcome fasting challenges.
 Salt affects hunger
 **Secret #3  Increase Energy and Build Lean Muscle**
-
 - **Breaking the Fast:** Avoid watery carbs like watermelon and congee.
 - **Refeed on Lean Protein:** Helps **IGF-1** levels rise again.
 - - Myostatin -> protein that limits muscle growth in humans and other animals
