@@ -24,7 +24,7 @@ Socially I am also very sensitive, a lot of people seem to stress me out, I reme
 
 
 
-Why don't I feel lonely?
+**Why don't I feel lonely?**
 I have felt lonely when I am alone, I think I have felt more lonely around other people that I have when I am alone. 
 The most lonely period of my life was high school, 
 I never get bored, I because I have some many questions, I have so many books I want to read and things I want to build and learn, I actually get confused when people say they are bored. 
@@ -33,7 +33,7 @@ The immense computational power and energy required to develop semi-intelligent 
 
 **Questions**
 
-My solution to find the almost perfect partner. 
+**My solution to find the almost perfect partner.** 
 One problem I had was I know that I am not ready now but how will I know when I will be ready. I think I will be ready when I have fully figured out my self and who I want to be, what my values are and what i like and what I dislike and stuff like. 
 I will basically create a document about me, and once that is done, I think i would be ready, that means I have thought and written down about all of those things and know a lot about my self..
 
@@ -43,7 +43,7 @@ Of course that is the case we are animals and in our brains we are programmed to
 There is not finding the right person, you just have to become the right person and right person will show up at some point/
 
 
-Why i quit social media
+**Why i quit social media**
 I don't feel FOMO because I know that I wouldn't want to be there and in that situation, if you show me some one having fun at party i don't feel FOMO because i know i wouldn't have fun at the party
 All social media does is to tell you what to like, what to think, how to feel, but I don't want some algorithm to tell me these things, I want to naturally figure out my self, I want to know naturally what I will become interested in. I will search for what interets me
 
@@ -55,14 +55,13 @@ It’s actually annoying how bad my focus is a I really need to fix it, it’s a
 
 Everything meaningless, but that doesn't mean it isn't worth it
 
-**Money**
+**how do you value money?**
 I want to spend as little time thinking about money as possible
 
 I want to build apps not because I want to make a lot of money it is because I like it and because what is the alternative. I am really lucky that I was so able to so quickly find something that I am pretty good at and enjoy doing more that most people so why not spend more time doing it. What is the alternative any way. spending all my time sitting around watching TV? I know that won't make me happy.
 The goal is just to continue to build apps that I think are cool and other people will use. I am human and there probably thousands of people that are just like me. 
 Salaries and money are byproducts of ambition not because they were your primary desire.
 If your primary desire is to make as much money as possible
-
 
 
 it is not that i don't care it is because i don't want to fight, i know how to are going to be like and i am the one who is going to end up getting the most hurt anyways so i just give up and let you win.
@@ -129,60 +128,6 @@ emotionally immature parents view children as a source of their self esteem
 my parents
 
 
-in consisteny
-**Do you even like hanging out with me or just find me annoying most of the time?**
-
-I felt liked I did something to annoy you during mikado,
-
-I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
-
-Was it because I was late?
-
-Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
-
-And then you whispered to Sandy about something 
-
-Did I do something to annoy you during mikado, tuesday
-
-I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i would just shut the fuck up and pretend like i'm invisible so i don't annoy you/
-the difference is that you make more happy than anxious so i will hang out with you because there is a higher probability that I will have fun but there is still that 
-
-but also i'm sure you also don't like feeling annoyed at me either but i'm just being me so like should i just not be myself. or what is want is for me to be who you want me to be? or do what you want me to do for you?
-
-for example there is this instance were we 
-
-i hate it when people assume my intentions, but also i think people assume my intentions is because i don't communicate clearly, but also i feel like people just assume the worst in me
-
-
-for example, when my sister asked me for money, i jokingly said year for 5% interest or whatever
-like before i even get the chance to explain myself. she assumed the worst of me, like she literally said i am a bad person like, she made me feel so guilty for making a joke,
-like for example sometimes my brother does not clean the dishes because he forgets and my dad comes home and cleans it, my sister likes to think i he intentionally leaves the dishes out and waits for my dad to come home so he doesn't have to clean it, whereas i like to first give him the benefit of the doubt 
-
-
-another time with you
-
-i think this is a difference in values and in the way I see people. personally there is not reason for me to see other people as bad if they have 
-
-my mom is definitly the type of person who sees the worst in people 
-i think I would just be a happier person if i choose to see the best in people and then change if i see a reason to
-
-like for example 
-
-i'm sure its a defensive mechanism, maybe you have had someone wrong you or you gave people the benefit of the doubt too person and all they did was prove you **Do you even like hanging out with me or just find me annoying most of the time?**
-
-
-I felt liked I did something to annoy you during mikado,
-
-I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
-
-Was it because I was late?
-
-Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
-
-And then you whispered to Sandy about something 
-
-#  <details markdown='1'><summary>Toggle</summary> This is the content inside the toggle. </details>
-
 
 Did I do something to annoy you during mikado, tuesday
 
@@ -195,3 +140,11 @@ but i often got yelled about for being too loud or expressive.
 when i cried, i got yelled it to stop crying, basically stop expressing my self  
 i remeber i used to watch tv, like disney channel shows and i would literally be cackling and my mom would get mad at me and yell about me for laughing too loud.  
 i would also cry when my mom told me to wear a dress, we litterally get into so many arguments where she would force me to wear things that make me uncomfortable, i could not express my self the way i wanted to, i could only express myself in the way that fit the way my mom wants me to represent her.
+
+
+<details>  
+<summary></summary>  
+  
+
+  
+</details>
