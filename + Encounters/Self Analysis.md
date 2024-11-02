@@ -181,8 +181,17 @@ Or when I asked about the happy hour thing? I was just genuinely curious if we c
 
 And then you whispered to Sandy about something 
 
-  
+#  <details markdown='1'><summary>Toggle</summary> This is the content inside the toggle. </details>
+
 
 Did I do something to annoy you during mikado, tuesday
 
 Bro i think you need to chill, everything is fine no need to hold it iside forgert and move on,
+
+
+Which attachment style are you?
+i relate to this growing up, i think as a kid I was actually very expressive i have the memory of dancing in my room, i remember i would also laugh a lot and get really excited about things   
+but i often got yelled about for being too loud or expressive.  
+when i cried, i got yelled it to stop crying, basically stop expressing my self  
+i remeber i used to watch tv, like disney channel shows and i would literally be cackling and my mom would get mad at me and yell about me for laughing too loud.  
+i would also cry when my mom told me to wear a dress, we litterally get into so many arguments where she would force me to wear things that make me uncomfortable, i could not express my self the way i wanted to, i could only express myself in the way that fit the way my mom wants me to represent her.
