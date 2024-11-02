@@ -69,14 +69,16 @@ links:
 ## What I can teach
 
 1. How to learn to code
-2. How to learn a language
+2. How to form relationships
+	1. what are the 4 attachment styles?
+3. How to learn a language
     1. sentence mining
     2. Comprehensible input
     3. Tools to learn a language
         1. Netflix, Anki, language reactor,
     4. The BEST learning protocol
     5. How to the brain actually learns a language?
-3. How to become rich the boring way
+4. How to become rich the boring way
     - The basics of finance
     - The Psychology of money
     - Exponential returns
@@ -84,7 +86,7 @@ links:
     - What is the roth IR
         - what is the backdoor roth ira
         - what is the mega back door roth ira
-4. How to anything learn efficiently. (better learning)
+5. How to anything learn efficiently. (better learning)
 	- [Recommended Reading by Benjamin Keep](https://www.benjaminkeep.com/recommended-reading/)
 	- [Charleston Law Library Guide](https://charlestonlaw.libguides.com/c.php?g=1195577&p=8743770)
 **Books/Resources**
