@@ -6,8 +6,6 @@
 How to not be socially awkward
 
   
-
-
 1. Active listening
 1. Be genuinely curious about what they are talking about
 2. When people say something they often leave out a lot of context, so just ask more questions
@@ -34,6 +32,14 @@ How to not be socially awkward
 	3. do your parents live there?
 	4. do you like living there?
 
+4. i went to europe
+	1. what did you do there?
+	2. who did you go with?
+	3. how did you meet them?
+	4. from a climbing gym?
+	5. how much was your ticket?
+	6. how long was your stay?
+	
 Make people feel better
 Goals
 Heart of gold
