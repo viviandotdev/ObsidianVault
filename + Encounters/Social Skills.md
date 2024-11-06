@@ -45,7 +45,9 @@ tags:: #social-skills
 	5. how much was your ticket?
 	6. how long was your stay?
 
-If you a
+If you are genuinely curious about something and want to learn more about it there is no such thing as a stupid question. 
+
+
 Make people feel better
 Goals
 Heart of gold
