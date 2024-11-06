@@ -13,6 +13,7 @@ tags:: #relationships #friends
 2. Before making a **telephone** call, do you ever rehearse what you are going to say? Why?
 	1. So I think I used to think all about what I was going to say because I really cared about what other people thought of me, or I just wanted to appear normal, especially when I was interviewing for jobs I had a whole list of questions and answers that I went through to make sure I knew exactly what I was going to saw and have response for every scenario. Now i think I am more likely to just say w
 3. What would constitute a “**perfect**” day for you?
+	1. A perfect day would be waking up early around 7 am and then doing some yoga in the morning after yoga i would like to 
 4. When did you last **sing** to yourself? To someone else?
 	1. I sing to myself in the car some times. I am afraid to sing in front of other people. I think it is a form expression that I am not comfortable with.
 5. If you were able to live to the age of 90 and retain either the **mind or body** of a 30-year-old for the last 60 years of your life, which would you want?
