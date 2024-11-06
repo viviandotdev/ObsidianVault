@@ -3,13 +3,16 @@ created: 2023-11-03 17:35
 modified: Friday 3rd November 2023 17:38:35
 alias:
 ---
-up::
+up:: [[Barking up the Wrong Tree by Eric Barker]]
 tags:: #relationships #friends
 
 ## Intimacy Questions
 
 1. Would you like to be **famous**? In what way?
+	1. No I would not like to be famous, I don't want to be famous, famous people lack privacy and are constantly being judged by people they don't know. I think it would be exhausting to be famous. I would prefer to live a normal life. I want to be able to do all the boring things without people following me. I also don't like attention so I don't think I would be happier if I was famous.
 2. Before making a **telephone** call, do you ever rehearse what you are going to say? Why?
+	1. So I think I used to think all about what I was going to say because I really cared about what other people thought of me, or I just wanted to appear normal, especially when I was interviewing for jobs I had a whole list of questions and answers that I went through to make sure I knew exactly what I was going to saw and have response for every scenario. Now i think I am more likely to just say whatever comes to mind.
+	2. 
 3. What would constitute a “**perfect**” day for you?
 4. When did you last **sing** to yourself? To someone else?
 5. If you were able to live to the age of 90 and retain either the **mind or body** of a 30-year-old for the last 60 years of your life, which would you want?
@@ -35,9 +38,9 @@ tags:: #relationships #friends
 25. Share with your partner an **embarrassing** moment in your life.
 26. When did you last **cry** in front of another person? By yourself?
 27. Tell your partner something that you like about them [already].
-29. If you were to die this evening with no opportunity to communicate with anyone, what would you most **regret** not having told someone? Why haven’t you told them yet?
-30. Your house, containing **everything** you own, **catches fire**. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
-31. Of all the people in your family, whose **death** would you find most **disturbing**? Why?
+28. If you were to die this evening with no opportunity to communicate with anyone, what would you most **regret** not having told someone? Why haven’t you told them yet?
+29. Your house, containing **everything** you own, **catches fire**. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
+30. Of all the people in your family, whose **death** would you find most **disturbing**? Why?
 
 
 
