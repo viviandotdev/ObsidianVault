@@ -32,10 +32,12 @@ tags:: #relationships #friends
 16. What is your most **terrible** memory?
 17. If you knew that in one year you would **die suddenly**, would you change anything about the way you are now living? Why?
 18. What does **friendship** mean to you?
+	1. Friendship is like another me, I think friendships are one the most important aspects on my life. Friends account for a large percentage of my happiness. Studies have shown that friendships are much more correlated with happiness than a romantic partner. 
 19. What roles do **love and affection** play in your life?
 20. Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.
 21. How close and warm is your **family**?
 22. Do you feel your **childhood** was happier than most other people’s?
+	1. I actually enjoyed my childhood, I played outside often, I remember from elementary school every night we would hang out in the neighborhood and just play games like tag and run around. It was actually really fun, after playing mom would call us home for dinner. It was really fun being able to ask people to hang outside. During middle school everyone went to different schools. But I made new friends, and that was really fun, I liked going to school because I just got to basically hang out with my friends. I think high school was the hardest years, I was the loneliest in the high school. I made a decision not to make any friends and just was not happy. I went through the days and tried my best to pursue my interests. In college I found frie
 23. How do you feel about your relationship with your **mother**?
 24. If you were going to become a close friend with your partner, please share what would be important for them to know.
 25. Share with your partner an **embarrassing** moment in your life.
