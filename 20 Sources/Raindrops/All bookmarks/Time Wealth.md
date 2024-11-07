@@ -16,7 +16,7 @@ Medium:: #source/article
 
 ### Time Wealth
 
-Why having more free time can be better than becoming rich.
+Why having more free time can be better than becoming rich.   
 
 #### Highlights
 
