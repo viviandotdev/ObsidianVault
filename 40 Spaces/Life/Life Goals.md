@@ -1,9 +1,11 @@
 
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
-
 ### Active Items
-[[Life Goals^]]
-- 
+[[Life Goals#^736174|Rock climbing]] #
+[[Life Goals#^b96138|Become fluent in chinese]]
+[[Life Goals#^a95a9f|Learn to draw]]
+
+healthy, one that earns you money and one to be creative 
 ### Life Goals
 - [x] Graduate form college
 	- Final GPA: 3.5
@@ -22,25 +24,28 @@ Financial Goals
 
 ### Professional Goals
 - [x] Design, build and publish your own personal website
+- [ ] Create app UI animations for users to easily copy code and make the internet a prettier place
+	- Create 100 components
+- [ ] Create a template and charge people for it
 - [ ] Publish an app on the app store
 - [ ] Generate $1000 a month online with an app or service 
 
 ### Creative goals
-- [ ] Learn to draw to the point where i can create art like 
+- [ ] Learn to draw to the point where i can create art like  ^a95a9f
 - [ ] Learn 3d modeling in blender so I can create stuff like this
 - [ ] Learn to play the piano and play on these songs in this playlist
 	- [ ] Learn to compose your own songs
 
 ### Skill Goals
-- [ ] Become fluent in chinese (in progress)
+- [ ] Become fluent in chinese (in progress) ^b96138
 - [ ] Become fluent in french
 - [ ] Become fluent in japanese
 - [ ] Learn to snowboard
 - [ ] Learn to skateboard
-*Learn Rock climbing* 
+- [ ] Learn Rock climbing ^736174
 	- [x] v1 - v2(July 2024)
 	- [x] v3- v4 (August - November)
-	- [ ] v4-v5 (November - )
+	- [ ] v4-v5 (November - ) ^bbd3cb
 ### Fitness/Health Goals
 - [x] Pull up
 	- [ ] 10 pull ups
