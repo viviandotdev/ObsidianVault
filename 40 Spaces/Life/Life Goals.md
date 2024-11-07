@@ -1,11 +1,12 @@
 
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
-[[Life Goals#^736174|Rock climbing]] #
-[[Life Goals#^b96138|Become fluent in chinese]]
-[[Life Goals#^a95a9f|Learn to draw]]
 
-healthy, one that earns you money and one to be creative 
+[[Life Goals#^736174|Rock climbing]] #health 
+[[Life Goals#^b96138|Become fluent in chinese]] 
+[[Life Goals#^a95a9f|Learn to draw]] #creativity 
+
+
 ### Life Goals
 - [x] Graduate form college
 	- Final GPA: 3.5
