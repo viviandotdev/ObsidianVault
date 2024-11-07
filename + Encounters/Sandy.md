@@ -3,16 +3,19 @@ type:: #person #friend
 links::
 ## Sandy
 
-Birthday - 03/15/2001
-Sign- Aries
-MBTI-
-Known From- College roo
+Birthday - 04/25/2001
+Sign- 
+MBTI- 
+Known From- College roommates
 
-Minecraft
 
-very anxious
-made me feel suffocated when i was roommates with her. 
-every move i made i felt like i had to tell her, i felt like i was in a prison
+Sandy taught me a lot, always asked me to hang out and do stuff with her.
+Type A likes to plan things and go do activities
+Likes weight lifting
+Watches Anime (BL?)
+Watches sarah pan
+Not emotional, does not cry
+Older sister, 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview

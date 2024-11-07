@@ -6,9 +6,10 @@ links::
 Birthday - 03/15/2001
 Sign- Aries
 MBTI-
+Known From- College roommates
 
 Minecraft
-
+always has food though, 
 very anxious
 made me feel suffocated when i was roommates with her. 
 every move i made i felt like i had to tell her, i felt like i was in a prison
