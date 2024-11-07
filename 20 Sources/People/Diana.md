@@ -19,10 +19,15 @@ Her dad cheated on her mom, she found i think an umbrella in her car that was no
 
 Has parents who were very possessive, they still give her a curfew so she has to be home by a certain time.
 
-After school, after a long day she would be forced to go home and do the dishes.
+After school, after a long day she would be forced to go home and do the dishes. This is probably why she 
 
 Relationship with her brother is not great.
-Her brother has anger issues and would lash out in 
+Her brother has anger issues and would lash out in class.
+
+I think probably has the worst family problems.
+She is also from FuZhou
+
+
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
