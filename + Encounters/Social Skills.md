@@ -12,8 +12,8 @@ tags:: #social-skills
 
   
 1. Active listening
-1. Be genuinely curious about what they are talking about
-2. When people say something they often leave out a lot of context, so just ask more questions
+2. Be genuinely curious about what they are talking about
+3. When people say something they often leave out a lot of context, so just ask more questions
 
 1. I cut my hand on Sunday while working on a car.
 	1. What kind of car?
