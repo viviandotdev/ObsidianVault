@@ -4,7 +4,6 @@ raindrop_highlights:
   672902252ea67fe0ed91b09d: 98746eca14b86e5602838aae9a04050b
   67290b8276c7ae023cf44d69: d0a6b2a1f79f22edb9703bfc03909f51
   67290be677bf83f98059736b: 8f2a12dda8222d070ac5086332839262
-
 ---
 
 Source URL:: https://darioamodei.com/machines-of-loving-grace

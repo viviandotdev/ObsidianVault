@@ -2,7 +2,6 @@
 raindrop_id: 877783402
 raindrop_highlights:
   670fad57c68fb60faba67cf1: 02134253beb7d6e3ee256b3e0e473285
-
 ---
 
 Source URL:: https://www.instagram.com/blansable/
