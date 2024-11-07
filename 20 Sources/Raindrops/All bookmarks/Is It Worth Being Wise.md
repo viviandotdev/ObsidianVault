@@ -2,7 +2,6 @@
 raindrop_id: 798820758
 raindrop_highlights:
   6689702488b68020d89f93ed: 5b7ec8247594217a1371051ca1887f7e
-
 ---
 
 Source URL:: https://paulgraham.com/wisdom.html

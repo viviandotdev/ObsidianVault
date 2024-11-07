@@ -2,7 +2,6 @@
 raindrop_id: 870773086
 raindrop_highlights:
   6706eb4a1bf4b763eec6b1d0: 6058f3c3e6b8b7b1558d50ae974fcfc6
-
 ---
 
 Source URL:: https://shop.momofuku.com/products/hot-honey-chili-crunch?srsltid=AfmBOophT2oraQpLVtA977HIHlPUTCtAS0tYswNMVk9T8SPNfMmi3l3C

@@ -3,7 +3,6 @@ raindrop_id: 777297582
 raindrop_highlights:
   66827d81fff8bb9c87fb7f66: 8e59367a23a5b145cf4ecae5ac4b817c
   66827fd1d2783baaba15db3c: d05e38d6ecff07a5a322cd13882c88fb
-
 ---
 
 Source URL:: https://moretothat.com/the-many-worlds-of-enough/

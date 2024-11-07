@@ -2,7 +2,6 @@
 raindrop_id: 855838781
 raindrop_highlights:
   66e8cbfc655512977c33b737: 8758c9ca9de01e650a319f410cab53c4
-
 ---
 
 Source URL:: https://www.youtube.com/watch?v=bj9s4dMzrlA&amp;list=WL

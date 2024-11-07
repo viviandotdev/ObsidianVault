@@ -3,7 +3,7 @@ type:: #person #friend
 links::
 ## Diana
 
-Birthday - 03/20/2001
+Birthday - 03/15/2001
 Sign- Aries
 MBTI-
 
