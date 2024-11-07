@@ -6,7 +6,7 @@ links::
 Birthday - 03/15/2001
 Sign- Aries
 MBTI-
-Known From- C
+Known From- College roo
 
 Minecraft
 
