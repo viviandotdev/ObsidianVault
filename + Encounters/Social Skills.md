@@ -10,7 +10,6 @@ tags:: #social-skills
 
 [https://www.youtube.com/@brinyheart.](https://www.youtube.com/@brinyheart.)
 
-  
 1. Active listening
 2. Be genuinely curious about what they are talking about
 3. When people say something they often leave out a lot of context, so just ask more questions
