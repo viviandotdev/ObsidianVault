@@ -27,7 +27,9 @@ Financial Goals
 - [x] Design, build and publish your own personal website
 - [ ] Create app UI animations for users to easily copy code and make the internet a prettier place 
 	- Create 100 components, basically like cooking but for the web, this is not saturated, i know a lot of these are popping up but if you are good there will always be people who will want to buy your stuff.
-	- for example doobydobap is a food influencer which is always so saturated but she was still able to q
+	- for example doobydobap is a food influencer which is always so saturated but she was still able to quickly find an audience, 
+	- i will try working on this and only this for one year and see what happens,
+	- after this and i have created a good list of components use these components to create an app
 - [ ] Create a template and charge people for it
 - [ ] Publish an app on the app store
 - [ ] Generate $1000 a month online with an app or service 
