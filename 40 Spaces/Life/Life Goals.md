@@ -1,4 +1,9 @@
 
+[My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
+
+### Active Items
+[[Life Goals^]]
+- 
 ### Life Goals
 - [x] Graduate form college
 	- Final GPA: 3.5
@@ -32,7 +37,7 @@ Financial Goals
 - [ ] Become fluent in japanese
 - [ ] Learn to snowboard
 - [ ] Learn to skateboard
-- [ ] Learn Rock climbing
+*Learn Rock climbing* 
 	- [x] v1 - v2(July 2024)
 	- [x] v3- v4 (August - November)
 	- [ ] v4-v5 (November - )
@@ -58,7 +63,8 @@ Financial Goals
 
 
 ### Travel Goals
-- [ ] Visit japan
+- [ ] Visit every continent
+- [ ] Visit japan 
 - [ ] Visit switzerland to see the mountains
 - [ ] Visit Iceland and see the northern lights
 - [ ] Visit China to see family
