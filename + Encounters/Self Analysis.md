@@ -129,7 +129,7 @@ my parents
 
 
 
-Did I do something to annoy you during mikado, tuesday
+Did I do something to annoy you during mikado, Tuesday
 
 Bro i think you need to chill, everything is fine no need to hold it iside forgert and move on,
 
