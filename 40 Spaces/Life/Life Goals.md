@@ -25,8 +25,9 @@ Financial Goals
 
 ### Professional Goals
 - [x] Design, build and publish your own personal website
-- [ ] Create app UI animations for users to easily copy code and make the internet a prettier place
-	- Create 100 components
+- [ ] Create app UI animations for users to easily copy code and make the internet a prettier place 
+	- Create 100 components, basically like cooking but for the web, this is not saturated, i know a lot of these are popping up but if you are good there will always be people who will want to buy your stuff.
+	- for example doobydobap is a food influencer which is always so saturated but she was still able to q
 - [ ] Create a template and charge people for it
 - [ ] Publish an app on the app store
 - [ ] Generate $1000 a month online with an app or service 
@@ -40,7 +41,10 @@ Financial Goals
 ### Skill Goals
 - [ ] Become fluent in chinese (in progress) ^b96138
 - [ ] Become fluent in french
-- [ ] Become fluent in japanese
+- [ ] Become fluent in Japanese
+- [ ] Learn to cook recipes like dobbydobap
+	-[Doobydobap](https://doobydobap.com/)
+	
 - [ ] Learn to snowboard
 - [ ] Learn to skateboard
 - [ ] Learn Rock climbing ^736174
