@@ -7,23 +7,13 @@ up::
 type:: #note/atomic🌳 
 links::
 ## Dopamine List
-
-
-
   
-
 Minecraft 
-
 Rock climbing 
-
 Reading
-
 Coding
-
 Piano
-
 Sleeping
-
 Watching a movie
 
 
