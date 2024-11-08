@@ -133,3 +133,41 @@ One of the best ways to test other people's temper is to test their patience ove
   
 
 **Building mental toughness is important**
+
+
+Scott galloway
+[How the US Is Destroying Young People’s Future | Scott Galloway | TED - YouTube](https://www.youtube.com/watch?v=qEJ4hkpQW8E)
+**Do we love our children**
+
+  
+
+In the past few year inflation is growing much faster than wages
+
+And the social contrat is decreasing, the percentage to 30 year olds earning more than their parents is falling
+
+The youth are making less money doing the same work
+
+  
+
+Young people are angry we don’t get the same prosperity as their elders
+
+Home prices are up and out of reach
+
+  
+
+Wealth is transferred to the elderly
+
+
+Higher ed should be about taking unremarkable kids and giving them a chance
+Artificially constrain supply 
+
+College is a hedge fund offering classes
+Affirmative action should be based on income not the color of your skin.
+  
+
+Capital is growing 
+Wages vs wealth, wages have barely moved compared to the S&p500
+The higher ed should give the opportunity for the unremarkable 
+
+Social security, is the great transfer from young to old,
+Old people vote are in charge, the old people in charge will not understand the challenges of the youth.

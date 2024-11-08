@@ -5,6 +5,9 @@ raindrop_highlights:
   67290e09338e3f17f40d814c: 4d44bbb0018e888560367fdc7a2e4e1c
   67290feeee756dce39ca595e: bde118894fe589a5edf402114ee1ee89
   67290ff7013e68b907446dcf: 37c83cdaebf364d97db8df118609da6a
+  672e558b5bd86a5388bb91a4: 98746eca14b86e5602838aae9a04050b
+  672e55986d6d02ff93a77fd1: 884f425d57124deb945685442e2d08d4
+  672e55a371f478f55b81e438: 2f95a984ef698a3eb7c67abef9bb6f2e
 ---
 
 Source URL:: https://darioamodei.com/machines-of-loving-grace#1-biology-and-health
@@ -33,3 +36,15 @@ How AI Could Transform the World for the Better
 > [!quote]+ Updated on Mon Nov 04 2024 13:18:31 GMT-0500
 >
 > Biological freedom. The last 70 years featured advances in birth control, fertility, management of weight, and much more. But I suspect AI-accelerated biology will greatly expand what is possible: weight, physical appearance, reproduction, and other biological processes will be fully under people’s control. We’ll refer to these under the heading of biological freedom: the idea that everyone should be empowered to choose what they want to become and live their lives in the way that most appeals to them
+
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
+>
+> I think that most people are underestimating just how radical the upside of AI could be, just as I think most people are underestimating how bad the risks could be.
+
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
+>
+> If our core hypothesis about AI progress is correct, then the right way to think of AI is not as a method of data analysis, but as a virtual biologist who performs all the tasks biologists do, including designing and running experiments in the real world (by controlling lab robots or simply telling humans which experiments to run – as a Principal Investigator would to their graduate students), inventing new biological methods or measurement techniques, and so on. It is by speeding up the whole research process that AI can truly accelerate biology. I want to repeat this because it’s the most common misconception that comes up when I talk about AI’s ability to transform biology: I am not talking about AI as merely a tool to analyze data. In line with the definition of powerful AI at the beginning of this essay, I’m talking about using AI to perform, direct, and improve upon nearly everything biologists do.
+
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
+>
+> I think their rate of discovery could be increased by 10x or more if there were a lot more talented, creative researchers. Or, put another way, I think the returns to intelligence are high for these discoveries, and that everything else in biology and medicine mostly follows from them.
