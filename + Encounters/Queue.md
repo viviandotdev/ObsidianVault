@@ -126,3 +126,10 @@ Philosophy means the love of wisdom, philosophy was created from anxious who lov
 
 One of the best ways to test other people's temper is to test their patience over small things. If they get upset over the littlest things then that is gives you a clue into the way they will react over larger issues. 
 
+
+
+ **Financial stability is mental stability**
+
+  
+
+**Building mental toughness is important**

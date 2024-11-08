@@ -3,6 +3,7 @@
 ### Active Items
 
 - [[Life Goals#^736174|Rock climbing]] #health 
+- Do a l
 - [[Life Goals#^b96138|Become fluent in chinese]] #language
 - [[Life Goals#^a95a9f|Learn to draw]] #creativity 
 - [[Life Goals#^f96007|Create UI animations app]]
