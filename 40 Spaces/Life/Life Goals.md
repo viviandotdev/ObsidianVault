@@ -82,5 +82,5 @@ Financial Goals
 - [ ] Visit Iceland and see the northern lights
 - [ ] Visit China to see family
 - [ ] Visit europe because everyone goes there
-- [ ]  Visit Barcelona Spain
+- [ ]  Visit Barcelona in Spain
 - [ ] Paris France
