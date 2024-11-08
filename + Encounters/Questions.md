@@ -8,6 +8,10 @@
 		flight
 		hotels and what activities and how to book them
 
+
+Philosophy (how do live a good life?)
+[[What are aritstole's views on friendship]]
+
 Social Skills
 [[How to be more social?]]
 
