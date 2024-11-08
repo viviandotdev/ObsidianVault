@@ -1,8 +1,7 @@
 
 
 
-
-Create a directional document, of a few things and goals can focus on,
+#action Create a directional document, of a few things and goals can focus on,
 You need to pick something on the horizon and go towards it or else you will just walk in circles
 There is this study were they put people in a forest with any direction and told then to walk in a straight line and they literally ended up walking in circles. 
 It is not the goal, just pick a direction of where you want to go, or else you will go in circles for years and move towards to figuring things out
@@ -42,7 +41,7 @@ we only get such a short time so i want to use it
 
 **Opportunity is everywhere, there are millions of ways to make money but they require time and skills, if you develop your skills overtime you will gain wealth, if you focus on the right things you will become healthy, I think we are much closer to the smartest people in the world than we think, if we focused on the same things they did and learned from the same people could we be just like them?**
 
-spiral dynamics
+Spiral dynamics
 
 Same thing how religions or god is not reality it just our way of thinking about reality
 
