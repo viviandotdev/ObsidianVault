@@ -2,9 +2,10 @@
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
 
-[[Life Goals#^736174|Rock climbing]] #health 
-[[Life Goals#^b96138|Become fluent in chinese]] 
-[[Life Goals#^a95a9f|Learn to draw]] #creativity 
+- [[Life Goals#^736174|Rock climbing]] #health 
+- [[Life Goals#^b96138|Become fluent in chinese]] #language
+- [[Life Goals#^a95a9f|Learn to draw]] #creativity 
+- [[Life Goals#^f96007|Create UI animations app]]
 
 
 ### Life Goals
@@ -25,7 +26,7 @@ Financial Goals
 
 ### Professional Goals
 - [x] Design, build and publish your own personal website
-- [ ] Create app UI animations for users to easily copy code and make the internet a prettier place 
+- [ ] Create app UI animations for users to easily copy code and make the internet a prettier place  ^f96007
 	- Create 100 components, basically like cooking but for the web, this is not saturated, i know a lot of these are popping up but if you are good there will always be people who will want to buy your stuff.
 	- for example doobydobap is a food influencer which is always so saturated but she was still able to quickly find an audience, 
 	- i will try working on this and only this for one year and see what happens,

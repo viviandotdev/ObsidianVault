@@ -142,9 +142,5 @@ i remeber i used to watch tv, like disney channel shows and i would literally be
 i would also cry when my mom told me to wear a dress, we litterally get into so many arguments where she would force me to wear things that make me uncomfortable, i could not express my self the way i wanted to, i could only express myself in the way that fit the way my mom wants me to represent her.
 
 
-<details>  
-<summary></summary>  
-  
 
-  
-</details>
+I’ve always been the one who has been hurt my other people’s anger, I know how much pain and how much sucks to receive someone else’s anger so I know that I would never want to make someone feel that way which is why I don’t get angry
