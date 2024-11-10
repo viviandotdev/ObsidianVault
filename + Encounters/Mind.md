@@ -20,6 +20,7 @@
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]  
 - [[if you want it done, then go. If not, then send which is saying, if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combinations of strengths]]
+
 #happiness 
 - [[The key to happiness is optimizing health, time and money]] + relationships
 
@@ -59,7 +60,7 @@ you need to get a job and work there for the rest of your life
 don't confuse gratitude with contentment, gratitude is appreciating what I have and what I will receive, where as contentment is the satisfactions with one's current circumstance. However I think I used contentment as an excuse to be lazy and not want to pursue more.
 Contentment as an Excuse:
 1. Used to avoid challenges or personal growth
-2. Becomes a justification for not setting or pursuing goals3.May mask fear of failure or change4.Can lead to stagnation and missed opportunities
+2. Becomes a justification for not setting or pursuing goals3.May mask fear of failure or change .Can lead to stagnation and missed opportunities
 
 **values**
 - if you tell someone to do something and they do it wrong or badly do you think it's your fault or their fault?
