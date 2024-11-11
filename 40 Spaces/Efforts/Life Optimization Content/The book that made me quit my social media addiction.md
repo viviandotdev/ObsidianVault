@@ -7,11 +7,8 @@ Status: idea
 tags: "#focus"
 ---
 channel #channel/systems-for-life
-## The books that made me quit my social media addiction
+## The book that made me quit my social media addiction
 
-[[In 1984, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure.]]
-
-[[Amusing Ourselves to Death by Neil Postman]]
 
 **Linked References to this Note**
 These notes point directly to this note. But this note doesn't point back.

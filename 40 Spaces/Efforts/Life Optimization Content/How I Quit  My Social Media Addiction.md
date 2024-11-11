@@ -25,6 +25,11 @@ tags:: #focus #productivity
         The Social Dilema
 
 
+[[In 1984, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure.]]
+
+[[Amusing Ourselves to Death by Neil Postman]]
+
+
 **Linked References to this Note**
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
