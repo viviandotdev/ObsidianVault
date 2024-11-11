@@ -7,7 +7,7 @@ raindrop_highlights:
 ---
 
 Source URL:: https://darioamodei.com/machines-of-loving-grace
-Status:: #🟥
+Status:: #🟨
 Medium:: #source/article
 
 
@@ -15,6 +15,9 @@ Medium:: #source/article
 
 How AI Could Transform the World for the Better
 
+
+AI has the potential to transform the world in ways that most people don't even think off.
+The main way AI is able to do this is through speeding up development processes 
 #### Highlights
 
 > [!quote]+ Updated on Mon Nov 04 2024 13:01:10 GMT-0500

@@ -9,13 +9,14 @@ raindrop_highlights:
 ---
 
 Source URL:: https://www.coryzue.com/writing/time-wealth/
-Status:: #🟥
+Status:: #🟩 
 Medium:: #source/article
 
 
 ### Time Wealth
 
 Why having more free time can be better than becoming rich.   
+Time wealth is more important than money, 
 
 #### Highlights
 
