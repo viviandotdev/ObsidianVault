@@ -1,7 +1,8 @@
 ---
-created: 2024-11-11 10:43 
+created: 2024-11-11 10:43
 modified: Monday 11th November 2024 10:43:36
 alias: 
+Status: in-progress
 ---
 up::  
 type:: #output/atomic-essay 

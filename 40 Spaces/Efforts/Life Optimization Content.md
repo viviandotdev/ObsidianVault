@@ -74,6 +74,7 @@ columns:
       - { label: "idea", value: "idea", color: "hsl(214,72%,64%)"}
       - { label: "completed", value: "completed", color: "hsl(152, 95%, 90%)"}
       - { label: "hold", value: "hold", color: "hsl(273, 95%, 90%)"}
+      - { label: "in-progress", value: "in-progress", color: "hsl(305, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -178,7 +179,7 @@ filters:
   enabled: true
   conditions:
       - condition: AND
-        disabled: false
+        disabled: true
         label: "ideas"
         color: "hsl(184, 95%, 90%)"
         filters:
