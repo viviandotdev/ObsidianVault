@@ -6,7 +6,7 @@ raindrop_highlights:
 ---
 
 Source URL:: https://www.notboring.co/p/capitalism-onchained?utm_source=post-email-title&amp;publication_id=10025&amp;post_id=136958177&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;utm_medium=email
-Status:: #🟥
+Status:: #🟩 
 Medium:: #source/article
 
 
