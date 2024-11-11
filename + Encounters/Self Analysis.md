@@ -151,3 +151,6 @@ I’ve always been the one who has been hurt my other people’s anger, I know h
   
 
 I’ve always been the one who has been hurt my other people’s anger, I know how much pain and how much sucks to receive someone else’s anger so I know that I would never want to make someone feel that way which is why I don’t get angry
+
+
+health, time and money
