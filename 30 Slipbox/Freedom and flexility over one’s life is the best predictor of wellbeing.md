@@ -3,7 +3,7 @@ created: 2024-01-16 10:44
 modified: Tuesday 16th January 2024 10:44:37
 alias:
 ---
-up:: [[Barking up the Wrong Tree by Eric Barker]]
+up:: [[Psychology of Money by Morgan Housel]]
 tags:: #happiness
 
 **Freedom and flexility over one’s life is the best predictor of wellbeing**
