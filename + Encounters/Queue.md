@@ -2,6 +2,7 @@
 
 
 #action Create a directional document, of a few things and goals can focus on,
+Adam Grant Think Again?
 You need to pick something on the horizon and go towards it or else you will just walk in circles
 There is this study were they put people in a forest with any direction and told then to walk in a straight line and they literally ended up walking in circles. 
 It is not the goal, just pick a direction of where you want to go, or else you will go in circles for years and move towards to figuring things out
