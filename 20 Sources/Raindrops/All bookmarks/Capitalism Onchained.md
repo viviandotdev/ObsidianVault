@@ -14,6 +14,7 @@ Medium:: #source/article
 
 What is the ideal state of crypto?
 
+
 #### Highlights
 
 > [!quote]+ Updated on Mon Sep 18 2023 15:38:11 GMT-0400

@@ -5,7 +5,7 @@ raindrop_highlights:
 ---
 
 Source URL:: https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
-Status:: #🟥
+Status:: #🟩 
 Medium:: #source/article
 
 
