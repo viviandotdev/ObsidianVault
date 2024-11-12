@@ -22,6 +22,9 @@ Write out everything that comes to mind. A summary in a way that you understand 
 We live in a society where people are constantly glued to their phones, and they don't have any hobbies. These hobbies help you live and improve your skills. It also provides balance, because it makes you a more well rounded person. Instead of being good at just one thing you are good at multiple things. However these discoveries can only be found if you try a wide range of things. [[Range by David Epstein#^fd7a4e | You will be surprised to find by the similarities in things that are unrelated. ]]
 Tim Ferris also mentioned once that one way to find overcome his depression to be juggling multiple hobbies and projects at once. This is because this gives you more opportunities to have more wins in a given day. For example if you business is not going well in the morning but then later you hit a new PR at the gym this can drastically increase your mood and make your day significantly better than if just had that one thing and dwelled on the failure the whole day.
 [Life-Changing Insights From A Decade Of Self-Improvement - Tim Ferriss (4K) - YouTube](https://www.youtube.com/watch?v=9G5dXlMGMf8)
+ Identity diversification
+
+
 
 **Common Goals, Problems, & Advice**
 Everyone is working towards a goal, which one? What are the problems associated with those goals? What common advice is given to overcome those problems? This starts to frame our unique perspective.
