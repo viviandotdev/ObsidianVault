@@ -1,8 +1,7 @@
 up::  [[Mind]]
 tags::
 related::
-## <% tp.file.title %> 
-
+## You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative 
 
 **Topic**
  What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.
