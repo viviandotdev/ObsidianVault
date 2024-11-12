@@ -1,7 +1,7 @@
 
 #creativity 
 - [[We need constraints to be creative, constraints give us clarity.]]
-
+- [[The internet has opened up the opportunity to do what you enjoy. You don't have to suffer anymore when creating your own career path]]
 #business
 - [[Opportunity is everywhere,  all you need is to make something better]]
 - [[People are willing to pay if you present valuable information in a neat and organized and pretty way.]]
