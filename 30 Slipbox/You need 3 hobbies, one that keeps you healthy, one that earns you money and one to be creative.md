@@ -1,4 +1,4 @@
-up::  [[Mind]]
+up::  [[My Mind]]
 tags::
 related::
 ## You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative 

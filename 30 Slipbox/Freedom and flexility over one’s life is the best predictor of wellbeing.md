@@ -4,7 +4,7 @@ modified: Tuesday 16th January 2024 10:44:37
 alias:
 ---
 
-up::  [[Mind]]
+up::  [[My Mind]]
 tags:: #happiness
 related:: [[Psychology of Money by Morgan Housel]]
 ## Freedom and flexility over one’s life is the best predictor of wellbeing 

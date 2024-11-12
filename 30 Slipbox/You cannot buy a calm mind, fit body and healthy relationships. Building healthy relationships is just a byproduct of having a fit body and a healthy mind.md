@@ -1,4 +1,4 @@
-up::  [[Mind]]
+up::  [[My Mind]]
 tags:: #happiness  #money 
 related::
 ## You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind 

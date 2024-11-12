@@ -1,4 +1,4 @@
-up::  [[Mind]]
+up::  [[My Mind]]
 tags::
 related::
 ## Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.

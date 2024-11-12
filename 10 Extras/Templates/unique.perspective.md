@@ -1,4 +1,4 @@
-up::  [[Mind]]
+up::  [[My Mind]]
 tags::
 related::
 ## <% tp.file.title %> 

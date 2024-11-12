@@ -2,12 +2,12 @@
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
 
-- [[Life Goals#^736174|Rock climbing]] #health 
+- [[My Goals#^736174|Rock climbing]] #health 
 - Do a L-Sit
 - Read 100 books in a year
-- [[Life Goals#^b96138|Become fluent in chinese]] #language
-- [[Life Goals#^a95a9f|Learn to draw]] #creativity 
-- [[Life Goals#^f96007|Create UI animations app]]
+- [[My Goals#^b96138|Become fluent in chinese]] #language
+- [[My Goals#^a95a9f|Learn to draw]] #creativity 
+- [[My Goals#^f96007|Create UI animations app]]
 
 
 ### Life Goals
