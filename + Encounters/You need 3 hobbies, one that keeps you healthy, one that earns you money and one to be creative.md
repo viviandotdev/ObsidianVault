@@ -6,7 +6,7 @@ related::
 **Topic**
 *What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest,* *or even a broad topic.*
 
-The 3 hobby theory, you
+The 3 hobby theory, you need 3 
 
 **References**
   Are there any quotes, books, or other content that comes to mind? Did you find the information somewhere?
