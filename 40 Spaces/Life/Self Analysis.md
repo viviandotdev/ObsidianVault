@@ -1,199 +1,77 @@
-#action complete future authoring program
-[[The Future Authoring Program — Jordan B. Peterson]]
-
-Andrew Huberman Trauma Journaling
+# Self Analysis
+- [[The Future Authoring Program — Jordan B. Peterson]]
+- Andrew Huberman Trauma Journaling
 
 **Why am I introverted?**
-Growing up in each main period of my life I only had one close friend.
-When I was really young I think that was my sister, [[Human Development]]
-When I started going to Elementary, I had this one friend in elementary school from K - 2 grade but then she moved to Massachusetts
-Then from 3 - 5 grade I was pretty close with Abby 
-Then from 6 - 8 grade I was close with Sharon
-Then from 9 - 12 grade I was basically alone, and had no close friends
-Then in college I made friends with my roommates, I was pretty close with Sandy and Chris
-Naturally I have always been very sensitive and probably have the [[SERT Gene]], I remember crying a lot as a child because I get overwhelmed easily by arguments, raised voices and expressions of disappointment or anger. 
-Mom and Dad thought that solving the problem was just by yelling at me even more, which I don't think solved the problem and just made me close off to them more. 
-Small things make me cry, sometimes even playing with my friends I would end up crying.
-I remember this one time, in middle school my friends took my glasses and started running around with it and I cried because I couldn't see.
-In elementary school, this girl kept hitting me with her long hair and I ended up crying.
-In 4th grade when I had to present my project in front on the class I cried during the presentation because the person sitting right in front of me said that they couldn't hear me. 
-I think that caused to learn to hide my feelings from them and basically taught me to not express my self. 
-Which explains why I am not a very expressive person and very closed off from other people.
-
-Socially I am also very sensitive, a lot of people seem to stress me out, I remember in college freshmen, year the beginning of the semester i would literally get nosebleeds everynight because of all the people I was meeting. My face was always red and my heart was always beating so fast. 
-
-
+- Growing up, I only had one close friend during each main period of my life.
+  - When I was really young, I think that was my sister, [[Human Development]].
+  - In elementary school, I had one friend from K-2nd grade, but she moved to Massachusetts.
+  - From 3rd-5th grade, I was close with Abby.
+  - From 6th-8th grade, I was close with Sharon.
+  - From 9th-12th grade, I was basically alone and had no close friends.
+  - In college, I made friends with my roommates and was close with Sandy and Chris.
+- I've always been very sensitive and probably have the [[SERT Gene]]. I remember crying a lot as a child because I got overwhelmed easily by arguments, raised voices, and expressions of disappointment or anger.
+  - Mom and Dad thought solving the problem was just by yelling at me more, which I don't think solved the problem and just made me close off to them more.
+  - Small things made me cry, like when my friends took my glasses in middle school, or when a girl kept hitting me with her hair in elementary school.
+  - In 4th grade, I cried during a presentation because someone said they couldn't hear me.
+- I think these experiences taught me to hide my feelings and not express myself, which explains why I'm not very expressive and am closed off from others.
+- Socially, I'm very sensitive. A lot of people stress me out. In my college freshman year, I would get nosebleeds every night from meeting so many people. My face was always red, and my heart was always racing.
 
 **Why don't I feel lonely?**
-I have felt lonely when I am alone, I think I have felt more lonely around other people that I have when I am alone. 
-The most lonely period of my life was high school, 
-I never get bored, I because I have some many questions, I have so many books I want to read and things I want to build and learn, I actually get confused when people say they are bored. 
-The immense computational power and energy required to develop semi-intelligent systems like ChatGPT are staggering. Yet, our brains naturally possess incredible cognitive capabilities, which we often take for granted. Instead of harnessing this potential, many people spend their time mindlessly scrolling through TikTok or watching TV, allowing their brains to atrophy rather than using them to their fullest extent.
-
+- I have felt more lonely around other people than when I'm alone.
+- The most lonely period of my life was high school.
+- I never get bored because I have so many questions, books I want to read, and things I want to build and learn. I get confused when people say they are bored.
+- The immense computational power and energy required to develop semi-intelligent systems like ChatGPT are staggering. Yet, our brains naturally possess incredible cognitive capabilities, which we often take for granted. Instead of harnessing this potential, many people spend their time mindlessly scrolling through TikTok or watching TV, allowing their brains to atrophy rather than using them to their fullest extent.
 
 **Questions**
 
-**My solution to find the almost perfect partner.** 
-One problem I had was I know that I am not ready now but how will I know when I will be ready. I think I will be ready when I have fully figured out my self and who I want to be, what my values are and what i like and what I dislike and stuff like. 
-I will basically create a document about me, and once that is done, I think i would be ready, that means I have thought and written down about all of those things and know a lot about my self..
+**My solution to find the almost perfect partner.**
+- One problem I had was knowing when I would be ready for a partner. I think I'll be ready when I've fully figured out myself, my values, likes, and dislikes.
+- I'll create a document about myself, and once that's done, I'll be ready, having thought and written down about all those things.
+- It doesn't make sense how most people choose a partner just because someone likes them or because their heart beats faster around them.
+  - Of course, we're animals programmed to reproduce, so if someone likes you, your brain tricks you into thinking they're compatible.
+- There's no "finding the right person"; you just have to become the right person, and the right person will show up at some point.
 
-It doesn't make sense how most people just choose a partner because someone like them or because their heart beats faster when they are with them.
-Of course that is the case we are animals and in our brains we are programmed to reproduce. So if someone likes you, your brain doesn't think about if they are a good person or if they are compatible with you, it tricks you into thinking that are so that it can reproduce. 
+**Why I quit social media**
+- I don't feel FOMO because I know I wouldn't want to be in those situations. If you show me someone having fun at a party, I don't feel FOMO because I know I wouldn't have fun there.
+- Social media tells you what to like, think, and feel, but I want to figure these things out naturally. I want to know what I'll become interested in on my own.
 
-There is not finding the right person, you just have to become the right person and right person will show up at some point/
-
-
-**Why i quit social media**
-I don't feel FOMO because I know that I wouldn't want to be there and in that situation, if you show me some one having fun at party i don't feel FOMO because i know i wouldn't have fun at the party
-All social media does is to tell you what to like, what to think, how to feel, but I don't want some algorithm to tell me these things, I want to naturally figure out my self, I want to know naturally what I will become interested in. I will search for what interets me
-
-
-
-**how do you value money?**
-I want to spend as little time thinking about money as possible
-
-I want to build apps not because I want to make a lot of money it is because I like it and because what is the alternative. I am really lucky that I was so able to so quickly find something that I am pretty good at and enjoy doing more that most people so why not spend more time doing it. What is the alternative any way. spending all my time sitting around watching TV? I know that won't make me happy.
-The goal is just to continue to build apps that I think are cool and other people will use. I am human and there probably thousands of people that are just like me. 
-Salaries and money are byproducts of ambition not because they were your primary desire.
-If your primary desire is to make as much money as possible
-
-
-it is not that i don't care it is because i don't want to fight, i know how to are going to be like and i am the one who is going to end up getting the most hurt anyways so i just give up and let you win.
-like i am so scared to making you upset i will do anything to prevent that from happening 
+**How do you value money?**
+- I want to spend as little time thinking about money as possible.
+- I want to build apps not to make a lot of money but because I enjoy it. I'm lucky to have found something I'm good at and enjoy, so why not spend more time doing it?
+- The goal is to continue building apps that I think are cool and that others will use. Salaries and money are byproducts of ambition, not the primary desire.
+- It's not that I don't care; I just don't want to fight. I know how things will be, and I'll end up getting hurt, so I give up and let you win. I'm scared of making you upset and will do anything to prevent that.
 
 **Values**
-Ambitious- I want to be a more capable person who is fully independent and does not nee the help of others. 
+- Ambitious: I want to be a more capable person who is fully independent and doesn't need the help of others.
+- The feeling of achieving something you never thought possible is empowering and makes you feel like you can achieve anything.
+- This is one reason I love rock climbing. Every day, I get to try something new and improve. In rock climbing, there are many ways to improve, unlike weightlifting, where the only dopamine hit is lifting a heavier weight, which doesn't happen every day.
 
-The feeling of being able to achieve something you never knew was possible is enpowering and makes you feel like you can achieve anything.
-
-This is one of the main reasons I love rock climbing everyday I get to go there and try something that I then get better everyday.
-Within rock climbing where are so many ways to improve whereas if you are weight lifting like the only time I would get a dopamine hit is when I lift a heavier weight, but that does not happen every day. 
-
-
-Why am i so avoidant
-avoidant people are fear of being abandoned, i feel like that like everyone's fear but we cope with it differently 
-anxious people who fear abaondoned will overthink and be nervous and stress about it
-avoidants will push people away or keep them at a distance so that they can abandon the other person before they can abandon the, 
-i think subconsiouly it comes from my childhood, basically immediately when i was born i was abandoned by my parents, i felt like those years are extremely important in forming a secure relationship, I mean still i don't feel that close to my parents or anyone.
-i think that alone already fucked up my brain chemsitry 
-i expressed my wants and needs and was immediately shut down, i realized that i have to figure out everything myself because they aren't going to help me anyway
-my sister and mom were really dismissive,
-for example every winter my room gets like really fucking cold like, i would wake up in the middle of the night shivering, i would tell my dad and my sister all the time, but i was just ignored, 
-maybe thats why i feel not pain, i just blocked it out so its easier for me to cope. 
-its easier to suffer if you don't feel any pain, 
-\
-focsed on them selves
-parents did n't attue to their emotions and struggle to vulnderablee, 
-primitive instinct to focus on my s elf and where i need to go in life
-fear
-
-adult not attuned to emotions
-i did not see adults clearly communicate abd work through issues and respect each other's differences of opinions
-mom and dad definityly did not clearly communicate with each other and learn to respect each other's difference in opinions
-
-even currently their differences of opinion with money is not healhyt
-even the way mom makes me talk to him instead of talking to him herself 
-grew up in a home where nothing is ever talked about and everything is ignored or swept under the rug
-when i became an adult i learned how to not express my emotions 
-and when i did i was just dismiessed and told to stop being dramatic or even punished
+**Why am I so avoidant?**
+- Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
+  - Anxious people overthink and stress about it.
+  - Avoidants push people away or keep them at a distance to abandon the other person before they can be abandoned.
+- I think this subconsciously comes from my childhood. I was abandoned by my parents immediately after birth, which is crucial for forming secure relationships. I still don't feel close to my parents or anyone.
+- I expressed my wants and needs and was immediately shut down, realizing I had to figure everything out myself because they wouldn't help me.
+- My sister and mom were dismissive. For example, every winter, my room was freezing, and I would wake up shivering. I told my dad and sister, but I was ignored.
+- Maybe that's why I feel no pain; I blocked it out to cope. It's easier to suffer if you don't feel pain.
+- My parents were focused on themselves and didn't attune to my emotions, making it hard to be vulnerable.
+- I didn't see adults clearly communicate, work through issues, or respect each other's differences of opinion. Mom and Dad didn't communicate well or respect each other's differences.
+- Even now, their differences of opinion about money aren't healthy. Mom makes me talk to Dad instead of talking to him herself.
+- I grew up in a home where nothing was ever talked about, and everything was ignored or swept under the rug. As an adult, I learned not to express my emotions. When I did, I was dismissed, told to stop being dramatic, or even punished.
+- For example, every time I cried or displayed emotion, I was punished and yelled at for crying. This is why I learned to avoid my emotions and choose to suppress them. Running away from emotions makes relationships more difficult.
+- Emotional abandonment and inconsistency in feeling validated and loved. My dad never showed up for me. He wasn't there for birthdays, piano performances, or awards. He rarely came home for dinner.
+- Inconsistent parenting: Some days, they love and care for you; other days, they criticize you. Parents who criticize create children who no longer share their hopes and dreams because they'll be knocked down.
+- Hitting your kids falls under inconsistent parenting. As a child, you may not understand how someone who loves you could want to hurt you. It's confusing for a kid.
+- You're also inconsistent sometimes. Sometimes you seem to like me, but other times, you don't.
+- Emotionally immature parents view children as a source of their self-esteem.
 
 
-for example every time i cried or displayed emotion i was punished, i was yelled at for crying  
+**Which attachment style are you?**
+- I relate to this growing up. As a kid, I was very expressive. I remember dancing in my room and laughing a lot.
+- I often got yelled at for being too loud or expressive. When I cried, I was told to stop crying and expressing myself.
+- I remember watching Disney Channel shows and cackling, but my mom would get mad and yell at me for laughing too loud.
+- I would cry when my mom forced me to wear a dress. We argued about her forcing me to wear things that made me uncomfortable. I couldn't express myself the way I wanted, only in a way that fit how my mom wanted me to represent her.
 
-this is why i learned to avoid my emotions and choose to suppress them 
-running away from the way to feel actually makes the relationship more difficult.
-
-emotional abondonment
-inconsisteny in feeling validated and loved. 
-my dad never showed up for me at all .
-growing up i never remeber seeing him there at my birthday, or when i had a piano performance for when i won an award at school my dad was never there only my mom, but also he never comes home for dinner, i think i can count on my fingers the number of times my dad has sat the dinner table with us as a family.
-
-inconsisitency in parenting, somedays it seems like they love you can care for you and other days they criticize you
-parents who crticize theri cuildren, creates children who will no longer share with them their hopes and dreams because they are just going to knock you down, 
-they only like me down 
-
-hitting your kids, falls under **inconsistent** parenting, as a child you may not undertand how could someone that is suppoed to love you want to hurt you.
-I think that is very confusing for a kid to understand 
-
-your also inconssitent sometimes, like sometimes you seem like you really like me but other times, 
-
-emotionally immature parents view children as a source of their self esteem
-
-my parents
-
-**Do you even like hanging out with me or just find me annoying most of the time?**
-
-I felt liked I did something to annoy you during mikado,
-
-I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
-
-Was it because I was late?
-
-Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
-
-And then you whispered to Sandy about something 
-
-Did I do something to annoy you during mikado, tuesday
-
-I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i would just shut the fuck up and pretend like i'm invisible so i don't annoy you/
-the difference is that you make more happy than anxious so i will hang out with you because there is a higher probability that I will have fun but there is still that 
-
-but also i'm sure you also don't like feeling annoyed at me either but i'm just being me so like should i just not be myself. or what is want is for me to be who you want me to be? or do what you want me to do for you?
-
-for example there is this instance were we 
-
-i hate it when people assume my intentions, but also i think people assume my intentions is because i don't communicate clearly, 
-but 
-
-Did I do something to annoy you during mikado, Tuesday
-
-Bro i think you need to chill, everything is fine no need to hold it iside forgert and move on,
-
-
-Which attachment style are you?
-i relate to this growing up, i think as a kid I was actually very expressive i have the memory of dancing in my room, i remember i would also laugh a lot and get really excited about things   
-but i often got yelled about for being too loud or expressive.  
-when i cried, i got yelled it to stop crying, basically stop expressing my self  
-i remeber i used to watch tv, like disney channel shows and i would literally be cackling and my mom would get mad at me and yell about me for laughing too loud.  
-i would also cry when my mom told me to wear a dress, we litterally get into so many arguments where she would force me to wear things that make me uncomfortable, i could not express my self the way i wanted to, i could only express myself in the way that fit the way my mom wants me to represent her.
-
-
-your also inconssitent sometimes, like sometimes you seem like you really like me but other times, 
-
-emotionally immature parents view children as a source of their self esteem
-
-my parents
-
-
-in consisteny
-**Do you even like hanging out with me or just find me annoying most of the time?**
-
-I felt liked I did something to annoy you during mikado,
-
-I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
-
-Was it because I was late?
-
-Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
-
-And then you whispered to Sandy about something 
-
-Did I do something to annoy you during mikado, tuesday
-
-I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i would just shut the fuck up and pretend like i'm invisible so i don't annoy you/
-the difference is that you make more happy than anxious so i will hang out with you because there is a higher probability that I will have fun but there is still that 
-
-but also i'm sure you also don't like feeling annoyed at me either but i'm just being me so like should i just not be myself. or what is want is for me to be who you want me to be? or do what you want me to do for you?
-
-for example there is this instance were we 
-
-i hate it when people assume my intentions, but also i think people assume my intentions is because i don't communicate clearly, 
-but 
-
-  
-
-  
-
-
-what do you think is most important health, time and money?
-I think one the the keys to living a good life optimizing for health, time and money.
+**What do you think is most important: health, time, or money?**
+- I think one of the keys to living a good life is optimizing for health, time, and money.
