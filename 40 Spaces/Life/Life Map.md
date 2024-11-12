@@ -12,7 +12,7 @@ These are the dials that determine where I go.
 	- 01 - [[My Roles]] | [[My Permissions]]
 	- 02 - [[My Environments]] | [[My Tools]] | [[Workflows]] | [[Finance]] [[Life Goals]]
 	- 03 - [[My Experiences]] |  [[Life Reflections]]
-	- 04 - [[My Virtues]] | [[My Skills]] 
+	- 04 - [[My Virtues]] | [[My Skills]] | [[Favorite Snacks]]
 	- 05 - [[My Manifesto]] | [[My Goals]] | [[My Career]]
 	- 06 - [[My Obituary]]
 
