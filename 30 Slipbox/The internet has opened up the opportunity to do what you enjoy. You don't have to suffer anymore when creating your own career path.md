@@ -28,3 +28,4 @@ What experiences, stories, or problems you’ve faced that come to mind?
 
 **Potential Framework, System, or Solution**
 Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!
+- Starting a social media business with an emphasis on writing
