@@ -15,14 +15,16 @@ Write out everything that comes to mind. A summary in a way that you understand 
 
 **Common Goals, Problems, & Advice**
 Everyone is working towards a goal, which one? What are the problems associated with those goals? What common advice is given to overcome those problems? This starts to frame our unique perspective.
-- "You need to work hard first, make money then"
+- "You need to work hard first, make money then do what you want"
+	- This line of thought brainwashes yourself into having that reality
+- People want to do what they love but don't know how to do that
+- The traditional career path does not lead people into creative jobs
 
-  **Personal Experience**
-  What experiences, stories, or problems you’ve faced that come to mind?
-
-  - List
+**Personal Experience**
+What experiences, stories, or problems you’ve faced that come to mind?
+- Ever Since i was young I've been trying to build a business out of what I enjoy doing
+	- Writing is the key to that (persuasion, influence, marketing, sales)
+- I saw other. people on social media doing it so why could't I?
 
   **Potential Framework, System, or Solution**
   Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!
-
-  - List
