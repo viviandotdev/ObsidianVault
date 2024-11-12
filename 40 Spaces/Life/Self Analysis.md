@@ -47,13 +47,7 @@ There is not finding the right person, you just have to become the right person 
 I don't feel FOMO because I know that I wouldn't want to be there and in that situation, if you show me some one having fun at party i don't feel FOMO because i know i wouldn't have fun at the party
 All social media does is to tell you what to like, what to think, how to feel, but I don't want some algorithm to tell me these things, I want to naturally figure out my self, I want to know naturally what I will become interested in. I will search for what interets me
 
-I have not been feeling good the past few days, I think it is definitely my eating habits, I think that is the issue that is affecting my focus, I will try tommorrow to eat protein in the morning immediately when I wake up and then have my eggs for breakfast, I think that I can’t focus because of my bad eating habits, I don’t actually eat therefore I feel hungry, but when I “eat” I still feel hungry and I think my brain I just confused,
-Tommorrow my plan is wake up drink protein, eat eggs and then go exercise no execses, this should be for about an hour and start the book cue project until daily stand up, wake up at 6 - 15 breakfast, exercise until like 7-30 and then from 7-30 to like 930 am work on you app,  (this is the morning I want everyday )
-Then gm stuff and then Cigna stuff and workout again (watch a tutorial or tsomething ) after lunch and then work on learning new things
 
-It’s actually annoying how bad my focus is a I really need to fix it, it’s actually become a problem that is affecting my mental state
-
-Everything meaningless, but that doesn't mean it isn't worth it
 
 **how do you value money?**
 I want to spend as little time thinking about money as possible
