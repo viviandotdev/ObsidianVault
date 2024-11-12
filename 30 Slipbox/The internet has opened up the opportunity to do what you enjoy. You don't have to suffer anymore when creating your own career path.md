@@ -26,5 +26,5 @@ What experiences, stories, or problems you’ve faced that come to mind?
 	- Writing is the key to that (persuasion, influence, marketing, sales)
 - I saw other. people on social media doing it so why could't I?
 
-  **Potential Framework, System, or Solution**
-  Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!
+**Potential Framework, System, or Solution**
+Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!
