@@ -1,5 +1,5 @@
 up::  [[Mind]]
-tags::
+tags:: #happiness  #money 
 related::
 ## You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind 
 
@@ -11,8 +11,7 @@ related::
 
 **References**
 *Are there any quotes, books, or other content that comes to mind? Did you find the information somewhere?*
-
-[A Calm Mind, a Fit Body, a House Full of Love](https://nav.al/finally-wealthy)
+[[A Calm Mind, a Fit Body, a House Full of Love]]
 
 The first thing you realize when you’ve made a bunch of money is that you’re still the same person. If you’re happy, you’re happy. If you’re unhappy, you’re unhappy. If you’re calm and fulfilled and peaceful, you’re still that same person. 
 I know lots of very **rich people who are extremely out of shape**. I know lots of **rich people who have really bad family lives.** I know lots of **rich people who are internally a mess.**
@@ -38,11 +37,10 @@ I think a **loving household and relationships** actually **fall naturally out o
 *What experiences, stories, or problems you’ve faced that come to mind?*
 
   - If you have a calm mind and already make money you should naturally have good relationships.
-  - I think dad 
+  - I think dad does not have a calm internal state at all. He definitely holds a lot of anger inside. Even tough he has money his relationship with his family is not great because he does not have a healthy internal state. 
 
 **Potential Framework, System, or Solution**
 *Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!*
 
-  - First focus on yourself, create a calm mind and a fit body 
+  - First focus on yourself, create a calm mind and a fit body and naturally you will be able to build strong relationships easily.
 
-(get a calm mind and a fit body and you relationships will follow)
