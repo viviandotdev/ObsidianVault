@@ -1,7 +1,7 @@
 
 
 [[What places do you want to visit?]]
-	I want to mom on vacation
+	I want to mom on vacation (Switzerland?)
 	I want to take dad on vacation
 [[How do I go on vacation?]]
 	What are the things i need to book?
