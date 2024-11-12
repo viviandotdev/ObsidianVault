@@ -4,17 +4,18 @@ tags:: #creativity  #online-business
 
 **Topic**
  What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.
-
+ - Creative work
 **References**
-  Are there any quotes, books, or other content that comes to mind? Did you find the information somewhere?
+Are there any quotes, books, or other content that comes to mind? Did you find the information somewhere?
+- "Sensible people get paid for doing what they enjoy doing" - Alan Watts
 
 **Braindump, Summary, & Reference Notes**
 Write out everything that comes to mind. A summary in a way that you understand at this point in your life. Be sure to include the notes you took if you already took them.
+- Why would we do anything else?
 
 **Common Goals, Problems, & Advice**
 Everyone is working towards a goal, which one? What are the problems associated with those goals? What common advice is given to overcome those problems? This starts to frame our unique perspective.
-
-  - List
+- "You need to work hard first, make money then"
 
   **Personal Experience**
   What experiences, stories, or problems you’ve faced that come to mind?
