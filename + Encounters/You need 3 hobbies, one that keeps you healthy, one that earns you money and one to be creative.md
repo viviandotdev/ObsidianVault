@@ -19,23 +19,32 @@ Find hobbies that make you rich, fit and creative
 **Braindump, Summary, & Reference Notes**
 Write out everything that comes to mind. A summary in a way that you understand at this point in your life. Be sure to include the notes you took if you already took them.
 
+We live in a society where people are constantly glued to their phones, and they don't have any hobbies. These hobbies help you live and improve your skills. It also provides balance, because it makes you a more well rounded person. Instead of being good at just one thing you are good at multiple things. You will be surprised to find by the similarities in things that are unrelated. However these discoveries can only be found if you try a wide range of things. [[Range by David Epstein^sim]]
 
 **Common Goals, Problems, & Advice**
 Everyone is working towards a goal, which one? What are the problems associated with those goals? What common advice is given to overcome those problems? This starts to frame our unique perspective.
 
   - List
 
-  **Personal Experience**
+**Personal Experience**
 What experiences, stories, or problems you’ve faced that come to mind?
  **For me these hobbies are**
   - TO MAKE MONEY
 	  - Coding
   - TO BE FIT
 	  - Rock Climbing
-	  - Walking on an Inclince
-	  - Yo
+	  - Walking on an Incline
+	  - Yoga
+	  - Calisthenics
+- CREATIVE
+	- Drawing
+	- Minecraft Building
+	- 3D Modeling
+- KNOWLEDGE
+	- Reading
+	- Writing
 
   **Potential Framework, System, or Solution**
   Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!
 
-  - List
+  - Create a list of your hobbies and what you like to do and try to fit them into these 3 categories

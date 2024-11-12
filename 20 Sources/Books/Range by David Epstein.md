@@ -63,7 +63,7 @@ Mixed practice is faster for learning, for example when pianists practice jumps 
 
 ### Analogies
 
-Analogies help use take new concepts and make them feel familiar. Analogies and making relations is difficult for other species. Deep analogical thinking allows use to see similarities across multiple. domains that seem to have little in common. 
+Analogies help use take new concepts and make them feel familiar. Analogies and making relations is difficult for other species. Deep analogical thinking allows use to see similarities across multiple. domains that seem to have little in common.  ^fd7a4e
 
 > Concepts from biology serve as analogies to inform the cutting edge of artificial intelligence: “neural networks” that learn how to identify images from examples (when you search cat pictures, for instance) were conceived as akin to the neurons of the brain, and “genetic algorithms” are conceptually based on evolution by natural selection—solutions are tried, evaluated, and the more successful solutions pass on properties to the next round of solutions, ad infinitum.
 
