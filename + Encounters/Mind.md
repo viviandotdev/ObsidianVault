@@ -53,16 +53,7 @@
 
 #love 
 [[You can tell how much you love yourself based on the partner you choose]]
-#lies 
 
-you need exercise to be skinny
-	i don't want to be skinny i want to be healthy
-you should specialize in one thing
-	humans are generalists, life is long, learn as many things as you can
-	 it is easier to stand out as an okay designer and developer than being the best designer or developer
-you need to get a job and work there for the rest of your life
-	 millionaire slow lane
-	 you can make money if you make something useful
 
 
 don't confuse gratitude with contentment, gratitude is appreciating what I have and what I will receive, where as contentment is the satisfactions with one's current circumstance. However I think I used contentment as an excuse to be lazy and not want to pursue more.
@@ -77,5 +68,5 @@ Contentment as an Excuse:
 	- i would think it is a burden to unload that trauma on to them
 
 
-i will say stuff to you and but take everything people say with a grain of salt, not everything i tell you will be true to you, but i was true for me based on my experience and my short life so far, you don't and shouldn't listen to and follow everything I say and do because even if you did you would not end up in my same position because there is just too many variables. Most of the things I tell you will not even work for or you just think is wrong, that is good, you should learn how to think for yourself. All I can do is tell you want I did and worked for me, you have the responsibility to take that information and applying to your situation and your life. we are not supposed to live the same life anyways, you will have your own path.
 
+I'll share my thoughts with you, but remember to take everything with a grain of salt. What I say may not hold true for you, as it is based on my own experiences and relatively short life. You shouldn't feel obligated to follow my advice blindly, because even if you did, you wouldn't end up in the same situation as me—there are simply too many variables at play. Many things I mention might not work for you, or you might disagree with them, and that's perfectly fine. It's important to think for yourself. I can only share what has worked for me; it's your responsibility to adapt that information to your own life and circumstances. We're not meant to live identical lives, after all. You'll have your own unique path to follow.

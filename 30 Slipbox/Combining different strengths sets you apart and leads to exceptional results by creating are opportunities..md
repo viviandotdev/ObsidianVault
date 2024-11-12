@@ -34,6 +34,7 @@ However if you combine your strengths/skills there is less competietion.
 *What experiences, stories, or problems you’ve faced that come to mind?*
 
   - For example being the top 1% UI/UX Designer is hard because what can set me apart and make be stand out is to be a top 10% UI/UX Designer and top 10% Developer. There are much less people at this intersection which means there is less competition and makes it easier for me to stand out and succeed.
+- 	 it is easier to stand out as an okay designer and developer than being the best designer or developer
 
 **Potential Framework, System, or Solution**
 *Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!*
