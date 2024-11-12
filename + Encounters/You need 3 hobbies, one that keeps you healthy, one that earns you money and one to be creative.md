@@ -4,7 +4,9 @@ related::
 ## You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative 
 
 **Topic**
- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.
+*What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest,* *or even a broad topic.*
+
+The 3 hobby theory, you
 
 **References**
   Are there any quotes, books, or other content that comes to mind? Did you find the information somewhere?

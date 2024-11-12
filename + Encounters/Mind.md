@@ -11,8 +11,9 @@
 #learning
 - [[Learning how to learning is the ultimate skill that will give you the power to do what you love]]
 - [[Learning is one of the most pleasurable experiences in life]]
+
+#decisions 
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
-- [[Bias towards action]] 
 
 #success 
 - [[Being successful creates more success]]
