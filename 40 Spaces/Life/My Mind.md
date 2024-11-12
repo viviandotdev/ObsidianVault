@@ -11,7 +11,7 @@
 #learning
 - [[Learning how to learning is the ultimate skill that will give you the power to do what you love]]
 - [[Learning is one of the most pleasurable experiences in life]]
-
+- [[When you learn something new, learn it as if you are going to explain it someone in the next 48 hours]]
 #decisions 
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 
