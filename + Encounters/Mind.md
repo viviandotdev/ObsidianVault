@@ -62,11 +62,7 @@ Contentment as an Excuse:
 2. Becomes a justification for not setting or pursuing goals3.May mask fear of failure or change .Can lead to stagnation and missed opportunities
 
 **values**
-- if you tell someone to do something and they do it wrong or badly do you think it's your fault or their fault?
-	- i would think it is my fault, if you want something done well do it yourself, don't blame them if they do it badly obviously they do it badly because they just don't care enough 
 - if you are suffering or going through something difficult would you want to share that burden with them or would you want to protect them from it?
 	- i would think it is a burden to unload that trauma on to them
 
 
-
-I'll share my thoughts with you, but remember to take everything with a grain of salt. What I say may not hold true for you, as it is based on my own experiences and relatively short life. You shouldn't feel obligated to follow my advice blindly, because even if you did, you wouldn't end up in the same situation as me—there are simply too many variables at play. Many things I mention might not work for you, or you might disagree with them, and that's perfectly fine. It's important to think for yourself. I can only share what has worked for me; it's your responsibility to adapt that information to your own life and circumstances. We're not meant to live identical lives, after all. You'll have your own unique path to follow.
