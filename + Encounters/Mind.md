@@ -51,7 +51,10 @@
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]
 - [[I am even not even close to where I want to be in life to sacrifice that time into something outside of myself]]
 
+#love 
+[[You can tell how much you love yourself based on the partner you choose]]
 #lies 
+
 you need exercise to be skinny
 	i don't want to be skinny i want to be healthy
 you should specialize in one thing
