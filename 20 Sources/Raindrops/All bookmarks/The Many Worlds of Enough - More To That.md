@@ -13,7 +13,7 @@ Medium:: #source/article
 
 ### The Many Worlds of Enough - More To That
 
-Enough is elusive because when you reach it, you're no longer the person that once desired it.
+Enough is elusive (difficult to reach) because when you reach it, you're no longer the person that once desired it.
 
 
 Salaries and money are byproducts of ambition not because they were your primary desire.
