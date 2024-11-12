@@ -5,7 +5,7 @@ Andrew Huberman Trauma Journaling
 
 **Why am I introverted?**
 Growing up in each main period of my life I only had one close friend.
-When I was really young I think that was my sister, 
+When I was really young I think that was my sister, [[Human Development]]
 When I started going to Elementary, I had this one friend in elementary school from K - 2 grade but then she moved to Massachusetts
 Then from 3 - 5 grade I was pretty close with Abby 
 Then from 6 - 8 grade I was close with Sharon
@@ -158,6 +158,37 @@ i remeber i used to watch tv, like disney channel shows and i would literally be
 i would also cry when my mom told me to wear a dress, we litterally get into so many arguments where she would force me to wear things that make me uncomfortable, i could not express my self the way i wanted to, i could only express myself in the way that fit the way my mom wants me to represent her.
 
 
+your also inconssitent sometimes, like sometimes you seem like you really like me but other times, 
+
+emotionally immature parents view children as a source of their self esteem
+
+my parents
+
+
+in consisteny
+**Do you even like hanging out with me or just find me annoying most of the time?**
+
+I felt liked I did something to annoy you during mikado,
+
+I felt that you were so mean to me, maybe it cuz I was on my period, and if I was just overthinking and got the wrong impression but it felt you hate me sometimes.
+
+Was it because I was late?
+
+Or when I asked about the happy hour thing? I was just genuinely curious if we could and if not no big deal, 
+
+And then you whispered to Sandy about something 
+
+Did I do something to annoy you during mikado, tuesday
+
+I get the same feeling with my sister, like I feel like being myself is annoying to you so to cope i would just shut the fuck up and pretend like i'm invisible so i don't annoy you/
+the difference is that you make more happy than anxious so i will hang out with you because there is a higher probability that I will have fun but there is still that 
+
+but also i'm sure you also don't like feeling annoyed at me either but i'm just being me so like should i just not be myself. or what is want is for me to be who you want me to be? or do what you want me to do for you?
+
+for example there is this instance were we 
+
+i hate it when people assume my intentions, but also i think people assume my intentions is because i don't communicate clearly, 
+but 
 
   
 
