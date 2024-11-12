@@ -54,15 +54,3 @@
 #love 
 [[You can tell how much you love yourself based on the partner you choose]]
 
-
-
-don't confuse gratitude with contentment, gratitude is appreciating what I have and what I will receive, where as contentment is the satisfactions with one's current circumstance. However I think I used contentment as an excuse to be lazy and not want to pursue more.
-Contentment as an Excuse:
-1. Used to avoid challenges or personal growth
-2. Becomes a justification for not setting or pursuing goals3.May mask fear of failure or change .Can lead to stagnation and missed opportunities
-
-**values**
-- if you are suffering or going through something difficult would you want to share that burden with them or would you want to protect them from it?
-	- i would think it is a burden to unload that trauma on to them
-
-
