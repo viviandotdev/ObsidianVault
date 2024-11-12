@@ -18,8 +18,9 @@ Central Park climbing 
 Woodworking class
 	[Courses — Bien Hecho Academy](https://www.bienhechoacademy.com/courses)
 	[Are there any woodworking courses/classes you can recommend in or near NYC? : r/AskNYC](https://www.reddit.com/r/AskNYC/comments/rj7hw4/are_there_any_woodworking_coursesclasses_you_can/)
-	[SXW660 Woodworking: Modern Chair | Center for Continuing & Professional Studies](https://continuinged.fitnyc.edu/search/publicCourseSearchDetails.do?method=load&courseId=1053789&selectedProgramAreaId=1025467&selectedProgramStreamId=1026654)
-Sushi Making Class
+	[SXW660 Woodworking: Modern Chair | Center for Continuing & Professional Studies](https://continuinged.fitnyc.edu/search/publicCourseSearchDetails.do?method=load&courseId=1053789&selectedProgramAreaId=1025467&selectedProgramStreamId=1026654
+Photography Class
+
 French Pastry Baking Class
 
 Musesums
