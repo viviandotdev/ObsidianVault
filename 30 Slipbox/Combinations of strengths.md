@@ -1,8 +1,7 @@
 up::  [[Mind]]
 tags::
 related::
-## Combinations of strengths 
-
+## Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.
 
 **Topic**
 *What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.*
@@ -21,7 +20,7 @@ How can you combine your strength? That's something I would encourage everyone t
 **Braindump, Summary, & Reference Notes**
 *Write out everything that comes to mind. A summary in a way that you understand at this point in your life. Be sure to include the notes you took if you already took them.*
 
-This reminds of a concept that I think Paul Grahm mentioned.
+This reminds of a concept that I think Paul Grahm mentioned or is it from millionaire fastlane?
 For example it is almost impossible to be a top 1% basketball player. You have to work extremely hard and better than 99% of the people in the world
 However if you combine your strengths/skills there is less competietion. 
 
@@ -29,7 +28,7 @@ However if you combine your strengths/skills there is less competietion.
 **Common Goals, Problems, & Advice**
 *Everyone is working towards a goal, which one? What are the problems associated with those goals? What common advice is given to overcome those problems? This starts to frame our unique perspective.*
 
-  - List
+- Most people in life are told that they can be anything they want
 
 **Personal Experience**
 *What experiences, stories, or problems you’ve faced that come to mind?*
