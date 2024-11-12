@@ -97,15 +97,15 @@ to get your day right you will get your life right, life is built on top a set o
 
 This means that you are much closer to being the happiest version of yourself than you think
 
-  
+
 
 You can tell how much you love yourself based on the partner you choose
 
-  
+
 
 I think love is platonic and does not have to have to be romantic, I think its important to prioritize love for my friendships and family, I that romantic love usually ends and are experiences that you can look back on fondly , why would I want to keep putting effort into memories that you eventually want to forget when instead I can just put more energy into my family and friends and can always look back on them?
 
-  
+
 
 Being a relationship and getting married is more like a side quest, the main question is **finding ways to make my self happy** and if along the way I find someone that can **help me make myself happier** great if not I’m still happy regardless. 
 
@@ -115,7 +115,7 @@ I want to be able to make myself happy.
 Not find someone else to make me happy.
 
 In life happiness is my end goal. If being in a relationship with a man helps make that more achievable great if not than I’m still happy regardless
-  
+
 
 Philosophy means the love of wisdom, philosophy was created from anxious who love to theorize and ruminate about themselves and why they are the way they are, and like to think about why things are they way they are because **they are not content with what they know or believe about the world**
 
@@ -130,9 +130,9 @@ One of the best ways to test other people's temper is to test their patience ove
 
 
 
- **Financial stability is mental stability**
+**Financial stability is mental stability**
 
-  
+
 
 **Building mental toughness is important**
 
@@ -141,7 +141,7 @@ Scott galloway
 [How the US Is Destroying Young People’s Future | Scott Galloway | TED - YouTube](https://www.youtube.com/watch?v=qEJ4hkpQW8E)
 **Do we love our children**
 
-  
+
 
 In the past few year inflation is growing much faster than wages
 
@@ -149,13 +149,13 @@ And the social contrat is decreasing, the percentage to 30 year olds earning mor
 
 The youth are making less money doing the same work
 
-  
+
 
 Young people are angry we don’t get the same prosperity as their elders
 
 Home prices are up and out of reach
 
-  
+
 
 Wealth is transferred to the elderly
 
@@ -165,7 +165,7 @@ Artificially constrain supply 
 
 College is a hedge fund offering classes
 Affirmative action should be based on income not the color of your skin.
-  
+
 
 Capital is growing 
 Wages vs wealth, wages have barely moved compared to the S&p500
