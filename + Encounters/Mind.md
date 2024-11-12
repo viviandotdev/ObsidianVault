@@ -26,7 +26,6 @@
 #happiness 
 - [[The key to happiness is optimizing health, time and money]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
-	- I value freedom and flexibility over my time more that money, when making decisions I consider the time cost as well
 
 
 #money 
