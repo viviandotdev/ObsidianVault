@@ -9,10 +9,10 @@ links:: [[LIVE BY YOUR VALUES — Almanack of Naval Ravikant]]
 ## Values
 
 - I don’t believe in anger anymore.
-- I don't believe in getting angry, i think anger shows a lack of control over your own emotions. Often getting angry hurts another individual emotionally or physically which is not some thing i want to do.
-- I don’t believe in any short-term thinking or dealing. I
+	- I don't believe in getting angry, i think anger shows a lack of control over your own emotions. Often getting angry hurts another individual emotionally or physically which is not some thing i want to do. I think 
+- I don’t believe in any short-term thinking or dealing.
 - I only believe in peer relationships.
-- honesty. I want to put my self in environments where I can be honest with my self. I want to be able to be myself and can act without filtering my actions or words. I don’t want to be around people that I can’t be fully honest with 
+- I believe in honesty and being my true self. I want to put my self in environments where I can be honest with my self. I want to be able to be myself and can act without filtering my actions or words. I don’t want to be around people that I can’t be fully honest with 
 - I think it is better to assume the better of people then to assume the worst of people.
   
 
