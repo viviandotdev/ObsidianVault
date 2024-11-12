@@ -10,6 +10,6 @@ FROM  #source/article
 WHERE !contains(file.path, "Templates")
 GROUP BY status
 SORT raindrop_id ASC
-SORT status
+SORT status ASC
 
 ```

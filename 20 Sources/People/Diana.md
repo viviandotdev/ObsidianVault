@@ -24,8 +24,7 @@ After school, after a long day she would be forced to go home and do the dishes.
 Relationship with her brother is not great.
 Her brother has anger issues and would lash out in class.
 
-I think probably has the worst family problems.
-She is also from FuZhou
+I think probably has the worst family problems or trauma
 
 
 ### Links to this page

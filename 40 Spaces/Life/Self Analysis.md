@@ -4,7 +4,7 @@
 
 **Why am I introverted?**
 - Growing up, I only had one close friend during each main period of my life.
-  - When I was really young, I think that was my sister, [[Human Development]].
+  - When I was really young, I think that was my sister
   - In elementary school, I had one friend from K-2nd grade, but she moved to Massachusetts.
   - From 3rd-5th grade, I was close with Abby.
   - From 6th-8th grade, I was close with Sharon.

@@ -50,18 +50,15 @@ Chooses to see the flaws or the bad sides similar to Vicky, like i feel like the
 - The difference is you make me happier than anxious, so I'll hang out with you because there's a higher chance I'll have fun, but there's still that feeling.
 - I'm sure you don't like feeling annoyed at me either, but I'm just being me. Should I not be myself? Do you want me to be who you want me to be or do what you want me to do?
 - I hate it when people assume my intentions, but I think they do because I don't communicate clearly.
-
 - I feel a little uncomfortable psychologically when she always lets me pay for everything, then she also expects me to buy her a computer.
 - Makes me feel bad for certain things, like for example when I did not buy the game she said she wanted us to buy
-- 
 
 
 **Made me feel good**
 - When we climb together I have a lot of fun.
 - Many similar interests and we have a lot of fun when we hang out together.
 - Is always excited about has positive energy that is comforting
-- Super 
-- When Chris broke her ankle,
+- Super easy to talk to and have a conversation with sometimes.
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.

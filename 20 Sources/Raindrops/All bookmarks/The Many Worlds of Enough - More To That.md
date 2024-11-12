@@ -6,13 +6,15 @@ raindrop_highlights:
 ---
 
 Source URL:: https://moretothat.com/the-many-worlds-of-enough/
-Status:: #🟥
+Status:: #🟨 
+Tags:: #❤️ #
 Medium:: #source/article
 
 
 ### The Many Worlds of Enough - More To That
 
-Enough is elusive because when you reach it, you&#39;re no longer the person that once desired it.
+Enough is elusive because when you reach it, you're no longer the person that once desired it.
+
 
 #### Highlights
 
