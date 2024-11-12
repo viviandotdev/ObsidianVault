@@ -27,7 +27,8 @@ Which is to say: If you want to do something right, do it yourself; because othe
 **Personal Experience**
 *What experiences, stories, or problems you’ve faced that come to mind?*
 
-  - This is a older sister problem, growing up I was always asked and told to do something and then she would get upset when I don't do it right
+  - This is a older sister problem, growing up I was always asked and told to do something and then she would get upset when I don't do it right or the way she wanted to. 
+  - The reason I do things badly is not because I don't know how to do them it's because I don't care enough. I will do things well if I care enough about it.
 **Potential Framework, System, or Solution**
 *Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!*
 
