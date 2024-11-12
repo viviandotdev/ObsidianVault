@@ -28,8 +28,12 @@ Which is to say: If you want to do something right, do it yourself; because othe
 *What experiences, stories, or problems you’ve faced that come to mind?*
 
   - This is a older sister problem, growing up I was always asked and told to do something and then she would get upset when I don't do it right or the way she wanted to. 
-  - The reason I do things badly is not because I don't know how to do them it's because I don't care enough. I will do things well if I care enough about it.
+  - The reason I do things badly is not because I don't know how to do them it's because I don't care enough. I can am capable of doing things well if I care enough about it.
+  - I think we both can be right. I think you are right that I should have communicated better and asked for more context or just did it.
+  - But you could have also avoided this by just texting Diana directly. Like why did you have to go through me?
+  - I think if something is important enough you should never delegate to someone else you should do it yourself because other people just won't care enough.
+  - I get annoyed when people ask me to do things for them and then I do it and then they get upset when I don't do it the way they intended or not up to their standards. If you want something to to be done to your standard do it yourself because I will only do
 **Potential Framework, System, or Solution**
 *Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!*
 
-  - List
+  - Don't ask people to do things for if they are that important to you.
