@@ -12,8 +12,14 @@ Go to the zoo
 Go camping
 Go skiing
 Central Park climbing 
-Make a chair
-Sushi making class
+
+
+**Workshops / Activities**
+Woodworking class
+	[Fetching Title#w56c](https://www.bienhechoacademy.com/courses)
+Make a chair workshops
+Sushi Making Class
+French Pastry Baking Class
 
 Musesums
 **noguchi** - japanese museum
