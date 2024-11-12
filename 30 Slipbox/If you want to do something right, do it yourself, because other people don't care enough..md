@@ -1,6 +1,6 @@
 up::  [[Mind]]
 tags:: 
-related::
+related:: #life-advice
 ## If you want to do something right, do it yourself, because other people don't care enough. 
 
 **Topic**
