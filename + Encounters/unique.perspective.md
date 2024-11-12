@@ -7,8 +7,7 @@
 
   **References**
   Are there any quotes, books, or other content that comes to mind? Did you find the information somewhere?
-
-  - “Sensible people get paid for doing what they enjoy doing.” — Alan Watts
+	  - “Sensible people get paid for doing what they enjoy doing.” — Alan Watts
 
   **Braindump, Summary, & Reference Notes**
 
