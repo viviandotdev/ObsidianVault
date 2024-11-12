@@ -27,6 +27,7 @@
 - [[The key to happiness is optimizing health, time and money]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
 - [[You are happiest when working towards your goals, not when you have achieved them]]
+- 
 
 #money 
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
