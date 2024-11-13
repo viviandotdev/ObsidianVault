@@ -1,6 +1,4 @@
 # Self Analysis
-- [[The Future Authoring Program — Jordan B. Peterson]]
-- Andrew Huberman Trauma Journaling
 
 **Why am I introverted?**
 - Growing up, I only had one close friend during each main period of my life.
@@ -25,11 +23,6 @@
 
 **Questions**
 
-**My solution to find the almost perfect partner.**
-- One problem I had was knowing when I would be ready for a partner. I think I'll be ready when I've fully figured out myself, my values, likes, and dislikes.
-- I'll create a document about myself, and once that's done, I'll be ready, having thought and written down about all those things.
-- It doesn't make sense how most people choose a partner just because someone likes them or because their heart beats faster around them.
-  - Of course, we're animals programmed to reproduce, so if someone likes you, your brain tricks you into thinking they're compatible.
 - There's no "finding the right person"; you just have to become the right person, and the right person will show up at some point.
 
 **Why I quit social media**
@@ -42,16 +35,11 @@
 - The goal is to continue building apps that I think are cool and that others will use. Salaries and money are byproducts of ambition, not the primary desire.
 - It's not that I don't care; I just don't want to fight. I know how things will be, and I'll end up getting hurt, so I give up and let you win. I'm scared of making you upset and will do anything to prevent that.
 
-**Values**
-- Ambitious: I want to be a more capable person who is fully independent and doesn't need the help of others.
-- The feeling of achieving something you never thought possible is empowering and makes you feel like you can achieve anything.
-- This is one reason I love rock climbing. Every day, I get to try something new and improve. In rock climbing, there are many ways to improve, unlike weightlifting, where the only dopamine hit is lifting a heavier weight, which doesn't happen every day.
-
 **Why am I so avoidant?**
 - Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
-  - Anxious people overthink and stress about it.
-  - Avoidants push people away or keep them at a distance to abandon the other person before they can be abandoned.
-- I think this subconsciously comes from my childhood. I was abandoned by my parents immediately after birth, which is crucial for forming secure relationships. I still don't feel close to my parents or anyone.
+- Anxious people overthink and stress about it.
+- Avoidant push people away or keep them at a distance to abandon the other person before they can be abandoned.
+- I think this subconsciously comes from my childhood. I was "abandoned" by my parents immediately after birth, which is crucial for forming secure relationships. I still don't feel close to my parents or anyone.
 - I expressed my wants and needs and was immediately shut down, realizing I had to figure everything out myself because they wouldn't help me.
 - My sister and mom were dismissive. For example, every winter, my room was freezing, and I would wake up shivering. I told my dad and sister, but I was ignored.
 - Maybe that's why I feel no pain; I blocked it out to cope. It's easier to suffer if you don't feel pain.
