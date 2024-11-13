@@ -21,10 +21,6 @@
 - I never get bored because I have so many questions, books I want to read, and things I want to build and learn. I get confused when people say they are bored.
 - The immense computational power and energy required to develop semi-intelligent systems like ChatGPT are staggering. Yet, our brains naturally possess incredible cognitive capabilities, which we often take for granted. Instead of harnessing this potential, many people spend their time mindlessly scrolling through TikTok or watching TV, allowing their brains to atrophy rather than using them to their fullest extent.
 
-**Questions**
-
-- There's no "finding the right person"; you just have to become the right person, and the right person will show up at some point.
-
 **Why I quit social media**
 - I don't feel FOMO because I know I wouldn't want to be in those situations. If you show me someone having fun at a party, I don't feel FOMO because I know I wouldn't have fun there.
 - Social media tells you what to like, think, and feel, but I want to figure these things out naturally. I want to know what I'll become interested in on my own.
@@ -38,6 +34,7 @@
 **Why am I so avoidant?**
 - Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
 - Anxious people overthink and stress about it.
+-  Early separation from parents can affect attachment styles. You might find it challenging to form secure attachments in relationships, potentially leading to issues with trust or intimacy.
 - Avoidant push people away or keep them at a distance to abandon the other person before they can be abandoned.
 - I think this subconsciously comes from my childhood. I was "abandoned" by my parents immediately after birth, which is crucial for forming secure relationships. I still don't feel close to my parents or anyone.
 - I expressed my wants and needs and was immediately shut down, realizing I had to figure everything out myself because they wouldn't help me.
@@ -49,11 +46,11 @@
 - I grew up in a home where nothing was ever talked about, and everything was ignored or swept under the rug. As an adult, I learned not to express my emotions. When I did, I was dismissed, told to stop being dramatic, or even punished.
 - For example, every time I cried or displayed emotion, I was punished and yelled at for crying. This is why I learned to avoid my emotions and choose to suppress them. Running away from emotions makes relationships more difficult.
 - Emotional abandonment and inconsistency in feeling validated and loved. My dad never showed up for me. He wasn't there for birthdays, piano performances, or awards. He rarely came home for dinner.
-- Inconsistent parenting: Some days, they love and care for you; other days, they criticize you. Parents who criticize create children who no longer share their hopes and dreams because they'll be knocked down.
+- Inconsistent parenting: **Some days, they love and care for you; other days, they criticize you**. Parents who criticize create children who no longer share their hopes and dreams because they'll be knocked down.
 - Hitting your kids falls under inconsistent parenting. As a child, you may not understand how someone who loves you could want to hurt you. It's confusing for a kid.
 - You're also inconsistent sometimes. Sometimes you seem to like me, but other times, you don't.
 - Emotionally immature parents view children as a source of their self-esteem.
-
+-  Early childhood experiences play a crucial role in developing emotional regulation skills. You might experience difficulties in managing emotions or heightened sensitivity to stress.
 
 **Which attachment style are you?**
 - I relate to this growing up. As a kid, I was very expressive. I remember dancing in my room and laughing a lot.
