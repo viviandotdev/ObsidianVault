@@ -19,6 +19,7 @@ Medium:: #source/article
 
 To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.
 
+
 #### Highlights
 
 > [!quote]+ Updated on Mon Sep 09 2024 13:24:38 GMT-0400

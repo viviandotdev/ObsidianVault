@@ -18,9 +18,7 @@ links::
 - I think AI will help increase the speed of innovation 
 [[Dario Amodei — Machines of Loving Grace]]
 [[Why A.I. Isn’t Going to Make Art]]
-
-
-
+[[The AI Revolution is Rotten to the Core]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
