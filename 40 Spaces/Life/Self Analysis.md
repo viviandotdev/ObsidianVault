@@ -65,6 +65,7 @@
   
 **Why i love to rock climb?**
 If the person that’s supposed love me the most doesn’t even believe in me or encourage me to do well how can I supposed to believe in myself.
+I had such low self-esteem, I doubted my self so much and the people who were supposed to love me the most did not make it any easier. 
 
 Like I see it with my brother, like the other day he told me he wanted to a piano so he practice a song he liked,
 
@@ -76,4 +77,5 @@ Then my mom throws out the leftovers when I wanted to eat it,
 Like how do you expect anyone to be good if you don't encourage them.
 I've learned to not listen to them when they see things, like they doubt me all the fucking time it actually so annoying. Like how many times do I have to prove them wrong for them to believe in me.
 
-LIke when I got my job I didn't have anyone to tell, 
+
+Like when I got my job I didn't have anyone to tell, 
