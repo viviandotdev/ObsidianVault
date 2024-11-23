@@ -1,4 +1,4 @@
-ep:: [[[[The case against morning yoga, daily routines, and endless meetings]]Home]] / [[Sources]] 
+ep:: [[Home]] / [[Sources]] 
 
 ## Articles
 
