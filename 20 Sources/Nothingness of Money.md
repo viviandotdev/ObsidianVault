@@ -4,7 +4,7 @@ modified: Wednesday 14th February 2024 22:07:30
 alias:
 ---
 up::
-status:: #🟩 
+status:: #🟩 #❤️ 
 tags:: #money
 medium:: #source/article
 links::[The Nothingness of Money](https://moretothat.com/the-nothingness-of-money/)

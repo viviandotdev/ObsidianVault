@@ -11,7 +11,7 @@ raindrop_highlights:
 ---
 
 Source URL:: https://darioamodei.com/machines-of-loving-grace#1-biology-and-health
-Status:: #🟥
+Status:: #🟨 
 Medium:: #source/article
 
 

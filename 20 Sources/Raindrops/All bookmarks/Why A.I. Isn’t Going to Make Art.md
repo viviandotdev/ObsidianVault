@@ -13,10 +13,8 @@ raindrop_highlights:
 ---
 
 Source URL:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
-Status:: #🟥
+Status:: #🟩  #❤️ 
 Medium:: #source/article
-
-
 ### Why A.I. Isn’t Going to Make Art
 
 To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.
