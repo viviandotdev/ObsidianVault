@@ -60,3 +60,14 @@
 
 **What do you think is most important: health, time, or money?**
 - I think one of the keys to living a good life is optimizing for health, time, and money.
+
+
+  
+**Why i love to rock climb?**
+If the person that’s supposed love me the most doesn’t even believe in me or encourage me to do well how can I supposed to believe in myself.
+
+Like I see it with my brother, like the other day he told me he wanted to a piano so he practice a song he liked,
+
+I told him he could have mine, and my mom and sister said don’t give to him it’s a waste of time he’s just going to practice for 2 days and then give up, I was the only trying to encourage, like I as showing him songs like,
+
+Also like I recently got him to start cooking
