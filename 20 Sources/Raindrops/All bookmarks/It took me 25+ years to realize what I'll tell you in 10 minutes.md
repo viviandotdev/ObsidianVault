@@ -10,7 +10,7 @@ Status:: #🟥
 Medium:: #source/article
 
 
-### It took me 25+ years to realize what I&#39;ll tell you in 10 minutes...
+### It took me 25+ years to realize what I'll tell you in 10 minutes
 
 I hope this helps.
 
