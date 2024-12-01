@@ -6,7 +6,8 @@ alias:
 up::  
 type:: #note/atomic🌳 
 links::
-tags:: #confidence 
+tags:: #confidence #values
+
 ## Don't let other people tell you who you are
 
 

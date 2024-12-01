@@ -5,9 +5,8 @@ alias:
 ---
 up::  
 type:: #note/atomic🌳 
-links::
+tags:: #goals 
 ## Why do you need goals?
-
 
 You need to pick something on the horizon and go towards it or else you will just walk in circles
 
