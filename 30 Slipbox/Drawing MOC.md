@@ -14,7 +14,7 @@ related:
 ### Courses
 [[Dynamic Sketching]]
 [[Draw a Box]]
-[[]]
+[[Figure Drawing-Design and Invention]]
 ### Skills
 [[Form]]
 [[Perspective]]
