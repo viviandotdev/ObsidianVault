@@ -11,6 +11,8 @@ related:
 [[Drawing Advice]]
 [[Anki for Artists]]
 
+### Courses
+[[Dynamic Sketching]]
 
 ### Skills
 [[Form]]
@@ -26,15 +28,6 @@ related:
 
 [[Digital (Procreate)]]
 
-
-
-00:30 Forms
-01:40 Perspective 
-02:40 Construction 
-03:29 Gesture
-04:23 Portraits &amp; Figures
-06:26 Forget colors
-08:56 Storytelling &amp; Composition
 
 1. Next, I will need to be creative. At least try. I will seek inspiration from photos, nature, books, and other artists. I will compile a file with ideas for details that will bring my picture to life. I will choose the style I want to draw. I would roughly create a draft of a composition.
 
