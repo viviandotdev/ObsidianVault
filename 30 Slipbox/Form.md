@@ -9,7 +9,7 @@ links::
 ## Form
 
 - 3d forms, shapes and volumes
-	[[Drawing Anatomy MOC]]
+
 **Resources**
 	How to Draw Scott Roberson
 	Cognitive Drawing

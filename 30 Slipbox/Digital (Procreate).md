@@ -6,7 +6,7 @@ alias:
 up::  [[Drawing MOC]]
 tags:: 
 links::
-## Technical (Procreate)
+## Digital (Procreate)
 
 
 
