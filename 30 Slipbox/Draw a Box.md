@@ -8,9 +8,6 @@ links::
 
 [Drawabox | A free, exercise based approach to learning the fundamentals of drawing](https://drawabox.com/)
 
-
-# Drawabox Homework Exercises Checklist
-
 ## Lesson 1: Lines, Ellipses, and Boxes
 - Lines
 	- [ ] [Superimposed Lines](https://drawabox.com/lesson/1/superimposedlines)
@@ -36,42 +33,29 @@ links::
 ## Lesson 3: Applying Construction to Plants
 - [ ] Daisy
 - [ ] Mushroom
-- [ ] 
+- [ ] Pitcher
+- [ ] Potato
 
 ## Lesson 4: Applying Construction to Insects and Arachnids
-- [ ] Basic Insect Construction
-  - [ ] Complete 4 pages
-  - [Link to Exercise](https://drawabox.com/lesson/4/insects)
-- [ ] Detailed Insect Construction
-  - [ ] Complete 4 pages
-  - [Link to Exercise](https://drawabox.com/lesson/4/detailedinsects)
+- [ ] [Wasp](https://drawabox.com/lesson/4/2/video)
+	- [  ][Kaiyodo Giant Hornet Figure Review and Sketch Demo - YouTube](https://www.youtube.com/watch?v=OjHwwCcJUrA&list=LL&index=6)
+- [ ] Louse
+- [ ] Scorpion
+- [ ] Black Widow
+- [ ] House Fly
+- [ ] Shrimp
+- [ ] Lobster
+- [ ] Crickets
+- [ ] Spider
+- [ ] Ladybug
 
 ## 250 Cylinder Challenge
 - [ ] [Complete 250 Boxes](https://drawabox.com/250box)
 
 ## Lesson 5: Applying Construction to Animals
-- 
+[Peter Han Animals](https://www.youtube.com/watch?v=oYTPjYH0sEc&list=LL&index=7)
 
 ## Lesson 6: Applying Construction to Everyday Objects
-- [ 
+
 
 ## Lesson 7: Applying Construction to Vehicles
-
-
-## Additional Exercises
-- [ ] Texture Analysis
-  - [ ] Complete 2 pages
-  - [Link to Exercise](https://drawabox.com/lesson/textureanalysis)
-- [ ] Dissections
-  - [ ] Complete 2 pages
-  - [Link to Exercise](https://drawabox.com/lesson/dissections)
-- [ ] Form Intersections
-  - [ ] Complete 2 pages
-  - [Link to Exercise](https://drawabox.com/lesson/formintersections)
-
----
-
-### Notes:
-- Ensure each exercise is completed with focus on quality over quantity.
-- Review instructions for each exercise on the Drawabox website.
-- Seek feedback to improve your understanding and execution of each exercise.
