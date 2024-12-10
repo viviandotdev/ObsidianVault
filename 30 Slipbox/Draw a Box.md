@@ -34,6 +34,7 @@ links::
 - [x] [Box rotation exercise](https://www.youtube.com/watch?v=FEyoaEibF08&t=660s)
 	![[Screenshot 2024-12-10 at 12.55.16 PM.png|200]]
 ## Lesson 3: Applying Construction to Plants
+Botany for the artist
 - [x] Daisy
 - [x] Mushroom
 - [ ] Pitcher
