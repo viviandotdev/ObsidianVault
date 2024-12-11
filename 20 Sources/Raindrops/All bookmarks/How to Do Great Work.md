@@ -57,7 +57,7 @@ raindrop_highlights:
 ---
 
 Source URL:: https://paulgraham.com/greatwork.html
-Status:: #🟥
+Status:: #🟨 
 Medium:: #source/article
 
 
