@@ -9,37 +9,38 @@ links:: [How to set up Prisma with a local Docker Postgres container | by Alessa
 ## How to set up prisma with local docker container
 
 
-
 **Create a container called postgres-db from the postgres image**
 Ensure the ports are correctly mapped, you should see an output similar to 0.0.0.0:6500->5432/tcp or localhost:6500->5432/tcp in the PORTS column. This indicates that port 5432 on the container is mapped to port 6500 on the host.
 
-**download postgres container and then run the container**
+**Download postgres container and then run the container**
 ```
 docker run -e POSTGRES_DB=bookcue -e POSTGRES_PASSWORD=test -e POSTGRES_USER=postgres -p 6500:5432 -d postgres
 ```
+username=(default root user, leave empty)
+test=password
+port=6500
 
-**connect to the container**
+**Connect to the container add this to  the env file **
 ```
 DATABASE_URL="postgresql://postgres:test@localhost:6500/bookcue?schema=public"
 ```
 
-Access the container named **postgres-db** as root user
-```
-docker exec -it keen_antonelli bash
-```
+**Select the exec in docker app**
+![[Screenshot 2024-12-12 at 10.01.06 AM.png]]
 
-Switch to postgres user
+![[Screenshot 2024-12-12 at 10.00.07 AM.png]]
+
 ```
-su - postgres
+psql -U postgres
 ```
-Create database called bookcue
+**View the database in postgres**
+```
+\list
+```
+**Create the database**
 ```
 createdb bookcue
 ```
-
-
-
-
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
