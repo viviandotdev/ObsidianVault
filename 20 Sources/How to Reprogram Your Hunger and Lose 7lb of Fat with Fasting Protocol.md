@@ -8,7 +8,7 @@ Source URL:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learne
 Status:: #🟩 
 Medium:: #source/video
 tags:: #fasting
-## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol*
+## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol
 
 **Transform Body Composition and Increase Lifespan with Fasting**
 

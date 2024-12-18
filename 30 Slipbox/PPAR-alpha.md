@@ -5,7 +5,7 @@ alias:
 ---
 up::  
 type:: #note/atomic🌳 
-links:: [[How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol*]]
+links:: [[How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol]]
 ## PPAR-alpha
 
 **Peroxisome Proliferator-Activated Receptor Alpha (PPAR-alpha) and Fat Adaptation**
