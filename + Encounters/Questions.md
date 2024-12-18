@@ -13,7 +13,7 @@ Philosophy (how do live a good life?)
 [[What are aritstole's views on friendship]]
 
 Social Skills
-[[How to be more social?]]
+[[How to be more social]]
 
 Health
 [[Why do i get red lines under cold exposure?]]
