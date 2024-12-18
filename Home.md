@@ -1,7 +1,7 @@
 ---
 alias: ["000"]
 ---
-# Home 🌎
+I# Home 🌎
 Your launchpad and home base. That's here. That's home.
 #### Main
 - [[Meta PKM]] 
