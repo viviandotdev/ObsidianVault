@@ -11,7 +11,7 @@ related:
 [[Drawing Advice]]
 [[Anki for Artists]]
 
-### Courses
+### Current Courses
 [[Dynamic Sketching]]
 [[Draw a Box]]
 [[Figure Drawing-Design and Invention]]

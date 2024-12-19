@@ -8,9 +8,6 @@ type:: #note/atomic🌳
 links::
 ## Views on AI
 
-- I
-
-
 - AI has the power to change world in ways that people don't expect
 - The real power in AI is the ability to speed up processes that would take humans are really long time
 - Also AI has the ability to run simulations and go through iterations on things that would take forever.
