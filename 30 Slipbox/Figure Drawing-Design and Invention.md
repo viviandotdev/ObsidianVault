@@ -3,7 +3,7 @@ created: 2024-12-10 13:16
 modified: Tuesday 10th December 2024 13:16:12
 alias: 
 ---
-up::  
+up::  [[Drawing MOC]]
 type:: #note/atomic🌳 
 links::
 ## Figure Drawing-Design and Invention
