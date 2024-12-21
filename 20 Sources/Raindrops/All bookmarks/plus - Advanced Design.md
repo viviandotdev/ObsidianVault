@@ -2,7 +2,6 @@
 raindrop_id: 918558869
 raindrop_highlights:
   67582a900e7d685a9143dc7c: c3d43f7c9a412937a368607abfc40525
-
 ---
 
 Source URL:: https://advdes.org/plus

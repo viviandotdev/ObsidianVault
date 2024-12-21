@@ -2,7 +2,6 @@
 raindrop_id: 898929310
 raindrop_highlights:
   6733c8b45bd86a53889b89de: bdf093a018fa2f884cd8068088a25655
-
 ---
 
 Source URL:: https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture

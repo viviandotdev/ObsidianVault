@@ -2,7 +2,6 @@
 raindrop_id: 906994272
 raindrop_highlights:
   674216c57e252412161d81fa: 9403f856b8b9fe7e91c0424ab6a7ff9b
-
 ---
 
 Source URL:: https://www.youtube.com/watch?v=-MUEXGaxFDA
