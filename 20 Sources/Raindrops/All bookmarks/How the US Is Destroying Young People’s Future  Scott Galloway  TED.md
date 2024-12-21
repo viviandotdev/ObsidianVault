@@ -14,7 +14,12 @@ Medium:: #source/article
 
 The youth are making less money for doing the same work as the generation before them. 
 For example housing prices have sky rocketed compared to ages in our generation, we will not be able to afford homes.
-[[Why have housing pr]]
+
+**Affirmative action should be based on the amount of money of your household NOT the color of your skin.**
+
+Wealth is being t
+--- --- 
+### Notes
 
 **Do we love your children?*
   
@@ -24,48 +29,24 @@ In the past few year inflation is growing much faster than wages
 And the [[social contract]] is decreasing, the percentage to 30 year olds earning more than their parents is falling
 
 **The youth are making less money doing the same work**
-
   
-
-  
-
 Young people are angry we don’t get the same prosperity as their elders
-
   
-
 Home prices are up and out of reach
-
-  
-
-  
 
 Wealth is transferred to the elderly
 
-  
-
-  
-
-Higher ed should be about taking unremarkable kids and giving them a chance
+Higher-ed should be about taking unremarkable kids and giving them a chance
 
 Artificially constrain supply 
 
-  
-
 College is a hedge fund offering classes
-
-Affirmative action should be based on income not the color of your skin.
-
-  
+**Affirmative action should be based on income not the color of your skin.**
 
 Capital is growing 
-
 Wages vs wealth, wages have barely moved compared to the S&p500
 
-The higher ed should give the opportunity for the unremarkable 
-
-  
-
-Social security, is the great transfer from young to old,
+Social security, is the great transfer from young to old
 
 Old people vote are in charge, the old people in charge will not understand the challenges of the youth.
 
