@@ -113,14 +113,14 @@ def main():
 
 
     # Clean up the input and output directories, removing only .epub files
-    # for directory in [input_dir, output_dir]:
-    #     for file in os.listdir(directory):
-    #         file_path = os.path.join(directory, file)
-    #         try:
-    #             if file.endswith('.epub') and (os.path.isfile(file_path) or os.path.islink(file_path)):
-    #                 os.unlink(file_path)  # Remove the .epub file or link
-    #         except Exception as e:
-    #             print(f"Failed to delete {file_path}. Reason: {e}")
+    for directory in [input_dir, output_dir]:
+        for file in os.listdir(directory):
+            file_path = os.path.join(directory, file)
+            try:
+                if file.endswith('.epub') and (os.path.isfile(file_path) or os.path.islink(file_path)):
+                    os.unlink(file_path)  # Remove the .epub file or link
+            except Exception as e:
+                print(f"Failed to delete {file_path}. Reason: {e}")
 
 if __name__ == "__main__":
     main()
