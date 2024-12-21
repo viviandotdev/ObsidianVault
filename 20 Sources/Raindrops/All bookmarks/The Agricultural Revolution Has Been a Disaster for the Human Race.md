@@ -2,7 +2,6 @@
 raindrop_id: 926391959
 raindrop_highlights:
   676714a4c2a41c59c2f5cb96: 611362508748c2c0882eac94d2305311
-
 ---
 
 URL:: https://www.youtube.com/watch?v=ZdjP0NZO-CU
@@ -12,6 +11,9 @@ Medium:: #source/article
 
 ### The Agricultural Revolution Has Been a Disaster for the Human Race
 
+
+Our body is not designed to live in modern society, The agricultural revolution changed the way live and may have created more problems than it solved
+The main problem the agriculture revolution solved was food, we are now able to get food very easily however, maybe it was not meant to be this way. Because instead of hunting for our food we just sit around all day and wait for the food to be served to us, This has been detrimintal for our health a
 ## Spencer Wells' Pandora's Seed: A Critical Look at Modern Society
 
 Spencer Wells' "Pandora's Seed" and the "Insight" podcast explore a provocative idea: **modern society, despite its advancements, might be inherently unhealthy for humans.** We may be fundamentally built for a lifestyle that no longer exists. 
