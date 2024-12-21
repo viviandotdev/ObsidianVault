@@ -6,7 +6,7 @@ alias:
 up::  [[Workflows]]
 tags:: 
 type:: #note/how-to 
-source:: [[How I Read|How I Read]]
+source:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
 [How to Actually Use What You Read with Readwise](https://blog.readwise.io/reading-workflow-part-1/)
 ## How I Read Books
 
