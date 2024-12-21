@@ -2,6 +2,7 @@
 raindrop_id: 712323291
 raindrop_highlights:
   65a12cffb3f0dbaec4b129a4: 4c1a6b64f7505e54857bddc749a95b5c
+modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 URL:: https://read.engineerscodex.com/p/simple-software-engineering-habits
