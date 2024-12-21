@@ -10,7 +10,7 @@ raindrop_highlights:
   65cd7b9d06660d65ce9c1d05: 08a91e8bf463602442bd86fd407a3120
 ---
 
-Source URL:: https://moretothat.com/travel-is-no-cure-for-the-mind/
+URL:: https://moretothat.com/travel-is-no-cure-for-the-mind/
 Status:: #🟥
 Medium:: #source/article
 
@@ -18,7 +18,7 @@ Medium:: #source/article
 ### Travel Is No Cure for the Mind - More To That
 
 Who you are in a venue matters far more than the venue itself.
-Most people travel is the cure to all of their problems. 
+Most people travel is the cure to all of their problems.
 #### Highlights
 
 > [!quote]+ Updated on Wed Feb 14 2024 21:49:01 GMT-0500

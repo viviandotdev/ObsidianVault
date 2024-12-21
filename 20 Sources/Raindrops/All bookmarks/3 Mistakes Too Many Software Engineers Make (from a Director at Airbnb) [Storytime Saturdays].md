@@ -5,8 +5,8 @@ raindrop_highlights:
   6662fbc84dd145b36b53e6db: a032066f06a4eed0e6e8d7ee363974af
 ---
 
-Source URL:: https://codinginterviewsmadesimple.substack.com/p/3-mistakes-too-many-software-engineers?utm_source=post-email-title&amp;publication_id=108704&amp;post_id=144937064&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
-Status:: #🟩 
+URL:: https://codinginterviewsmadesimple.substack.com/p/3-mistakes-too-many-software-engineers?utm_source=post-email-title&amp;publication_id=108704&amp;post_id=144937064&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
+Status:: #🟩
 Medium:: #source/article
 
 

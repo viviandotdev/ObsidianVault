@@ -4,7 +4,7 @@ raindrop_highlights:
   66a0c6b4f675e2bd0e610d51: cfd04d12cda91cdecbdaa69f1f9d01a5
 ---
 
-Source URL:: https://matt.sh/panic-at-the-job-market/
+URL:: https://matt.sh/panic-at-the-job-market/
 Status:: #🟥
 Medium:: #source/article
 

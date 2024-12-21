@@ -4,7 +4,7 @@ raindrop_highlights:
   67582f6c0e7d685a91446e16: b620b581fd8497f16bc1f7d5bab4cae0
 ---
 
-Source URL:: https://www.youtube.com/watch?v=ddKwkqNG-Uc&amp;list=WL&amp;index=6
+URL:: https://www.youtube.com/watch?v=ddKwkqNG-Uc&amp;list=WL&amp;index=6
 Status:: #🟥
 Medium:: #source/article
 
@@ -43,7 +43,7 @@ Instagram - https://www.instagram.com/ricebrushart/
 Pixiv - https://www.pixiv.net/en/users/9387523
 
 
-🎥STUFF I USE: 
+🎥STUFF I USE:
 
 🎨Drawing equipments:
    -HUION tablets - https://store.huion.com/au?af_au_code=R0DNA7

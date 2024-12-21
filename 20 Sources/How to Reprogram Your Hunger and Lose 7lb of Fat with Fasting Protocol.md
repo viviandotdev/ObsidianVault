@@ -1,11 +1,11 @@
 ---
-created: 2024-10-27 19:37 
+created: 2024-10-27 19:37
 modified: Friday 1st November 2024 21:07:18
-alias: 
+alias:
 ---
 
-Source URL:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
-Status:: #🟩 
+URL:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
+Status:: #🟩
 Medium:: #source/video
 tags:: #fasting
 ## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol
@@ -39,19 +39,19 @@ tags:: #fasting
 
 Fasting -> Fat Adaption (PPAR(alpha))-> Less Hunger ([[PPAR-alpha]])
 Getting the body to use it own body tissue (fat tissue) for energy (fat adapation)
-	when you do multiple fasts your bad gets fat adapted can you can 
+	when you do multiple fasts your bad gets fat adapted can you can
 
 Fasting gets easier
 PPAR induces fat adaption leads to less hunger
 Fat adaption (more efficiet at burning fat)
 Area of fat around mid section, 26% reduction in mid area reduction, fasting gets easier and, the more often you fast the body learns how to turn fat into energy more efficently each time you do it, increase the amount of fat loss in each subsequent fast ![[Screenshot 2024-10-27 at 8.03.21 PM.png]]
-Prolonged vs intermittenet fasting 
-Fat burning reaches a peak at day 5, through the fast the body gets better and better at fat burning until day 5 and then it plateaus 
+Prolonged vs intermittenet fasting
+Fat burning reaches a peak at day 5, through the fast the body gets better and better at fat burning until day 5 and then it plateaus
 [demonstrated that the increased fat oxidation reached a plateau at 5 d after KD, with no further changes over the remaining 10 d. In the early work by Phinney et al.](https://www.sciencedirect.com/science/article/pii/S0002916522012217#bib18)
 
 **Historical Insight:**
 - **Minnesota Starvation Experiment**
-	- Semi starvation -getting food, and ravenous hungry because they were never able to get into ketosis 
+	- Semi starvation -getting food, and ravenous hungry because they were never able to get into ketosis
 
 The main way to make fasting easier is to speed up the process of getting into ketosis
 ![[Screenshot 2024-10-27 at 8.10.16 PM.png]]

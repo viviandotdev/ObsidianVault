@@ -4,8 +4,8 @@ raindrop_highlights:
   65b9a28c49b2c62881322250: 0b03a0800182d165b4ecc5ec1abf42b5
 ---
 
-Source URL:: https://nesslabs.com/procrastination-emotions
-Status:: #🟩 
+URL:: https://nesslabs.com/procrastination-emotions
+Status:: #🟩
 Medium:: #source/article
 
 

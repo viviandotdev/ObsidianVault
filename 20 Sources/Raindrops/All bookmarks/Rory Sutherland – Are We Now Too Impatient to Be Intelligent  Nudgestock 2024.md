@@ -4,9 +4,9 @@ raindrop_highlights:
   6756d752b13ea0b96b56c1a6: e92cf8434981d6e3b9b38534b91f763d
 ---
 
-Source URL:: https://www.youtube.com/watch?v=Bc9jFbxrkMk
-Status:: #🟩 
-Medium:: #source/video 
+URL:: https://www.youtube.com/watch?v=Bc9jFbxrkMk
+Status:: #🟩
+Medium:: #source/video
 Tags:: #psychology #behavioral-science
 
 ### Rory Sutherland – Are We Now Too Impatient to Be Intelligent? | Nudgestock 2024

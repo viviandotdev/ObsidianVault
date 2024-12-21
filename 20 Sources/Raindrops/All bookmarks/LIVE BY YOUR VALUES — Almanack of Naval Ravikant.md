@@ -6,7 +6,7 @@ raindrop_highlights:
   6733a8cedc8d8c9eff1b121b: d5097439627d76f0573d78482185dd3a
 ---
 
-Source URL:: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
+URL:: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
 Status:: #🟥
 Medium:: #source/article
 

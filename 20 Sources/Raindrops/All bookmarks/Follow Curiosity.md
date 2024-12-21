@@ -12,7 +12,7 @@ raindrop_highlights:
   668200068a48b77d1919458c: 01fec34fa1a0b2d12bff16d1ea1d46ba
 ---
 
-Source URL:: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
+URL:: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
 Status:: #🟥
 Medium:: #source/article
 

@@ -5,7 +5,7 @@ raindrop_highlights:
   6660d6cf00d4e3dbacbe15b0: 12ddcc3c161a72b1657dd2483cc6fc20
 ---
 
-Source URL:: https://medium.com/@tommyscience/the-future-authoring-program-jordan-b-peterson-9edc24a2edc6
+URL:: https://medium.com/@tommyscience/the-future-authoring-program-jordan-b-peterson-9edc24a2edc6
 Status:: #🟥
 Medium:: #source/article
 

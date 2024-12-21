@@ -4,7 +4,7 @@ raindrop_highlights:
   666252dbd540749bc9ff67ee: eb94fb0bccdec7fa9ea0218216d170b7
 ---
 
-Source URL:: https://github.com/CodingGarden/mac-setup
+URL:: https://github.com/CodingGarden/mac-setup
 Status:: #🟥
 Medium:: #source/article
 Topics:: #dev-tools, #mac-setup

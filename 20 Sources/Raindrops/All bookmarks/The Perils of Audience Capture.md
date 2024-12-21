@@ -9,8 +9,8 @@ raindrop_highlights:
   663a1428fa8d04dc6e350dfe: c752b5f6f763e1523272b7574e4d4a28
 ---
 
-Source URL:: https://www.gurwinder.blog/p/the-perils-of-audience-capture
-Status:: #🟩 
+URL:: https://www.gurwinder.blog/p/the-perils-of-audience-capture
+Status:: #🟩
 Medium:: #source/article
 
 
@@ -19,7 +19,7 @@ Medium:: #source/article
 How influencers become brainwashed by their audiences
 It is important to have a strong sense of self before building an audience.
 Without a strong sense of self the audience will morph you into who they want you to be.
-This is true for me, I think I am easily influenced by others. It is important for me to build a strong sense of self first before, I let more people into my life, rather 
+This is true for me, I think I am easily influenced by others. It is important for me to build a strong sense of self first before, I let more people into my life, rather
 
 #### Highlights
 

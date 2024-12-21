@@ -4,7 +4,7 @@ raindrop_highlights:
   67582c58c4a8922c088b43a9: 0a70dece7cda73dfe6d3df92c3a36f9b
 ---
 
-Source URL:: https://www.youtube.com/watch?v=FEyoaEibF08&amp;list=WL&amp;index=10&amp;t=680s
+URL:: https://www.youtube.com/watch?v=FEyoaEibF08&amp;list=WL&amp;index=10&amp;t=680s
 Status:: #🟥
 Medium:: #source/article
 

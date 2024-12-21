@@ -5,7 +5,7 @@ raindrop_highlights:
 
 ---
 
-Source URL:: https://tutflix.org/resources/how-to-draw-dynamic-anatomy-step-by-step.700/
+URL:: https://tutflix.org/resources/how-to-draw-dynamic-anatomy-step-by-step.700/
 Status:: #🟥
 Medium:: #source/article
 

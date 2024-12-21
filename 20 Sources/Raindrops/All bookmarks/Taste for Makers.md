@@ -5,7 +5,7 @@ raindrop_highlights:
   666b80360c03b1783fe19520: a54af129433e0bf5839c51651518e475
 ---
 
-Source URL:: https://paulgraham.com/taste.html
+URL:: https://paulgraham.com/taste.html
 Status:: #🟥
 Medium:: #source/article
 

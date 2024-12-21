@@ -4,8 +4,8 @@ raindrop_highlights:
   65a12cffb3f0dbaec4b129a4: 4c1a6b64f7505e54857bddc749a95b5c
 ---
 
-Source URL:: https://read.engineerscodex.com/p/simple-software-engineering-habits
-Status:: #🟩 
+URL:: https://read.engineerscodex.com/p/simple-software-engineering-habits
+Status:: #🟩
 Medium:: #source/article
 Topics:: #productivity, #programming
 

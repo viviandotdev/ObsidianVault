@@ -7,7 +7,7 @@ raindrop_highlights:
   675833a1430a628325d721cc: f52fc0122bdc36e61e70ff3a1b169991
 ---
 
-Source URL:: https://www.nature.com/articles/s41598-024-56568-3?fromPaywallRec=true
+URL:: https://www.nature.com/articles/s41598-024-56568-3?fromPaywallRec=true
 Status:: #🟥
 Medium:: #source/article
 

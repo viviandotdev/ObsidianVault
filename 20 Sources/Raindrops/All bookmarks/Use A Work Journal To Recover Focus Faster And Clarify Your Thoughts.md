@@ -5,7 +5,7 @@ raindrop_highlights:
   66a052bb00cbcf94e669ad4e: 1f0d42c39aafe679e0c22ec27632f24f
 ---
 
-Source URL:: https://fev.al/posts/work-journal/
+URL:: https://fev.al/posts/work-journal/
 Status:: #🟥
 Medium:: #source/article
 

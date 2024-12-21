@@ -4,7 +4,7 @@ raindrop_highlights:
   67432d24efded4cc7179b861: b6c61bac74077bfc07569ebaf12aba3c
 ---
 
-Source URL:: https://www.youtube.com/watch?v=IHHEKcfVIsg
+URL:: https://www.youtube.com/watch?v=IHHEKcfVIsg
 Status:: #🟥
 Medium:: #source/article
 Topics:: #climbing
@@ -25,8 +25,8 @@ Narrow Grip
 Wide Grip
 Uneven (Rihgt)
 Unenve (left)
-Slow 
-Explosive 
+Slow
+Explosive
 (3 more to complete 10 sets)
 Also Visit: Bouldering Vlog (Youtube Channel)
 

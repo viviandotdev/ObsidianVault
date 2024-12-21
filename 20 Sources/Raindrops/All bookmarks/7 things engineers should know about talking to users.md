@@ -4,7 +4,7 @@ raindrop_highlights:
   662c1c36130022ea059bb337: 0709cb67ac248dc51bb35569856276b0
 ---
 
-Source URL:: https://newsletter.posthog.com/p/talk-to-users?utm_source=tldrwebdev
+URL:: https://newsletter.posthog.com/p/talk-to-users?utm_source=tldrwebdev
 Status:: #🟥
 Medium:: #source/article
 

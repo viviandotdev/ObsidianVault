@@ -5,7 +5,7 @@ raindrop_highlights:
 
 ---
 
-Source URL:: https://app.raindrop.io/my/-1/item/915881015/edit
+URL:: https://app.raindrop.io/my/-1/item/915881015/edit
 Status:: #🟥
 Medium:: #source/article
 

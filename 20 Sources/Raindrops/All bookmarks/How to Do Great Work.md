@@ -56,8 +56,8 @@ raindrop_highlights:
   666636010117555c8a3ad585: 7f6a44ff2d91d4e53b96936abd28823f
 ---
 
-Source URL:: https://paulgraham.com/greatwork.html
-Status:: #🟨 
+URL:: https://paulgraham.com/greatwork.html
+Status:: #🟨
 Medium:: #source/article
 
 

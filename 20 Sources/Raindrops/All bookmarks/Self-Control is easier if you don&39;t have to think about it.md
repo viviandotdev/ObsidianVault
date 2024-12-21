@@ -4,8 +4,8 @@ raindrop_highlights:
   6644c2dd77a8d4ce9a898ed3: 954374fec5926fb570bf5a4c939be549
 ---
 
-Source URL:: https://www.raquelmoss.com/automating-self-control/
-Status:: #🟩 
+URL:: https://www.raquelmoss.com/automating-self-control/
+Status:: #🟩
 Medium:: #source/article
 
 

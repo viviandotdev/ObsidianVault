@@ -5,8 +5,8 @@ raindrop_highlights:
   662cf0d57997b36d8b488621: 34a251001297ed3808ff1139e36b21b5
 ---
 
-Source URL:: https://ajkprojects.com/stopactinglikeyourefamous?utm_source=tldrnewsletter
-Status:: #🟩 
+URL:: https://ajkprojects.com/stopactinglikeyourefamous?utm_source=tldrnewsletter
+Status:: #🟩
 Medium:: #source/article
 Topics:: #blog
 

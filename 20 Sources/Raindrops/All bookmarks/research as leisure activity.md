@@ -6,8 +6,8 @@ raindrop_highlights:
   674214b136e99724dacd575f: af498cf4cb0a8c440c1142495c1ac9d6
 ---
 
-Source URL:: https://www.personalcanon.com/p/research-as-leisure-activity
-Status:: #🟩 
+URL:: https://www.personalcanon.com/p/research-as-leisure-activity
+Status:: #🟩
 Medium:: #source/article
 
 

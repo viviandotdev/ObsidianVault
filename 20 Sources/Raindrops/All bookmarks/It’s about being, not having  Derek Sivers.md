@@ -10,12 +10,12 @@ raindrop_highlights:
   6651eafc70dbc167ba9bb7f2: 212274ffc7cf49b1b216faa36299bace
 ---
 
-Source URL:: https://sive.rs/being
-Status:: #🟩 
+URL:: https://sive.rs/being
+Status:: #🟩
 Medium:: #source/article
 ### It’s about being, not having | Derek Sivers
 
-The reason I do things is not to get it done but to enjoy the process along the way. 
+The reason I do things is not to get it done but to enjoy the process along the way.
 [[Find joy in the process of learning and doing, It is nice learn and understand how this work instead of having done for you. ]]
 Enjoy the process of creating the app. The reason you make it I not to get it done and earn a shit ton of money. Just enjoy the process and make it good. That is the best way to approach it. You want understand a be a better code not just make money from an app. I want to make something beautiful. It does not need to be done quickly or my efficiently. I just need to enjoy the process along the way. If you feel like you are not enjoying the process try to think about what you are doing wrong and how you can enjoy it.
 

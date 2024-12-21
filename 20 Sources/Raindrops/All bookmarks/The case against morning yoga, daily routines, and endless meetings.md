@@ -7,7 +7,7 @@ raindrop_highlights:
   6687c8f501eff46d7bba3360: 8d82c8afedcab40de79610631f4e2973
 ---
 
-Source URL:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
+URL:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
 Status:: #🟥
 Medium:: #source/article
 

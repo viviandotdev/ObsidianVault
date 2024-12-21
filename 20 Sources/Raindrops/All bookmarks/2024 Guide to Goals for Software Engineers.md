@@ -5,8 +5,8 @@ raindrop_highlights:
   65a28353a8aed9854a7653ae: ea83199b3e16a8e4b0f5a3daf6f8da45
 ---
 
-Source URL:: https://careercutler.substack.com/p/2024-guide-to-goals-for-software
-Status:: #🟩 
+URL:: https://careercutler.substack.com/p/2024-guide-to-goals-for-software
+Status:: #🟩
 Medium:: #source/article
 Topics:: #productivity, #goals, #life-design
 

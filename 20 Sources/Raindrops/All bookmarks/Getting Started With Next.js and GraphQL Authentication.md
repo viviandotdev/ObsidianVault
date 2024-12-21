@@ -5,7 +5,7 @@ raindrop_highlights:
 
 ---
 
-Source URL:: https://lyonwj.com/blog/grandstack-podcast-app-next-js-graphql-authentication
+URL:: https://lyonwj.com/blog/grandstack-podcast-app-next-js-graphql-authentication
 Status:: #🟥
 Medium:: #source/article
 

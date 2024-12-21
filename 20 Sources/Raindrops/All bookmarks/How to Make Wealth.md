@@ -17,7 +17,7 @@ raindrop_highlights:
   666b617601db2da0abaa51cd: ff1158b461277ecf3ab20a4efdd36722
 ---
 
-Source URL:: https://paulgraham.com/wealth.html
+URL:: https://paulgraham.com/wealth.html
 Status:: #🟥
 Medium:: #source/article
 

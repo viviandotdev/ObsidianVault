@@ -8,7 +8,7 @@ raindrop_highlights:
   65a6c949b3f0dbaec46812a1: 1336fbb990871803cd75ee2ec7d22d6d
 ---
 
-Source URL:: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=don-t-trust-them
+URL:: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=don-t-trust-them
 Status:: #🟥
 Medium:: #source/article
 

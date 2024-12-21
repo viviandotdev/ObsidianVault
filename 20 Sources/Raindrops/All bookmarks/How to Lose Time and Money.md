@@ -11,7 +11,7 @@ raindrop_highlights:
   6688951d4d045deadb43782a: 045619b8a97648c1f4a8aa17e204768b
 ---
 
-Source URL:: https://paulgraham.com/selfindulgence.html
+URL:: https://paulgraham.com/selfindulgence.html
 Status:: #🟥
 Medium:: #source/article
 

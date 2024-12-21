@@ -6,7 +6,7 @@ raindrop_highlights:
   669684a16a07e998f07ccec0: 4b41fb7265bee2112e4914bec734d47c
 ---
 
-Source URL:: https://postanly.substack.com/p/an-existentialist-approach-to-life?utm_source=post-email-title&amp;publication_id=11353&amp;post_id=146462378&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
+URL:: https://postanly.substack.com/p/an-existentialist-approach-to-life?utm_source=post-email-title&amp;publication_id=11353&amp;post_id=146462378&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 Status:: #🟥
 Medium:: #source/article
 

@@ -5,7 +5,7 @@ raindrop_highlights:
   662fb591fbb59f626ab4021b: 33c1c50df2c4efe804b9f3e236400518
 ---
 
-Source URL:: https://moretothat.com/the-riddle-of-ambition/
+URL:: https://moretothat.com/the-riddle-of-ambition/
 Status:: #🟥
 Medium:: #source/article
 Topics:: #success

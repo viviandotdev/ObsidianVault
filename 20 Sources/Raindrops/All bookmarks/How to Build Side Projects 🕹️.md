@@ -5,9 +5,9 @@ raindrop_highlights:
   650793610a85661ffa65b878: 5b35067644e2a3bbfb41fa5cf0d8dafe
 ---
 
-Source URL:: https://refactoring.fm/p/how-to-build-side-projects?utm_source=substack&amp;utm_medium=email
-Status:: #🟩 
-Tags:: #creativity 
+URL:: https://refactoring.fm/p/how-to-build-side-projects?utm_source=substack&amp;utm_medium=email
+Status:: #🟩
+Tags:: #creativity
 Medium:: #source/article
 
 

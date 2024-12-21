@@ -16,7 +16,7 @@ raindrop_highlights:
   65d26cb1e57814347aa89e28: 014dfd812e338f8d2916f1b2e85d5f5c
 ---
 
-Source URL:: https://moretothat.com/the-labor-of-inspiration/
+URL:: https://moretothat.com/the-labor-of-inspiration/
 Status:: #🟥
 Medium:: #source/article
 

@@ -5,8 +5,8 @@ raindrop_highlights:
   6508a723eaf5daaebec23f7c: 5c7e3166d1216ff2ec0da611e94f4a9c
 ---
 
-Source URL:: https://www.notboring.co/p/capitalism-onchained?utm_source=post-email-title&amp;publication_id=10025&amp;post_id=136958177&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;utm_medium=email
-Status:: #🟩 
+URL:: https://www.notboring.co/p/capitalism-onchained?utm_source=post-email-title&amp;publication_id=10025&amp;post_id=136958177&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;utm_medium=email
+Status:: #🟩
 Medium:: #source/article
 
 

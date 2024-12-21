@@ -6,8 +6,8 @@ raindrop_highlights:
   6568a7bfbd7852733616b094: c415c28b16bcc4ed6b761e3120b64b4a
 ---
 
-Source URL:: https://craigmod.com/essays/drumming/
-Status:: #🟩 
+URL:: https://craigmod.com/essays/drumming/
+Status:: #🟩
 Medium:: #source/article
 Topics:: #drumming, #piano, #hobby
 

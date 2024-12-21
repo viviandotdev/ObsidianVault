@@ -6,8 +6,8 @@ raindrop_highlights:
   6733a1990f622f20056eeea8: 56e3256abddde9a5929f18410988d85e
 ---
 
-Source URL:: https://nav.al/finally-wealthy
-Status:: #🟩 
+URL:: https://nav.al/finally-wealthy
+Status:: #🟩
 Medium:: #source/article
 
 

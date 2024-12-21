@@ -4,10 +4,10 @@ raindrop_highlights:
   672b869cba11e1df86dc4da7: 9ad6d2d48fc804809d14a1828c89731a
 ---
 
-Source URL:: https://www.youtube.com/watch?v=e72WoGOhghE
-Status:: #🟩 
+URL:: https://www.youtube.com/watch?v=e72WoGOhghE
+Status:: #🟩
 Medium:: #source/article
-Tags:: #social-skills 
+Tags:: #social-skills
 
 ### How to (Mostly) Never Run Out of Things To Say.
 
@@ -51,7 +51,7 @@ Not everyone is great at communicating, even if they wish they could be. I hope 
 	5. how much was your ticket?
 	6. how long was your stay?
 
-If you are genuinely curious about something and want to learn more about it there is no such thing as a stupid question. 
+If you are genuinely curious about something and want to learn more about it there is no such thing as a stupid question.
 
 
 Make people feel better

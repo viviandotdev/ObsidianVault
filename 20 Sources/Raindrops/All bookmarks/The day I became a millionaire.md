@@ -5,8 +5,8 @@ raindrop_highlights:
   66534526d67b1d1d0e162a82: 647188470b190613602f5a825a884f4d
 ---
 
-Source URL:: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
-Status:: #🟩 
+URL:: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
+Status:: #🟩
 Medium:: #source/article
 Topics:: #goals, #financial-freedom, #money
 

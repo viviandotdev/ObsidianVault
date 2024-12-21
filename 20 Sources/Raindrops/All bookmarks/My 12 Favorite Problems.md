@@ -5,8 +5,8 @@ raindrop_highlights:
   659e9d90654b46e912445f76: 7dedc290b3df71998bad46051dfd8c64
 ---
 
-Source URL:: https://www.honest-broker.com/p/my-12-favorite-problems
-Status:: #🟩 
+URL:: https://www.honest-broker.com/p/my-12-favorite-problems
+Status:: #🟩
 Medium:: #source/article
 Topics:: #personal-development, #12-problems
 
@@ -25,4 +25,3 @@ A dozen things that drive my writing, research, thinking &amp; actions
 > [!quote]+ Updated on Wed Jan 10 2024 08:37:20 GMT-0500
 >
 > I’ve tried to find a third way. I do immersive deep dives into new subjects—reading 40 or 50 books in a particular area. Then I move on to a different field of inquiry, and do the same thing all over again. This allows me to achieve a degree of specialization in many areas, without getting lost in any of the rabbit holes.
-

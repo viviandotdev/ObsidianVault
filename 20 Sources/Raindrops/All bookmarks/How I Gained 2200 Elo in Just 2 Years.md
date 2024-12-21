@@ -4,8 +4,8 @@ raindrop_highlights:
   6666146a47e2fe7b78038bc3: 04ecbf6e9d3947a31094d0b4a6822513
 ---
 
-Source URL:: https://www.youtube.com/watch?v=lyHrkWom4EE
-Status:: #🟩 
+URL:: https://www.youtube.com/watch?v=lyHrkWom4EE
+Status:: #🟩
 Medium:: #source/article
 Topics:: #chess, #learn
 
@@ -25,7 +25,7 @@ Topics:: #chess, #learn
 - Complete chess anki puzzles
 - 2 games a day
 - Review one game using chess.com review
-- Watch one opening theory video 
+- Watch one opening theory video
 
 ### Puzzles
 - Goal: 1500 rating

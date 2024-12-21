@@ -4,8 +4,8 @@ raindrop_highlights:
   65ecc640db113f0d3a6a8de8: 6ba87d47f49e268c27f5bd5011c1f735
 ---
 
-Source URL:: https://elliot.computer/
-Status:: #🟩 
+URL:: https://elliot.computer/
+Status:: #🟩
 Medium:: #source/article
 
 

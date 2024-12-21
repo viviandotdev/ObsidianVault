@@ -9,9 +9,9 @@ raindrop_highlights:
   6733d8397ff7cbf114789902: 6e800246bd1373c6298a5f6edb435942
 ---
 
-Source URL:: https://moretothat.com/the-many-worlds-of-enough/
-Status:: #🟨 
-Tags:: #❤️ 
+URL:: https://moretothat.com/the-many-worlds-of-enough/
+Status:: #🟨
+Tags:: #❤️
 Medium:: #source/article
 
 
@@ -25,14 +25,14 @@ If your primary desire is to make as much money as possible that is greed.
 
 On the spiral dynamics chart at stage orange people value efficiency and maximizing profits no matter what this is what capitalism is based off of.
 
-  
+
 I don't need anymore money I don't need any more things. I already get to wake up everyday, spend my time how I want to if you choose to chase money and things there will never be enough. There will always be more money and things to have, 
 
 Money is infinite we can print more of it and and create it from nothing its just paper.
 
 Don't you think it is weird to say you don't believe in God but you believe in money. We have to believe in money because if we didn't society would collapse.
 
-  
+
 Overtime ambition can become greed if you don't have the self awareness to correct it.
 
 

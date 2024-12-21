@@ -4,7 +4,7 @@ raindrop_highlights:
   6664313fb8649bd125c02620: 3e079f0addb2224627a7d8ee8b883c07
 ---
 
-Source URL:: https://docs.n8n.io/hosting/installation/server-setups/digital-ocean/
+URL:: https://docs.n8n.io/hosting/installation/server-setups/digital-ocean/
 Status:: #🟥
 Medium:: #source/article
 

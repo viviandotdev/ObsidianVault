@@ -6,8 +6,8 @@ raindrop_highlights:
   65d23419ca7494db58d6579d: 79dc493a6681f813d312892ef0ca33bc
 ---
 
-Source URL:: https://blog.samaltman.com/productivity
-Status:: #🟩 
+URL:: https://blog.samaltman.com/productivity
+Status:: #🟩
 Medium:: #source/article
 
 

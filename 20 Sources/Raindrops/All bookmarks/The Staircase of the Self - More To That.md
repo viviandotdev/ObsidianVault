@@ -7,7 +7,7 @@ raindrop_highlights:
   6688032025867f21f0081e96: 9495864dbde869a8b5b71f9a0940accd
 ---
 
-Source URL:: https://moretothat.com/the-staircase-of-the-self/
+URL:: https://moretothat.com/the-staircase-of-the-self/
 Status:: #🟥
 Medium:: #source/article
 

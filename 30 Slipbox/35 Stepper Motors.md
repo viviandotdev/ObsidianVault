@@ -1,10 +1,10 @@
 ---
-created: 2024-06-20 07:12 
+created: 2024-06-20 07:12
 modified: Thursday 20th June 2024 07:12:07
-alias: 
+alias:
 ---
-up::  
-type:: #note/atomic🌳 
+up::
+type:: #note/atomic🌳
 links::
 ## 35 Stepper Motors
 
@@ -14,7 +14,7 @@ links::
 
 
 
-[Source URL](https://www.youtube.com/watch?v=CEz1EeDlpbs&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=35)
+[URL](https://www.youtube.com/watch?v=CEz1EeDlpbs&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=35)
 
 ## What are stepper motors [(00:01:05)](https://www.youtube.com/watch?v=CEz1EeDlpbs&t=65s)
 - Stepper motors allow for precise control of position and have high torque at low RPMs.
@@ -123,6 +123,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

@@ -4,7 +4,7 @@ raindrop_highlights:
   66acfba225c4e5518506f328: adaffe3132fb04f873e29b354e23b7d4
 ---
 
-Source URL:: https://www.reddit.com/r/onebag/comments/16054n8/help_me_find_a_minimalist_backpack/
+URL:: https://www.reddit.com/r/onebag/comments/16054n8/help_me_find_a_minimalist_backpack/
 Status:: #🟥
 Medium:: #source/article
 

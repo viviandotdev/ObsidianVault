@@ -2,10 +2,9 @@
 raindrop_id: 850601639
 raindrop_highlights:
   66ddfe4d646240422787efae: e79b011eadbad714ea2a90d941101c2b
-
 ---
 
-Source URL:: https://animixplay.to/
+URL:: https://animixplay.to/
 Status:: #🟥
 Medium:: #source/article
 

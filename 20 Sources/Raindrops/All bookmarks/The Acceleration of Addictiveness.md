@@ -4,7 +4,7 @@ raindrop_highlights:
   662fb47294b900af91fb1f56: 9df75401c24a2609f56a929ff6f2df54
 ---
 
-Source URL:: https://paulgraham.com/addiction.html?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=llama-3#f4n
+URL:: https://paulgraham.com/addiction.html?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=llama-3#f4n
 Status:: #🟥
 Medium:: #source/article
 Topics:: #social-media, #addiction
