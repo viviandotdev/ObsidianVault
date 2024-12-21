@@ -12,6 +12,10 @@ Medium:: #source/article
   
 ### How the US Is Destroying Young People’s Future | Scott Galloway | TED
 
+The youth are making less money for doing the same work as the generation before them. 
+For example housing prices have sky rocketed compared to ages in our generation, we will not be able to afford homes.
+[[Why have housing pr]]
+
 **Do we love your children?*
   
 In the past few year inflation is growing much faster than wages
@@ -19,9 +23,7 @@ In the past few year inflation is growing much faster than wages
 
 And the [[social contract]] is decreasing, the percentage to 30 year olds earning more than their parents is falling
 
-  
-
-The youth are making less money doing the same work
+**The youth are making less money doing the same work**
 
   
 
