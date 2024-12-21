@@ -2,7 +2,7 @@
 raindrop_id: 817490415
 raindrop_highlights:
   66956523c48a4b85583f65ad: e135b075ab07aba041446ddf621bed4a
-
+modified: 2024-12-21T16:43:57-05:00
 ---
 
 URL:: https://lyonwj.com/blog/grandstack-podcast-app-next-js-graphql-authentication
