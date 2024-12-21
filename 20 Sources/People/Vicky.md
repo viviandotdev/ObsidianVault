@@ -31,7 +31,6 @@ Chinese Zodiac- Year of the Rabbit
 	- Practical
 	- 
 
-
 **Children**
 - As a child my relationship with her was very fun actually, we made videos together and would role play as certain characters
 - She was always the princess and I had to be the person to save her, or like the superhero or something 
