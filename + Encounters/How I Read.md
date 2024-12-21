@@ -12,7 +12,7 @@ links::
 **Capture**- read in kindle, raindrop.io or pdfs, 
 	kindle annotations are found the book, create a script to read annotations from kindle books and put them in obsidian
 **Review**- Export the annotations in to anki?
-**Integrate**- when you encounter information you like to remembers, m,a them 
+**Integrate**- when you encounter information you like to remembers, mark them 
 
 
 
