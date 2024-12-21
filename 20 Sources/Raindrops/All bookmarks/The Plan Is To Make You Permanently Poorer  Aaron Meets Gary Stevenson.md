@@ -11,7 +11,12 @@ Medium:: #source/article
 
 ### The Plan Is To Make You Permanently Poorer | Aaron Meets Gary Stevenson
 
-The Capitalist system that is currently used to day is continues to give money to rich without any method of getting that money, because of this wealth inequality has increased dramactically.
+The Capitalist system that is currently used to day is continues to give money to rich without any method of getting that money, because of this wealth inequality has increased dramatically.
+One solution gary proposes is to tax assets, the things that rich people have that poor people don't are assets. Rich people have assets sitting there that are making them richer faster.
+This is why the rich buy homes and go into real estate, it is one of the easiest ways to make money.
+
+During the 2008 crisis the government decreased interest rates to stimulate the economy, with lower interest rates the rich could borrow as much money as they wanted from the bank and put them into assets such as homes.
+When interest rates lowered, the only people that could benefits were the rich because they were only people the bank would loan the money to. 
 
 ## The Young Trader's Dilemma
 
