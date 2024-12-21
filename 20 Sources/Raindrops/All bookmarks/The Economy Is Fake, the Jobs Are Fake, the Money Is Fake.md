@@ -5,7 +5,7 @@ raindrop_highlights:
 ---
 
 URL:: https://www.youtube.com/watch?v=9lDTdLQnSQo&amp;list=WL&amp;index=1
-Status:: #🟥
+Status:: #🟩 
 Medium:: #source/article
 
 
