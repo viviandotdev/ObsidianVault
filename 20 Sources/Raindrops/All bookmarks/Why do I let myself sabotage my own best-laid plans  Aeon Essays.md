@@ -1,7 +1,6 @@
 ---
 raindrop_id: 925073398
 raindrop_highlights:
-  67673813eef6411cd5afb2ac: 9b05a31e34e463acafdf6a20975a46cc
   676738664cade6a1365c5cd7: 59852322aa1950aed6f06a40ea61a916
 ---
 
