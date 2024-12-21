@@ -12,8 +12,8 @@ raindrop_highlights:
   66df2f56759889e3578a6623: d9a3f2887b2489f709d917fd98cd3607
 ---
 
-Source URL:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
-Status:: #🟩  #❤️ 
+URL:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
+Status::  #❤️ 
 Medium:: #source/article
 ### Why A.I. Isn’t Going to Make Art
 

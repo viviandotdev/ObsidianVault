@@ -1,11 +1,6 @@
 ```dataview
-TABLE WITHOUT ID
-	status as Status,
-	rows.file.link as Book
-FROM  #source/article 
-WHERE !contains(file.path, "Templates")
-GROUP BY status
-SORT raindrop_id ASC
-SORT status ASC
-
+TABLE file.link AS "Book", URL AS "Link"
+FROM #source/article
+WHERE contains(status, "#❤️") AND !contains(file.path, "Templates")
+SORT file.name ASC
 ```
