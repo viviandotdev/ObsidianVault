@@ -1,3 +1,6 @@
+---
+modified: 2024-12-22T09:19:01-05:00
+---
 
 up::  [[My Tools]]
 tags:: 
@@ -30,7 +33,7 @@ Anki is a spaced repetition tool to help you remember.
 [speed focus mode](https://ankiweb.net/shared/info/1046608507)
 _yomichan forvo server_
 [mini format pack](https://ankiweb.net/shared/info/295889520)
-
+[[Anki General Workflow]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
