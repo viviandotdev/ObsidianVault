@@ -1,6 +1,6 @@
 ---
 created: 2024-12-21 14:41
-modified: 2024-12-22T10:24:56-05:00
+modified: 2024-12-22T10:30:10-05:00
 alias: 
 ---
 up::  
@@ -14,20 +14,17 @@ Here's a restructured version of your content in Markdown, organized with headin
 ---
 
 ## Capture
-
-- **Read in Kindle, Raindrop.io, or PDFs**
-  - Kindle annotations are found in the book. Create a script to read annotations from Kindle books and put them in Obsidian.
-- Use YouTube for research and watch later.
-- **Read through Raindrop Articles**
-- **Filter Your Newsletter List**
-- **Read Books on List*
-- **Compile Interesting People**
-  - Find books they have read.
+**books** - read on kindle
+**articles**- read from raindrop.io
+	articles from newsletters
+**videos**- watch on youtube (research channel)
 
 ## Review
-
-- **In Obsidian**
-  - This is where you find the annotations for what you read/highlight. Review them daily using TickTick as a list of what to review.
+**books** - create note in tick-tick tagged #book
+	compile all your notes and thoughts about this book
+**videos** - create note in tick tick taged #videos, include your notes on the video
+**articles** -  create note in tick tick tagged article
+	these are article you want to write note about.
   - **Every day, spend 1 hour in TickTick ideas and clear out any books and videos.** This is where the notes on interesting articles and books start. When they are done, put them into Obsidian. While reviewing them, put ideas into Anki.
 
 - **Reconstruct Arguments**
