@@ -26,6 +26,8 @@ tractors models are also good because they are boxy shaped
 2. Botany for the artist
 3. Organic forms/texture 
 4. Lighting courses
+5. Animas
+	[Fetching Title#rtay](https://www.youtube.com/watch?v=OjHwwCcJUrA)
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
