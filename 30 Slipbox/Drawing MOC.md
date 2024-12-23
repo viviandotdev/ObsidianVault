@@ -1,7 +1,7 @@
 ---
 created: 2023-09-01 20:53
-modified: Friday 1st September 2023 20:53:25
-alias:
+modified: 2024-12-23T07:46:38-05:00
+alias: 
 ---
 up::  [[Library]]
 tags:: #drawing #art
@@ -29,7 +29,9 @@ related:
 
 [[Digital (Procreate)]]
 
-
+**Exercoses**
+[[Anki for Artists]]
+[[Cognitive Drawing]]
 1. Next, I will need to be creative. At least try. I will seek inspiration from photos, nature, books, and other artists. I will compile a file with ideas for details that will bring my picture to life. I will choose the style I want to draw. I would roughly create a draft of a composition.
 
 ### Artists
