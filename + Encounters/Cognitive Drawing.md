@@ -1,13 +1,13 @@
 ---
 created: 2024-12-23 07:46
-modified: 2024-12-23T07:48:53-05:00
+modified: 2025-01-01T16:50:27-05:00
 alias: 
 ---
 up::  
 type:: #note/atomic🌳 
 links::
 ## Cognitive Drawing
-**Go through iterations** repeating drawing from memory and then not from memory
+**Go through iterations** repeating drawing from memory and then not from memory.
 
 **Attempt 1**- Look at image breifly, then try to draw from memory
 **Attempt 2** - Look at the reference and then draw
