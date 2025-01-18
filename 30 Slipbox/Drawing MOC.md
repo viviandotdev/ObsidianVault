@@ -45,7 +45,7 @@ The combindation of the above (technique, aesthetic and structure/logic) is crea
 **Exercises**
 [[Anki for Artists]]
 [[Cognitive Drawing]]
-1. Next, I will need to be creative. At least try. I will seek inspiration from photos, nature, books, and other artists. I will compile a file with ideas for details that will bring my picture to life. I will choose the style I want to draw. I would roughly create a draft of a composition.
+
 
 ### Artists
 [Drawing an Urban Landscape in Ink - New Masters Academy](https://www.nma.art/videolessons/drawing-an-urban-landscape-in-ink/)
