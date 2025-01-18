@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2024-12-23T07:46:38-05:00
+modified: 2025-01-18T12:45:00-05:00
 alias: 
 ---
 up::  [[Library]]
@@ -15,21 +15,34 @@ related:
 [[Dynamic Sketching]]
 [[Draw a Box]]
 [[Figure Drawing-Design and Invention]]
-### Skills
-[[Form]]
-[[Perspective]]
-[[Construction]]
-[[Gesture]]
-[[Figure Drawing]]
-- [[Drawing Anatomy MOC]]
-[[Value]]
+### Drawing Fundamentals
 
+**Structure Logic**
+[[Form MOC]]
+[[Perspective MOC]]
+[[Anatomy MOC]]
+[[Lighting MOC]]
+
+**Aesthetic**
+[[Value]]
 [[Composition]]
 [[Color and Light]]
 
+**Technique
 [[Digital (Procreate)]]
 
-**Exercoses**
+
+The combindation of the above (technique, aesthetic and structure/logic) is creativity. Combing all those skills create a story or design of someting
+**Creative** 
+[[Design]]
+[[Story]]
+[[Expression]]
+
+
+
+
+
+**Exercises**
 [[Anki for Artists]]
 [[Cognitive Drawing]]
 1. Next, I will need to be creative. At least try. I will seek inspiration from photos, nature, books, and other artists. I will compile a file with ideas for details that will bring my picture to life. I will choose the style I want to draw. I would roughly create a draft of a composition.

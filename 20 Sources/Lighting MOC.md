@@ -1,10 +1,10 @@
 ---
-created: 2024-03-30 11:42 
-modified: Saturday 30th March 2024 11:42:04
+created: 2024-03-30 11:42
+modified: 2025-01-18T12:44:20-05:00
 alias: 
 ---
 up::  [[Making Food and Drinks in Blender]]
-tags::
+tags:: [[Drawing MOC]]
 links::
 ## Lighting
 
