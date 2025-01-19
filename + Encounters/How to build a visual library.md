@@ -1,6 +1,6 @@
 ---
 created: 2025-01-19 15:02
-modified: 2025-01-19T15:55:57-05:00
+modified: 2025-01-19T15:57:59-05:00
 alias: 
 ---
 up::  [[Drawing MOC]]
@@ -14,10 +14,13 @@ links::
 3. Draw the object from reference
 4. Draw the object from memory
 5. Correct any mistakes
-6. Draw the object again from reference
-7. Draw the object from memory (repeat until memorized)
-8. If you like drawing it add it to your anki deck
-9. (Optional)- Reference your favorite artists that apply the same rendering process or style on your studies. 
+	- note what you got wrong
+	- write it down and make quick rough sketch from observation where you draw it correctly
+2. Draw the object from memory (repeat until memorized)
+3. If you like drawing it add it to your anki deck
+4. (Optional)- Reference your favorite artists that apply the same rendering process or style on your studies. 
+
+ filling pages with lots of drawings, as that looks good. Looking at these pages in the future will motivate you to start drawing.
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
