@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-01-18T12:45:00-05:00
+modified: 2025-01-19T15:02:55-05:00
 alias: 
 ---
 up::  [[Library]]
@@ -11,6 +11,7 @@ related:
 [[Drawing Advice]]
 [[Anki for Artists]]
 
+[[How to build a visual library]]
 ### Current Courses
 [[Dynamic Sketching]]
 [[Draw a Box]]
