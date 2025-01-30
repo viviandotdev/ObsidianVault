@@ -1,6 +1,6 @@
 ---
 created: 2024-05-16 17:39
-modified: 2025-01-30T18:47:02-05:00
+modified: 2025-01-30T18:50:01-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -31,13 +31,15 @@ sudo systemctl status docker
 ```
 5. [Install dokku](https://dokku.com/docs/getting-started/installation/)
 ```
-wget -NP . https://dokku.com/install/v0.34.4/bootstrap.sh
-sudo DOKKU_TAG=v0.34.4 bash bootstrap.sh
+# for debian systems, installs Dokku via apt-get
+wget -NP . https://dokku.com/install/v0.35.14/bootstrap.sh
+sudo DOKKU_TAG=v0.35.14 bash bootstrap.sh
 cat ~/.ssh/authorized_keys | dokku ssh-keys:add admin
 ```
 6. set your global domain
 ```
 # you can also use the ip of your server 
-dokku domains:set-global 134.209.38.244.sslip.io
+dokku domains:set-global 134.209.64.204.sslip.io
 ```
+
 
