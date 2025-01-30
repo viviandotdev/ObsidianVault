@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-01-30T18:22:11-05:00
+modified: 2025-01-30T18:36:37-05:00
 alias: 
 share_link: https://file.obsidianshare.com/e6/5527cd862eda3430ff30e64b6a273c41.html#MXyetY1S7YeSwvHgcTA1M4H4VwVuuT4gesZS3mcTLJI
 share_updated: 2023-09-25T21:33:15-04:00
@@ -58,15 +58,15 @@ docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:1 .
 [Why can't i pull the newest image by using the latest tag?](https://cloud.ibm.com/docs/Registry?topic=Registry-troubleshoot-docker-latest)
 1. Pull the latest image from docker hub
 ```
-docker pull vivianlin61/lireddit:1
+docker pull vivianlin61/bookcue:1
 ```
 2. Retag the image to match the created at the start
 ```
-docker tag vivianlin61/lireddit:1 dokku/lireddit-api:latest
+docker tag vivianlin61/bookcue:1 dokku/bookcue-api:latest
 ```
 3. Deploy the app
 ```
-dokku deploy lireddit-api latest
+dokku deploy bookcue-api latest
 ```
 **Deploy Changes Script**
 ``` bash
@@ -76,9 +76,9 @@ echo What should the version be?
 read VERSION
 
 docker buildx create --use
-docker buildx build --platform linux/amd64 --push -t vivianlin61/lireddit:$VERSION .
-docker push vivianlin61/retwitter:$VERSION
-ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/lireddit:$VERSION && docker tag vivianlin61/lireddit:$VERSION dokku/api:$VERSION && dokku deploy api $VERSION"
+docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:$VERSION .
+docker push vivianlin61/bookcue:$VERSION
+ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/bookcue:$VERSION && docker tag vivianlin61/bookcue:$VERSION dokku/api:$VERSION && dokku deploy api $VERSION"
 
 ```
 ### Set up DNS
@@ -88,11 +88,11 @@ dokku domains:set-global 45.55.140.38.sslip.io
 ```
 
 ```
-dokku domains:report retwitter-api
+dokku domains:report bookcue-api
 ```
 
 ```
-dokku domains:add retwitter-api retwitter-api.retwitter.co
+dokku domains:add bookcue-api api.retwitter.co
 ```
 
 ```
