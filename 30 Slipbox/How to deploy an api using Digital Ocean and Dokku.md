@@ -1,7 +1,7 @@
 ---
 created: 2023-09-24 07:20
-modified: Sunday 24th September 2023 12:19:58
-alias:
+modified: 2025-01-30T18:22:11-05:00
+alias: 
 share_link: https://file.obsidianshare.com/e6/5527cd862eda3430ff30e64b6a273c41.html#MXyetY1S7YeSwvHgcTA1M4H4VwVuuT4gesZS3mcTLJI
 share_updated: 2023-09-25T21:33:15-04:00
 ---
@@ -22,7 +22,7 @@ tags:: #deploy #backend #api #docker
 2. [[Initialize digital ocean droplet]]
 3. Create dokku app
 ```
-dokku apps:create retwitter-api
+dokku apps:create bookcue-api
 ```
 8. Install postgres and redis plugin
 ```
@@ -32,9 +32,12 @@ sudo dokku plugin:install https://github.com/dokku/dokku-redis.git redis
 9. Create and link Postgres and Redis database to the app
 ```
 dokku postgres:create bookcue-api-psql
+dokku postgres:link bookcue-api-psql bookcue-api
+```
+
+```
 dokku redis:create retwitter-api-redis
 dokku redis:link retwitter-api-redis retwitter-api
-dokku postgres:link bookcue-api-psql bookcue-api
 ```
 ### Containerize the application
 [[Set up local and prod environment variables]] (optional)
