@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-01-30T19:59:38-05:00
+modified: 2025-01-30T20:04:10-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -138,6 +138,7 @@ curl -X POST http://localhost:8080/graphql \
 -H "Content-Type: application/json" \
 -d '{"query": "{ healthCheck { status message timestamp } }"}'
 ```
+
 ### Health Check Query
 ```graphql
 query {
