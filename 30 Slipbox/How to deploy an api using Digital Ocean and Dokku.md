@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-01-30T18:36:37-05:00
+modified: 2025-01-30T19:09:49-05:00
 alias: 
 share_link: https://file.obsidianshare.com/e6/5527cd862eda3430ff30e64b6a273c41.html#MXyetY1S7YeSwvHgcTA1M4H4VwVuuT4gesZS3mcTLJI
 share_updated: 2023-09-25T21:33:15-04:00
@@ -84,7 +84,7 @@ ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/bookcue:$VERSI
 ### Set up DNS
 [Docker DNS Configuration](https://dokku.com/docs~v0.11.6/configuration/domains/)
 ```
-dokku domains:set-global 45.55.140.38.sslip.io
+dokku domains:set-global retwittter.co
 ```
 
 ```
@@ -96,7 +96,7 @@ dokku domains:add bookcue-api api.retwitter.co
 ```
 
 ```
-dokku domains:remove retwitter retwitter-api.134.209.38.244.sslip.io
+dokku domains:remove bookcue-api bookcue-api.134.209.64.204.sslip.io
 ```
 
 ![[Screenshot 2024-05-15 at 11.50.52 AM.png]]
@@ -116,7 +116,7 @@ sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
 ```
 
 ```
-dokku letsencrypt:set lireddit-api email linvivian61@gmail.com
+dokku letsencrypt:set bookcue-api email linvivian61@gmail.com
 ```
 
 ```
