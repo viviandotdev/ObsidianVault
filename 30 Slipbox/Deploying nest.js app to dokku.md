@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-01-30T20:14:28-05:00
+modified: 2025-01-30T20:18:27-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -42,7 +42,6 @@ Install Dokku and add SSH key
 ```bash
 dokku domains:set-global retwitter.co
 dokku domains:add bookcue-api api.retwitter.co
-
 ```
 Set global domain and add app-specific domain
 
@@ -59,9 +58,19 @@ dokku letsencrypt:set bookcue-api email linvivian61@gmail.com
 dokku letsencrypt:enable bookcue-api
 ```
 Install Let's Encrypt plugin and enable SSL
-**Create .env.production file** and copy the contents over
 
+**Create .env.production file** and copy the contents over 
 ```
+NEXT_PUBLIC_APP_URL=https://bookcue.vercel.app
+BOOKCUE_API_PORT=8080
+JWT_ACCESS_SECRET=secret
+JWT_REFRESH_SECRET=secret
+JWT_ACCESS_EXPIRATION_TIME=15m
+JWT_REFRESH_EXPIRATION_TIME=7d
+RESEND_API_KEY=re_WbB1162X_D7Gwe8TdgJckyzQzdJrpfjsp
+```
+*notes* port is 8080 because the application port we EXPOSE below is 8080
+
 **Create and build a docker image**
 ```Dockerfile
 # Use an official Node.js runtime as the base image
@@ -176,14 +185,16 @@ We need to update this to make it point to the port the application is actually 
 
 Ports 80 and 443 are the standard ports for HTTP and HTTPS traffic respectively.
 
-
 **Fix mapping**
 ```'
-root@ubuntu-s-1vcpu-1gb-35gb-intel-nyc3-01:~# 
 dokku ports:add bookcue-api http:80:8080
 dokku ports:add bookcue-api https:443:8080
 ```
-
+**correct mapping with exposed 8080 port**
+```
+Ports map:                     http:80:8080 https:443:8080
+Ports map detected:            http:80:5000 https:443:5000
+```
 
 - Generated types from db:generate
 - Schema file (generated when you start the app development) needs to be copied to build
