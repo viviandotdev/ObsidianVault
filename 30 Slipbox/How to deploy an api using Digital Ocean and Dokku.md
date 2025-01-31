@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-01-30T19:14:04-05:00
+modified: 2025-01-30T19:15:23-05:00
 alias: 
 share_link: https://file.obsidianshare.com/e6/5527cd862eda3430ff30e64b6a273c41.html#MXyetY1S7YeSwvHgcTA1M4H4VwVuuT4gesZS3mcTLJI
 share_updated: 2023-09-25T21:33:15-04:00
@@ -129,3 +129,8 @@ dokku letsencrypt:enable bookcue-api
 https://api.retwitter.co/graphql
 ```
 ![[Screenshot 2023-09-24 at 10.40.45 AM.png]]
+```
+query {
+	hello
+}
+```
