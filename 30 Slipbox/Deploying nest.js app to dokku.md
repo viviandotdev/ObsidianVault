@@ -1,6 +1,6 @@
 ---
-created: 2024-07-12 10:12 
-modified: Friday 12th July 2024 10:12:31
+created: 2024-07-12 10:12
+modified: 2025-01-30T19:45:00-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -185,6 +185,11 @@ dokku deploy bookcue-api latest
 **Next steps**
 - use multi build steps, so only the dist file contents is copied over and not the whole app, simplifies the build process
 
+```
+dokku config:set bookcue-api NEXT_PUBLIC_APP_URL="https://bookcue-vivianlin61s-projects.vercel.app"
+```
+
+dokku config:set bookcue-api NEXT_PUBLIC_APP_URL="https://bookcue-vivianlin61s-projects.vercel.app"
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
