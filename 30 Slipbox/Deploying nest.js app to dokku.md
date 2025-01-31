@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-01-30T20:04:10-05:00
+modified: 2025-01-30T20:14:28-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -133,13 +133,9 @@ dokku deploy bookcue-api latest
 ```
 Pull, tag, and deploy the latest image
 
-```
-curl -X POST http://localhost:8080/graphql \
--H "Content-Type: application/json" \
--d '{"query": "{ healthCheck { status message timestamp } }"}'
-```
 
-### Health Check Query
+**Health check query, does not work because of CORS**
+**just login on the app to see if it works**
 ```graphql
 query {
   healthCheck {
@@ -149,17 +145,20 @@ query {
   }
 }
 ```
-GraphQL query for health check
 
 ### Known Issues
-- .env variables not loading
-- Generated types from db:generate
-- Schema file (generated when you start the app development) needs to be copied to build
-- Check port mappings
+1. .env variables not loading 
+**view env varialbes**
+```
+dokku config bookcue-api
+```
+**set env variables**
+```
+dokku config:set bookcue-api BOOKCUE_API_PORT=8080
+```
 
-
+2. **Check port mappings**
 [Proxy Management - Dokku Documentation](https://dokku.com/docs/networking/proxy-management/#__tabbed_4_1)
-**Check port mappings**
 ```
  dokku ports:report bookcue-api
 ```
@@ -184,6 +183,11 @@ root@ubuntu-s-1vcpu-1gb-35gb-intel-nyc3-01:~#
 dokku ports:add bookcue-api http:80:8080
 dokku ports:add bookcue-api https:443:8080
 ```
+
+
+- Generated types from db:generate
+- Schema file (generated when you start the app development) needs to be copied to build
+
 
 **redeploy**
 ```
