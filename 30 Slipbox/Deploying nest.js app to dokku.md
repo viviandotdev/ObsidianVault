@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-01-30T20:18:27-05:00
+modified: 2025-02-01T20:22:13-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -11,10 +11,10 @@ links::
 Here's the updated markdown with smaller font sizes and only H3 headings:
 
 ### Dokku Deployment Guide
-
+134.209.64.204
 ### SSH Access
 ```bash
-ssh -i ~/.ssh/id_rsa root@138.197.77.102
+ssh -i ~/.ssh/id_rsa root@134.209.64.204
 ```
 Connect to server via SSH
 
@@ -163,7 +163,7 @@ dokku config bookcue-api
 ```
 **set env variables**
 ```
-dokku config:set bookcue-api BOOKCUE_API_PORT=8080
+dokku config:set bookcue-api NEXT_PUBLIC_APP_URL=https://bookcue.vercel.app
 ```
 
 2. **Check port mappings**
