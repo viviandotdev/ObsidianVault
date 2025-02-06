@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-02-05T18:52:26-05:00
+modified: 2025-02-05T19:18:50-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -159,11 +159,11 @@ query {
 1. .env variables not loading 
 **view env varialbes**
 ```
-dokku config bookcue-api
+dokku config bookshelf-api
 ```
 **set env variables**
 ```
-dokku config:set bookcue-api NEXT_PUBLIC_APP_URL=https://bookshelf-webapp.vercel.app
+dokku config:set bookshelf-api API_PORT=https://bookshelf-webapp.vercel.app
 ```
 
 2. **Check port mappings**
