@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02 18:14
-modified: 2025-02-02T18:19:44-05:00
+modified: 2025-02-06T07:03:04-05:00
 alias: 
 ---
 up::  
@@ -10,7 +10,10 @@ links::
 
 [GitHub - Codehagen/Badget: Badget aims to simplify financial management with a user-friendly interface and robust backend](https://github.com/codehagen/Badget?tab=readme-ov-file)
 
-
+**namese**
+vivian_dev
+heyvivian
+viviandotdev
 **created 100 components**
 [codehagen](https://x.com/codehagen)
 [in_dev7](https://x.com/intent/follow?screen_name=ln_dev7)
