@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-02-05T19:18:50-05:00
+modified: 2025-02-05T19:22:39-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -169,7 +169,7 @@ dokku config:set bookshelf-api API_PORT=https://bookshelf-webapp.vercel.app
 2. **Check port mappings**
 [Proxy Management - Dokku Documentation](https://dokku.com/docs/networking/proxy-management/#__tabbed_4_1)
 ```
- dokku ports:report bookcue-api
+ dokku ports:report bookshelf-api
 ```
 **Default mapping**
 ```
