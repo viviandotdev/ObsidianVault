@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-02-05T19:22:39-05:00
+modified: 2025-02-05T19:59:14-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -54,8 +54,8 @@ Remove a domain from the app
 ### SSL Configuration
 ```bash
 sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
-dokku letsencrypt:set bookcue-api email linvivian61@gmail.com
-dokku letsencrypt:enable bookcue-api
+dokku letsencrypt:set bookshelf-api email linvivian61@gmail.com
+dokku letsencrypt:enable bookshelf-api
 ```
 Install Let's Encrypt plugin and enable SSL
 
