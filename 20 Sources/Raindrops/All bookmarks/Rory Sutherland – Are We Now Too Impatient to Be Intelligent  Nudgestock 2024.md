@@ -2,38 +2,46 @@
 raindrop_id: 917755825
 raindrop_highlights:
   6756d752b13ea0b96b56c1a6: e92cf8434981d6e3b9b38534b91f763d
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=Bc9jFbxrkMk
-Status:: #🟩
-Medium:: #source/video
-Tags:: #psychology #behavioral-science
+url:: https://www.youtube.com/watch?v=Bc9jFbxrkMk
+created:: Mon Dec 09 2024 06:41:06 GMT-0500
+status:: #🟥
+medium:: #source/article
+
 
 ### Rory Sutherland – Are We Now Too Impatient to Be Intelligent? | Nudgestock 2024
 
-**Are we too impatient to be intelligent?**
+Rory explains how we weight information that appears quickly over knowledge that really matters.
 
-**Books Mentioned**
-The unaccountability machine
-Algorithms to live by
+-- 
 
+Nudgestock is the world&#39;s biggest festival of behavioural science and creativity, where we inspire brands and people to impact the world.
 
-It is not always better to be going faster
-	**Time = Distance / Speed**
-	**As speed increases, each additional increase in speed results in less time saved for the same distance traveled.**
+Curated by Ogilvy Consulting, Nudgestock is back for its 12th year - and this year, we&#39;re uncovering the hidden power of Time.
 
-**In the modern world most of the decisions that are being made are not by people but my optimization models. These programs don't always consider human preferences, so they might make choices that aren't what we want.**
+To many of us, time is nothing more than a series of moments. But look at it through the eyes of a behavioural scientist and you&#39;ll see it holds untold influence. Time is me and you. Time is your customers and citizens. Time is what makes businesses thrive and brands iconic.
 
-- For example google maps will choose to lead people down a more dangerous path if it is more efficient than to optimize for a more scenic view that takes a little longer. 
-- **However humans actually often derive more satisfaction from slower, enjoyable experiences than from faster alternatives.** This insight encourages businesses to redesign services for pleasure rather than just efficiency.
-- **Human psychology is ambiguous and often ignored in optimization models.**
+Put simply… the more we understand how we humans are shaped by time, the more we can wisely spend our own. Are you ready to harness the power of time?
 
+For the full speaker list, details and more, visit www.nudgestock.com
 
-**In life there are things that you may want to be more efficient however there are also things in life where the value comes from the process that the final result,**
-- For example when writing essays, now you could be more efficient and just as Chat GPT to write the essay for you but the value of writing the essay is not so a machine can write it for is the though process behind writing the essay that is valuable, the critical thinking skills you gain from that process is what is important not the result or grade you get from the essay
-- This is similar in advertising, many companies may will not try to same s money by using. LLM to generate. Their advertising campaigns but the real value comes from the process of creating the campaign to fully understand your own product and you users.
+--
 
+About Ogilvy Consulting’s Behavioural Science Practice
+
+At Ogilvy Consulting, we work to creatively apply behavioural science insights to solve the world&#39;s most pressing and interesting challenges.
+
+A magical combination of science and creativity, we are a unique global team of psychologists and behavioural economists embedded within the Ogilvy network. We bring proprietary tools, proven experience, expert facilitation and the power of Ogilvy creativity to unlock the hidden &#39;psychological power&#39; within our partners&#39; brands and channels.
+
+We create unseen opportunities that generate giant impact.
+
+Email daniel.bennett@ogilvy.com to work with us.
+
+---
+
+#Nudgestock2024 #LiveStream #Live #Psychology #Nudgestock #BehaviouralScience #BehavioralScience
 
 #### Highlights
 

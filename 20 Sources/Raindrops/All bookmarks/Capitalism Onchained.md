@@ -3,18 +3,18 @@ raindrop_id: 648409641
 raindrop_highlights:
   6508a6680e25a01af1a218da: fff83ea4d4baaac4b683e72493b54d43
   6508a723eaf5daaebec23f7c: 5c7e3166d1216ff2ec0da611e94f4a9c
-status: ""
+
 ---
 
-URL:: https://www.notboring.co/p/capitalism-onchained?utm_source=post-email-title&amp;publication_id=10025&amp;post_id=136958177&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;utm_medium=email
-Status:: #🟩
-Medium:: #source/article
+url:: https://www.notboring.co/p/capitalism-onchained?utm_source=post-email-title&amp;publication_id=10025&amp;post_id=136958177&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;utm_medium=email
+created:: Sun Sep 17 2023 20:19:40 GMT-0400
+status:: #🟥
+medium:: #source/article
 
 
 ### Capitalism Onchained
 
 What is the ideal state of crypto?
-
 
 #### Highlights
 

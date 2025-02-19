@@ -2,12 +2,13 @@
 raindrop_id: 918769157
 raindrop_highlights:
   675875f103051e9caaedfa46: 4bf9946305828a0e554b8ac13957383e
-status: ""
+
 ---
 
-URL:: https://www.cookwell.com/discover
-Status:: #🟥
-Medium:: #source/article
+url:: https://www.cookwell.com/discover
+created:: Tue Dec 10 2024 12:10:09 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### Recipes

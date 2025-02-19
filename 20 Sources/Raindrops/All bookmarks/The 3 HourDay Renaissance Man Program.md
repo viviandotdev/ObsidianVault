@@ -2,12 +2,13 @@
 raindrop_id: 907914265
 raindrop_highlights:
   6743914571142cbcc2ed15c0: 954f0ca740a1ebb1df9b025ac4ae87e6
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=CedRyVtnsUE&amp;list=LL&amp;index=4
-Status:: #🟥
-Medium:: #source/article
+url:: https://www.youtube.com/watch?v=CedRyVtnsUE&amp;list=LL&amp;index=4
+created:: Sun Nov 24 2024 15:49:09 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### The 3 Hour/Day Renaissance Man Program

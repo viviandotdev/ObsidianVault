@@ -6,23 +6,18 @@ raindrop_highlights:
   66af62af8fbeefa5979159e5: f970b55fa2fbe848558921f5ebda7236
   66af62ba25c4e5518544f5e4: fe71c2cb2b3236340a191363c422fe47
   66af62c659e41d080009397d: 1c3377c733254e3f5198d759b254bbbb
-status: ""
+
 ---
 
-URL:: https://www.coryzue.com/writing/time-wealth/
-Status:: #🟩
-Medium:: #source/article
-Related:: [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
+url:: https://www.coryzue.com/writing/time-wealth/
+created:: Fri Aug 02 2024 17:36:02 GMT-0400
+status:: #🟥
+medium:: #source/article
+
 
 ### Time Wealth
 
 Why having more free time can be better than becoming rich.
-Time wealth is more important than money
-One of the best predictors of well being is the freedom and flexibility to over one's life,
-For example there is no amount of money that can be paid for to go back in the the office.
-The time wealth i get from working remote is more worth it to me.
-I get to work on my interests and still be able to work a full time is everything I could want
-
 
 #### Highlights
 

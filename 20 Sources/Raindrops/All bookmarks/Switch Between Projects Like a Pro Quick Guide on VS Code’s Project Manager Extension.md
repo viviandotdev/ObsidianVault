@@ -2,12 +2,13 @@
 raindrop_id: 797519873
 raindrop_highlights:
   6662585fd540749bc9004135: 5520078d3b73d3c647dfe00abffd200c
-status: ""
+
 ---
 
-URL:: https://medium.com/@chhaymenghong/switch-between-projects-like-a-pro-quick-guide-on-vs-codes-project-manager-extension-631cf00553d
-Status:: #🟩
-Medium:: #source/article
+url:: https://medium.com/@chhaymenghong/switch-between-projects-like-a-pro-quick-guide-on-vs-codes-project-manager-extension-631cf00553d
+created:: Thu Jun 06 2024 20:46:23 GMT-0400
+status:: #🟥
+medium:: #source/article
 
 
 ### Switch Between Projects Like a Pro: Quick Guide on VS Code’s Project Manager Extension

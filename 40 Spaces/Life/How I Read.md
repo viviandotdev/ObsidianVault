@@ -5,7 +5,7 @@ alias:
 ---
 up::  [[Workflows]]
 type:: #note/atomic🌳 
-links:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
+links:: [[20 Sources/Raindrops/All bookmarks/All bookmarks/How I Read|How I Read]]
 ## How i read
 ## Capture
 **books** - read on kindle

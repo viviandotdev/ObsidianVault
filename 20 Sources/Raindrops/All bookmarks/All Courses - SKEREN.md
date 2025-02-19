@@ -2,13 +2,13 @@
 raindrop_id: 944054341
 raindrop_highlights:
   678431d62de42da4c8508660: 6289f343ee2079198c1cdaab7cf5af82
-status: ""
+
 ---
 
-URL:: https://www.skerendesignschool.com/all-courses/
-modified:: {<% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-Status:: #🟥
-Medium:: #source/article
+url:: https://www.skerendesignschool.com/all-courses/
+created:: Sun Jan 12 2025 16:19:18 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### All Courses - SKEREN

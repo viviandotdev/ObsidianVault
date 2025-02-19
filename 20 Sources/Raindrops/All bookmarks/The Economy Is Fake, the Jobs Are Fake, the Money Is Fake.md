@@ -2,81 +2,54 @@
 raindrop_id: 898785071
 raindrop_highlights:
   67335012d21c2fc06411089b: 07e0aab3f9687a09610bbc3c31db5513
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=9lDTdLQnSQo&amp;list=WL&amp;index=1
-Status:: #🟩 
-Medium:: #source/article
+url:: https://www.youtube.com/watch?v=9lDTdLQnSQo&amp;list=WL&amp;index=1
+created:: Tue Nov 12 2024 07:54:42 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
 
+You can&#39;t roast people too badly for being &quot;antiwork&quot; when most jobs are simply useless nowadays. Polls have shown that around half of people report either their job is totally useless, or that it&#39;s unclear to them if there is any social benefit to their work whatsoever. How has this happened? Why do people put so much effort into what is, in effect, play work.
 
-**Organized Text:**
+ We talk about David Graeber&#39;s article, book and concept of Bullshit Jobs, jobs so inane that even the people working them can&#39;t justify their existence. This brings up economic questions of hyper-production, the Consoomerist economy, post-scarcity and of course the alleged panacea of Universal Basic Income (UBI).
 
-**Overview of the Modern Economy:**
-- The modern economy is largely considered fake, with 70% of efforts directed towards non-productive and unnecessary tasks.
-- "Bullshit jobs" are prevalent, causing harm despite serving no real purpose.
-- These jobs are increasing in number and burden society's conscience.
-- Many workers secretly feel their jobs are meaningless and damaging to their morals and spirit.
-- The concept of "bullshit jobs" is explored in David Graeber's book, highlighting the issue.
-- Examples of pointless jobs, such as transferring a computer for a soldier two rooms down, are mentioned.
-- It is suggested that the economy, jobs, and money are all fake, and work should be meaningful for human dignity.
-- The obsession with productivity and growth has led to the creation of unnecessary jobs.
-- The video questions the purpose and value of our current economic system.
-- Ultimately, the video argues that work should serve a purpose and bring fulfillment to individuals, not just contribute to GDP.
+ At the root of all of it is a public-private plastic economy based on easy and highly inflationary money, which strips people of savings and keeps people working like good wagies from cradle to the grade on jobs that exist just to keep the fake economy going. Comments on the psychological effects of Bitcoin and hard money included.
 
-**Experience of Fake Jobs:**
-- Most jobs in our economy are considered useless, not serving any purpose and causing more harm than good.
-- 70% of jobs or work done in this economy is deemed useless, while 30% is extremely productive.
-- Large corporations in big cities often have jobs that are complete nonsense and do not contribute to the business.
-- An example is when Elon Musk laid off 70% of Twitter's workforce, yet the company continued to function.
-- The purpose of jobs should be to give people back the money.
+ Antiwork R*dditor appears on Fox News: https://odysee.com/Antiwork_mod_lol:f The original Bullshit jobs article: https://www.strike.coop/bullshit-jobs/ &quot;Why It&#39;s Bad to Have High GDP&quot;: https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp
 
-**Examples of Harmful Jobs:**
-- As a consultant at IBM, Vicky works on a project where multiple people compete on the same task, leading to inefficiency.
-- This results in redundant work, as only one person's work is chosen, rendering others' efforts useless.
-
-**Causes of Bullshit Jobs:**
-- We live in a highly productive society where not everyone needs to work 40 hours a week for it to function efficiently.
-- BS jobs exist because there are not enough jobs for everyone, leading to the creation of fake jobs to keep society moving.
-- For example, Amazon is hyper-productive but has thin margins, meaning it doesn't make a large profit on each unit sold.
-
-**Anti-Work Movement:**
-- The anti-work movement is seen as unethical; it's unusual for someone to work only 20 hours a week when expected to work 40.
-
-**Potential Solutions:**
-- Universal Basic Income (UBI): Give everyone a monthly stipend, as we are so hyper-productive that we can afford to give people stuff for free.
-- Andrew Yang advocates for UBI.
-- Critique: Concerns about whether people will work and contribute to society if given $1000 a month.
-- Post-Scarcity Economics: We produce so much that nothing is scarce anymore, allowing everyone to get what they want.
-
-**Inflation Concerns:**
-- Giving large amounts of money to individuals could cause inflation, devaluing saved money.
-- People may not be incentivized to save, preferring to spend money as soon as they receive it.
-
-**Monetary System Issues:**
-- The current monetary system is flawed, with inflationary currency and no hard money.
-- People on lower incomes may have to work indefinitely.
-- BS jobs are a solution to problems caused by inflation.
-- The government creates money, inflating the dollar's value, and hyper-productive companies create fake jobs to keep the economy moving.
-
-**Proposed Solutions:**
-- **The government should stop giving excess money to favored entities like universities and corporations.**
-- **Corporations have too much money, leading to unnecessary employment.**
-
-**GDP and Economic Goals:**
-- The goal of the economy is not to have a low GDP.
-- High GDP measures economic transactions, but if everyone can get what they need, there is no need for transactions.
-- **Work should bring fulfillment and meaning,** not just contribute to GDP.
-
-**Bullshit Jobs in Tech:**
-- Bullshit jobs exist in tech because it is hyper-productive, creating excess and needing to reintegrate money into the economy.
-- Only 30% of people contribute to society's productivity, while the rest are non-productive.
-
-**Administrative Inefficiencies:**
-- Corporate bureaucracy involves unnecessary middlemen and middle management, complicating processes and approvals.
+00:00:00 The Fake Economy
+00:01:09 Virgin antiwork Redditor vs. Chad Fox News
+00:03:01 David Graeber&#39;s BS Jobs 00:06:08 An example of a BS job in the German military
+00:08:09 How many people have fake jobs?
+00:09:22 Is it just a government problem?
+00:16:12 The Coofvid Lockdown and &quot;Non-essential workers&quot;
+00:18:31 Defining Modern Wageslavery and on &quot;Employees&quot; and Time
+00:22:52 The types of BS jobs
+00:25:30 Goons and Cigarette Ads
+00:27:09 Fake non-software jobs
+00:30:25 This is NotRelated.xyz
+00:31:38 LONG Donation reading
+00:46:12 The culture of Wagecuckery and Hyperproduction
+00:49:50 Graeber and the Wagie mindset
+00:50:17 Universal Basic Income (UBI) and Post-Scarcity
+00:53:18 UBI and the Wagie Uprising
+00:56:28 The Inflation Run
+00:59:09 Should I care about inflation?
+01:00:06 Life in a deflationary economy
+01:02:19 What are BS jobs in the inflationary economy?
+01:04:38 Would Graeber agree?
+01:06:01 Inflation as theft.
+01:07:07 Why high GDP is bad
+01:09:36 The example of the Bitcoiner mindset
+01:10:54 Will gold and Bitcoin destroy the economy? Yes.
+01:13:38 Hard Money and Bullsh*t Jobs: The Endgame
+01:15:09 Fake Anarchism and UBI
+01:16:20 Comments on Left and Right Anarchism
+01:18:18 Closing Notes, including *important* RSS updates!
 
 #### Highlights
 

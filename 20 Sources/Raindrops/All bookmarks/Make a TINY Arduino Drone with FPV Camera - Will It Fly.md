@@ -2,12 +2,13 @@
 raindrop_id: 804118295
 raindrop_highlights:
   667320113c763312928461a3: 348de4cf44c3ecfac6079897b1241689
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=Sa6EslOHsI0
-Status:: #🟥
-Medium:: #source/article
+url:: https://www.youtube.com/watch?v=Sa6EslOHsI0
+created:: Wed Jun 19 2024 14:14:41 GMT-0400
+status:: #🟥
+medium:: #source/article
 Topics:: #arduino, #projects
 
 ### Make a TINY Arduino Drone with FPV Camera - Will It Fly?

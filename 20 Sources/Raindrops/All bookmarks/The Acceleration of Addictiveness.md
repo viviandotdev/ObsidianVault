@@ -2,12 +2,13 @@
 raindrop_id: 777295783
 raindrop_highlights:
   662fb47294b900af91fb1f56: 9df75401c24a2609f56a929ff6f2df54
-status: ""
+
 ---
 
-URL:: https://paulgraham.com/addiction.html?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=llama-3#f4n
-Status:: #🟥
-Medium:: #source/article
+url:: https://paulgraham.com/addiction.html?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=llama-3#f4n
+created:: Mon Apr 29 2024 10:52:55 GMT-0400
+status:: #🟥
+medium:: #source/article
 Topics:: #social-media, #addiction
 
 ### The Acceleration of Addictiveness

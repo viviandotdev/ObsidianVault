@@ -3,12 +3,13 @@ raindrop_id: 782484542
 raindrop_highlights:
   6662fef19e255fb6caa240fa: 44ed94f1de5a8d5b0e4eb743d4949216
   6662fef5d668f4050068ea65: 5ba085e97eedd0869f4185ff7a831e64
-status: ""
+
 ---
 
-URL:: https://maggieappleton.com/design-engineers
-Status:: #🟥
-Medium:: #source/article
+url:: https://maggieappleton.com/design-engineers
+created:: Tue May 07 2024 14:34:51 GMT-0400
+status:: #🟥
+medium:: #source/article
 Topics:: #designers
 
 ### A Collection of Design Engineers

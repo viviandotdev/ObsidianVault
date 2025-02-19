@@ -2,13 +2,14 @@
 raindrop_id: 918561135
 raindrop_highlights:
   67582c58c4a8922c088b43a9: 0a70dece7cda73dfe6d3df92c3a36f9b
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=FEyoaEibF08&amp;list=WL&amp;index=10&amp;t=680s
-Status:: #🟥
-Medium:: #source/article
-
+url:: https://www.youtube.com/watch?v=FEyoaEibF08&amp;list=WL&amp;index=10&amp;t=680s
+created:: Tue Dec 10 2024 06:56:08 GMT-0500
+status:: #🟥
+medium:: #source/article
+Topics:: #perspecive
 
 ### The ONLY Box Rotation Exercise That’s ACTUALLY Useful
 

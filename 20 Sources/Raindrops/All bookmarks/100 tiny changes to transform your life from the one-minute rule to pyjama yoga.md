@@ -5,12 +5,13 @@ raindrop_highlights:
   65edea1d9506ed5214878eb0: 1a25a7934595cd4c2e011423525613a6
   65edea565bad5ad9581bfa98: 0e0e0c768bac15cca5256cd1e43a876b
   65edea6003223d9257d4c0c0: f5af885a14f07f2b6d5739ef3873cc72
-status: ""
+
 ---
 
-URL:: https://www.theguardian.com/lifeandstyle/2024/jan/01/100-tiny-changes-to-transform-your-life-from-the-one-minute-rule-to-pyjama-yoga
-Status:: #🟩
-Medium:: #source/article
+url:: https://www.theguardian.com/lifeandstyle/2024/jan/01/100-tiny-changes-to-transform-your-life-from-the-one-minute-rule-to-pyjama-yoga
+created:: Sun Mar 10 2024 13:11:37 GMT-0400
+status:: #🟥
+medium:: #source/article
 
 
 ### 100 tiny changes to transform your life: from the one-minute rule to pyjama yoga

@@ -2,12 +2,13 @@
 raindrop_id: 715682113
 raindrop_highlights:
   65b9a28c49b2c62881322250: 0b03a0800182d165b4ecc5ec1abf42b5
-status: ""
+
 ---
 
-URL:: https://nesslabs.com/procrastination-emotions
-Status:: #🟩
-Medium:: #source/article
+url:: https://nesslabs.com/procrastination-emotions
+created:: Tue Jan 16 2024 16:55:14 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### Why we wait: Understanding the emotions behind procrastination
@@ -19,7 +20,11 @@ Procrastination is your body and your brain trying to communicate a state of emo
 > [!quote]+ Updated on Tue Jan 30 2024 20:29:48 GMT-0500
 >
 > DUST is a simple method to identify why you may be procrastinating. It stands for the four most common reasons why we procrastinate: Difficult, Unclear, Scary, and Tedious.
-Difficult. You may find the task too challenging, which may be caused by a lack of confidence, a lack of skills, or both. The solution is to move the starting point a bit earlier. For example, if you want to build an app but find it too difficult, you could take an online course that covers a very similar type of app. It’s important to not use an earlier starting point as a way to procrastinate even further. Clearly define what the first action step will entail, commit to it, and do not create an endless list of “pre-tasks” before you can get started with the main task.
+&gt;
+&gt;
+&gt;
+&gt;
+&gt;Difficult. You may find the task too challenging, which may be caused by a lack of confidence, a lack of skills, or both. The solution is to move the starting point a bit earlier. For example, if you want to build an app but find it too difficult, you could take an online course that covers a very similar type of app. It’s important to not use an earlier starting point as a way to procrastinate even further. Clearly define what the first action step will entail, commit to it, and do not create an endless list of “pre-tasks” before you can get started with the main task.
 &gt;
 &gt;
 &gt;

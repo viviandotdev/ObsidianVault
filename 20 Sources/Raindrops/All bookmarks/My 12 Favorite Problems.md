@@ -3,19 +3,18 @@ raindrop_id: 711827975
 raindrop_highlights:
   659e9d883abade0530810e10: d97004e5fea8383dc610c37c5791633d
   659e9d90654b46e912445f76: 7dedc290b3df71998bad46051dfd8c64
-status: ""
+
 ---
 
-URL:: https://www.honest-broker.com/p/my-12-favorite-problems
-Status:: #🟩
-Medium:: #source/article
+url:: https://www.honest-broker.com/p/my-12-favorite-problems
+created:: Wed Jan 10 2024 08:37:05 GMT-0500
+status:: #🟥
+medium:: #source/article
 Topics:: #personal-development, #12-problems
 
 ### My 12 Favorite Problems
-A dozen things that drive my writing, research, thinking &amp; actions
 
-**Notes**
-[[12 Favorite problems]]
+A dozen things that drive my writing, research, thinking &amp; actions
 
 #### Highlights
 

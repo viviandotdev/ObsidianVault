@@ -54,12 +54,13 @@ raindrop_highlights:
   666635b0e882a645f6404e98: fd637283343be978c5b8f3561049d5aa
   666635cadcf391b032aeaa7e: d41faca0797d841a60f1a71fd2bc0da2
   666636010117555c8a3ad585: 7f6a44ff2d91d4e53b96936abd28823f
-status: ""
+
 ---
 
-URL:: https://paulgraham.com/greatwork.html
-Status:: #🟨
-Medium:: #source/article
+url:: https://paulgraham.com/greatwork.html
+created:: Sat Apr 27 2024 08:14:05 GMT-0400
+status:: #🟥
+medium:: #source/article
 
 
 ### How to Do Great Work

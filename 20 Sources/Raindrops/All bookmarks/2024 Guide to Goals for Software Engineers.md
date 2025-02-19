@@ -3,12 +3,13 @@ raindrop_id: 712312674
 raindrop_highlights:
   65a282f46b41f3583f8bf71f: 1e2833712f8c46cc69f59e4871e16532
   65a28353a8aed9854a7653ae: ea83199b3e16a8e4b0f5a3daf6f8da45
-status: ""
+
 ---
 
-URL:: https://careercutler.substack.com/p/2024-guide-to-goals-for-software
-Status:: #🟩
-Medium:: #source/article
+url:: https://careercutler.substack.com/p/2024-guide-to-goals-for-software
+created:: Thu Jan 11 2024 06:08:32 GMT-0500
+status:: #🟥
+medium:: #source/article
 Topics:: #productivity, #goals, #life-design
 
 ### 2024 Guide to Goals for Software Engineers

@@ -2,12 +2,13 @@
 raindrop_id: 918561408
 raindrop_highlights:
   67582c9315ac1d964710bc05: a34ffeb9731254bf824875b0ff9528ac
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=36_6nECyhHo&amp;list=WL&amp;index=9
-Status:: #🟥
-Medium:: #source/article
+url:: https://www.youtube.com/watch?v=36_6nECyhHo&amp;list=WL&amp;index=9
+created:: Tue Dec 10 2024 06:57:07 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### If You Only Had 1 Year to Learn Art
@@ -15,6 +16,9 @@ Medium:: #source/article
 Everything you need to learn art and how to draw. It can be easy if you focus on the right fundamentals of drawing.
 
 👉 You want to learn about my art journey? Watch here https://youtu.be/svZzstAGpAc?si=t0TT9pKP2gzQD9BD
+
+Learning art and how to draw can be overwhelming and difficult. As a self taught artist, I understand the struggle and have learned what is important to focus on. This video breaks down the most important fundamentals of drawing and how to practice in order to see the most amount of improvement. 
+00:00 intro
 
 00:30 Forms
 01:40 Perspective 

@@ -2,13 +2,14 @@
 raindrop_id: 775743724
 raindrop_highlights:
   662c1c36130022ea059bb337: 0709cb67ac248dc51bb35569856276b0
-status: ""
+
 ---
 
-URL:: https://newsletter.posthog.com/p/talk-to-users?utm_source=tldrwebdev
-Status:: #🟥
-Medium:: #source/article
-
+url:: https://newsletter.posthog.com/p/talk-to-users?utm_source=tldrwebdev
+created:: Fri Apr 26 2024 17:27:18 GMT-0400
+status:: #🟥
+medium:: #source/article
+Topics:: #product-validation
 
 ### 7 things engineers should know about talking to users
 

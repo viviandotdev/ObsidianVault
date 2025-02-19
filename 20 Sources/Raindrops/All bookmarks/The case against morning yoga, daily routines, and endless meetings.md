@@ -5,12 +5,13 @@ raindrop_highlights:
   6687c8d9ed6e1c52e2e7c964: 8a6942f76ca31485c1f70703b32f5dcc
   6687c8edb9630b2210839c72: 8d48aaefdb8beaa6840da870593a10f2
   6687c8f501eff46d7bba3360: 8d82c8afedcab40de79610631f4e2973
-status: ""
+
 ---
 
-URL:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
-Status:: #🟥
-Medium:: #source/article
+url:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
+created:: Fri Jul 05 2024 06:18:38 GMT-0400
+status:: #🟥
+medium:: #source/article
 
 
 ### The case against morning yoga, daily routines, and endless meetings

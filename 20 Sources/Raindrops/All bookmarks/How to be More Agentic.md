@@ -6,12 +6,13 @@ raindrop_highlights:
   65a6c9336b41f3583f19a08f: 66024558a847cb59727de4a601932b16
   65a6c94028bef6565ff79b0b: a08e81bbe4297fdb83dd02914386a62f
   65a6c949b3f0dbaec46812a1: 1336fbb990871803cd75ee2ec7d22d6d
-status: ""
+
 ---
 
-URL:: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=don-t-trust-them
-Status:: #🟥
-Medium:: #source/article
+url:: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=don-t-trust-them
+created:: Tue Jan 16 2024 13:17:38 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### How to be More Agentic

@@ -4,38 +4,24 @@ raindrop_highlights:
   674214a4e809043de54365e5: 6058f3c3e6b8b7b1558d50ae974fcfc6
   674214a97e252412161d2646: 199cc2b06a4cb94b8fd50aef09ab5d26
   674214b136e99724dacd575f: af498cf4cb0a8c440c1142495c1ac9d6
-status: ""
+
 ---
 
-URL:: https://www.personalcanon.com/p/research-as-leisure-activity
-Status:: #🟩
-Medium:: #source/article
+url:: https://www.personalcanon.com/p/research-as-leisure-activity
+created:: Sat Nov 23 2024 12:45:08 GMT-0500
+status:: #🟥
+medium:: #source/article
 
 
 ### research as leisure activity
 
 my favorite form of entertainment is downloading PDFs ✦ plus favorite Fluxus artists and early programs
 
-**Why do research as a hobby?**
-
-
-One of the keys to happiness is unleashing your curiosity, research ideas and topics you are naturally interested.
-
-
-Most ideas are connected once you begin your search you will be surprised to see all the ideas that seem unrelated can become related 
-
-With the internet you can find anything you want 
-
-
-**How to do research as a hobby?**
-
-
-Ask chat got about a topic, 
-Ask it questions to get started on research topics
-Ask essay prompts based on a topic
-
 #### Highlights
 
+> [!quote]+ Updated on Sat Nov 23 2024 12:45:21 GMT-0500
+>
+> o
 
 > [!quote]+ Updated on Sat Nov 23 2024 12:45:21 GMT-0500
 >

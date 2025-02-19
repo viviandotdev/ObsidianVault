@@ -2,12 +2,13 @@
 raindrop_id: 855838781
 raindrop_highlights:
   66e8cbfc655512977c33b737: 8758c9ca9de01e650a319f410cab53c4
-status: ""
+
 ---
 
-URL:: https://www.youtube.com/watch?v=bj9s4dMzrlA&amp;list=WL
-Status:: #🟨
-Medium:: #source/article
+url:: https://www.youtube.com/watch?v=bj9s4dMzrlA&amp;list=WL
+created:: Mon Sep 16 2024 20:23:24 GMT-0400
+status:: #🟥
+medium:: #source/article
 
 
 ### Life-changing books only
