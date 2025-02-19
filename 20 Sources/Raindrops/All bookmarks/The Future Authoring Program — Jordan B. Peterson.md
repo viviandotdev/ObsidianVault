@@ -3,6 +3,7 @@ raindrop_id: 731236687
 raindrop_highlights:
   6660d6c9d67b1d1d0e585fd2: 8e7f91550db4ad0c348fe17b42a9f279
   6660d6cf00d4e3dbacbe15b0: 12ddcc3c161a72b1657dd2483cc6fc20
+status: ""
 ---
 
 URL:: https://medium.com/@tommyscience/the-future-authoring-program-jordan-b-peterson-9edc24a2edc6

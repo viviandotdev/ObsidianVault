@@ -8,6 +8,7 @@ raindrop_highlights:
   65a71ace08b94cbbbcbff251: 2c596dc01ff54f19a3a79329ecf4ecdc
   65a71af63abade053096a226: 347904ff92cb40e104893ad73b2900bb
   65cd7b9d06660d65ce9c1d05: 08a91e8bf463602442bd86fd407a3120
+status: ""
 ---
 
 URL:: https://moretothat.com/travel-is-no-cure-for-the-mind/

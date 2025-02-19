@@ -2,6 +2,7 @@
 raindrop_id: 898912806
 raindrop_highlights:
   6733bcd69c70c876e3735b4c: fee46cb39e5f01df76dea05ca4255a8c
+status: ""
 ---
 
 URL:: https://community.ricksteves.com/travel-forum/tech-tips/ultimate-travel-charger-after-20-years-of-travel-i-finally-figured-it-out

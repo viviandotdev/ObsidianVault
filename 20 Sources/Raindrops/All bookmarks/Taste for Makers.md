@@ -3,6 +3,7 @@ raindrop_id: 798820575
 raindrop_highlights:
   666b7fbbd4cac6fee239dee4: d112989466694ef38719ef00a219e630
   666b80360c03b1783fe19520: a54af129433e0bf5839c51651518e475
+status: ""
 ---
 
 URL:: https://paulgraham.com/taste.html

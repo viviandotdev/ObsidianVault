@@ -2,7 +2,7 @@
 raindrop_id: 912482607
 raindrop_highlights:
   674cb664af58b339430bbce2: 55dbff209a34e4e4a9d9ae494e0da932
-
+status: ""
 ---
 
 URL:: https://tutflix.org/resources/how-to-draw-dynamic-anatomy-step-by-step.700/

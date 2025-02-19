@@ -2,6 +2,7 @@
 raindrop_id: 788640614
 raindrop_highlights:
   66532c6b7a4f31caf9fb6c17: b96ef1250fb1d23fe629fbe3e2774c71
+status: ""
 ---
 
 URL:: https://newsletter.techleadmentor.com/p/perceived-difficulty-is-a-productivity?utm_source=tldrwebdev

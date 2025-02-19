@@ -2,7 +2,7 @@
 raindrop_id: 944054341
 raindrop_highlights:
   678431d62de42da4c8508660: 6289f343ee2079198c1cdaab7cf5af82
-
+status: ""
 ---
 
 URL:: https://www.skerendesignschool.com/all-courses/

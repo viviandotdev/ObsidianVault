@@ -2,6 +2,7 @@
 raindrop_id: 715719519
 raindrop_highlights:
   65a71dad6b41f3583f25d8e5: 56b24cc1a88ea5df849e6fc237148a29
+status: ""
 ---
 
 URL:: https://moretothat.com/the-nothingness-of-money/

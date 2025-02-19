@@ -3,6 +3,7 @@ raindrop_id: 776222662
 raindrop_highlights:
   662cf0cd73862dd2f374b680: 43d0bb1190fc6d186af64bc554faf64b
   662cf0d57997b36d8b488621: 34a251001297ed3808ff1139e36b21b5
+status: ""
 ---
 
 URL:: https://ajkprojects.com/stopactinglikeyourefamous?utm_source=tldrnewsletter

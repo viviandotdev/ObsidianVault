@@ -2,6 +2,7 @@
 raindrop_id: 777281301
 raindrop_highlights:
   662fab99cc457dfbb81fa646: 25724bb83324363cf47c06d3b3d3964d
+status: ""
 ---
 
 URL:: https://thedankoe.com/letters/my-story-the-untold-truth-of-dan-koe/

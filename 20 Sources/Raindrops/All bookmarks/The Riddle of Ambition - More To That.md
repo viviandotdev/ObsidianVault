@@ -3,6 +3,7 @@ raindrop_id: 776222435
 raindrop_highlights:
   662fb583acf215fe8d3686a7: e99588c91abae245a96e12dc83fcede3
   662fb591fbb59f626ab4021b: 33c1c50df2c4efe804b9f3e236400518
+status: ""
 ---
 
 URL:: https://moretothat.com/the-riddle-of-ambition/

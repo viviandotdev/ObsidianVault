@@ -7,6 +7,7 @@ raindrop_highlights:
   663a133624ef7ffbd9133458: 5bdb6ca6b416f5a5182f90572f670614
   663a133f2d0000bdcaf23a82: 26f1c8b58f30ee91c1e8d991eb270de1
   663a1428fa8d04dc6e350dfe: c752b5f6f763e1523272b7574e4d4a28
+status: ""
 ---
 
 URL:: https://www.gurwinder.blog/p/the-perils-of-audience-capture

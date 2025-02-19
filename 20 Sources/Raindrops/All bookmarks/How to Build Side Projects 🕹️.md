@@ -3,6 +3,7 @@ raindrop_id: 648406921
 raindrop_highlights:
   650793570e25a01af175d851: 9cf78ca7f24faf8b3235fb7f5492ce8e
   650793610a85661ffa65b878: 5b35067644e2a3bbfb41fa5cf0d8dafe
+status: ""
 ---
 
 URL:: https://refactoring.fm/p/how-to-build-side-projects?utm_source=substack&amp;utm_medium=email

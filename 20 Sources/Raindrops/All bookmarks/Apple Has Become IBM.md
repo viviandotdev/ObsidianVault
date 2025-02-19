@@ -2,7 +2,7 @@
 raindrop_id: 965374012
 raindrop_highlights:
   67a4af9c0dc44a7e8b67010a: e26015fae80287e6c5d28eeca4a25bdc
-
+status: ""
 ---
 
 URL:: https://www.youtube.com/watch?v=NMi8748iU4I&amp;list=LL
