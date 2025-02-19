@@ -2,13 +2,12 @@
 raindrop_id: 918561408
 raindrop_highlights:
   67582c9315ac1d964710bc05: a34ffeb9731254bf824875b0ff9528ac
+url: https://www.youtube.com/watch?v=36_6nECyhHo&amp;list=WL&amp;index=9
+created: Tue Dec 10 2024 06:57:07 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=36_6nECyhHo&amp;list=WL&amp;index=9
-created:: Tue Dec 10 2024 06:57:07 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### If You Only Had 1 Year to Learn Art

@@ -2,14 +2,13 @@
 raindrop_id: 798701513
 raindrop_highlights:
   6666146a47e2fe7b78038bc3: 04ecbf6e9d3947a31094d0b4a6822513
-
+url: https://www.youtube.com/watch?v=lyHrkWom4EE
+created: Sun Jun 09 2024 16:44:44 GMT-0400
+status: 🟥
+tags: #chess, #learn
+type: video
 ---
 
-url:: https://www.youtube.com/watch?v=lyHrkWom4EE
-created:: Sun Jun 09 2024 16:44:44 GMT-0400
-status:: #🟥
-medium:: #source/article
-Topics:: #chess, #learn
 
 ### How I Gained 2200 Elo in Just 2 Years
 

@@ -6,13 +6,12 @@ raindrop_highlights:
   66af62af8fbeefa5979159e5: f970b55fa2fbe848558921f5ebda7236
   66af62ba25c4e5518544f5e4: fe71c2cb2b3236340a191363c422fe47
   66af62c659e41d080009397d: 1c3377c733254e3f5198d759b254bbbb
+url: https://www.coryzue.com/writing/time-wealth/
+created: Fri Aug 02 2024 17:36:02 GMT-0400
+status: 🟥
 
+type: article
 ---
-
-url:: https://www.coryzue.com/writing/time-wealth/
-created:: Fri Aug 02 2024 17:36:02 GMT-0400
-status:: #🟥
-medium:: #source/article
 
 
 ### Time Wealth

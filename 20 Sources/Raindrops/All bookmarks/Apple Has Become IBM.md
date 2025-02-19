@@ -2,13 +2,12 @@
 raindrop_id: 965374012
 raindrop_highlights:
   67b5cec05b4b2fbf90d3c402: e26015fae80287e6c5d28eeca4a25bdc
+url: https://www.youtube.com/watch?v=NMi8748iU4I&amp;list=LL
+created: Thu Feb 06 2025 07:48:28 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=NMi8748iU4I&amp;list=LL
-created:: Thu Feb 06 2025 07:48:28 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### Apple Has Become IBM

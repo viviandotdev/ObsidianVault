@@ -4,13 +4,12 @@ raindrop_highlights:
   6733a1809c70c876e36f8ccb: 075b1b7922d5b6dfa0c57e5971601900
   6733a18c0f743519f17a4198: ffb62e1aeab15b6eb0458abc46d76b0f
   6733a1990f622f20056eeea8: 56e3256abddde9a5929f18410988d85e
+url: https://nav.al/finally-wealthy
+created: Tue Nov 12 2024 13:42:08 GMT-0500
+status: 🟥
 
+type: article
 ---
-
-url:: https://nav.al/finally-wealthy
-created:: Tue Nov 12 2024 13:42:08 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### A Calm Mind, a Fit Body, a House Full of Love

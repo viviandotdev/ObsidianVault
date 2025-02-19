@@ -12,13 +12,12 @@ raindrop_highlights:
   678d34173f769da90e6a88db: f8042709ef7c445843f987b2e80afcf1
   678d341d9493edd4c38eeaa4: e55727acafa2e2837dbe6f16735c53e5
   678d599bb74a9749f6be71f5: de45b2bd473eb2c73053e97adbb75123
+url: https://practicedrawingthis.com/cgi-bin/carousel.cgi?section=postscript&amp;episode=book-memory-drawing
+created: Sun Nov 03 2024 06:20:26 GMT-0500
+status: 🟥
 
+type: link
 ---
-
-url:: https://practicedrawingthis.com/cgi-bin/carousel.cgi?section=postscript&amp;episode=book-memory-drawing
-created:: Sun Nov 03 2024 06:20:26 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### Book: Memory Drawing

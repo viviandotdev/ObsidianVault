@@ -2,13 +2,12 @@
 raindrop_id: 918616891
 raindrop_highlights:
   67584395932c06c42d1968b4: 09e371cf4577ca596e7ffffcd7e1ecca
+url: https://www.youtube.com/playlist?list=LL
+created: Tue Dec 10 2024 08:35:17 GMT-0500
+status: 🟥
 
+type: link
 ---
-
-url:: https://www.youtube.com/playlist?list=LL
-created:: Tue Dec 10 2024 08:35:17 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### LEVELS (Basic Version)

@@ -2,13 +2,12 @@
 raindrop_id: 898912806
 raindrop_highlights:
   6733bcd69c70c876e3735b4c: fee46cb39e5f01df76dea05ca4255a8c
+url: https://community.ricksteves.com/travel-forum/tech-tips/ultimate-travel-charger-after-20-years-of-travel-i-finally-figured-it-out
+created: Tue Nov 12 2024 15:38:46 GMT-0500
+status: 🟥
 
+type: article
 ---
-
-url:: https://community.ricksteves.com/travel-forum/tech-tips/ultimate-travel-charger-after-20-years-of-travel-i-finally-figured-it-out
-created:: Tue Nov 12 2024 15:38:46 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### ultimate travel charger - After 20 years of travel I finally figured it out - Rick Steves Travel Forum

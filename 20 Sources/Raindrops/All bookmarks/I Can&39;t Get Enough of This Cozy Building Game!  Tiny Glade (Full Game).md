@@ -2,13 +2,12 @@
 raindrop_id: 948065336
 raindrop_highlights:
   678a9d7a0d8273bc7b8ad23f: 166405ac2eb72c1a2cf0d89ce9b76260
+url: https://www.youtube.com/watch?v=AP8Q1WVP9S4
+created: Fri Jan 17 2025 13:12:10 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=AP8Q1WVP9S4
-created:: Fri Jan 17 2025 13:12:10 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### I Can&#39;t Get Enough of This Cozy Building Game! | Tiny Glade (Full Game)

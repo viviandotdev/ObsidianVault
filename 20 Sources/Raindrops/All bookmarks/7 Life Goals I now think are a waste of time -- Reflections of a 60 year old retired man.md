@@ -2,13 +2,12 @@
 raindrop_id: 907915080
 raindrop_highlights:
   674391a387ad1313b398ec8a: 051abdf5f02c86a993d4f6b12e9baf79
+url: https://www.youtube.com/watch?v=i-7Zjke2Y90&amp;list=LL&amp;index=1
+created: Sun Nov 24 2024 15:50:43 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=i-7Zjke2Y90&amp;list=LL&amp;index=1
-created:: Sun Nov 24 2024 15:50:43 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### 7 Life Goals I now think are a waste of time -- Reflections of a 60 year old retired man.

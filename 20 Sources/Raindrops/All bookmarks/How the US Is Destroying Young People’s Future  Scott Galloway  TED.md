@@ -2,13 +2,12 @@
 raindrop_id: 896112462
 raindrop_highlights:
   672e59e7f5271c4613be962e: 16f29a0df76d6d119737ce9d25fd6086
+url: https://www.youtube.com/watch?v=qEJ4hkpQW8E&amp;t=2s
+created: Fri Nov 08 2024 13:35:19 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=qEJ4hkpQW8E&amp;t=2s
-created:: Fri Nov 08 2024 13:35:19 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### How the US Is Destroying Young People’s Future | Scott Galloway | TED

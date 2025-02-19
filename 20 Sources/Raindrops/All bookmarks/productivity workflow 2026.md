@@ -3,13 +3,12 @@ raindrop_id: 910254337
 raindrop_highlights:
   6747c89d6f552476435e5560: 37dddb16788e1e0f492cd6d856f13259
   6747c8a47caa0f71737b8d6a: 096c00ce0479dbfb933e533d907b65d4
+url: https://www.youtube.com/watch?v=KkhivPQ8sbo
+created: Wed Nov 27 2024 20:34:21 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=KkhivPQ8sbo
-created:: Wed Nov 27 2024 20:34:21 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### productivity workflow 2026

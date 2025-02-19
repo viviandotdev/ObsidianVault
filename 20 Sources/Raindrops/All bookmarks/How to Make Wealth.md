@@ -15,13 +15,12 @@ raindrop_highlights:
   666b603d0c03b1783fdb4094: 461a701dbf6941c63a3c4564054ba506
   666b61109486bd79803a1586: 48c9c5b854617cd4a105e3c8b1fde7f4
   666b617601db2da0abaa51cd: ff1158b461277ecf3ab20a4efdd36722
+url: https://paulgraham.com/wealth.html
+created: Sun Jun 09 2024 19:13:25 GMT-0400
+status: 🟥
 
+type: link
 ---
-
-url:: https://paulgraham.com/wealth.html
-created:: Sun Jun 09 2024 19:13:25 GMT-0400
-status:: #🟥
-medium:: #source/article
 
 
 ### How to Make Wealth

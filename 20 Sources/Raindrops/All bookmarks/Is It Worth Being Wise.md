@@ -2,13 +2,12 @@
 raindrop_id: 798820758
 raindrop_highlights:
   6689702488b68020d89f93ed: 5b7ec8247594217a1371051ca1887f7e
+url: https://paulgraham.com/wisdom.html
+created: Sun Jun 09 2024 19:14:26 GMT-0400
+status: 🟥
 
+type: link
 ---
-
-url:: https://paulgraham.com/wisdom.html
-created:: Sun Jun 09 2024 19:14:26 GMT-0400
-status:: #🟥
-medium:: #source/article
 
 
 ### Is It Worth Being Wise?

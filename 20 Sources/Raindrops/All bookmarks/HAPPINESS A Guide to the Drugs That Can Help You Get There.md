@@ -2,13 +2,12 @@
 raindrop_id: 907902986
 raindrop_highlights:
   67438e768ff21b0f05ba5df3: c4061d62cc3c484143159a2f52855e29
+url: https://www.youtube.com/watch?v=zcAmgNoWzVk&amp;list=LL&amp;index=7
+created: Sun Nov 24 2024 15:37:10 GMT-0500
+status: 🟥
 
+type: video
 ---
-
-url:: https://www.youtube.com/watch?v=zcAmgNoWzVk&amp;list=LL&amp;index=7
-created:: Sun Nov 24 2024 15:37:10 GMT-0500
-status:: #🟥
-medium:: #source/article
 
 
 ### HAPPINESS: A Guide to the Drugs That Can Help You Get There

@@ -2,13 +2,12 @@
 raindrop_id: 877783034
 raindrop_highlights:
   670facb9505bc39fee7f5080: b870e3e2eb7d332896bdfad8fd2b67a8
+url: https://www.instagram.com/yullia_prohorova
+created: Wed Oct 16 2024 08:08:25 GMT-0400
+status: 🟥
 
+type: link
 ---
-
-url:: https://www.instagram.com/yullia_prohorova
-created:: Wed Oct 16 2024 08:08:25 GMT-0400
-status:: #🟥
-medium:: #source/article
 
 
 ### gamedev / 3dart (@yullia_prohorova) • Instagram photos and videos

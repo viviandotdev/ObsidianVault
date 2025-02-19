@@ -2,14 +2,13 @@
 raindrop_id: 907377681
 raindrop_highlights:
   67432d24efded4cc7179b861: b6c61bac74077bfc07569ebaf12aba3c
-
+url: https://www.youtube.com/watch?v=IHHEKcfVIsg
+created: Sun Nov 24 2024 08:41:56 GMT-0500
+status: 🟥
+tags: #climbing
+type: video
 ---
 
-url:: https://www.youtube.com/watch?v=IHHEKcfVIsg
-created:: Sun Nov 24 2024 08:41:56 GMT-0500
-status:: #🟥
-medium:: #source/article
-Topics:: #climbing
 
 ### My Rock Climbing Training Routine to V8 Revealed (Beginner to Intermediate)
 
