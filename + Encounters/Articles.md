@@ -1,9 +1,13 @@
 ---
-modified: 2025-02-19T07:18:21-05:00
+modified: 2025-02-19T08:16:29-05:00
 ---
-Articles
+To Read Articles
+#🟩 
+#🟥 
+#🟨  
 
 ```dataview
-TABLE file.name, tags AS "Tags", Status as "Status"
+TABLE tags AS "Tags", Status as "Status"
 FROM "20 Sources/Raindrops"
+WHERE contains(Status, "#🟥") AND !contains(file.path, "Templates")
 ```

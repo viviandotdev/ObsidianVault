@@ -2,7 +2,8 @@
 raindrop_id: 797517966
 raindrop_highlights:
   666252dbd540749bc9ff67ee: eb94fb0bccdec7fa9ea0218216d170b7
-status: ""
+status: 
+modified: 2025-02-19T08:16:07-05:00
 ---
 
 URL:: https://github.com/CodingGarden/mac-setup
