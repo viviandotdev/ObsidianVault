@@ -2,11 +2,11 @@
 raindrop_id: 949598042
 raindrop_highlights:
   678d67a27ce0ca11facaf760: 029a60f3f7dc936cc2fdda2885439976
-
+modified: 2025-02-19T07:01:24-05:00
 ---
 
 URL:: https://www.practicedrawingthis.com/cgi-bin/carousel.cgi?section=newsletter-archive&amp;episode=blog-2024-12-22-findyourwhy-is-nonsense
-modified:: {<% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+modified:: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 Status:: #🟥
 Medium:: #source/article
 
