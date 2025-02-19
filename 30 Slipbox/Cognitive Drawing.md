@@ -1,11 +1,11 @@
 ---
 created: 2024-12-23 07:46
-modified: 2025-01-01T16:50:27-05:00
+modified: 2025-02-19T06:37:01-05:00
 alias: 
 ---
 up::  
 type:: #note/atomic🌳 
-links::
+tags:: #drawing 
 ## Cognitive Drawing
 **Go through iterations** repeating drawing from memory and then not from memory.
 
