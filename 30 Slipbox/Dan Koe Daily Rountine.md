@@ -1,6 +1,6 @@
 ---
-created: 2024-06-30 20:55 
-modified: Sunday 30th June 2024 20:55:11
+created: 2024-06-30 20:55
+modified: 2025-02-19T06:48:06-05:00
 alias: 
 ---
 up::  
@@ -11,7 +11,7 @@ links::
 4 blocks separated by walking or meals
 60 - 90 minutes blocks
 
-- **Build, Publish, Maintain: + Learn**
+**Build, Publish, Maintain: + Learn**
 - Build: Long-term projects like writing books or building products.
 - Publish: Publishing content on social media.
 - Maintain: Maintaining existing projects that generate income.

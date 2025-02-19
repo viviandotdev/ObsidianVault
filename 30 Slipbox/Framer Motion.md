@@ -1,11 +1,11 @@
 ---
-created: 2024-07-29 14:21 
-modified: Monday 29th July 2024 14:21:12
+created: 2024-07-29 14:21
+modified: 2025-02-19T06:45:46-05:00
 alias: 
 ---
-p::  
+up::  [[React]]
 type:: #note/atomic🌳 
-links::
+links:: #animation #library 
 ## Framer Motion
 
 How does framer motion work?

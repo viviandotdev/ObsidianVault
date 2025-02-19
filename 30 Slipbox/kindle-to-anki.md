@@ -1,6 +1,10 @@
 ---
-modified: 2024-12-22T12:01:53-05:00
+modified: 2025-02-19T06:44:17-05:00
 ---
+
+Kindle to Anki script
+tags:: #books 
+up:: [[Kindle]]
 ```
 import os
 import csv
