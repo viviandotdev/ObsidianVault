@@ -18,14 +18,10 @@ raindrop_highlights:
 url: https://paulgraham.com/wealth.html
 created: Sun Jun 09 2024 19:13:25 GMT-0400
 status: 🟥
-
 type: link
+modified: 2025-02-19T18:21:24-05:00
 ---
-
-
 ### How to Make Wealth
-
-
 
 #### Highlights
 
