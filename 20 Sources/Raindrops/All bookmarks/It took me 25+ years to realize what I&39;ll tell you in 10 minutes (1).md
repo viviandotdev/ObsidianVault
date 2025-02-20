@@ -3,7 +3,7 @@ raindrop_id: 899239126
 raindrop_highlights:
   6734b6362b4cc004e0b3c12a: b6ea8a22a1f361d527b44829baf3727f
 url: https://www.youtube.com/watch?v=ZAdg63nVhZg&amp;list=LL&amp;index=17
-created: Wed Nov 13 2024 09:22:46 GMT-0500
+created: 2024/11/13
 status: 🟥
 
 type: video

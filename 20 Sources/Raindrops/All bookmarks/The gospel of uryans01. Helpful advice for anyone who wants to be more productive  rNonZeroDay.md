@@ -3,7 +3,7 @@ raindrop_id: 793738865
 raindrop_highlights:
   6658fe36a072f8cfb68195f6: 8b4c1cc195c4f102a8d6869de75f68ae
 url: https://www.reddit.com/r/NonZeroDay/comments/1qbxvz/the_gospel_of_uryans01_helpful_advice_for_anyone/
-created: Thu May 30 2024 18:31:18 GMT-0400
+created: 2024/05/30
 status: 🟥
 
 type: link

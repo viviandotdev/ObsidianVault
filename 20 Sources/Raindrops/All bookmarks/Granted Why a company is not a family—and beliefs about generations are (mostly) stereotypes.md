@@ -3,7 +3,7 @@ raindrop_id: 798673344
 raindrop_highlights:
   666605f79f7cd28bdd040151: a1bd0196f0dd4fd8adfde2d72ec2c457
 url: https://adamgrant.substack.com/p/granted-why-a-company-is-not-a-familyand?utm_source=post-email-title&amp;publication_id=1285137&amp;post_id=145470643&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
-created: Sun Jun 09 2024 15:43:47 GMT-0400
+created: 2024/06/09
 status: 🟥
 tags: #confidence
 type: article

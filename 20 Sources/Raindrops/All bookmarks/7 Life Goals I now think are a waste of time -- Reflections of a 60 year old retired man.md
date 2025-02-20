@@ -3,7 +3,7 @@ raindrop_id: 907915080
 raindrop_highlights:
   674391a387ad1313b398ec8a: 051abdf5f02c86a993d4f6b12e9baf79
 url: https://www.youtube.com/watch?v=i-7Zjke2Y90&amp;list=LL&amp;index=1
-created: Sun Nov 24 2024 15:50:43 GMT-0500
+created: 2024/11/24
 status: 🟥
 
 type: video

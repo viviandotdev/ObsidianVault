@@ -3,7 +3,7 @@ raindrop_id: 895484206
 raindrop_highlights:
   672d27bac98aba3a9ad51dad: 0c68ffa5257c42a6f0e0d998d7c96586
 url: https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
-created: Thu Nov 07 2024 15:48:58 GMT-0500
+created: 2024/11/07
 status: 🟥
 
 type: article

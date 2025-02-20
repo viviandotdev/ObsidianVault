@@ -3,7 +3,7 @@ raindrop_id: 775743724
 raindrop_highlights:
   662c1c36130022ea059bb337: 0709cb67ac248dc51bb35569856276b0
 url: https://newsletter.posthog.com/p/talk-to-users?utm_source=tldrwebdev
-created: Fri Apr 26 2024 17:27:18 GMT-0400
+created: 2024/04/26
 status: 🟥
 tags: #product-validation
 type: article

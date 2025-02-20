@@ -3,7 +3,7 @@ raindrop_id: 821414573
 raindrop_highlights:
   66a0c6b4f675e2bd0e610d51: cfd04d12cda91cdecbdaa69f1f9d01a5
 url: https://matt.sh/panic-at-the-job-market/
-created: Wed Jul 24 2024 05:17:40 GMT-0400
+created: 2024/07/24
 status: 🟥
 
 type: link

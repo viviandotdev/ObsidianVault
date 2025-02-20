@@ -3,7 +3,7 @@ raindrop_id: 949598042
 raindrop_highlights:
   678d67a27ce0ca11facaf760: 029a60f3f7dc936cc2fdda2885439976
 url: https://www.practicedrawingthis.com/cgi-bin/carousel.cgi?section=newsletter-archive&amp;episode=blog-2024-12-22-findyourwhy-is-nonsense
-created: Sun Jan 19 2025 15:59:14 GMT-0500
+created: 2025/01/19
 status: 🟥
 
 type: article

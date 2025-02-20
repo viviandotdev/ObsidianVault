@@ -3,7 +3,7 @@ raindrop_id: 975203433
 raindrop_highlights:
   67b5d9cf5aa1859b8c36782c: 1d8210639f6bdfa81a66809df2e15a5b
 url: https://www.youtube.com/watch?v=Sr9yRqOZMYU
-created: Tue Feb 18 2025 20:28:24 GMT-0500
+created: 2025/02/18
 status: 🟥
 
 type: video

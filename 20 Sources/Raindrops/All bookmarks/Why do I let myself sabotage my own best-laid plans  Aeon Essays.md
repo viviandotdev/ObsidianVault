@@ -3,7 +3,7 @@ raindrop_id: 925073398
 raindrop_highlights:
   676738664cade6a1365c5cd7: 59852322aa1950aed6f06a40ea61a916
 url: https://aeon.co/essays/why-do-i-let-myself-sabotage-my-own-best-laid-plans
-created: Thu Dec 19 2024 09:56:07 GMT-0500
+created: 2024/12/19
 status: 🟥
 
 type: article

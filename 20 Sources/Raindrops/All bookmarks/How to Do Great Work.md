@@ -55,7 +55,7 @@ raindrop_highlights:
   666635cadcf391b032aeaa7e: d41faca0797d841a60f1a71fd2bc0da2
   666636010117555c8a3ad585: 7f6a44ff2d91d4e53b96936abd28823f
 url: https://paulgraham.com/greatwork.html
-created: Sat Apr 27 2024 08:14:05 GMT-0400
+created: 2024/04/27
 status: 🟥
 
 type: link

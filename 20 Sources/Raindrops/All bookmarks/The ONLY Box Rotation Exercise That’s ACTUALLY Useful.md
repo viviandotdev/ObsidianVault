@@ -3,7 +3,7 @@ raindrop_id: 918561135
 raindrop_highlights:
   67582c58c4a8922c088b43a9: 0a70dece7cda73dfe6d3df92c3a36f9b
 url: https://www.youtube.com/watch?v=FEyoaEibF08&amp;list=WL&amp;index=10&amp;t=680s
-created: Tue Dec 10 2024 06:56:08 GMT-0500
+created: 2024/12/10
 status: 🟥
 tags: #perspecive
 type: video

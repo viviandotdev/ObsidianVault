@@ -3,7 +3,7 @@ raindrop_id: 785895924
 raindrop_highlights:
   6644c2dd77a8d4ce9a898ed3: 954374fec5926fb570bf5a4c939be549
 url: https://www.raquelmoss.com/automating-self-control/
-created: Wed May 15 2024 10:12:45 GMT-0400
+created: 2024/05/15
 status: 🟥
 
 type: link

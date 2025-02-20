@@ -3,7 +3,7 @@ raindrop_id: 906994272
 raindrop_highlights:
   674216c57e252412161d81fa: 9403f856b8b9fe7e91c0424ab6a7ff9b
 url: https://www.youtube.com/watch?v=-MUEXGaxFDA
-created: Sat Nov 23 2024 12:54:13 GMT-0500
+created: 2024/11/23
 status: 🟥
 
 type: video

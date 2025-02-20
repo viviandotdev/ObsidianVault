@@ -4,7 +4,7 @@ raindrop_highlights:
   666b7fbbd4cac6fee239dee4: d112989466694ef38719ef00a219e630
   666b80360c03b1783fe19520: a54af129433e0bf5839c51651518e475
 url: https://paulgraham.com/taste.html
-created: Sun Jun 09 2024 19:13:00 GMT-0400
+created: 2024/06/09
 status: 🟥
 
 type: link
