@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://community.ricksteves.com/travel-forum/tech-tips/ultimate-travel-charger-after-20-years-of-travel-i-finally-figured-it-out
 created: November 12th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

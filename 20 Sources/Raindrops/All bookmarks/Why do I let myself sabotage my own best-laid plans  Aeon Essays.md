@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://aeon.co/essays/why-do-i-let-myself-sabotage-my-own-best-laid-plans
 created: December 19th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

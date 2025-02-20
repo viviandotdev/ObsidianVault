@@ -7,8 +7,8 @@ raindrop_highlights:
 url: https://www.personalcanon.com/p/research-as-leisure-activity
 created: November 23rd 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

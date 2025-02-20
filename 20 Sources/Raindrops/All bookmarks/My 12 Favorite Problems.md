@@ -6,8 +6,9 @@ raindrop_highlights:
 url: https://www.honest-broker.com/p/my-12-favorite-problems
 created: January 10th 2024
 status: 🟥
-tags: #personal-development, #12-problems
+tags:
 type: article
+like: false
 ---
 
 

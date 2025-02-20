@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://newsletter.posthog.com/p/talk-to-users?utm_source=tldrwebdev
 created: April 26th 2024
 status: 🟥
-tags: #product-validation
+tags:
 type: article
+like: false
 ---
 
 

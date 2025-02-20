@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://medium.com/@chhaymenghong/switch-between-projects-like-a-pro-quick-guide-on-vs-codes-project-manager-extension-631cf00553d
 created: June 6th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

@@ -7,8 +7,9 @@ raindrop_highlights:
 url: https://craigmod.com/essays/drumming/
 created: November 30th 2023
 status: 🟥
-tags: #drumming, #piano, #hobby
+tags:
 type: article
+like: false
 ---
 
 

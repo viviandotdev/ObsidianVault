@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.practicedrawingthis.com/cgi-bin/carousel.cgi?section=newsletter-archive&amp;episode=blog-2024-12-22-findyourwhy-is-nonsense
 created: January 19th 2025
 status: 🟥
-
 type: article
+like: false
 ---
 
 

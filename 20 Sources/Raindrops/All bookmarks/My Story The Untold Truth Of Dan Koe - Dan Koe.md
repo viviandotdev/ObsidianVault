@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://thedankoe.com/letters/my-story-the-untold-truth-of-dan-koe/
 created: April 29th 2024
 status: 🟥
-tags: #success
+tags:
 type: article
+like: false
 ---
 
 

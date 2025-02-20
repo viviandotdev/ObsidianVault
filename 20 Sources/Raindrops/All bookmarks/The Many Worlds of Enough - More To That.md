@@ -10,8 +10,8 @@ raindrop_highlights:
 url: https://moretothat.com/the-many-worlds-of-enough/
 created: April 29th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

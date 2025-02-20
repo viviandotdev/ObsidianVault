@@ -9,8 +9,8 @@ raindrop_highlights:
 url: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=don-t-trust-them
 created: January 16th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

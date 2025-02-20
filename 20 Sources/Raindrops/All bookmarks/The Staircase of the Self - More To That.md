@@ -8,8 +8,8 @@ raindrop_highlights:
 url: https://moretothat.com/the-staircase-of-the-self/
 created: July 5th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

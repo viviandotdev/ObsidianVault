@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://paulgraham.com/addiction.html?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=llama-3#f4n
 created: April 29th 2024
 status: 🟥
-tags: #social-media, #addiction
+tags:
 type: link
+like: false
 ---
 
 

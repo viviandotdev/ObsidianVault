@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://read.engineerscodex.com/p/simple-software-engineering-habits
 created: January 11th 2024
 status: 🟥
-tags: #productivity, #programming
+tags:
 type: article
+like: false
 ---
 
 

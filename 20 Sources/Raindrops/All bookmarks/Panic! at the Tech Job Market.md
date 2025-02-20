@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://matt.sh/panic-at-the-job-market/
 created: July 24th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

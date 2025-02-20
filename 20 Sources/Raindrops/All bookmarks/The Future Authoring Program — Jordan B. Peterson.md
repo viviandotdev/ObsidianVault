@@ -6,8 +6,8 @@ raindrop_highlights:
 url: https://medium.com/@tommyscience/the-future-authoring-program-jordan-b-peterson-9edc24a2edc6
 created: February 7th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

@@ -10,8 +10,8 @@ raindrop_highlights:
 url: https://www.gurwinder.blog/p/the-perils-of-audience-capture
 created: May 7th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

@@ -6,8 +6,8 @@ raindrop_highlights:
 url: https://refactoring.fm/p/how-to-build-side-projects?utm_source=substack&amp;utm_medium=email
 created: September 17th 2023
 status: 🟥
-
 type: article
+like: false
 ---
 
 

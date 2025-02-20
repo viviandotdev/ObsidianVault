@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://medium.com/@tomwhitwell/52-things-i-learned-in-2024-75efffe44f15
 created: December 10th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.skerendesignschool.com/all-courses/
 created: January 12th 2025
 status: 🟥
-
 type: article
+like: false
 ---
 
 

@@ -6,8 +6,9 @@ raindrop_highlights:
 url: https://ajkprojects.com/stopactinglikeyourefamous?utm_source=tldrnewsletter
 created: April 27th 2024
 status: 🟥
-tags: #blog
+tags:
 type: article
+like: false
 ---
 
 

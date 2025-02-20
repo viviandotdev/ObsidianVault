@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://docs.n8n.io/hosting/installation/server-setups/digital-ocean/
 created: June 8th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

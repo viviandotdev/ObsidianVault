@@ -6,8 +6,9 @@ raindrop_highlights:
 url: https://moretothat.com/the-riddle-of-ambition/
 created: April 27th 2024
 status: 🟥
-tags: #success
+tags:
 type: article
+like: false
 ---
 
 

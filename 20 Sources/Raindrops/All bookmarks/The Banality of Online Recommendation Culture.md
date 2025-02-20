@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture
 created: November 12th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

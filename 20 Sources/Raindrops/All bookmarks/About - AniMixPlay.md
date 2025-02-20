@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://animixplay.to/
 created: September 8th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://newsletter.techleadmentor.com/p/perceived-difficulty-is-a-productivity?utm_source=tldrwebdev
 created: May 19th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

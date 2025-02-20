@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://advdes.org/plus
 created: December 10th 2024
 status: 🟥
-tags: #industrial-design
+tags:
 type: link
+like: false
 ---
 
 

@@ -7,8 +7,8 @@ raindrop_highlights:
 url: https://postanly.substack.com/p/an-existentialist-approach-to-life?utm_source=post-email-title&amp;publication_id=11353&amp;post_id=146462378&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 created: July 11th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

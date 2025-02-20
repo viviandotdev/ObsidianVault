@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://www.youtube.com/watch?v=lyHrkWom4EE
 created: June 9th 2024
 status: 🟥
-tags: #chess, #learn
+tags:
 type: video
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
 created: November 7th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

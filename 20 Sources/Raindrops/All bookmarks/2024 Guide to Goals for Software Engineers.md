@@ -6,8 +6,9 @@ raindrop_highlights:
 url: https://careercutler.substack.com/p/2024-guide-to-goals-for-software
 created: January 11th 2024
 status: 🟥
-tags: #productivity, #goals, #life-design
+tags:
 type: article
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://coloso.global/en/products/gatan-class-us
 created: December 1st 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

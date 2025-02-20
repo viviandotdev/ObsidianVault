@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://bigthink.com/the-present/why-women-commit-much-less-crime/
 created: December 19th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

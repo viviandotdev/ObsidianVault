@@ -8,8 +8,8 @@ raindrop_highlights:
 url: https://www.theguardian.com/lifeandstyle/2024/jan/01/100-tiny-changes-to-transform-your-life-from-the-one-minute-rule-to-pyjama-yoga
 created: March 10th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://notes.burke.libbey.me/how-i-read/
 created: April 25th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.reddit.com/r/kansascity/comments/2gnom8/general_rules_for_street_no_parking_signs/
 created: September 2nd 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

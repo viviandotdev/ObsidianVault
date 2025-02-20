@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://www.youtube.com/watch?v=IHHEKcfVIsg
 created: November 24th 2024
 status: 🟥
-tags: #climbing
+tags:
 type: video
+like: false
 ---
 
 

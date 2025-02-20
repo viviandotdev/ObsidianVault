@@ -6,8 +6,9 @@ raindrop_highlights:
 url: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
 created: May 25th 2024
 status: 🟥
-tags: #goals, #financial-freedom, #money
+tags:
 type: article
+like: false
 ---
 
 

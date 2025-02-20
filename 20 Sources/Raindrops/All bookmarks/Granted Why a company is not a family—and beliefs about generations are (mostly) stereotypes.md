@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://adamgrant.substack.com/p/granted-why-a-company-is-not-a-familyand?utm_source=post-email-title&amp;publication_id=1285137&amp;post_id=145470643&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 created: June 9th 2024
 status: 🟥
-tags: #confidence
+tags:
 type: article
+like: false
 ---
 
 

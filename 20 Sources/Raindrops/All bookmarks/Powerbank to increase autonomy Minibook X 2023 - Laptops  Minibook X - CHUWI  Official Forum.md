@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://forum.chuwi.com/t/powerbank-to-increase-autonomy-minibook-x-2023/44824
 created: November 17th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

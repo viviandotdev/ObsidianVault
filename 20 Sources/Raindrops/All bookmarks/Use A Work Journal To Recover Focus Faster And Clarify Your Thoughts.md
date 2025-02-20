@@ -6,8 +6,8 @@ raindrop_highlights:
 url: https://fev.al/posts/work-journal/
 created: July 23rd 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

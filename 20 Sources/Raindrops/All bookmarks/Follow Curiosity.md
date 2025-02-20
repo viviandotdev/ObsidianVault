@@ -13,8 +13,8 @@ raindrop_highlights:
 url: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
 created: April 27th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

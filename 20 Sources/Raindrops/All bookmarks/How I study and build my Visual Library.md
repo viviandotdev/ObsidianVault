@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.linodriegheart.com/how-i-study-and-build-my-visual-library/
 created: January 19th 2025
 status: 🟥
-
 type: article
+like: false
 ---
 
 

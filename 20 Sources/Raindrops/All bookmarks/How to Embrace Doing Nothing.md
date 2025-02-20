@@ -6,8 +6,8 @@ raindrop_highlights:
 url: https://www.theatlantic.com/family/archive/2022/08/benefits-of-doing-nothing/671035/
 created: December 19th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

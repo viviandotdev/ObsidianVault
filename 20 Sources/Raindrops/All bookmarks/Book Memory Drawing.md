@@ -15,8 +15,8 @@ raindrop_highlights:
 url: https://practicedrawingthis.com/cgi-bin/carousel.cgi?section=postscript&amp;episode=book-memory-drawing
 created: November 3rd 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

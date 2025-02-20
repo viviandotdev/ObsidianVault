@@ -7,8 +7,8 @@ raindrop_highlights:
 url: https://nav.al/finally-wealthy
 created: November 12th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

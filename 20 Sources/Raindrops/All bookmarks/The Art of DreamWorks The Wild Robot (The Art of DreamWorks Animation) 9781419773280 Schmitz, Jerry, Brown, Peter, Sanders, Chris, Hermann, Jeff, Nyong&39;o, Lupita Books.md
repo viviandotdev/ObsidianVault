@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.amazon.com/dp/1419773283/ref=mes-dp?_encoding=UTF8&amp;pd_rd_w=4r4dI&amp;content-id=amzn1.sym.7d2923e8-7496-46a5-862d-8ef28e908025&amp;pf_rd_p=7d2923e8-7496-46a5-862d-8ef28e908025&amp;pf_rd_r=CN6S6C1HBSZ3WMFHEBEA&amp;pd_rd_wg=nffNv&amp;pd_rd_r=ffe8c274-b7e9-42aa-94dc-c1fb757b5d0e
 created: December 1st 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

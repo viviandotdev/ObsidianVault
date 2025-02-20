@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.instagram.com/blansable/
 created: October 16th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

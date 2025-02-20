@@ -8,8 +8,8 @@ raindrop_highlights:
 url: https://andrewchen.substack.com/p/10x-work-versus-1x-work
 created: July 5th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.youtube.com/watch?v=9lDTdLQnSQo&amp;list=WL&amp;index=1
 created: November 12th 2024
 status: 🟥
-
 type: video
+like: false
 ---
 
 

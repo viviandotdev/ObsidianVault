@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://www.youtube.com/watch?v=Sa6EslOHsI0
 created: June 19th 2024
 status: 🟥
-tags: #arduino, #projects
+tags:
 type: video
+like: false
 ---
 
 

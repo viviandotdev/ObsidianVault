@@ -5,8 +5,9 @@ raindrop_highlights:
 url: https://github.com/CodingGarden/mac-setup
 created: June 6th 2024
 status: 🟥
-tags: #dev-tools, #mac-setup
+tags:
 type: link
+like: false
 ---
 
 

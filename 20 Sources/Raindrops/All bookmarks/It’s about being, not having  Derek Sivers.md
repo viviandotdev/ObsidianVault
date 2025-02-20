@@ -11,8 +11,8 @@ raindrop_highlights:
 url: https://sive.rs/being
 created: May 3rd 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

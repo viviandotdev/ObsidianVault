@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.reddit.com/r/NonZeroDay/comments/1qbxvz/the_gospel_of_uryans01_helpful_advice_for_anyone/
 created: May 30th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

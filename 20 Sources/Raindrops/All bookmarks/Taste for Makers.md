@@ -6,8 +6,8 @@ raindrop_highlights:
 url: https://paulgraham.com/taste.html
 created: June 9th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

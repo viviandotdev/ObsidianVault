@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://nesslabs.com/procrastination-emotions
 created: January 16th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

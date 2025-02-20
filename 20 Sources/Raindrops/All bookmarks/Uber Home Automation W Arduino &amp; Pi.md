@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.instructables.com/Uber-Home-Automation-w-Arduino-Pi/
 created: June 21st 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 

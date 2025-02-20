@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.raquelmoss.com/automating-self-control/
 created: May 15th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

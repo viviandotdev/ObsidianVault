@@ -57,8 +57,8 @@ raindrop_highlights:
 url: https://paulgraham.com/greatwork.html
 created: April 27th 2024
 status: 🟥
-
 type: link
+like: false
 ---
 
 

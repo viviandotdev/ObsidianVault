@@ -6,8 +6,8 @@ raindrop_highlights:
 url: https://codinginterviewsmadesimple.substack.com/p/3-mistakes-too-many-software-engineers?utm_source=post-email-title&amp;publication_id=108704&amp;post_id=144937064&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 created: June 7th 2024
 status: 🟥
-
 type: article
+like: false
 ---
 
 
