@@ -4,7 +4,7 @@ raindrop_highlights:
   662fb583acf215fe8d3686a7: e99588c91abae245a96e12dc83fcede3
   662fb591fbb59f626ab4021b: 33c1c50df2c4efe804b9f3e236400518
 url: https://moretothat.com/the-riddle-of-ambition/
-created: 2024/04/27
+created: April 27th 2024
 status: 🟥
 tags: #success
 type: article

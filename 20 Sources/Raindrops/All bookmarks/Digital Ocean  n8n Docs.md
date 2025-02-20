@@ -3,7 +3,7 @@ raindrop_id: 798034517
 raindrop_highlights:
   6664313fb8649bd125c02620: 3e079f0addb2224627a7d8ee8b883c07
 url: https://docs.n8n.io/hosting/installation/server-setups/digital-ocean/
-created: 2024/06/08
+created: June 8th 2024
 status: 🟥
 
 type: link

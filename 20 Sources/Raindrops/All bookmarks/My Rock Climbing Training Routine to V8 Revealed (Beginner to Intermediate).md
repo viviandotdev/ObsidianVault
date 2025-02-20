@@ -3,7 +3,7 @@ raindrop_id: 907377681
 raindrop_highlights:
   67432d24efded4cc7179b861: b6c61bac74077bfc07569ebaf12aba3c
 url: https://www.youtube.com/watch?v=IHHEKcfVIsg
-created: 2024/11/24
+created: November 24th 2024
 status: 🟥
 tags: #climbing
 type: video

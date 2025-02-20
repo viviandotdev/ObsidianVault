@@ -3,7 +3,7 @@ raindrop_id: 926285962
 raindrop_highlights:
   6766e3028f0615d2508e8581: b3ce4c81510334f973c1f0a3a926712b
 url: https://www.youtube.com/watch?v=ViY-zI3b5JQ&amp;list=WL&amp;index=7&amp;t=285s
-created: 2024/12/21
+created: December 21st 2024
 status: 🟥
 
 type: video

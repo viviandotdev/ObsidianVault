@@ -3,7 +3,7 @@ raindrop_id: 912595638
 raindrop_highlights:
   674cfa5a92a3f67430507102: ea9fd2affe09489b60e394c614a149b1
 url: https://coloso.global/en/products/gatan-class-us
-created: 2024/12/01
+created: December 1st 2024
 status: 🟥
 
 type: link

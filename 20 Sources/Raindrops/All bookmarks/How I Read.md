@@ -3,7 +3,7 @@ raindrop_id: 775465411
 raindrop_highlights:
   662aeb3447e6e81b9b696fb8: 75aaa633017088c4c8c6be9fc5a965be
 url: https://notes.burke.libbey.me/how-i-read/
-created: 2024/04/25
+created: April 25th 2024
 status: 🟥
 
 type: link

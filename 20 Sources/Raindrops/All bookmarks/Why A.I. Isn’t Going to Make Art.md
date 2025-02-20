@@ -11,7 +11,7 @@ raindrop_highlights:
   66df2f332093120e638456dc: d028d97affcb70790a2b0600f3f8bfa6
   66df2f56759889e3578a6623: d9a3f2887b2489f709d917fd98cd3607
 url: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
-created: 2024/09/09
+created: September 9th 2024
 status: 🟥
 
 type: article

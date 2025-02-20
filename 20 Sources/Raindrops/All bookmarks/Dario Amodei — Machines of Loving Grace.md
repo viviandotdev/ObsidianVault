@@ -9,7 +9,7 @@ raindrop_highlights:
   672e55986d6d02ff93a77fd1: 884f425d57124deb945685442e2d08d4
   672e55a371f478f55b81e438: 2f95a984ef698a3eb7c67abef9bb6f2e
 url: https://darioamodei.com/machines-of-loving-grace#1-biology-and-health
-created: 2024/11/04
+created: November 4th 2024
 status: 🟥
 
 type: article

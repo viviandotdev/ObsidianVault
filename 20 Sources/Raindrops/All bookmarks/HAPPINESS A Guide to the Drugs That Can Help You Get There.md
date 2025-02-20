@@ -3,7 +3,7 @@ raindrop_id: 907902986
 raindrop_highlights:
   67438e768ff21b0f05ba5df3: c4061d62cc3c484143159a2f52855e29
 url: https://www.youtube.com/watch?v=zcAmgNoWzVk&amp;list=LL&amp;index=7
-created: 2024/11/24
+created: November 24th 2024
 status: 🟥
 
 type: video

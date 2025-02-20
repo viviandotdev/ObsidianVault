@@ -3,7 +3,7 @@ raindrop_id: 712323291
 raindrop_highlights:
   65a12cffb3f0dbaec4b129a4: 4c1a6b64f7505e54857bddc749a95b5c
 url: https://read.engineerscodex.com/p/simple-software-engineering-habits
-created: 2024/01/11
+created: January 11th 2024
 status: 🟥
 tags: #productivity, #programming
 type: article

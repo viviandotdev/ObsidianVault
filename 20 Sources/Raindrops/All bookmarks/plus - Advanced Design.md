@@ -3,7 +3,7 @@ raindrop_id: 918558869
 raindrop_highlights:
   67582a900e7d685a9143dc7c: c3d43f7c9a412937a368607abfc40525
 url: https://advdes.org/plus
-created: 2024/12/10
+created: December 10th 2024
 status: 🟥
 tags: #industrial-design
 type: link

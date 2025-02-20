@@ -3,7 +3,7 @@ raindrop_id: 805207438
 raindrop_highlights:
   667592fbb6a4b54f48e9f4b4: 47a55f51be308208bb43096c4772d45b
 url: https://www.instructables.com/Uber-Home-Automation-w-Arduino-Pi/
-created: 2024/06/21
+created: June 21st 2024
 status: 🟥
 
 type: article

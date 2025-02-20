@@ -3,7 +3,7 @@ raindrop_id: 715682113
 raindrop_highlights:
   65b9a28c49b2c62881322250: 0b03a0800182d165b4ecc5ec1abf42b5
 url: https://nesslabs.com/procrastination-emotions
-created: 2024/01/16
+created: January 16th 2024
 status: 🟥
 
 type: article

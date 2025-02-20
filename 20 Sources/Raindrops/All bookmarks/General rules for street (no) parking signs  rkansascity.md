@@ -3,7 +3,7 @@ raindrop_id: 846011386
 raindrop_highlights:
   66d5a6993810e7e74a3e2aa8: 2767bb0fe76863881bbd3e1e3f88443b
 url: https://www.reddit.com/r/kansascity/comments/2gnom8/general_rules_for_street_no_parking_signs/
-created: 2024/09/02
+created: September 2nd 2024
 status: 🟥
 
 type: link

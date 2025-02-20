@@ -3,7 +3,7 @@ raindrop_id: 902908392
 raindrop_highlights:
   6739d7de0f622f20052c2de5: 8efe5bf5d38be505d6c3c9756f72b269
 url: https://forum.chuwi.com/t/powerbank-to-increase-autonomy-minibook-x-2023/44824
-created: 2024/11/17
+created: November 17th 2024
 status: 🟥
 
 type: article

@@ -3,7 +3,7 @@ raindrop_id: 918567699
 raindrop_highlights:
   67582f6c0e7d685a91446e16: b620b581fd8497f16bc1f7d5bab4cae0
 url: https://www.youtube.com/watch?v=ddKwkqNG-Uc&amp;list=WL&amp;index=6
-created: 2024/12/10
+created: December 10th 2024
 status: 🟥
 tags: #perspecive
 type: video

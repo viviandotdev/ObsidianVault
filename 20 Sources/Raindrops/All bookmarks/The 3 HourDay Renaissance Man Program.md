@@ -3,7 +3,7 @@ raindrop_id: 907914265
 raindrop_highlights:
   6743914571142cbcc2ed15c0: 954f0ca740a1ebb1df9b025ac4ae87e6
 url: https://www.youtube.com/watch?v=CedRyVtnsUE&amp;list=LL&amp;index=4
-created: 2024/11/24
+created: November 24th 2024
 status: 🟥
 
 type: video

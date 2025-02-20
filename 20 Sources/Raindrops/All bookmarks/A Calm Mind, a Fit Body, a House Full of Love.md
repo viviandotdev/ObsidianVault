@@ -5,7 +5,7 @@ raindrop_highlights:
   6733a18c0f743519f17a4198: ffb62e1aeab15b6eb0458abc46d76b0f
   6733a1990f622f20056eeea8: 56e3256abddde9a5929f18410988d85e
 url: https://nav.al/finally-wealthy
-created: 2024/11/12
+created: November 12th 2024
 status: 🟥
 
 type: article

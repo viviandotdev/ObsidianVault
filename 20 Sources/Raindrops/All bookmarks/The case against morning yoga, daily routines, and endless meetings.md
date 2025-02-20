@@ -6,7 +6,7 @@ raindrop_highlights:
   6687c8edb9630b2210839c72: 8d48aaefdb8beaa6840da870593a10f2
   6687c8f501eff46d7bba3360: 8d82c8afedcab40de79610631f4e2973
 url: https://andrewchen.substack.com/p/10x-work-versus-1x-work
-created: 2024/07/05
+created: July 5th 2024
 status: 🟥
 
 type: article

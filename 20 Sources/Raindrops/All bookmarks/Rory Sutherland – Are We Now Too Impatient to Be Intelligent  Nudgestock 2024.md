@@ -3,7 +3,7 @@ raindrop_id: 917755825
 raindrop_highlights:
   6756d752b13ea0b96b56c1a6: e92cf8434981d6e3b9b38534b91f763d
 url: https://www.youtube.com/watch?v=Bc9jFbxrkMk
-created: 2024/12/09
+created: December 9th 2024
 status: 🟥
 
 type: video

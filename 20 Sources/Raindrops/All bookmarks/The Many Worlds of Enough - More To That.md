@@ -8,7 +8,7 @@ raindrop_highlights:
   6733d8127ff7cbf114789532: 301a1e84229db8fa427729407fa0dfc1
   6733d8397ff7cbf114789902: 6e800246bd1373c6298a5f6edb435942
 url: https://moretothat.com/the-many-worlds-of-enough/
-created: 2024/04/29
+created: April 29th 2024
 status: 🟥
 
 type: article

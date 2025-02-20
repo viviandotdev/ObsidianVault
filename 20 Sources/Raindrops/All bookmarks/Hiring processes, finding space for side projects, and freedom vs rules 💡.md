@@ -3,7 +3,7 @@ raindrop_id: 792054998
 raindrop_highlights:
   6655abeed67b1d1d0e835060: 763ff0cb617a6c0bbcde19ef02ca49fc
 url: https://refactoring.fm/p/hiring-processes-finding-space-for?utm_source=substack&amp;utm_campaign=posts-open-in-app&amp;utm_medium=email&amp;publication_id=64099&amp;post_id=144936849&amp;r=f9r78&amp;triedRedirect=true
-created: 2024/05/28
+created: May 28th 2024
 status: 🟥
 
 type: article

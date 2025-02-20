@@ -5,7 +5,7 @@ raindrop_highlights:
   6733a8ca6d6d02ff93835a8c: f56b0ed4ac656266909719e59bf62b2d
   6733a8cedc8d8c9eff1b121b: d5097439627d76f0573d78482185dd3a
 url: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
-created: 2024/11/12
+created: November 12th 2024
 status: 🟥
 
 type: link

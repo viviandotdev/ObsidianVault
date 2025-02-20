@@ -5,7 +5,7 @@ raindrop_highlights:
   674214a97e252412161d2646: 199cc2b06a4cb94b8fd50aef09ab5d26
   674214b136e99724dacd575f: af498cf4cb0a8c440c1142495c1ac9d6
 url: https://www.personalcanon.com/p/research-as-leisure-activity
-created: 2024/11/23
+created: November 23rd 2024
 status: 🟥
 
 type: article

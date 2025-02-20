@@ -4,7 +4,7 @@ raindrop_highlights:
   66a0528b7612c7cd76f2fbe9: 32551f0f2edafdea4fa789bc3d23e505
   66a052bb00cbcf94e669ad4e: 1f0d42c39aafe679e0c22ec27632f24f
 url: https://fev.al/posts/work-journal/
-created: 2024/07/23
+created: July 23rd 2024
 status: 🟥
 
 type: article

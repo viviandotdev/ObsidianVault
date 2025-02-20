@@ -11,7 +11,7 @@ raindrop_highlights:
   6681fffb142133f74224a4f7: adb3ca5c69ce3790338a253214d6ace2
   668200068a48b77d1919458c: 01fec34fa1a0b2d12bff16d1ea1d46ba
 url: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
-created: 2024/04/27
+created: April 27th 2024
 status: 🟥
 
 type: article

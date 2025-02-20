@@ -3,7 +3,7 @@ raindrop_id: 751162080
 raindrop_highlights:
   65ecc640db113f0d3a6a8de8: 6ba87d47f49e268c27f5bd5011c1f735
 url: https://elliot.computer/
-created: 2024/03/09
+created: March 9th 2024
 status: 🟥
 
 type: link

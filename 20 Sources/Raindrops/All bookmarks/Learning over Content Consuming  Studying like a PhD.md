@@ -3,7 +3,7 @@ raindrop_id: 918844528
 raindrop_highlights:
   6758ae5c388c87f0b465bd3f: d5df3c89e5d2136662758dab68c30885
 url: https://www.youtube.com/watch?v=-IzWIf4dAjg&amp;list=WL&amp;index=48
-created: 2024/12/10
+created: December 10th 2024
 status: 🟥
 
 type: video

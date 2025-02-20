@@ -4,7 +4,7 @@ raindrop_highlights:
   659e9d883abade0530810e10: d97004e5fea8383dc610c37c5791633d
   659e9d90654b46e912445f76: 7dedc290b3df71998bad46051dfd8c64
 url: https://www.honest-broker.com/p/my-12-favorite-problems
-created: 2024/01/10
+created: January 10th 2024
 status: 🟥
 tags: #personal-development, #12-problems
 type: article
