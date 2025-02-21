@@ -7,19 +7,17 @@ created: February 6th 2025
 status: 🟥
 type: video
 like: true
+modified: 2025-02-21T07:49:23-05:00
 ---
 
 
 ### Apple Has Become IBM
 
-Music by: https://www.youtube.com/c/RandyVazquez
-
-● Tailosive Tech Plus: https://www.youtube.com/tailosivetech/join
-
-● Where I Work: https://www.youtube.com/@TELOtrucks
-
-● Contact:  https://x.com/tailosivetech
-
+IBM is a large company that no longer innovates, this is the same thing that will happen to apple.
+Overtime when a product gets so good the engineers are no longer the ones driving the sales and success of the company it is the sales and marketing people.
+For example after the iPhone X the changes in the iPhone have been minimal, we have reached the peak of enginering with iphones. Now apple pours a lot of money into sales and marketing because technological innocation is not longer driving sales. 
+Back then I was really excited when a new iPhone came out and the new tech features were usually what made me want to buy them.
+But they that the new features are barely noticable and I don't easily fall for marketing tactis I
 #### Highlights
 
 > [!quote]+ Updated on Wed Feb 19 2025 07:29:52 GMT-0500
