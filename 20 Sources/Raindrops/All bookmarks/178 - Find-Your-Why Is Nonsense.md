@@ -7,11 +7,11 @@ created: January 19th 2025
 status: 🟩
 type: article
 like: false
-modified: 2025-02-22T07:59:17-05:00
+modified: 2025-02-22T10:10:12-05:00
 tags:
   - curisoity
 ---
-
+related:: [[Follow Curiosity]]
 
 ### #178 - Find-Your-Why Is Nonsense
 

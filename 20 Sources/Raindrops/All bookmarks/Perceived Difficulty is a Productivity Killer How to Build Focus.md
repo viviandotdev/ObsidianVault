@@ -7,6 +7,8 @@ created: May 19th 2024
 status: 🟥
 type: article
 like: false
+tags:
+  - productivity
 ---
 
 

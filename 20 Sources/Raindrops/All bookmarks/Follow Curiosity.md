@@ -15,8 +15,11 @@ created: April 27th 2024
 status: 🟥
 type: article
 like: false
+tags:
+  - "#curisoity"
+modified: 2025-02-22T10:10:40-05:00
 ---
-
+relatted:: [[178 - Find-Your-Why Is Nonsense]]
 
 ### Follow Curiosity
 
