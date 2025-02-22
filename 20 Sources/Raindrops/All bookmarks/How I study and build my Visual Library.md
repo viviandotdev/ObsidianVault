@@ -4,10 +4,13 @@ raindrop_highlights:
   678d5aab7ce0ca11fac90305: 6ca43a610da1148abd6f82b0ba158bd5
 url: https://www.linodriegheart.com/how-i-study-and-build-my-visual-library/
 created: January 19th 2025
-status: 🟥
+status: 🟩
 type: article
 like: false
-modified: 2025-02-22T08:21:21-05:00
+modified: 2025-02-22T08:23:16-05:00
+tags:
+  - "#drawing"
+  - "#art"
 ---
 
 

@@ -6,7 +6,7 @@ url: https://www.practicedrawingthis.com/cgi-bin/carousel.cgi?section=newsletter
 created: January 19th 2025
 status: 🟩
 type: article
-like: true
+like: false
 modified: 2025-02-22T07:59:17-05:00
 tags:
   - curisoity
