@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=qEJ4hkpQW8E&amp;t=2s
 created: November 8th 2024
 status: 🟥
 type: video
-like: false
+like: true
 ---
 
 

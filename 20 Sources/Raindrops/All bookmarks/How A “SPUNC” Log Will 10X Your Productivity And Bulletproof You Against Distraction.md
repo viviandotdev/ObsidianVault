@@ -6,8 +6,10 @@ url: https://barry-davret.medium.com/how-a-spunc-log-will-10x-your-productivity-
 created: June 2nd 2024
 status: 🟥
 tags:
+  - "#productivity"
 type: article
 like: false
+modified: 2025-02-22T09:18:17-05:00
 ---
 
 

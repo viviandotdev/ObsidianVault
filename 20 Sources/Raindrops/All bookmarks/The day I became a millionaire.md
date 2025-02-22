@@ -5,10 +5,11 @@ raindrop_highlights:
   66534526d67b1d1d0e162a82: 647188470b190613602f5a825a884f4d
 url: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
 created: May 25th 2024
-status: 🟥
-tags:
+status: 🟩
+tags: 
 type: article
-like: false
+like: true
+modified: 2025-02-22T09:20:48-05:00
 ---
 
 
