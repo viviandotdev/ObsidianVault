@@ -7,13 +7,14 @@ created: January 19th 2025
 status: 🟥
 type: article
 like: false
+modified: 2025-02-22T07:56:24-05:00
 ---
 
 
 ### #178 - Find-Your-Why Is Nonsense
 
-...
 
+Your motivation should be curiosity. Curiosity is what drives meaning out of life 
 #### Highlights
 
 > [!quote]+ Updated on Sun Jan 19 2025 15:59:14 GMT-0500
