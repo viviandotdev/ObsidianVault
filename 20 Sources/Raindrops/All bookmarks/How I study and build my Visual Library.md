@@ -7,13 +7,14 @@ created: January 19th 2025
 status: 🟥
 type: article
 like: false
+modified: 2025-02-22T08:02:58-05:00
 ---
 
 
 ### How I study and build my Visual Library
 
 The only way to learn and build your Visual Library is by studying and interrogating yourself regularly. In other words; study, interrogate, fix, repeat.
-
+Choose a scene from a movie you like and study the objects of the scene for a month?
 #### Highlights
 
 > [!quote]+ Updated on Sun Jan 19 2025 15:03:55 GMT-0500
