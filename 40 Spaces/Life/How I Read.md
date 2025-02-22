@@ -1,11 +1,11 @@
 ---
 created: 2024-12-21 14:41
-modified: 2025-02-19T06:49:26-05:00
+modified: 2025-02-22T10:08:50-05:00
 alias: 
 ---
 up::  [[Workflows]]
 type:: #note/atomic🌳 
-links:: [[20 Sources/Raindrops/All bookmarks/All bookmarks/How I Read|How I Read]]
+links:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
 ## How i read
 ## Capture
 **books** - read on kindle

@@ -4,9 +4,9 @@ raindrop_highlights:
   65a71dad6b41f3583f25d8e5: 56b24cc1a88ea5df849e6fc237148a29
 url: https://moretothat.com/the-nothingness-of-money/
 created: January 16th 2024
-status: 🟥
+status: 🟨
 type: article
-like: false
+like: true
 ---
 
 

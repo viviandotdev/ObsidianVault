@@ -16,9 +16,9 @@ raindrop_highlights:
   65d26cb1e57814347aa89e28: 014dfd812e338f8d2916f1b2e85d5f5c
 url: https://moretothat.com/the-labor-of-inspiration/
 created: January 18th 2024
-status: 🟥
+status: 🟨
 type: article
-like: false
+like: true
 ---
 
 

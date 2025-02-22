@@ -10,9 +10,9 @@ raindrop_highlights:
   65cd7b9d06660d65ce9c1d05: 08a91e8bf463602442bd86fd407a3120
 url: https://moretothat.com/travel-is-no-cure-for-the-mind/
 created: January 16th 2024
-status: 🟥
+status: 🟨
 type: article
-like: false
+like: true
 ---
 
 

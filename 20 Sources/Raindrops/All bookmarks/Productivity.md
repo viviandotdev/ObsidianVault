@@ -6,9 +6,9 @@ raindrop_highlights:
   65d23419ca7494db58d6579d: 79dc493a6681f813d312892ef0ca33bc
 url: https://blog.samaltman.com/productivity
 created: January 11th 2024
-status: 🟥
+status: 🟨
 type: article
-like: false
+like: true
 ---
 
 
