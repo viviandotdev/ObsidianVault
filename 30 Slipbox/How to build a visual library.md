@@ -1,12 +1,15 @@
 ---
 created: 2025-01-19 15:02
-modified: 2025-01-19T15:57:59-05:00
+modified: 2025-02-22T08:21:40-05:00
 alias: 
 ---
 up::  [[Drawing MOC]]
 type:: #note/atomic🌳 
-links:: 
+ref:: [[How I study and build my Visual Library]]
 ## How to build a visual library
+
+Choose a scene from a movie you really like and study the objects of the scene for a month
+Choose an object a day and study them from all angles
 
 **Exercise- Memory Drawing or Cognitive Drawing**
 1. Choose an object to study
@@ -19,6 +22,8 @@ links::
 2. Draw the object from memory (repeat until memorized)
 3. If you like drawing it add it to your anki deck
 4. (Optional)- Reference your favorite artists that apply the same rendering process or style on your studies. 
+
+
 
  filling pages with lots of drawings, as that looks good. Looking at these pages in the future will motivate you to start drawing.
 
