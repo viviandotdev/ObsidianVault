@@ -11,7 +11,7 @@ raindrop_highlights:
   6688951d4d045deadb43782a: 045619b8a97648c1f4a8aa17e204768b
 url: https://paulgraham.com/selfindulgence.html
 created: June 9th 2024
-status: 🟥
+status: 🟨
 type: link
 like: true
 ---

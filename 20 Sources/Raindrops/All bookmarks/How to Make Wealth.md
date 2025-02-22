@@ -17,7 +17,7 @@ raindrop_highlights:
   666b617601db2da0abaa51cd: ff1158b461277ecf3ab20a4efdd36722
 url: https://paulgraham.com/wealth.html
 created: June 9th 2024
-status: 🟥
+status: 🟨
 type: link
 like: true
 ---

@@ -4,10 +4,11 @@ raindrop_highlights:
   665e097dc0c0d646ff8bc6f6: aef18e278e84885ee9a8b635099aefd9
 url: https://www.youtube.com/watch?v=veMExOmq5zA
 created: June 3rd 2024
-status: 🟥
-tags:
+status: 🟨
+tags: 
 type: video
-like: false
+like: true
+modified: 2025-02-22T10:02:38-05:00
 ---
 
 
