@@ -1,6 +1,6 @@
 ---
-created: 2024-06-30 20:35 
-modified: Sunday 30th June 2024 20:36:45
+created: 2024-06-30 20:35
+modified: 2025-02-22T09:08:51-05:00
 alias: 
 ---
 up::  [[Workflows]]
@@ -12,6 +12,7 @@ links::
 
 [[Dan Koe Daily Rountine]]
 
+[[productivity workflow 2026]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
