@@ -12,7 +12,7 @@ url: https://darioamodei.com/machines-of-loving-grace#1-biology-and-health
 created: November 4th 2024
 status: 🟥
 type: article
-like: false
+like: true
 ---
 
 

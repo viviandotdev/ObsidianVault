@@ -10,7 +10,7 @@ url: https://www.coryzue.com/writing/time-wealth/
 created: August 2nd 2024
 status: 🟥
 type: article
-like: false
+like: true
 ---
 
 

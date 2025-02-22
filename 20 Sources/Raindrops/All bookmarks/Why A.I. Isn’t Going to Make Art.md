@@ -14,7 +14,7 @@ url: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-ma
 created: September 9th 2024
 status: 🟥
 type: article
-like: false
+like: true
 ---
 
 

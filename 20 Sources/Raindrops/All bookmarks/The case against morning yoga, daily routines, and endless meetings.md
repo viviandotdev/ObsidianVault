@@ -7,9 +7,10 @@ raindrop_highlights:
   6687c8f501eff46d7bba3360: 8d82c8afedcab40de79610631f4e2973
 url: https://andrewchen.substack.com/p/10x-work-versus-1x-work
 created: July 5th 2024
-status: 🟥
+status: 🟩
 type: article
-like: false
+like: true
+modified: 2025-02-22T09:15:04-05:00
 ---
 
 
@@ -17,6 +18,7 @@ like: false
 
 How to maximize 10x work and avoid thoughtless daily 1x work routines
 
+Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix
 #### Highlights
 
 > [!quote]+ Updated on Fri Jul 05 2024 06:20:37 GMT-0400
