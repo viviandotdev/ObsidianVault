@@ -18,7 +18,7 @@ url: https://moretothat.com/the-labor-of-inspiration/
 created: January 18th 2024
 status: 🟨
 type: article
-like: true
+like: false
 ---
 
 

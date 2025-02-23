@@ -8,7 +8,7 @@ url: https://blog.samaltman.com/productivity
 created: January 11th 2024
 status: 🟨
 type: article
-like: true
+like: false
 ---
 
 

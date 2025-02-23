@@ -12,7 +12,7 @@ url: https://moretothat.com/travel-is-no-cure-for-the-mind/
 created: January 16th 2024
 status: 🟨
 type: article
-like: true
+like: false
 ---
 
 

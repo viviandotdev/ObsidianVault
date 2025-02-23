@@ -10,7 +10,7 @@ url: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www
 created: January 16th 2024
 status: 🟨
 type: article
-like: true
+like: false
 ---
 
 
