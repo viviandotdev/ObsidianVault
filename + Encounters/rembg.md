@@ -1,6 +1,6 @@
 ---
 created: 2025-03-05 07:39
-modified: 2025-03-05T07:39:54-05:00
+modified: 2025-03-05T07:41:03-05:00
 alias: 
 ---
 up::  
@@ -15,7 +15,7 @@ rembg i -a path/to/input.png path/to/output.png
 ```
 
 ```
-rembg p -a rembg
+rembg p -a rembg output
 ```
 [GitHub - danielgatis/rembg: Rembg is a tool to remove images background](https://github.com/danielgatis/rembg)
 
