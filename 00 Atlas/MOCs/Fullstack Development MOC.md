@@ -3,7 +3,7 @@ created: 2024-05-19 18:54
 modified: Sunday 19th May 2024 18:54:19
 alias: 
 ---
-up::  [[Library]]
+up::  [[+ Library]]
 type:: #map/view 
 links::
 ## Fullstack Development MOC

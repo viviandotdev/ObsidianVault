@@ -15,7 +15,7 @@ Your launchpad and home base. That's here. That's home.
 [[Life Optimization Content]]
 
 #### Things
-- [[Library]]
+- [[+ Library]]
 - [[Slipbox]]
 - [[Sources]] | [[Commonplace Book]] | [[Bookshelf]] | [[People MOC]] 
 #### Action and Reflection

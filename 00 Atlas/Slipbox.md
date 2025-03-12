@@ -1,4 +1,4 @@
-up:: [[Home]] [[Meta PKM]]
+up:: [[+ Home]] [[Meta PKM]]
 tags:: #readme
 
 Anything that is a bit of knowledge that you might call a "thing" or a "statement about things".

@@ -3,7 +3,7 @@ created: 2023-09-01 20:53
 modified: 2025-02-22T08:20:52-05:00
 alias: 
 ---
-up::  [[Library]]
+up::  [[+ Library]]
 tags:: #drawing #art #
 related:
 
