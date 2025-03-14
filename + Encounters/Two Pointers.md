@@ -2,4 +2,10 @@
 modified: 2025-03-14T10:35:49-04:00
 ---
 
-Two pointers 
+Iterate through an array or list looking for pairs of elements that meet a specific criteria
+Conditions- Sorted arrays or lists where you need to find pairs that satisfy a specific condition
+
+**Sample**
+Find 2 numbers in a **sorted array** that add up to a target value
+- array is sorted
+- the condition add up to a target value
