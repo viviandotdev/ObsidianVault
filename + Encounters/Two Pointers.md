@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-14T11:06:44-04:00
+modified: 2025-03-19T06:08:43-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -12,4 +12,4 @@ Find 2 numbers in a **sorted array** that add up to a target value
 - array is sorted
 - the condition add up to a target value
 
-`O(n^2) -> O(n)`
+`O(n^2) -> O(n)` 
