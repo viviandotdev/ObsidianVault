@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-19T06:38:58-04:00
+modified: 2025-03-19T07:32:06-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -8,16 +8,8 @@ Iterate through an array or list looking for pairs of elements that meet a speci
 Conditions- Sorted arrays or lists where you need to find pairs that satisfy a specific condition
 Linear data structures -> arrays, strings and linked lists
 
-**Two Sum II - Input Array is sorted**
-Find 2 numbers in a **sorted array** that add up to a target value
-- array is sorted
-- the condition add up to a target value
 
-**Time Complexity**
-$$
-O(n^{2}) = > O(kn)
-$$
-
+[[167. Two Sum II - Input Array Is Sorted]]
 
 
 Converging pointers
