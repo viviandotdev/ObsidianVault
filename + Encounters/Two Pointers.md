@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-19T07:32:06-04:00
+modified: 2025-03-19T07:47:37-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -8,8 +8,9 @@ Iterate through an array or list looking for pairs of elements that meet a speci
 Conditions- Sorted arrays or lists where you need to find pairs that satisfy a specific condition
 Linear data structures -> arrays, strings and linked lists
 
-
+**Sorted**
 [[167. Two Sum II - Input Array Is Sorted]]
+[[26. Remove Duplicates from Sorted Array]]
 
 
 Converging pointers
