@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-19T06:08:43-04:00
+modified: 2025-03-19T06:33:07-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -11,5 +11,6 @@ Conditions- Sorted arrays or lists where you need to find pairs that satisfy a s
 Find 2 numbers in a **sorted array** that add up to a target value
 - array is sorted
 - the condition add up to a target value
-
-`O(n^2) -> O(n)` 
+$$
+Ox^{2}
+$$
