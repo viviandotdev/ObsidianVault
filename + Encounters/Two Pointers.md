@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-21T11:44:56-04:00
+modified: 2025-03-21T11:50:33-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -37,20 +37,25 @@ These patterns have significant returns on investment (ROI):
 - **In-place Reversal of a LinkedList**
 - **Intervals**
 - **Topological Sort**
-
+- **Monotonic Stack**
+- **Stack**
+- **Hash Maps**
+- **Modified Binary Search**
+- **Island (Matrix traversal)**
 ---
 
 ### **Medium ROI Patterns**
 
 These patterns have moderate returns on investment (ROI):
 
-- **Dynamic Programming**
 - **Heap**
 - **Binary Search**
 - **Merge Intervals**
 - **Two Heaps**
+- **Top 'K' Elements**
+- **Subsets**
+- **Dynamic Programming**
 
----
 
 ### **Low ROI Patterns**
 
@@ -64,13 +69,7 @@ These patterns have lower returns on investment (ROI):
 - **Sorting**
 - **QuickSelect**
 - **Bucket Sort**
-- **Subsets**
-- **Hash Maps**
-- **Modified Binary Search**
 - **Cyclic Sort**
-- **Top 'K' Elements**
 - **K-way merge**
-- **Island (Matrix traversal)**
 - **Multi-thread**
 - **Ordered Set**
--
