@@ -68,8 +68,6 @@ These patterns have lower returns on investment (ROI):
 - **Hash Maps**
 - **Modified Binary Search**
 - **Cyclic Sort**
-- **Monotonic Stack**
-- **Stack**
 - **Top 'K' Elements**
 - **K-way merge**
 - **Island (Matrix traversal)**
