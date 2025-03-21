@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-21T09:21:14-04:00
+modified: 2025-03-21T11:44:56-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -20,25 +20,59 @@ Trigger based pointers
 remove the problems with no pattern
 
 
-DFS : 30 (high)
-Dynamic Programming : 21 (medium)
-Backtracking : 20 (high)
-Heap : 17 (medium)
-Arrays : 15 (high)
-Binary Search : 14 (medium)
-BFS : 14 (high)
-Two Pointers : 13 (high)
-Sliding Window : 11 (high)
-Fast & Slow Pointers : 10 (high)
-Trie : 10 (low)
-Greedy : 8 (low)
-Graph : 8 (high)
-In-place reversal of a linked list : 6 (high)
-Intervals : 6 (high)
-Topological Sort : 6 (high)
-Bit Manipulation : 3 (low)
-Union Find : 3 (low)
-Design : 2 (low)
-Sorting : 1 (low)
-QuickSelect :  (low)
-Bucket Sort : 1 (low)
+
+
+### **High ROI Patterns**
+
+These patterns have significant returns on investment (ROI):
+
+- **DFS**
+- **Backtracking**
+- **Arrays**
+- **BFS**
+- **Two Pointers**
+- **Sliding Window**
+- **Fast & Slow Pointers**
+- **Graph**
+- **In-place Reversal of a LinkedList**
+- **Intervals**
+- **Topological Sort**
+
+---
+
+### **Medium ROI Patterns**
+
+These patterns have moderate returns on investment (ROI):
+
+- **Dynamic Programming**
+- **Heap**
+- **Binary Search**
+- **Merge Intervals**
+- **Two Heaps**
+
+---
+
+### **Low ROI Patterns**
+
+These patterns have lower returns on investment (ROI):
+
+- **Trie**
+- **Greedy**
+- **Bit Manipulation**
+- **Union Find**
+- **Design**
+- **Sorting**
+- **QuickSelect**
+- **Bucket Sort**
+- **Subsets**
+- **Hash Maps**
+- **Modified Binary Search**
+- **Cyclic Sort**
+- **Monotonic Stack**
+- **Stack**
+- **Top 'K' Elements**
+- **K-way merge**
+- **Island (Matrix traversal)**
+- **Multi-thread**
+- **Ordered Set**
+-
