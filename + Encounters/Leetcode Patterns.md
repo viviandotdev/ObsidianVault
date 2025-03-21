@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-19T09:37:03-04:00
+modified: 2025-03-21T15:20:43-04:00
 ---
 
 How to solve and think through problems 
@@ -7,3 +7,6 @@ How to solve and think through problems
 
 [[Two Pointers]]
 
+
+
+[LeetCode Algorithm Templates: Code Faster, Error-Free Solutions](https://algo.monster/templates)
