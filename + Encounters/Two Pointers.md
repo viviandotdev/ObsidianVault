@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-19T09:35:40-04:00
+modified: 2025-03-21T08:00:24-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -16,3 +16,28 @@ Linear data structures -> arrays, strings and linked lists
 Converging pointers
 Parallel pointers
 Trigger based pointers
+
+
+
+DFS : 30 (high)
+Dynamic Programming : 21 (medium)
+Backtracking : 20 (high)
+Heap : 17 (medium)
+Arrays : 15 (high)
+Binary Search : 14 (medium)
+BFS : 14 (high)
+Two Pointers : 13 (high)
+Sliding Window : 11 (high)
+Fast & Slow Pointers : 10 (high)
+Trie : 10 (low)
+Greedy : 8 (low)
+Graph : 8 (high)
+In-place reversal of a linked list : 6 (high)
+Intervals : 6 (high)
+Topological Sort : 6 (high)
+Bit Manipulation : 3 (low)
+Union Find : 3 (low)
+Design : 2 (low)
+Sorting : 1 (low)
+QuickSelect :  (low)
+1Bucket Sort : 1 (low)
