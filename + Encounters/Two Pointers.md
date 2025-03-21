@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-21T08:21:27-04:00
+modified: 2025-03-21T09:21:14-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -41,4 +41,4 @@ Union Find : 3 (low)
 Design : 2 (low)
 Sorting : 1 (low)
 QuickSelect :  (low)
-1Bucket Sort : 1 (low)
+Bucket Sort : 1 (low)
