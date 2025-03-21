@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-21T08:00:24-04:00
+modified: 2025-03-21T08:21:27-04:00
 ---
 up:: [[Leetcode Patterns]]
 
@@ -17,6 +17,7 @@ Converging pointers
 Parallel pointers
 Trigger based pointers
 
+remove the problems with no pattern
 
 
 DFS : 30 (high)
