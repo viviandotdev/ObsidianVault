@@ -3,7 +3,7 @@ patterns: Two Pointers
 difficulty: Medium
 ROI: High
 leetcode_url: https://leetcode.com/problems/3sum-closest/
-modified: 2025-03-22T22:24:55-04:00
+modified: 2025-03-22T22:32:56-04:00
 type: problem
 ---
 
