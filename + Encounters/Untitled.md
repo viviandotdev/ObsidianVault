@@ -1,14 +1,49 @@
 ---
-modified: 2025-03-22T22:32:05-04:00
+patterns: Ordered Set
+difficulty: Medium
+ROI: Low
+leetcode_url: https://leetcode.com/problems/132-pattern/
+modified: 2025-03-22T22:36:44-04:00
+type: problem
 ---
-Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets. Example 1: **Input:** nums = [-1,0,1,2,-1,-4]
-**Output:** [[-1,-1,2],[-1,0,1]]
-**Explanation:** nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
-nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
-nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.
-The distinct triplets are [-1,0,1] and [-1,-1,2].
-Notice that the order of the output and the order of the triplets does not matter. Example 2: **Input:** nums = [0,1,1]
-**Output:** []
-**Explanation:** The only possible triplet does not sum up to 0. Example 3: **Input:** nums = [0,0,0]
-**Output:** [[0,0,0]]
-**Explanation:** The only possible triplet sums up to 0. **Constraints:** - 3 - -105 5
+
+# 132-pattern
+
+<p>Given an array of <code>n</code> integers <code>nums</code>, a <strong>132 pattern</strong> is a subsequence of three integers <code>nums[i]</code>, <code>nums[j]</code> and <code>nums[k]</code> such that <code>i &lt; j &lt; k</code> and <code>nums[i] &lt; nums[k] &lt; nums[j]</code>.</p>
+
+<p>Return <code>true</code><em> if there is a <strong>132 pattern</strong> in </em><code>nums</code><em>, otherwise, return </em><code>false</code><em>.</em></p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1,2,3,4]
+<strong>Output:</strong> false
+<strong>Explanation:</strong> There is no 132 pattern in the sequence.
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [3,1,4,2]
+<strong>Output:</strong> true
+<strong>Explanation:</strong> There is a 132 pattern in the sequence: [1, 4, 2].
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [-1,3,2,0]
+<strong>Output:</strong> true
+<strong>Explanation:</strong> There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0] and [-1, 2, 0].
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>n == nums.length</code></li>
+	<li><code>1 &lt;= n &lt;= 2 * 10<sup>5</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+</ul>
+
