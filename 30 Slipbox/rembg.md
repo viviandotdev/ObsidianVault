@@ -1,11 +1,10 @@
 ---
-up: "[[My Tools]]"
 created: 2025-03-05 07:39
-modified: 2025-03-23T00:01:35-04:00
+modified: 2025-03-23T00:07:03-04:00
 aliases: 
-"type:":
 ---
 
+up: [[My Tools]]
 ## rembg
 
 background remover
