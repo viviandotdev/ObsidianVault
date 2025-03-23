@@ -30,4 +30,4 @@ output = `[[-1,-1,2],[-1,0,1]]`
 we can break this down to a k(sum)
 if we find two sum we can find three sum
 we want to converge to zero
--1 +.
+
