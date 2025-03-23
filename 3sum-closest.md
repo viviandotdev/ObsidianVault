@@ -1,36 +1,39 @@
 ---
-patterns: Two Pointers
+patterns: Ordered Set
 difficulty: Medium
-ROI: High
-leetcode_url: https://leetcode.com/problems/3sum-closest/
-modified: 2025-03-22T22:32:56-04:00
+ROI: Low
+leetcode_url: https://leetcode.com/problems/132-pattern/
+modified: 2025-03-22T22:45:18-04:00
 type: problem
 ---
 
-# 3sum-closest
+# 132-pattern
 
-Given an integer array `nums` of length `n` and an integer `target`, find three integers in `nums` such that the sum is closest to `target`. 
+Given an array of `n` integers `nums`, a **132 pattern** is a subsequence of three integers `nums[i]`, `nums[j]` and `nums[k]` such that `i Example 1:
 
-Return *the sum of the three integers*. 
+**Input:** nums = [1,2,3,4]
+**Output:** false
+**Explanation:** There is no 132 pattern in the sequence.
 
-You may assume that each input would have exactly one solution. 
+Example 2:
 
-**Example 1:**
-<pre>
-<strong>Input:</strong> nums = [-1,2,1,-4], target =1  
-<b>Output:</b> 2  
-<b>Explanation:</b> The sum that is closest to the target is 2. (-1 +2 +1 =2).  
-</pre>
+**Input:** nums = [3,1,4,2]
+**Output:** true
+**Explanation:** There is a 132 pattern in the sequence: [1, 4, 2].
 
+Example 3:
 
-**Example 2:**
-<pre>
-<b>Input:</b> nums = [0,0,0], target = 1
-<b>Output:</b> 0
-<b>Explanation:</b> The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
-</pre>
+**Input:** nums = [-1,3,2,0]
+**Output:** true
+**Explanation:** There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0] and [-1, 2, 0].
 
+ 
 **Constraints:**
-- `3 <= nums.length <= 500`
-- `-1000 <= nums[i] <= 1000`
-- `-104 <= target <= 104`
+
+	- `n == nums.length`
+
+	- `1 5`
+
+	- `-109 9`
+
+
