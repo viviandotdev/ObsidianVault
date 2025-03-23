@@ -1,39 +1,43 @@
 ---
-patterns: Ordered Set
-difficulty: Medium
+patterns: Trie
+difficulty: Hard
 ROI: Low
-leetcode_url: https://leetcode.com/problems/132-pattern/
-modified: 2025-03-22T22:45:18-04:00
+leetcode_url: https://leetcode.com/problems/concatenated-words/
+modified: 2025-03-22T23:29:31-04:00
 type: problem
 ---
 
-# 132-pattern
+# concatenated-words
 
-Given an array of `n` integers `nums`, a **132 pattern** is a subsequence of three integers `nums[i]`, `nums[j]` and `nums[k]` such that `i Example 1:
+<p>Given an array of strings <code>words</code> (<strong>without duplicates</strong>), return <em>all the <strong>concatenated words</strong> in the given list of</em> <code>words</code>.</p>
 
-**Input:** nums = [1,2,3,4]
-**Output:** false
-**Explanation:** There is no 132 pattern in the sequence.
+<p>A <strong>concatenated word</strong> is defined as a string that is comprised entirely of at least two shorter words (not necessarily distinct)&nbsp;in the given array.</p>
 
-Example 2:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-**Input:** nums = [3,1,4,2]
-**Output:** true
-**Explanation:** There is a 132 pattern in the sequence: [1, 4, 2].
+<pre>
+<strong>Input:</strong> words = [&quot;cat&quot;,&quot;cats&quot;,&quot;catsdogcats&quot;,&quot;dog&quot;,&quot;dogcatsdog&quot;,&quot;hippopotamuses&quot;,&quot;rat&quot;,&quot;ratcatdogcat&quot;]
+<strong>Output:</strong> [&quot;catsdogcats&quot;,&quot;dogcatsdog&quot;,&quot;ratcatdogcat&quot;]
+<strong>Explanation:</strong> &quot;catsdogcats&quot; can be concatenated by &quot;cats&quot;, &quot;dog&quot; and &quot;cats&quot;; 
+&quot;dogcatsdog&quot; can be concatenated by &quot;dog&quot;, &quot;cats&quot; and &quot;dog&quot;; 
+&quot;ratcatdogcat&quot; can be concatenated by &quot;rat&quot;, &quot;cat&quot;, &quot;dog&quot; and &quot;cat&quot;.</pre>
 
-Example 3:
+<p><strong class="example">Example 2:</strong></p>
 
-**Input:** nums = [-1,3,2,0]
-**Output:** true
-**Explanation:** There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0] and [-1, 2, 0].
+<pre>
+<strong>Input:</strong> words = [&quot;cat&quot;,&quot;dog&quot;,&quot;catdog&quot;]
+<strong>Output:</strong> [&quot;catdog&quot;]
+</pre>
 
- 
-**Constraints:**
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-	- `n == nums.length`
-
-	- `1 5`
-
-	- `-109 9`
-
+<ul>
+	<li><code>1 &lt;= words.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= words[i].length &lt;= 30</code></li>
+	<li><code>words[i]</code> consists of only lowercase English letters.</li>
+	<li>All the strings of <code>words</code> are <strong>unique</strong>.</li>
+	<li><code>1 &lt;= sum(words[i].length) &lt;= 10<sup>5</sup></code></li>
+</ul>
 
