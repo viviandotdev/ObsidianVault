@@ -1,8 +1,15 @@
 ---
-modified: 2025-03-23T08:05:35-04:00
+patterns:
+  - Two Pointers
+difficulty: Easy
+ROI: High
+leetcode_url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+modified: 2025-03-23T08:34:10-04:00
+type: solution
 ---
-Pattern-[[Two Pointers]]
-left and right pointers
+
+# two-sum-ii-input-array-is-sorted
+
 
 **Two Sum II - Input Array is sorted**
 
