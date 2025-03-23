@@ -1,11 +1,11 @@
 ---
+up: "[[My Tools]]"
 created: 2025-03-05 07:39
-modified: 2025-03-05T07:41:03-05:00
-alias: 
+modified: 2025-03-23T00:01:35-04:00
+aliases: 
+"type:":
 ---
-up::  
-type:: #note/atomic🌳 
-links::
+
 ## rembg
 
 background remover

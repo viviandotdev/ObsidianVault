@@ -1,9 +1,11 @@
 ---
-patterns: 0/1 Knapsack, Dynamic Programming
+patterns:
+  - 0/1 Knapsack
+  - Dynamic Programming
 difficulty: Medium
 ROI: Medium
 leetcode_url: https://leetcode.com/problems/01-knapsack/
-modified: 2025-03-22T16:48:22-04:00
+modified: 2025-03-22T23:44:37-04:00
 type: problem
 ---
 

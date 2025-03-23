@@ -1,9 +1,10 @@
 ---
-patterns: Trie
+patterns:
+  - Trie
 difficulty: Hard
 ROI: Low
 leetcode_url: https://leetcode.com/problems/concatenated-words/
-modified: 2025-03-22T23:29:31-04:00
+modified: 2025-03-22T23:46:11-04:00
 type: problem
 ---
 
