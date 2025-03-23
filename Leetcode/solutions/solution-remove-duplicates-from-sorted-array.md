@@ -1,13 +1,11 @@
 ---
 patterns:
-  - Cyclic Sort
   - Arrays
-  - Binary Search
   - Two Pointers
 difficulty: Easy
 ROI: High
 leetcode_url: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-modified: 2025-03-23T08:51:24-04:00
+modified: 2025-03-23T08:52:24-04:00
 type: solution
 ---
 
