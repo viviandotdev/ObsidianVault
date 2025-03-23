@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 modified: 2025-03-22T23:58:07-04:00
 type: problem
+order: ""
 ---
 
 # smallest-range-covering-elements-from-k-lists

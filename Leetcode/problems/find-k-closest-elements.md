@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/find-k-closest-elements/
 modified: 2025-03-22T23:47:27-04:00
 type: problem
+order: ""
 ---
 
 # find-k-closest-elements

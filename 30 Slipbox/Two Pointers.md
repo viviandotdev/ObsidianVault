@@ -1,7 +1,7 @@
 ---
-modified: 2025-03-21T15:09:05-04:00
+modified: 2025-03-23T09:00:17-04:00
 ---
-up:: [[Leetcode Patterns]]
+up:: [[Leetcode]]
 
 [Two Pointers in 7 minutes | LeetCode Pattern - YouTube](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45&index=1)
 Iterate through an array or list looking for pairs of elements that meet a specific criteria
@@ -9,9 +9,5 @@ Conditions- Sorted arrays or lists where you need to find pairs that satisfy a s
 Linear data structures -> arrays, strings and linked lists
 
 **Sorted Array**
-[[167. Two Sum II - Input Array Is Sorted]]
-[[26. Remove Duplicates from Sorted Array]]
-
-
-
-
+[[two-sum-ii-input-array-is-sorted]]
+[[remove-duplicates-from-sorted-array]]

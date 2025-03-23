@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/merge-two-sorted-lists/
 modified: 2025-03-22T23:54:07-04:00
 type: problem
+order: ""
 ---
 
 # merge-two-sorted-lists

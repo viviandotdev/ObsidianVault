@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 modified: 2025-03-22T23:56:40-04:00
 type: problem
+order: ""
 ---
 
 # remove-duplicates-from-sorted-list

@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/range-sum-query-immutable/
 modified: 2025-03-22T23:56:20-04:00
 type: problem
+order: ""
 ---
 
 # range-sum-query-immutable

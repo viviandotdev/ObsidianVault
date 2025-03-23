@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/is-graph-bipartite/
 modified: 2025-03-22T23:52:00-04:00
 type: problem
+order: ""
 ---
 
 # is-graph-bipartite

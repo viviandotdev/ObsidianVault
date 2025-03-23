@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/trapping-rain-water/
 modified: 2025-03-22T23:59:43-04:00
 type: problem
+order: ""
 ---
 
 # trapping-rain-water

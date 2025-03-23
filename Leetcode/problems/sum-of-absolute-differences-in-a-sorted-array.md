@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 modified: 2025-03-22T23:59:14-04:00
 type: problem
+order: ""
 ---
 
 # sum-of-absolute-differences-in-a-sorted-array

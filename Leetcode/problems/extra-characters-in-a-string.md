@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/extra-characters-in-a-string/
 modified: 2025-03-22T23:47:13-04:00
 type: problem
+order: ""
 ---
 
 # extra-characters-in-a-string

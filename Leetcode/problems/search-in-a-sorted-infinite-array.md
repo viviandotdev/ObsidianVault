@@ -7,6 +7,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/search-in-a-sorted-infinite-array/
 modified: 2025-03-22T23:57:39-04:00
 type: problem
+order: ""
 ---
 
 # search-in-a-sorted-infinite-array

@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 modified: 2025-03-22T23:46:39-04:00
 type: problem
+order: ""
 ---
 
 # count-unique-characters-of-all-substrings-of-a-given-string

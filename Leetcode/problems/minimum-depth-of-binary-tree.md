@@ -7,6 +7,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 modified: 2025-03-22T23:54:18-04:00
 type: problem
+order: ""
 ---
 
 # minimum-depth-of-binary-tree

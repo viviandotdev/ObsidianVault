@@ -7,6 +7,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/level-order-successor/
 modified: 2025-03-22T23:52:41-04:00
 type: problem
+order: ""
 ---
 
 # level-order-successor

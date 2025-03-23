@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 modified: 2025-03-22T23:56:49-04:00
 type: problem
+order: ""
 ---
 
 # remove-nth-node-from-end-of-list

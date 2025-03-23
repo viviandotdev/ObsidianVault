@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 modified: 2025-03-22T23:55:07-04:00
 type: problem
+order: ""
 ---
 
 # number-of-longest-increasing-subsequence

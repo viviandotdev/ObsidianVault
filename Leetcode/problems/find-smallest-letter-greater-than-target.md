@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 modified: 2025-03-22T23:47:40-04:00
 type: problem
+order: ""
 ---
 
 # find-smallest-letter-greater-than-target

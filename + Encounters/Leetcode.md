@@ -1,10 +1,13 @@
 ---
-modified: 2025-03-21T15:20:43-04:00
+modified: 2025-03-23T08:59:31-04:00
 ---
 
 How to solve and think through problems 
 [How to solve coding problems](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=19)
 
+[[Leetcode ROI]]
+
+**Patterns**
 [[Two Pointers]]
 
 

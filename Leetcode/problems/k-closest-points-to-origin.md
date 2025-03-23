@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/k-closest-points-to-origin/
 modified: 2025-03-22T23:52:09-04:00
 type: problem
+order: ""
 ---
 
 # k-closest-points-to-origin

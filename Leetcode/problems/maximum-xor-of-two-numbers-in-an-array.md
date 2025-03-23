@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 modified: 2025-03-22T23:53:49-04:00
 type: problem
+order: ""
 ---
 
 # maximum-xor-of-two-numbers-in-an-array

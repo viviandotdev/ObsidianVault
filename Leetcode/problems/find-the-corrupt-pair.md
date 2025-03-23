@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/find-the-corrupt-pair/
 modified: 2025-03-22T23:47:43-04:00
 type: problem
+order: ""
 ---
 
 # find-the-corrupt-pair

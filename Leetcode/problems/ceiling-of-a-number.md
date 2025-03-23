@@ -7,6 +7,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/ceiling-of-a-number/
 modified: 2025-03-22T23:45:47-04:00
 type: problem
+order: ""
 ---
 
 # ceiling-of-a-number

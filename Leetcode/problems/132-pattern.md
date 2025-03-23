@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/132-pattern/
 modified: 2025-03-22T23:44:40-04:00
 type: problem
+order: ""
 ---
 
 # 132-pattern

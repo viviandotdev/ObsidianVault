@@ -6,6 +6,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 modified: 2025-03-22T23:55:53-04:00
 type: problem
+order: ""
 ---
 
 # peak-index-in-a-mountain-array

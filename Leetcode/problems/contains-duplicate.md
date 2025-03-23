@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/contains-duplicate/
 modified: 2025-03-22T23:46:26-04:00
 type: problem
+order: ""
 ---
 
 # contains-duplicate

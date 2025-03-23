@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/maximum-width-of-binary-tree/
 modified: 2025-03-22T23:53:47-04:00
 type: problem
+order: ""
 ---
 
 # maximum-width-of-binary-tree

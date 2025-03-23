@@ -6,6 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/longest-substring-with-k-distinct-characters/
 modified: 2025-03-22T23:53:05-04:00
 type: problem
+order: ""
 ---
 
 # longest-substring-with-k-distinct-characters

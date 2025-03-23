@@ -7,6 +7,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/insert-interval/
 modified: 2025-03-22T23:48:46-04:00
 type: problem
+order: ""
 ---
 
 # insert-interval

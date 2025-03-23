@@ -7,6 +7,7 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/bitonic-array-maximum/
 modified: 2025-03-22T23:45:44-04:00
 type: problem
+order: ""
 ---
 
 # bitonic-array-maximum

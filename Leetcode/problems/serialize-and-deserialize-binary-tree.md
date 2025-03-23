@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 modified: 2025-03-22T23:57:53-04:00
 type: problem
+order: ""
 ---
 
 # serialize-and-deserialize-binary-tree

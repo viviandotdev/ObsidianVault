@@ -6,6 +6,7 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 modified: 2025-03-22T23:54:27-04:00
 type: problem
+order: ""
 ---
 
 # minimum-number-of-arrows-to-burst-balloons
