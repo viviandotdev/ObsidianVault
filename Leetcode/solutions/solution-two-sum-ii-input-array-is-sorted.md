@@ -7,7 +7,7 @@ leetcode_url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 modified: 2025-03-23T08:34:10-04:00
 type: solution
 ---
-
+[[two-sum-ii-input-array-is-sorted]]
 # two-sum-ii-input-array-is-sorted
 
 

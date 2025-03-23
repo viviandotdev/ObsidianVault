@@ -6,7 +6,7 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 modified: 2025-03-23T08:10:10-04:00
 type: problem
-solution: "[[two-sum-ii-input-array-is-sorted-solution]]"
+solution: "[[solution-two-sum-ii-input-array-is-sorted]]"
 ---
 
 # two-sum-ii-input-array-is-sorted
