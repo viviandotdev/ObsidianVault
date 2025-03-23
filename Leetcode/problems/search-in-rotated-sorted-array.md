@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/search-in-rotated-sorted-array/
 modified: 2025-03-22T23:57:44-04:00
 type: problem
-order: ""
 ---
 
 # search-in-rotated-sorted-array

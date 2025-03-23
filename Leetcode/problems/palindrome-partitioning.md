@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/palindrome-partitioning/
 modified: 2025-03-22T23:55:30-04:00
 type: problem
-order: ""
 ---
 
 # palindrome-partitioning

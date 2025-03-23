@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/number-of-provinces/
 modified: 2025-03-22T23:55:10-04:00
 type: problem
-order: ""
 ---
 
 # number-of-provinces

@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/sort-characters-by-frequency/
 modified: 2025-03-22T23:58:24-04:00
 type: problem
-order: ""
 ---
 
 # sort-characters-by-frequency

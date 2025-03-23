@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/longest-palindromic-substring/
 modified: 2025-03-22T23:52:58-04:00
 type: problem
-order: ""
 ---
 
 # longest-palindromic-substring

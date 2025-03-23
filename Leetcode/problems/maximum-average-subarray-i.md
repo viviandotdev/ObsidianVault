@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/maximum-average-subarray-i/
 modified: 2025-03-22T23:53:22-04:00
 type: problem
-order: ""
 ---
 
 # maximum-average-subarray-i

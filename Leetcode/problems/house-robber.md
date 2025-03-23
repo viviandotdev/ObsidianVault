@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/house-robber/
 modified: 2025-03-22T23:48:37-04:00
 type: problem
-order: ""
 ---
 
 # house-robber

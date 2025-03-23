@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/squares-of-a-sorted-array/
 modified: 2025-03-22T23:58:38-04:00
 type: problem
-order: ""
 ---
 
 # squares-of-a-sorted-array

@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/k-pairs-with-largest-sums/
 modified: 2025-03-22T23:52:14-04:00
 type: problem
-order: ""
 ---
 
 # k-pairs-with-largest-sums

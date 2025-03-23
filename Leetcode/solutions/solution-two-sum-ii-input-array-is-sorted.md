@@ -4,7 +4,7 @@ patterns:
 difficulty: Easy
 ROI: High
 leetcode_url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-modified: 2025-03-23T08:42:28-04:00
+modified: 2025-03-21
 type: solution
 ---
 problem-[[two-sum-ii-input-array-is-sorted]]

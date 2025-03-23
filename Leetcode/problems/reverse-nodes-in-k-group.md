@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/reverse-nodes-in-k-group/
 modified: 2025-03-22T23:57:14-04:00
 type: problem
-order: ""
 ---
 
 # reverse-nodes-in-k-group

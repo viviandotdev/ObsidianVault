@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/rotate-image/
 modified: 2025-03-22T23:57:21-04:00
 type: problem
-order: ""
 ---
 
 # rotate-image

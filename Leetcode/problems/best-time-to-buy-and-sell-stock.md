@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 modified: 2025-03-22T23:45:06-04:00
 type: problem
-order: ""
 ---
 
 # best-time-to-buy-and-sell-stock

@@ -7,7 +7,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/binary-tree-level-order-traversal/
 modified: 2025-03-22T23:45:20-04:00
 type: problem
-order: ""
 ---
 
 # binary-tree-level-order-traversal

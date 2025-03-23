@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/unique-paths/
 modified: 2025-03-23T00:00:02-04:00
 type: problem
-order: ""
 ---
 
 # unique-paths

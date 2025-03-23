@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/decode-ways/
 modified: 2025-03-22T23:46:58-04:00
 type: problem
-order: ""
 ---
 
 # decode-ways

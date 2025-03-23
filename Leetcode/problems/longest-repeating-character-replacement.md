@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/longest-repeating-character-replacement/
 modified: 2025-03-22T23:53:00-04:00
 type: problem
-order: ""
 ---
 
 # longest-repeating-character-replacement

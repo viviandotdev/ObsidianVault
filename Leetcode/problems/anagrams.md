@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/anagrams/
 modified: 2025-03-22T23:44:57-04:00
 type: problem
-order: ""
 ---
 
 # anagrams

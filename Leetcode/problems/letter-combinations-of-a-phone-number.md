@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 modified: 2025-03-22T23:52:36-04:00
 type: problem
-order: ""
 ---
 
 # letter-combinations-of-a-phone-number

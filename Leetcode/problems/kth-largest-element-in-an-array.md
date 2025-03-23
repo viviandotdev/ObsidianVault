@@ -7,7 +7,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/kth-largest-element-in-an-array/
 modified: 2025-03-22T23:52:16-04:00
 type: problem
-order: ""
 ---
 
 # kth-largest-element-in-an-array

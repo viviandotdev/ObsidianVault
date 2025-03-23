@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/add-two-numbers/
 modified: 2025-03-22T23:44:46-04:00
 type: problem
-order: ""
 ---
 
 # add-two-numbers

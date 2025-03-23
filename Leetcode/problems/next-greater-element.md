@@ -7,7 +7,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/next-greater-element/
 modified: 2025-03-22T23:54:50-04:00
 type: problem
-order: ""
 ---
 
 # next-greater-element

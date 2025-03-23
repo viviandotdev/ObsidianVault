@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/convert-1d-array-into-2d-array/
 modified: 2025-03-22T23:46:28-04:00
 type: problem
-order: ""
 ---
 
 # convert-1d-array-into-2d-array

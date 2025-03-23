@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/longest-consecutive-sequence/
 modified: 2025-03-22T23:52:50-04:00
 type: problem
-order: ""
 ---
 
 # longest-consecutive-sequence

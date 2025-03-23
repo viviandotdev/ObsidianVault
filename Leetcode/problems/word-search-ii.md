@@ -7,7 +7,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/word-search-ii/
 modified: 2025-03-23T00:00:14-04:00
 type: problem
-order: ""
 ---
 
 # word-search-ii

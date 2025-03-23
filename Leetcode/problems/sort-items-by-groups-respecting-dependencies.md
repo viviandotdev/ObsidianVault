@@ -8,7 +8,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 modified: 2025-03-22T23:58:29-04:00
 type: problem
-order: ""
 ---
 
 # sort-items-by-groups-respecting-dependencies

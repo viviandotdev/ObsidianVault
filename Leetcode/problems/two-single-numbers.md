@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/two-single-numbers/
 modified: 2025-03-22T23:59:55-04:00
 type: problem
-order: ""
 ---
 
 # two-single-numbers

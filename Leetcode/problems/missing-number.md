@@ -7,7 +7,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/missing-number/
 modified: 2025-03-22T23:54:41-04:00
 type: problem
-order: ""
 ---
 
 # missing-number

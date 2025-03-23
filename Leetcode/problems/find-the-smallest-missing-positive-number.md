@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/find-the-smallest-missing-positive-number/
 modified: 2025-03-22T23:48:10-04:00
 type: problem
-order: ""
 ---
 
 # find-the-smallest-missing-positive-number

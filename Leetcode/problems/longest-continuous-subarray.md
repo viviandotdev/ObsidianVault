@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/longest-continuous-subarray/
 modified: 2025-03-22T23:52:52-04:00
 type: problem
-order: ""
 ---
 
 # longest-continuous-subarray

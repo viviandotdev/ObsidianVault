@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/set-matrix-zeroes/
 modified: 2025-03-22T23:57:55-04:00
 type: problem
-order: ""
 ---
 
 # set-matrix-zeroes

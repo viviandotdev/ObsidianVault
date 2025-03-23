@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/find-peak-element/
 modified: 2025-03-22T23:47:38-04:00
 type: problem
-order: ""
 ---
 
 # find-peak-element

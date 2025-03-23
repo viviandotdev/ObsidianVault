@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/reverse-linked-list-ii/
 modified: 2025-03-22T23:57:12-04:00
 type: problem
-order: ""
 ---
 
 # reverse-linked-list-ii

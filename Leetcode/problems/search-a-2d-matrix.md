@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/search-a-2d-matrix/
 modified: 2025-03-22T23:57:33-04:00
 type: problem
-order: ""
 ---
 
 # search-a-2d-matrix

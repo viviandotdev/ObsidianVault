@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/path-with-minimum-effort/
 modified: 2025-03-22T23:55:51-04:00
 type: problem
-order: ""
 ---
 
 # path-with-minimum-effort

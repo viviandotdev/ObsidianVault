@@ -7,7 +7,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/remove-k-digits/
 modified: 2025-03-22T23:56:43-04:00
 type: problem
-order: ""
 ---
 
 # remove-k-digits

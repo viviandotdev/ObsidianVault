@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/partition-equal-subset-sum/
 modified: 2025-03-22T23:55:34-04:00
 type: problem
-order: ""
 ---
 
 # partition-equal-subset-sum

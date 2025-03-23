@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/my-calendar-i/
 modified: 2025-03-22T23:54:45-04:00
 type: problem
-order: ""
 ---
 
 # my-calendar-i

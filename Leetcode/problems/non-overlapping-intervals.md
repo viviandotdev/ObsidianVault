@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/non-overlapping-intervals/
 modified: 2025-03-22T23:54:57-04:00
 type: problem
-order: ""
 ---
 
 # non-overlapping-intervals

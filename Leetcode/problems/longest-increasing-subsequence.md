@@ -6,7 +6,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/longest-increasing-subsequence/
 modified: 2025-03-22T23:52:56-04:00
 type: problem
-order: ""
 ---
 
 # longest-increasing-subsequence

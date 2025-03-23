@@ -9,7 +9,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/find-the-duplicate-number/
 modified: 2025-03-22T23:47:45-04:00
 type: problem
-order: ""
 ---
 
 # find-the-duplicate-number

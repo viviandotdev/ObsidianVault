@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/maximum-length-of-pair-chain/
 modified: 2025-03-22T23:53:35-04:00
 type: problem
-order: ""
 ---
 
 # maximum-length-of-pair-chain

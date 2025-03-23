@@ -7,7 +7,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/merge-k-sorted-lists/
 modified: 2025-03-22T23:54:00-04:00
 type: problem
-order: ""
 ---
 
 # merge-k-sorted-lists

@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/find-the-missing-number/
 modified: 2025-03-22T23:48:07-04:00
 type: problem
-order: ""
 ---
 
 # find-the-missing-number

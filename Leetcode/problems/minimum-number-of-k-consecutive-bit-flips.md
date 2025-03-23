@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 modified: 2025-03-22T23:54:30-04:00
 type: problem
-order: ""
 ---
 
 # minimum-number-of-k-consecutive-bit-flips

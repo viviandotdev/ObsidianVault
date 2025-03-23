@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/generate-parentheses/
 modified: 2025-03-22T23:48:30-04:00
 type: problem
-order: ""
 ---
 
 # generate-parentheses

@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/find-the-first-k-missing-positive-numbers/
 modified: 2025-03-22T23:47:47-04:00
 type: problem
-order: ""
 ---
 
 # find-the-first-k-missing-positive-numbers

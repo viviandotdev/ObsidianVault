@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/longest-word-in-dictionary/
 modified: 2025-03-22T23:53:11-04:00
 type: problem
-order: ""
 ---
 
 # longest-word-in-dictionary

@@ -7,7 +7,6 @@ ROI: Medium
 leetcode_url: https://leetcode.com/problems/maximum-distinct-elements/
 modified: 2025-03-22T23:53:31-04:00
 type: problem
-order: ""
 ---
 
 # maximum-distinct-elements

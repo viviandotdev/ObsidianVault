@@ -7,7 +7,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/remove-nodes-from-linked-list/
 modified: 2025-03-22T23:56:47-04:00
 type: problem
-order: ""
 ---
 
 # remove-nodes-from-linked-list

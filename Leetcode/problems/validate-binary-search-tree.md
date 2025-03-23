@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/validate-binary-search-tree/
 modified: 2025-03-23T00:00:07-04:00
 type: problem
-order: ""
 ---
 
 # validate-binary-search-tree

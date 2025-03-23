@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/container-with-most-water/
 modified: 2025-03-22T23:46:24-04:00
 type: problem
-order: ""
 ---
 
 # container-with-most-water

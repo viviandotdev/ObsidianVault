@@ -6,7 +6,6 @@ ROI: High
 leetcode_url: https://leetcode.com/problems/merge-two-binary-trees/
 modified: 2025-03-22T23:54:05-04:00
 type: problem
-order: ""
 ---
 
 # merge-two-binary-trees

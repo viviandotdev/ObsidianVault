@@ -10,7 +10,6 @@ leetcode_url: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 modified: 2025-03-23T09:00:44-04:00
 type: problem
 solution: "[[solution-remove-duplicates-from-sorted-array]]"
-order: ""
 ---
 
 # remove-duplicates-from-sorted-array

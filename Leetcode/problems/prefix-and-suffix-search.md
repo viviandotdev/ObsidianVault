@@ -6,7 +6,6 @@ ROI: Low
 leetcode_url: https://leetcode.com/problems/prefix-and-suffix-search/
 modified: 2025-03-22T23:56:04-04:00
 type: problem
-order: ""
 ---
 
 # prefix-and-suffix-search
