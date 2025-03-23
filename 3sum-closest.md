@@ -3,7 +3,7 @@ patterns: Two Pointers
 difficulty: Medium
 ROI: High
 leetcode_url: https://leetcode.com/problems/3sum-closest/
-modified: 2025-03-22T22:09:40-04:00
+modified: 2025-03-22T22:24:55-04:00
 type: problem
 ---
 
@@ -17,10 +17,11 @@ You may assume that each input would have exactly one solution.
 
 **Example 1:**
 <pre>
-<b>Input:</b> nums = [-1,2,1,-4], target =1  
+<strong>Input:</strong> nums = [-1,2,1,-4], target =1  
 <b>Output:</b> 2  
 <b>Explanation:</b> The sum that is closest to the target is 2. (-1 +2 +1 =2).  
 </pre>
+
 
 **Example 2:**
 <pre>
