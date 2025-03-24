@@ -7,8 +7,10 @@ How to solve and think through problems
 [LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!) - YouTube](https://www.youtube.com/watch?v=RYT08CaYq6A)
 [[Leetcode ROI]]
 
+
 **Patterns**
 [[Two Pointers]]
+
 
 
 
