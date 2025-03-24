@@ -2,11 +2,15 @@
 raindrop_id: 794838873
 raindrop_highlights:
   66660a160117555c8a3212d2: ffdba2835992b3397f767e714a89a3e2
+url: https://barry-davret.medium.com/how-a-spunc-log-will-10x-your-productivity-and-bulletproof-you-against-distraction-17d1c97669fa
+created: June 2nd 2024
+status: 🟥
+tags:
+  - "#productivity"
+type: article
+like: false
+modified: 2025-02-22T09:18:17-05:00
 ---
-
-URL:: https://barry-davret.medium.com/how-a-spunc-log-will-10x-your-productivity-and-bulletproof-you-against-distraction-17d1c97669fa
-Status:: #🟥
-Medium:: #source/article
 
 
 ### How A “SPUNC” Log Will 10X Your Productivity And Bulletproof You Against Distraction

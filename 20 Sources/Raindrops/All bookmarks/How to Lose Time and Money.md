@@ -9,11 +9,12 @@ raindrop_highlights:
   668894d625867f21f016c508: e1efb1d8555b09a3404429fe017af3aa
   6688950e678a92b1718c024c: ffe9358173c65377e6eab5caa2dea263
   6688951d4d045deadb43782a: 045619b8a97648c1f4a8aa17e204768b
+url: https://paulgraham.com/selfindulgence.html
+created: June 9th 2024
+status: 🟨
+type: link
+like: false
 ---
-
-URL:: https://paulgraham.com/selfindulgence.html
-Status:: #🟥
-Medium:: #source/article
 
 
 ### How to Lose Time and Money

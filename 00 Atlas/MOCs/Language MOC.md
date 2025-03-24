@@ -1,4 +1,4 @@
-up:: [[Library]]
+up:: [[+ Library]]
 tags:: #map, #language
 
 # Language MOC

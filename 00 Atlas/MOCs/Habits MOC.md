@@ -1,4 +1,4 @@
-up:: [[Library]]
+up:: [[+ Library]]
 tags:: #map #habits
 
 > [!NOTE]+ Navigate with your new MOC

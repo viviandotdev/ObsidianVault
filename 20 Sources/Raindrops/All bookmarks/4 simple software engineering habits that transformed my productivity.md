@@ -2,19 +2,19 @@
 raindrop_id: 712323291
 raindrop_highlights:
   65a12cffb3f0dbaec4b129a4: 4c1a6b64f7505e54857bddc749a95b5c
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+url: https://read.engineerscodex.com/p/simple-software-engineering-habits
+created: January 11th 2024
+status: 🟥
+tags:
+type: article
+like: false
 ---
 
-URL:: https://read.engineerscodex.com/p/simple-software-engineering-habits
-Status:: #🟩
-Medium:: #source/article
-Topics:: #productivity, #programming
 
 ### 4 simple software engineering habits that transformed my productivity
 
 A breakdown of 4 simple software engineering and coding habits that improved my productivity. These include keyboard shortcuts, learning to say no, reaching flow state faster, and keeping a big book of commands handy.
 
-[[Productivity Tips]]
 #### Highlights
 
 > [!quote]+ Updated on Fri Jan 12 2024 07:13:51 GMT-0500

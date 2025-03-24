@@ -3,12 +3,14 @@ raindrop_id: 776222435
 raindrop_highlights:
   662fb583acf215fe8d3686a7: e99588c91abae245a96e12dc83fcede3
   662fb591fbb59f626ab4021b: 33c1c50df2c4efe804b9f3e236400518
+url: https://moretothat.com/the-riddle-of-ambition/
+created: April 27th 2024
+status: 🟥
+tags:
+type: article
+like: true
 ---
 
-URL:: https://moretothat.com/the-riddle-of-ambition/
-Status:: #🟥
-Medium:: #source/article
-Topics:: #success
 
 ### The Riddle of Ambition - More To That
 

@@ -3,18 +3,20 @@ raindrop_id: 791087559
 raindrop_highlights:
   66534514b8fbdd661e736060: 91f60e1e4583c08a8ca85f4972d1c92e
   66534526d67b1d1d0e162a82: 647188470b190613602f5a825a884f4d
+url: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
+created: May 25th 2024
+status: 🟩
+tags: 
+type: article
+like: true
+modified: 2025-02-22T09:20:48-05:00
 ---
 
-URL:: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
-Status:: #🟩
-Medium:: #source/article
-Topics:: #goals, #financial-freedom, #money
 
 ### The day I became a millionaire
 
 I grew up lower-middle class on the outskirts of Copenhagen. Anywhere outside of Scandinavia, the socioeconomic label would probably have been ‘poor’, but Danish safety nets and support systems did…
 
-Nothing really changes you become a millionaire, I cjust get to continue to do what I already had the privelege of doing.
 #### Highlights
 
 > [!quote]+ Updated on Sun May 26 2024 10:20:22 GMT-0400

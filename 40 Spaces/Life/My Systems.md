@@ -1,6 +1,6 @@
 ---
-created: 2024-09-02 07:52 
-modified: Monday 2nd September 2024 07:52:43
+created: 2024-09-02 07:52
+modified: 2025-02-19T06:46:56-05:00
 alias: 
 ---
 up::  
@@ -24,7 +24,7 @@ My Daily Routine
 4 blocks separated by walking or meals
 60 - 90 minutes blocks
 
-- **Build, Publish, Maintain: + Learn**
+**Build, Publish, Maintain: + Learn**
 - Build: Long-term projects like writing books or building products.
 - Publish: Publishing content on social media.
 - Maintain: Maintaining existing projects that generate income.
@@ -35,12 +35,6 @@ My Daily Routine
 9 am - 12 - job / working on stuff
 12:15 pm - 3pm rock climbing
 3pm - 6pm dinner work on project
-
-1 hour reading before bed
-September
-October
-November
-December
 
 
 

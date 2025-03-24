@@ -5,17 +5,20 @@ raindrop_highlights:
   6687c8d9ed6e1c52e2e7c964: 8a6942f76ca31485c1f70703b32f5dcc
   6687c8edb9630b2210839c72: 8d48aaefdb8beaa6840da870593a10f2
   6687c8f501eff46d7bba3360: 8d82c8afedcab40de79610631f4e2973
+url: https://andrewchen.substack.com/p/10x-work-versus-1x-work
+created: July 5th 2024
+status: 🟩
+type: article
+like: true
+modified: 2025-02-22T09:15:04-05:00
 ---
-
-URL:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
-Status:: #🟥
-Medium:: #source/article
 
 
 ### The case against morning yoga, daily routines, and endless meetings
 
 How to maximize 10x work and avoid thoughtless daily 1x work routines
 
+Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix
 #### Highlights
 
 > [!quote]+ Updated on Fri Jul 05 2024 06:20:37 GMT-0400

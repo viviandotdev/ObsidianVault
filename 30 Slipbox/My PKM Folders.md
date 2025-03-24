@@ -11,7 +11,7 @@ tags:: #PKM
     - Mailbox: [[+ Inbox]] [[Notebox]] [[Outbox]]
     - MOCs
     - [[Bookshelf]] |[[Commonplace Book]]
-    - [[Library]] (navigate your library of maps with a classification system made specifically for PKM.)
+    - [[+ Library]] (navigate your library of maps with a classification system made specifically for PKM.)
     - [[Meta PKM]] (meta notes for managing my PKM system)
 - **10 Extras**: stores notes to *support* your other notes.
 	- Excalidraw

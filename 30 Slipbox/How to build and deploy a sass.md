@@ -1,6 +1,6 @@
 ---
-created: 2024-05-10 20:55 
-modified: Sunday 19th May 2024 19:22:21
+created: 2024-05-10 20:55
+modified: 2025-02-22T10:43:50-05:00
 alias: 
 ---
 up::  [[Fullstack Development MOC]]
@@ -61,6 +61,9 @@ links:: #react  #nextjs  #postgresql
 
 **Accept Payments**
 
+**Marketing**
+
+[How to create a cool demo video for your SaaS: a step-by-step guide : r/SaaS](https://www.reddit.com/r/SaaS/comments/17p6eoa/how_to_create_a_cool_demo_video_for_your_saas_a/)
 **Resources/Tools**
 [Next.js Themes & Templates - Built At Lightspeed](https://www.builtatlightspeed.com/category/nextjs?themes%5BrefinementList%5D%5Bcategories.blueprint%5D%5B0%5D=fullstack)
 [GitHub - smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates)

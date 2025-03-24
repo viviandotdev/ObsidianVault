@@ -2,12 +2,14 @@
 raindrop_id: 797517966
 raindrop_highlights:
   666252dbd540749bc9ff67ee: eb94fb0bccdec7fa9ea0218216d170b7
+url: https://github.com/CodingGarden/mac-setup
+created: June 6th 2024
+status: 🟥
+tags:
+type: link
+like: false
 ---
 
-URL:: https://github.com/CodingGarden/mac-setup
-Status:: #🟥
-Medium:: #source/article
-Topics:: #dev-tools, #mac-setup
 
 ### CodingGarden/mac-setup: This repo contains info on all the apps / tools / settings I use on my Mac.
 

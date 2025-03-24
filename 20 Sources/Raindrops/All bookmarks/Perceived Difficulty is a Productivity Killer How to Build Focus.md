@@ -2,11 +2,14 @@
 raindrop_id: 788640614
 raindrop_highlights:
   66532c6b7a4f31caf9fb6c17: b96ef1250fb1d23fe629fbe3e2774c71
+url: https://newsletter.techleadmentor.com/p/perceived-difficulty-is-a-productivity?utm_source=tldrwebdev
+created: May 19th 2024
+status: 🟥
+type: article
+like: false
+tags:
+  - productivity
 ---
-
-URL:: https://newsletter.techleadmentor.com/p/perceived-difficulty-is-a-productivity?utm_source=tldrwebdev
-Status:: #🟥
-Medium:: #source/article
 
 
 ### Perceived Difficulty is a Productivity Killer: How to Build Focus

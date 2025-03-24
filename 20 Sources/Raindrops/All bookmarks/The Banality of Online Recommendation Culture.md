@@ -2,11 +2,12 @@
 raindrop_id: 898929310
 raindrop_highlights:
   6733c8b45bd86a53889b89de: bdf093a018fa2f884cd8068088a25655
+url: https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture
+created: November 12th 2024
+status: 🟥
+type: article
+like: false
 ---
-
-URL:: https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture
-Status:: #🟥
-Medium:: #source/article
 
 
 ### The Banality of Online Recommendation Culture

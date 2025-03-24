@@ -1,6 +1,6 @@
 ---
-created: 2024-07-12 10:12 
-modified: Friday 12th July 2024 10:12:31
+created: 2024-07-12 10:12
+modified: 2025-02-05T19:59:14-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -11,10 +11,10 @@ links::
 Here's the updated markdown with smaller font sizes and only H3 headings:
 
 ### Dokku Deployment Guide
-
+134.209.64.204
 ### SSH Access
 ```bash
-ssh -i ~/.ssh/id_rsa root@138.197.77.102
+ssh -i ~/.ssh/id_rsa root@134.209.64.204
 ```
 Connect to server via SSH
 
@@ -42,7 +42,6 @@ Install Dokku and add SSH key
 ```bash
 dokku domains:set-global retwitter.co
 dokku domains:add bookcue-api api.retwitter.co
-
 ```
 Set global domain and add app-specific domain
 
@@ -55,13 +54,23 @@ Remove a domain from the app
 ### SSL Configuration
 ```bash
 sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
-dokku letsencrypt:set bookcue-api email linvivian61@gmail.com
-dokku letsencrypt:enable bookcue-api
+dokku letsencrypt:set bookshelf-api email linvivian61@gmail.com
+dokku letsencrypt:enable bookshelf-api
 ```
 Install Let's Encrypt plugin and enable SSL
-**Create .env.production file** and copy the contents over
 
+**Create .env.production file** and copy the contents over 
 ```
+NEXT_PUBLIC_APP_URL=https://bookcue.vercel.app
+BOOKCUE_API_PORT=8080
+JWT_ACCESS_SECRET=secret
+JWT_REFRESH_SECRET=secret
+JWT_ACCESS_EXPIRATION_TIME=15m
+JWT_REFRESH_EXPIRATION_TIME=7d
+RESEND_API_KEY=re_WbB1162X_D7Gwe8TdgJckyzQzdJrpfjsp
+```
+*notes* port is 8080 because the application port we EXPOSE below is 8080
+
 **Create and build a docker image**
 ```Dockerfile
 # Use an official Node.js runtime as the base image
@@ -133,7 +142,9 @@ dokku deploy bookcue-api latest
 ```
 Pull, tag, and deploy the latest image
 
-### Health Check Query
+
+**Health check query, does not work because of CORS**
+**just login on the app to see if it works**
 ```graphql
 query {
   healthCheck {
@@ -143,19 +154,22 @@ query {
   }
 }
 ```
-GraphQL query for health check
-
+[Fetching Title#9rho](https://bookshelf-webapp.vercel.app/)
 ### Known Issues
-- .env variables not loading
-- Generated types from db:generate
-- Schema file (generated when you start the app development) needs to be copied to build
-- Check port mappings
-
-
-[Proxy Management - Dokku Documentation](https://dokku.com/docs/networking/proxy-management/#__tabbed_4_1)
-**Check port mappings**
+1. .env variables not loading 
+**view env varialbes**
 ```
- dokku ports:report bookcue-api
+dokku config bookshelf-api
+```
+**set env variables**
+```
+dokku config:set bookshelf-api API_PORT=https://bookshelf-webapp.vercel.app
+```
+
+2. **Check port mappings**
+[Proxy Management - Dokku Documentation](https://dokku.com/docs/networking/proxy-management/#__tabbed_4_1)
+```
+ dokku ports:report bookshelf-api
 ```
 **Default mapping**
 ```
@@ -171,12 +185,20 @@ We need to update this to make it point to the port the application is actually 
 
 Ports 80 and 443 are the standard ports for HTTP and HTTPS traffic respectively.
 
-
 **Fix mapping**
 ```'
-root@ubuntu-s-1vcpu-1gb-35gb-intel-nyc3-01:~# dokku ports:add bookcue-api http:80:8080
+dokku ports:add bookcue-api http:80:8080
 dokku ports:add bookcue-api https:443:8080
 ```
+**correct mapping with exposed 8080 port**
+```
+Ports map:                     http:80:8080 https:443:8080
+Ports map detected:            http:80:5000 https:443:5000
+```
+
+- Generated types from db:generate
+- Schema file (generated when you start the app development) needs to be copied to build
+
 
 **redeploy**
 ```
@@ -184,6 +206,7 @@ dokku deploy bookcue-api latest
 ```
 **Next steps**
 - use multi build steps, so only the dist file contents is copied over and not the whole app, simplifies the build process
+
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.

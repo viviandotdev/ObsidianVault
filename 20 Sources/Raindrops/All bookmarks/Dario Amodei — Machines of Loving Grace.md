@@ -8,11 +8,12 @@ raindrop_highlights:
   672e558b5bd86a5388bb91a4: 98746eca14b86e5602838aae9a04050b
   672e55986d6d02ff93a77fd1: 884f425d57124deb945685442e2d08d4
   672e55a371f478f55b81e438: 2f95a984ef698a3eb7c67abef9bb6f2e
+url: https://darioamodei.com/machines-of-loving-grace#1-biology-and-health
+created: November 4th 2024
+status: 🟥
+type: article
+like: true
 ---
-
-URL:: https://darioamodei.com/machines-of-loving-grace#1-biology-and-health
-Status:: #🟨
-Medium:: #source/article
 
 
 ### Dario Amodei — Machines of Loving Grace
@@ -21,19 +22,19 @@ How AI Could Transform the World for the Better
 
 #### Highlights
 
-> [!quote]+ Updated on Mon Nov 04 2024 13:18:31 GMT-0500
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
 >
 > Thus, it’s my guess that powerful AI could at least 10x the rate of these discoveries, giving us the next 50-100 years of biological progress in 5-10 years.14 Why not 100x?
 
-> [!quote]+ Updated on Mon Nov 04 2024 13:18:31 GMT-0500
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
 >
 > Even more optimistically, it is possible that AI-enabled biological science will reduce the need for iteration in clinical trials by developing better animal and cell experimental models (or even simulations) that are more accurate in predicting what will happen in humans. This will be particularly important in developing drugs against the aging process, which plays out over decades and where we need a faster iteration loop.
 
-> [!quote]+ Updated on Mon Nov 04 2024 13:18:31 GMT-0500
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
 >
 > Doubling of the human lifespan18. This might seem radical, but life expectancy increased almost 2x in the 20th century (from ~40 years to ~75), so it’s “on trend” that the “compressed 21st” would double it again to 150.
 
-> [!quote]+ Updated on Mon Nov 04 2024 13:18:31 GMT-0500
+> [!quote]+ Updated on Fri Nov 08 2024 13:17:07 GMT-0500
 >
 > Biological freedom. The last 70 years featured advances in birth control, fertility, management of weight, and much more. But I suspect AI-accelerated biology will greatly expand what is possible: weight, physical appearance, reproduction, and other biological processes will be fully under people’s control. We’ll refer to these under the heading of biological freedom: the idea that everyone should be empowered to choose what they want to become and live their lives in the way that most appeals to them
 

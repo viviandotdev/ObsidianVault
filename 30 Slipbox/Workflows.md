@@ -1,6 +1,6 @@
 ---
-created: 2023-07-23 17:11 
-modified: Saturday 9th September 2023 06:47:34
+created: 2023-07-23 17:11
+modified: 2025-02-19T06:49:34-05:00
 alias: 
 ---
 up::  
@@ -18,7 +18,7 @@ related:
 [[Protocol to Fight Distractions]]
 [[Monthly Reviews]]
 [[Quarterly Reviews]]
-[[20 Sources/Raindrops/All bookmarks/How I Read]]
+[[40 Spaces/Life/How I Read|How I Read]]
 ### Productivity System
 [Ultimate Brain.](https://thomasfrank.notion.site/Ultimate-Brain-Creator-s-Companion-Hub-536903bad2f44dfab9eb87f2bf459d5a)
  

@@ -3,7 +3,7 @@ created: 2023-09-07 16:28
 modified: Thursday 7th September 2023 16:28:11
 alias:
 ---
-up:: [[Library]]
+up:: [[+ Library]]
 tags:: #system-design #map
 
 ## System Design MOC

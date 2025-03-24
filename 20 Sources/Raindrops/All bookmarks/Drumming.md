@@ -4,12 +4,14 @@ raindrop_highlights:
   6568a793c0008d98f44e67e7: 368121b19703675914101fb0bf14172e
   6568a7a659d4ed73e9e037df: 1711863dc4718cb7893bccf48826afb1
   6568a7bfbd7852733616b094: c415c28b16bcc4ed6b761e3120b64b4a
+url: https://craigmod.com/essays/drumming/
+created: November 30th 2023
+status: 🟥
+tags:
+type: article
+like: false
 ---
 
-URL:: https://craigmod.com/essays/drumming/
-Status:: #🟩
-Medium:: #source/article
-Topics:: #drumming, #piano, #hobby
 
 ### Drumming
 

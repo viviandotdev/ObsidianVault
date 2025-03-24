@@ -1,6 +1,6 @@
 ---
-created: 2024-04-21 08:03 
-modified: Sunday 21st April 2024 08:03:24
+created: 2024-04-21 08:03
+modified: 2025-02-22T10:45:37-05:00
 alias: 
 ---
 up::  [[My Tools]]
@@ -22,6 +22,8 @@ Kindle, **any of the portable wireless electronic reading devices (e-readers) p
 **How to DRM Books**
 [GitHub - noDRM/DeDRM\_tools: DeDRM tools for ebooks](https://github.com/nodrm/DeDRM_tools)
 
+**open source bionic reading converter**
+[GitHub - dobrosketchkun/bionic-reading-epub-converter: Convert your epub book into the bionic reading text formatting](https://github.com/dobrosketchkun/bionic-reading-epub-converter?tab=readme-ov-file)
 
 **Linked References to this Note**
 These notes point directly to this note. But this note doesn't point back.

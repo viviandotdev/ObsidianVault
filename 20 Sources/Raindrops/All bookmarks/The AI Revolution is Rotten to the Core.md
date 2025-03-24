@@ -2,11 +2,12 @@
 raindrop_id: 906994272
 raindrop_highlights:
   674216c57e252412161d81fa: 9403f856b8b9fe7e91c0424ab6a7ff9b
+url: https://www.youtube.com/watch?v=-MUEXGaxFDA
+created: November 23rd 2024
+status: 🟥
+type: video
+like: true
 ---
-
-URL:: https://www.youtube.com/watch?v=-MUEXGaxFDA
-Status:: #🟥
-Medium:: #source/article
 
 
 ### The AI Revolution is Rotten to the Core

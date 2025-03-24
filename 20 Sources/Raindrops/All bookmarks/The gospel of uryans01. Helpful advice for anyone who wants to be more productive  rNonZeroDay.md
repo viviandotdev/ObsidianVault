@@ -2,11 +2,12 @@
 raindrop_id: 793738865
 raindrop_highlights:
   6658fe36a072f8cfb68195f6: 8b4c1cc195c4f102a8d6869de75f68ae
+url: https://www.reddit.com/r/NonZeroDay/comments/1qbxvz/the_gospel_of_uryans01_helpful_advice_for_anyone/
+created: May 30th 2024
+status: 🟥
+type: link
+like: false
 ---
-
-URL:: https://www.reddit.com/r/NonZeroDay/comments/1qbxvz/the_gospel_of_uryans01_helpful_advice_for_anyone/
-Status:: #🟩
-Medium:: #source/article
 
 
 ### The gospel of /u/ryans01. Helpful advice for anyone who wants to be more productive : r/NonZeroDay

@@ -1,9 +1,9 @@
 ---
 created: 2024-12-21 14:41
-modified: 2024-12-22T10:34:22-05:00
+modified: 2025-02-22T10:08:50-05:00
 alias: 
 ---
-up::  
+up::  [[Workflows]]
 type:: #note/atomic🌳 
 links:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
 ## How i read

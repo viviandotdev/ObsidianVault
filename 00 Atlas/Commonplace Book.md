@@ -1,4 +1,4 @@
-up:: [[Home]] / [[Sources]]
+up:: [[+ Home]] / [[Sources]]
 tags:: #map
 
 # Commonplace Book 📖

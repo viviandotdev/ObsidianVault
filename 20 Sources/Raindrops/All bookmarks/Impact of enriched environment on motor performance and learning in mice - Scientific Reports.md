@@ -5,11 +5,12 @@ raindrop_highlights:
   67583368c4a8922c088c1be4: bb8e86e5321ebc97c77dfec0ac84e198
   6758337cc4a8922c088c1e08: 13bff602a954e664326f49100505c1a9
   675833a1430a628325d721cc: f52fc0122bdc36e61e70ff3a1b169991
+url: https://www.nature.com/articles/s41598-024-56568-3?fromPaywallRec=true
+created: December 10th 2024
+status: 🟥
+type: article
+like: false
 ---
-
-URL:: https://www.nature.com/articles/s41598-024-56568-3?fromPaywallRec=true
-Status:: #🟥
-Medium:: #source/article
 
 
 ### Impact of enriched environment on motor performance and learning in mice - Scientific Reports

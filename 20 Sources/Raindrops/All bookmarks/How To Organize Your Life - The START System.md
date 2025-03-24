@@ -2,11 +2,12 @@
 raindrop_id: 918843226
 raindrop_highlights:
   6758ac4c0e7d685a91547ba8: f9c08b8defed049902c4e46ed834b369
+url: https://www.youtube.com/watch?v=ByIU7l3zQEY&amp;list=WL&amp;index=52
+created: December 10th 2024
+status: 🟥
+type: video
+like: false
 ---
-
-URL:: https://www.youtube.com/watch?v=ByIU7l3zQEY&amp;list=WL&amp;index=52
-Status:: #🟥
-Medium:: #source/article
 
 
 ### How To Organize Your Life - The START System

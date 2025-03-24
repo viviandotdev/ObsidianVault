@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[+ Home]]
 tags:: #map #effort
 rank:: 1
 

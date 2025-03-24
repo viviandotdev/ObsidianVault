@@ -1,6 +1,6 @@
 ---
-created: 2024-05-16 17:39 
-modified: Thursday 16th May 2024 17:39:13
+created: 2024-05-16 17:39
+modified: 2025-01-30T18:50:01-05:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
@@ -17,7 +17,7 @@ cat ~/.ssh/id_rsa.pub
 ```
 **ssh into the server using that key**
 ```
-ssh -i ~/.ssh/id_rsa root@5.161.114.220
+ssh -i ~/.ssh/id_rsa root@134.209.64.204
 ```
 3. [Install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
 ```
@@ -31,13 +31,15 @@ sudo systemctl status docker
 ```
 5. [Install dokku](https://dokku.com/docs/getting-started/installation/)
 ```
-wget -NP . https://dokku.com/install/v0.34.4/bootstrap.sh
-sudo DOKKU_TAG=v0.34.4 bash bootstrap.sh
+# for debian systems, installs Dokku via apt-get
+wget -NP . https://dokku.com/install/v0.35.14/bootstrap.sh
+sudo DOKKU_TAG=v0.35.14 bash bootstrap.sh
 cat ~/.ssh/authorized_keys | dokku ssh-keys:add admin
 ```
 6. set your global domain
 ```
 # you can also use the ip of your server 
-dokku domains:set-global 134.209.38.244.sslip.io
+dokku domains:set-global 134.209.64.204.sslip.io
 ```
+
 

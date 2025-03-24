@@ -2,11 +2,12 @@
 raindrop_id: 821414573
 raindrop_highlights:
   66a0c6b4f675e2bd0e610d51: cfd04d12cda91cdecbdaa69f1f9d01a5
+url: https://matt.sh/panic-at-the-job-market/
+created: July 24th 2024
+status: 🟥
+type: link
+like: false
 ---
-
-URL:: https://matt.sh/panic-at-the-job-market/
-Status:: #🟥
-Medium:: #source/article
 
 
 ### Panic! at the Tech Job Market

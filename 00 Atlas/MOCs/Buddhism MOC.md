@@ -3,7 +3,7 @@ created: 2023-10-19 09:07
 modified: Thursday 19th October 2023 09:07:33
 alias:
 ---
-up::  [[Library]]
+up::  [[+ Library]]
 tags:: #buddhism
 
 ## Buddhism MOC

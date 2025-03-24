@@ -1,7 +1,7 @@
 ---
 created: 2023-09-03 15:32
-modified: Sunday 3rd September 2023 15:32:12
-alias:
+modified: 2025-02-19T06:49:47-05:00
+alias: 
 ---
 up::  [[Workflows]]
 tags:: #life
@@ -29,10 +29,3 @@ Daily Review
 
 [[To-Do Lists]]
 
-
-
-Spaced Repetition
-1-day
-1- week
-1-month
-3-month

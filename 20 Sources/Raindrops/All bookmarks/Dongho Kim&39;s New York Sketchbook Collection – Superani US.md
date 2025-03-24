@@ -2,11 +2,12 @@
 raindrop_id: 912935512
 raindrop_highlights:
   674db28baf58b339432e181f: 911be6cbd77b76cac1b36359a1014540
+url: https://superanius.com/products/dongho-kims-new-york-sketchbook-collection?pr_prod_strat=jac&amp;pr_rec_id=5258bfbf4&amp;pr_rec_pid=4887023386667&amp;pr_ref_pid=7069321920555&amp;pr_seq=uniform
+created: December 2nd 2024
+status: 🟥
+type: link
+like: false
 ---
-
-URL:: https://superanius.com/products/dongho-kims-new-york-sketchbook-collection?pr_prod_strat=jac&amp;pr_rec_id=5258bfbf4&amp;pr_rec_pid=4887023386667&amp;pr_ref_pid=7069321920555&amp;pr_seq=uniform
-Status:: #🟥
-Medium:: #source/article
 
 
 ### Dongho Kim&#39;s New York Sketchbook Collection – Superani US

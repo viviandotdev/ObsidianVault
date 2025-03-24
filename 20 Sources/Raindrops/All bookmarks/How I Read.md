@@ -2,17 +2,16 @@
 raindrop_id: 775465411
 raindrop_highlights:
   662aeb3447e6e81b9b696fb8: 75aaa633017088c4c8c6be9fc5a965be
+url: https://notes.burke.libbey.me/how-i-read/
+created: April 25th 2024
+status: 🟩
+type: link
+like: false
 ---
-
-URL:: https://notes.burke.libbey.me/how-i-read/
-Status:: #🟩
-Medium:: #source/article
 
 
 ### How I Read
 
-**Notes**
-[[How I read books|How I read books]]
 
 
 #### Highlights

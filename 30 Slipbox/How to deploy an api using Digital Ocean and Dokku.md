@@ -1,7 +1,7 @@
 ---
 created: 2023-09-24 07:20
-modified: Sunday 24th September 2023 12:19:58
-alias:
+modified: 2025-02-05T18:56:35-05:00
+alias: 
 share_link: https://file.obsidianshare.com/e6/5527cd862eda3430ff30e64b6a273c41.html#MXyetY1S7YeSwvHgcTA1M4H4VwVuuT4gesZS3mcTLJI
 share_updated: 2023-09-25T21:33:15-04:00
 ---
@@ -22,7 +22,7 @@ tags:: #deploy #backend #api #docker
 2. [[Initialize digital ocean droplet]]
 3. Create dokku app
 ```
-dokku apps:create retwitter-api
+dokku apps:create bookcue-api
 ```
 8. Install postgres and redis plugin
 ```
@@ -31,10 +31,13 @@ sudo dokku plugin:install https://github.com/dokku/dokku-redis.git redis
 ```
 9. Create and link Postgres and Redis database to the app
 ```
-dokku postgres:create bookcue-api-psql
+dokku postgres:create bookshelf-api-psql
+dokku postgres:link bookshelf-api-psql bookshelf-api
+```
+
+```
 dokku redis:create retwitter-api-redis
 dokku redis:link retwitter-api-redis retwitter-api
-dokku postgres:link bookcue-api-psql bookcue-api
 ```
 ### Containerize the application
 [[Set up local and prod environment variables]] (optional)
@@ -55,15 +58,15 @@ docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:1 .
 [Why can't i pull the newest image by using the latest tag?](https://cloud.ibm.com/docs/Registry?topic=Registry-troubleshoot-docker-latest)
 1. Pull the latest image from docker hub
 ```
-docker pull vivianlin61/lireddit:1
+docker pull vivianlin61/bookcue:1
 ```
 2. Retag the image to match the created at the start
 ```
-docker tag vivianlin61/lireddit:1 dokku/lireddit-api:latest
+docker tag vivianlin61/bookcue:1 dokku/bookcue-api:latest
 ```
 3. Deploy the app
 ```
-dokku deploy lireddit-api latest
+dokku deploy bookcue-api latest
 ```
 **Deploy Changes Script**
 ``` bash
@@ -73,27 +76,27 @@ echo What should the version be?
 read VERSION
 
 docker buildx create --use
-docker buildx build --platform linux/amd64 --push -t vivianlin61/lireddit:$VERSION .
-docker push vivianlin61/retwitter:$VERSION
-ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/lireddit:$VERSION && docker tag vivianlin61/lireddit:$VERSION dokku/api:$VERSION && dokku deploy api $VERSION"
+docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:$VERSION .
+docker push vivianlin61/bookcue:$VERSION
+ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/bookcue:$VERSION && docker tag vivianlin61/bookcue:$VERSION dokku/api:$VERSION && dokku deploy api $VERSION"
 
 ```
 ### Set up DNS
 [Docker DNS Configuration](https://dokku.com/docs~v0.11.6/configuration/domains/)
 ```
-dokku domains:set-global 45.55.140.38.sslip.io
+dokku domains:set-global retwittter.co
 ```
 
 ```
-dokku domains:report retwitter-api
+dokku domains:report bookcue-api
 ```
 
 ```
-dokku domains:add retwitter-api retwitter-api.retwitter.co
+dokku domains:add bookcue-api api.retwitter.co
 ```
 
 ```
-dokku domains:remove retwitter retwitter-api.134.209.38.244.sslip.io
+dokku domains:remove bookcue-api bookcue-api.134.209.64.204.sslip.io
 ```
 
 ![[Screenshot 2024-05-15 at 11.50.52 AM.png]]
@@ -113,16 +116,21 @@ sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
 ```
 
 ```
-dokku letsencrypt:set lireddit-api email linvivian61@gmail.com
+dokku letsencrypt:set bookcue-api email linvivian61@gmail.com
 ```
 
 ```
-dokku letsencrypt:enable retwitter-api
+dokku letsencrypt:enable bookcue-api
 ```
 
 
 ### Finally test the API
 ```
-https://lireddit-api.rereddit.site/graphql
+https://api.retwitter.co/graphql
 ```
 ![[Screenshot 2023-09-24 at 10.40.45 AM.png]]
+```
+query {
+	hello
+}
+```

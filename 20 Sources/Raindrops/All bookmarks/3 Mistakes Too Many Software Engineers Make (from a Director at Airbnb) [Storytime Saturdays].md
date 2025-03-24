@@ -3,11 +3,12 @@ raindrop_id: 797677826
 raindrop_highlights:
   6662fbc29e255fb6caa19b6c: 9e9a0f29681f292b2a1ad9ae91cf3d9e
   6662fbc84dd145b36b53e6db: a032066f06a4eed0e6e8d7ee363974af
+url: https://codinginterviewsmadesimple.substack.com/p/3-mistakes-too-many-software-engineers?utm_source=post-email-title&amp;publication_id=108704&amp;post_id=144937064&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
+created: June 7th 2024
+status: 🟥
+type: article
+like: false
 ---
-
-URL:: https://codinginterviewsmadesimple.substack.com/p/3-mistakes-too-many-software-engineers?utm_source=post-email-title&amp;publication_id=108704&amp;post_id=144937064&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
-Status:: #🟩
-Medium:: #source/article
 
 
 ### 3 Mistakes Too Many Software Engineers Make (from a Director at Airbnb) [Storytime Saturdays]

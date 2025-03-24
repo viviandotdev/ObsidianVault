@@ -1,4 +1,4 @@
-up:: [[Home]] / [[Library]]
+up:: [[+ Home]] / [[+ Library]]
 tags:: #map 
 
 # Health MOC

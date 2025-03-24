@@ -2,11 +2,12 @@
 raindrop_id: 907915080
 raindrop_highlights:
   674391a387ad1313b398ec8a: 051abdf5f02c86a993d4f6b12e9baf79
+url: https://www.youtube.com/watch?v=i-7Zjke2Y90&amp;list=LL&amp;index=1
+created: November 24th 2024
+status: 🟥
+type: video
+like: false
 ---
-
-URL:: https://www.youtube.com/watch?v=i-7Zjke2Y90&amp;list=LL&amp;index=1
-Status:: #🟥
-Medium:: #source/article
 
 
 ### 7 Life Goals I now think are a waste of time -- Reflections of a 60 year old retired man.
@@ -15,9 +16,9 @@ I&#39;m 60 years old and retired... here are 7 life goals I believe now to be a 
 ------------------------------------------------------------
 _*PLEASE STOP USING Spreadsheets!_ It falls way short optimizing every retirement factor*
 Retirement Tool Link I reference and use and recommend -- Boldin (old name: New Retirement)
- Free 2 week trial.   $120/yr after.   You will buy this after trying (I have purchased for 5 years ).
+ Free 2 week trial.   $120/yr after.   You will buy this after trying (I have purchased for 5 years ).   
 
-* NEW NAME: BOLDIN    All my old links will continue to work for your free trial!*
+* NEW NAME: BOLDIN    All my old links will continue to work for your free trial!*    
 
 https://www.newretirement.com/?nr_product=NRC&amp;nr_a=35&amp;nr_medium=affiliate&amp;utm_source=35&amp;utm_medium=affiliate
 --------------------------------------------------------------------
@@ -51,9 +52,9 @@ RECOMMENDED FINANCIAL ADVISOR - Assets under Management or one time plan creatio
 Neil Fortwendel with Northwestern Mutual ph: 812 471 2492
 
 Video by Lean Driven Reliability LLC
-This is not investment advice.  For entertainment ONLY.   Seek professional help to understand your unique situation.
+This is not investment advice.  For entertainment ONLY.   Seek professional help to understand your unique situation.  
 
-Affiliate Disclosure: Most of the links on this channel are affiliate links, meaning at no cost to you I earn a commission if you click through and purchase or set up a discussion.  Nevertheless, I only recommend products or services that 1) I currently use or have used or 2) I believe can help the majority of people.
+Affiliate Disclosure: Most of the links on this channel are affiliate links, meaning at no cost to you I earn a commission if you click through and purchase or set up a discussion.  Nevertheless, I only recommend products or services that 1) I currently use or have used or 2) I believe can help the majority of people.  
 
 #retirement #retirementplanning #retireearly #retireearlyandtravel #financialfreedom #financialindependence #retirementincome #retirementstrategy #findingpurpose #keto #ketodiet #ketovore #hiit #hiitworkout #healthylifestyle #howmuchcanIspend
 
