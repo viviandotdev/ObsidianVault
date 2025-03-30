@@ -15,6 +15,22 @@ then another to look for the element to place
 slow -> nextNonDuplicate = 0
 fast -> traverse the array to find the next value
 
-nextNonDuplicate - 1 []
+if nums[nextNonDuplicate - 1] != nums[index]
+	nums[nextNonDuplicate] = nums[index]
+		nextNonDuplicate += 1
 nums = [1,1,2]
+
+why is nextNonDup start at index = 1 and not 0
+this is because the 
+
+
+```python
+def nextNonDup(nums: int[]):
+	nextNonDup = 0
+	for i in range(len(nums)):
+		if (nums[nextNonDup] != nums[i]):
+			nextNonDup += 1
+	return nextNonDup
+
+```
 
