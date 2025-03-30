@@ -1,13 +1,14 @@
 ---
 created: 2023-09-07 16:28
-modified: 2025-03-30T11:45:36-04:00
+modified: 2025-03-30T15:44:43-04:00
 alias: 
 ---
 up:: [[+ Library]]
 tags:: #system-design #map
 
 ## System Design MOC
-
+**Go through the roadmap questions**
+[SWE Quiz](https://www.swequiz.com/)
 ### Scalability
 - [[Horizontal Scaling and Vertical Scaling]]
 - Load-balancing
