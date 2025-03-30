@@ -1,6 +1,6 @@
 ---
 created: 2023-09-07 16:28
-modified: 2025-03-30T11:43:57-04:00
+modified: 2025-03-30T11:45:36-04:00
 alias: 
 ---
 up:: [[+ Library]]
@@ -59,7 +59,6 @@ Migration Plan
 2. Scalability integration
 3. Data migration serially
 
-
 Security
 1. Cybersecurity Framework
 2. Secure architecture
@@ -67,8 +66,8 @@ Security
 4. Service agreements
 
 
-### Communication
-1. Service Discovery
+### Communication between systems
+1. Service Discovery 
 [[Common System Design Problems]]
 
 

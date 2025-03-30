@@ -1,10 +1,7 @@
-
-
 ---
-created: 2023-07-23 14:02
-modified: Sunday 23rd July 2023 17:01:47
-alias:
+modified: 2025-03-30T11:45:04-04:00
 ---
+
 up::  [[System Design MOC]]
 tags:: #system-design
 source::
