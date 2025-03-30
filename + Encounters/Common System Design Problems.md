@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-30T11:59:14-04:00
+modified: 2025-03-30T12:30:21-04:00
 ---
 
 Here are the system design questions with brackets around each one:
@@ -17,7 +17,7 @@ Medium
 [[Design Distributed Message Queue]]
 
 Hard
-[[Design a Web Crawler]]
+[[Design A Web Crawler]]
 [[Design Payment System]]
 [[Design a Top K Problem]] 
 
