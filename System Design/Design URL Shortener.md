@@ -4,7 +4,7 @@ modified: Friday 1st September 2023 14:41:01
 aliases: 
 tags: "#system-design"
 status: completed
-session: green
+session: ""
 ---
 up:: [[System Design MOC]]
 type:: #output/article

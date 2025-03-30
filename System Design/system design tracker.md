@@ -36,7 +36,7 @@ columns:
     accessorKey: session
     key: session
     id: session
-    label: session
+    label: session 1
     position: 100
     skipPersist: false
     isHidden: false
@@ -45,6 +45,25 @@ columns:
     options:
       - { label: "March 30, 2025", value: "March 30, 2025", color: "hsl(203, 95%, 90%)"}
       - { label: "green", value: "green", color: "hsl(298, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  session_2:
+    input: select
+    accessorKey: session_2
+    key: session_2
+    id: session_2
+    label: session 2
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
