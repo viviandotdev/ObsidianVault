@@ -51,3 +51,5 @@ class Solution:
 ```
 [Remove Duplicates from Sorted Array - LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1141600456/)
 
+**Notes**
+- `next_non_duplicate` starts at index 1 because this is where we start to replace duplicates because the first value is guaranteed to be unique
