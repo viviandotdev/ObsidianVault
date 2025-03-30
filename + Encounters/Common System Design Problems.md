@@ -1,10 +1,8 @@
 ---
-modified: 2025-03-30T11:54:13-04:00
+modified: 2025-03-30T11:59:14-04:00
 ---
 
 Here are the system design questions with brackets around each one:
-**just create your own app to track**
-**add session button** -> **modal** -> 
 Easy
 [[Design URL Shortener]]
 [[Design UUID Generator]]
@@ -22,3 +20,4 @@ Hard
 [[Design a Web Crawler]]
 [[Design Payment System]]
 [[Design a Top K Problem]] 
+
