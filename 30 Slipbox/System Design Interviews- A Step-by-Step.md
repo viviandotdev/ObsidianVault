@@ -1,6 +1,6 @@
 ---
 created: 2023-10-15 09:41
-modified: 2025-03-30T11:06:23-04:00
+modified: 2025-03-30T11:25:35-04:00
 alias: 
 Status: idea
 Category: system-design
@@ -57,3 +57,5 @@ grokking interview
 system design alex book 
 and exponenet
 gather list of high prioiryty questioms , do the time table on them
+
+each time you study add the date and confidence
