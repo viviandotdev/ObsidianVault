@@ -42,6 +42,9 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 173
+    options:
+      - { label: "March 30, 2025", value: "March 30, 2025", color: "hsl(203, 95%, 90%)"}
+      - { label: "green", value: "green", color: "hsl(298, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
