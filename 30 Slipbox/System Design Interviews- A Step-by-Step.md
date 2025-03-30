@@ -1,6 +1,6 @@
 ---
 created: 2023-10-15 09:41
-modified: 2025-03-30T11:25:35-04:00
+modified: 2025-03-30T11:33:21-04:00
 alias: 
 Status: idea
 Category: system-design
@@ -59,3 +59,10 @@ and exponenet
 gather list of high prioiryty questioms , do the time table on them
 
 each time you study add the date and confidence
+
+
+| Item                                                    | Price                                                   | Quantity | Total  |
+| ------------------------------------------------------- | ------------------------------------------------------- | -------- | ------ |
+| <span style="background-color:#ffcccc;"> Apple </span>  | \$1.00                                                  | 3        | \$3.00 |
+| Banana                                                  | <span style="background-color:#ccffcc;"> \$0.50 </span> | 5        | \$2.50 |
+| <span style="background-color:#ccffff;"> Orange </span> | \$0.75                                                  | 2        | \$1.50 |
