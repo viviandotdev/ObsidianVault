@@ -1,6 +1,6 @@
 ---
 created: 2023-10-15 09:41
-modified: 2025-03-30T11:38:41-04:00
+modified: 2025-03-30T11:43:52-04:00
 alias: 
 Status: idea
 Category: system-design
@@ -53,14 +53,3 @@ tags:: #system-design
 [Complete Guide to System Design Interviews (and Top Questions) - Exponent](https://www.tryexponent.com/blog/system-design-interview-guide?src=footer)
 
 
-grokking interview
-system design alex book 
-and exponenet
-gather list of high prioiryty questioms , do the time table on them
-
-each time you study add the date and confidence
-
-
-| Design Blach LCah |     |
-| ----------------- | --- |
-|                   |     |

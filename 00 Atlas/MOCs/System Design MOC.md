@@ -1,6 +1,6 @@
 ---
 created: 2023-09-07 16:28
-modified: 2025-03-30T10:59:26-04:00
+modified: 2025-03-30T11:43:57-04:00
 alias: 
 ---
 up:: [[+ Library]]
@@ -70,6 +70,20 @@ Security
 ### Communication
 1. Service Discovery
 [[Common System Design Problems]]
+
+
+grokking interview
+system design Alex book 
+and exponenet
+gather list of high prioiryty questioms , do the time table on them
+
+each time you study add the date and confidence
+
+
+| Design Blach LCah |     |     |
+| ----------------- | --- | --- |
+|                   |     |     |
+
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
