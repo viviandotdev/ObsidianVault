@@ -65,4 +65,5 @@ O(n)
 $$
 where n is the length of the array
 
-**l**
+**Notes**
+`left < right` left cannot be equal to right because that is not a valid two sum you would be using the same elements twice
