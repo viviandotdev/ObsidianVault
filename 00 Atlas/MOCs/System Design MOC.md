@@ -1,7 +1,7 @@
 ---
 created: 2023-09-07 16:28
-modified: Thursday 7th September 2023 16:28:11
-alias:
+modified: 2025-03-30T10:59:26-04:00
+alias: 
 ---
 up:: [[+ Library]]
 tags:: #system-design #map
@@ -69,6 +69,7 @@ Security
 
 ### Communication
 1. Service Discovery
+[[Common System Design Problems]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
