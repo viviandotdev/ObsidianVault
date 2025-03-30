@@ -1,7 +1,7 @@
 ---
 created: 2023-10-15 09:41
-modified: Sunday 15th October 2023 09:41:33
-alias:
+modified: 2025-03-30T11:06:23-04:00
+alias: 
 Status: idea
 Category: system-design
 ---
@@ -51,3 +51,9 @@ tags:: #system-design
 [System Design Interview: A Step-By-Step Guide - YouTube](https://www.youtube.com/watch?v=i7twT3x5yv8)
 [Complete Guide to System Design Interviews (and Top Questions) - Exponent](https://www.tryexponent.com/blog/system-design-interview-guide)
 [Complete Guide to System Design Interviews (and Top Questions) - Exponent](https://www.tryexponent.com/blog/system-design-interview-guide?src=footer)
+
+
+grokking interview
+system design alex book 
+and exponenet
+gather list of high prioiryty questioms , do the time table on them
