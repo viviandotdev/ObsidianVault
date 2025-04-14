@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-14T09:42:49-04:00
+modified: 2025-04-14T09:48:51-04:00
 ---
 
 
@@ -14,9 +14,8 @@ traverse the array backwards
 start and end pointer
 if we find a 0 at the start swap?
 wrong? beceause 12 will end up at the start
+pointer in the same director
 
-brute force, 
-[12,1,0,3,0]
 
 Input: nums = [0,1,0,3,12]
 Output: [1,3,12,0,0]
