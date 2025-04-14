@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-14T09:39:37-04:00
+modified: 2025-04-14T09:42:49-04:00
 ---
 
 
@@ -10,8 +10,13 @@ Given an integer array nums, move all 0's to the end of it while maintaining the
 - array of numbers
 - move all the 0s to the end of the array
 - maintain the relative order of the non zero elements
-traverse the array 
-if we find a 0 
+traverse the array backwards
+start and end pointer
+if we find a 0 at the start swap?
+wrong? beceause 12 will end up at the start
+
+brute force, 
+[12,1,0,3,0]
 
 Input: nums = [0,1,0,3,12]
 Output: [1,3,12,0,0]
