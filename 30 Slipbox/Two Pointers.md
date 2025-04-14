@@ -1,11 +1,13 @@
 ---
-modified: 2025-03-23T12:38:45-04:00
+modified: 2025-04-14T09:28:09-04:00
 ---
 up:: [[Leetcode]]
 
 [Two Pointers in 7 minutes | LeetCode Pattern - YouTube](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45&index=1)
 Iterate through an array or list looking for pairs of elements that meet a specific criteria
-Conditions- Sorted arrays or lists where you need to find pairs that satisfy a specific condition
+
+**Conditions**- Sorted arrays or lists where you need to find pairs that satisfy a specific condition
+Sorted think of binary search
 Linear data structures -> arrays, strings and linked lists
 O(n^2) to O(n)
 

@@ -1,32 +1,27 @@
-two sum input array is sorted
-array
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-sorted
 
-find two numbers whose sum adds up to specific target number
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-array 
-sorted
+two pointer solution?
 
-two pointers
-left and right pointer
-two conditions
-left + right pointer = two sum
-if twoSum > targetSum:
-	right -= 1 **need to make smaller**
-elif twoSum < targetSum:
-	left += 1 **need to make the sum larger**
-left must be  < right
-```
-def twoSum(nums):
-	left = 0
-	right = len(nums) - 1
-	while left < right:
-		twoSum = left + right
-		if (twoSum > target):
-			right -= 1
-		elif (twoSum < target):
-			left += 1
-		else:
-			return [left, right]
-```
+**sorted**
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+
+**not sorted**
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+
+brute for algorithm
+(n2)
+3 + 2 = 5, 3 + 4 = 7
+2 + 3 = 5, 2 + 4 = 6
+sum with everyone except itsself to find the sum
+
+**not sorted**
+cannot use binary search
+cannot use left and right pointers
+
