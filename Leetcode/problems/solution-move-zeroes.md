@@ -5,7 +5,7 @@ patterns:
 difficulty: Easy
 ROI: High
 leetcode_url: https://leetcode.com/problems/move-zeroes/
-modified: 2025-04-14T10:23:38-04:00
+modified: 2025-04-14T11:33:56-04:00
 type: solution
 ---
 
