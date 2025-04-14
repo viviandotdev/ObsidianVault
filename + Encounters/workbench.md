@@ -1,3 +1,6 @@
+---
+modified: 2025-04-14T09:32:34-04:00
+---
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 
@@ -23,5 +26,5 @@ sum with everyone except itsself to find the sum
 
 **not sorted**
 cannot use binary search
-cannot use left and right pointers
-
+cannot use to pointers left and right pointers
+since this array is not sorted a hash table apprach is prefered
