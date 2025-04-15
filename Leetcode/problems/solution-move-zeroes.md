@@ -5,7 +5,7 @@ patterns:
 difficulty: Easy
 ROI: High
 leetcode_url: https://leetcode.com/problems/move-zeroes/
-modified: 2025-04-14T11:33:56-04:00
+modified: 2025-04-15T13:31:58-04:00
 type: solution
 ---
 
@@ -17,7 +17,7 @@ nums = [1]
 
 Expected = [1]
 Output =[0] is the 
-**incrroect**
+**incrroect** this will skip the first non zero 
 ```python
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
@@ -26,7 +26,7 @@ class Solution:
         """
         #move all non zeros to the front
         nonZero = 0 #where to place the frist non zero
-        for i in range(1, len(nums)): #this is incorrect should start at 0
+        for i in range(1, len(nums)): #this is incorrect should start at 0 
 
             if nums[i] != 0:
                 nums[nonZero] = nums[i]
