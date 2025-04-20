@@ -1,6 +1,6 @@
 ---
-created: 2024-05-19 18:54 
-modified: Sunday 19th May 2024 18:54:19
+created: 2024-05-19 18:54
+modified: 2025-04-20T10:53:47-04:00
 alias: 
 ---
 up::  [[+ Library]]
@@ -40,6 +40,7 @@ links::
 - [Civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [GitHub - heyxyz/hey: Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿](https://github.com/heyxyz/hey)
 
-**Sources**
+**Resources **
+[Toools.design – An archive of 1,500+ Design Resources](https://www.toools.design/)
 
-think about why we need to remove book one moretime?
+[Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/)
