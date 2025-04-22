@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02 18:14
-modified: 2025-02-06T07:03:04-05:00
+modified: 2025-04-22T06:02:17-04:00
 alias: 
 ---
 up::  
@@ -14,6 +14,8 @@ links::
 vivian_dev
 heyvivian
 viviandotdev
+
+show app project and components you build along the way?
 **created 100 components**
 [codehagen](https://x.com/codehagen)
 [in_dev7](https://x.com/intent/follow?screen_name=ln_dev7)

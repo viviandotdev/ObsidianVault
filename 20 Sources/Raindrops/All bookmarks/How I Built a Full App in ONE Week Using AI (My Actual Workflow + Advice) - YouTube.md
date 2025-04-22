@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Q13QOgwoF0E
 created: April 22nd 2025
 status: 🟩
 type: link
-modified: 2025-04-22T05:57:54-04:00
+modified: 2025-04-22T06:01:46-04:00
 tags:
   - ai
   - coding
