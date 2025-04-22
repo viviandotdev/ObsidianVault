@@ -1,3 +1,8 @@
+---
+modified: 2025-04-21T19:58:13-04:00
+---
+
+[[CHUWI MiniBook X]]
 
 Install driver tutorial
 Most of the driver installation methods for this tutorial are common. The driver name is not necessarily the same as the name in the tutorial.
@@ -11,3 +16,10 @@ Install the drive method as shown below
 
 
 
+![[Pasted image 20250421195608.png]]
+
+
+![[Pasted image 20250421195616.png]]
+
+
+![[Pasted image 20250421195621.png]]
