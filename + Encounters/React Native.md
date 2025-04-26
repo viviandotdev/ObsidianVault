@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-26T09:58:13-04:00
+modified: 2025-04-26T10:05:39-04:00
 ---
 
 ### YouTube Videos
@@ -23,6 +23,14 @@ Let me know if you want me to add descriptions or categorize them differently!>)
 
 **adnvaded project hinge-clone**
 [GitHub - javelwill/hinge-clone](https://github.com/javelwill/hinge-clone)
+**i will do the hinge clone first, i think it is most comprehensize app with the most relavant features for a mobile app**
+**setting up supbabase and react query**
+once this is completed start creating with the template, read through the template
+**glue stack tutorial?**
+[Building an Ecommerce App with React Native, Expo and Gluestack - YouTube](https://www.youtube.com/watch?v=FBXUPJ9_Xl0)
+**good app design simliar logic to the app i'm trying to build**
+[Medicine Reminder App by mendsalbert](https://github.com/mendsalbert/medicine-reminder-app)
+	1. [Video 3](https://www.youtube.com/watch?v=fcpZeYeINDw)
 
 [Gadgets Selling App: React Native Expo, Stripe, Supabase & NextJs - YouTube](https://www.youtube.com/watch?v=26opRFPU0a8&t=409s)
 
