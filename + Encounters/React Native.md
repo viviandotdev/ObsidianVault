@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-26T09:57:08-04:00
+modified: 2025-04-26T09:58:13-04:00
 ---
 
 ### YouTube Videos
@@ -18,8 +18,6 @@ Let me know if you want me to add descriptions or categorize them differently!>)
 **notjustdev**
 [GitHub - nextArtDev/not-just](https://github.com/nextArtDev/not-just)
 
-
-
 **social media app not just**
 [expo-blueprint/social-media/src at f428aea85b58d2c21fb76eb10e858ae6279b54fb · rsajdok/expo-blueprint · GitHub](https://github.com/rsajdok/expo-blueprint/tree/f428aea85b58d2c21fb76eb10e858ae6279b54fb/social-media/src)
 
@@ -27,3 +25,6 @@ Let me know if you want me to add descriptions or categorize them differently!>)
 [GitHub - javelwill/hinge-clone](https://github.com/javelwill/hinge-clone)
 
 [Gadgets Selling App: React Native Expo, Stripe, Supabase & NextJs - YouTube](https://www.youtube.com/watch?v=26opRFPU0a8&t=409s)
+
+**no code hard to build**
+[Build a Threads Clone with React Native, Expo & Gluestack | Full Tutorial - YouTube](https://www.youtube.com/playlist?list=PLJeCS8DwkVT_UcuAIhx9dg1kc3UzcKevl)
