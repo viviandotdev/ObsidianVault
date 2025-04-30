@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-30T08:09:49-04:00
+modified: 2025-04-30T13:55:15-04:00
 ---
 - set up task master ai to help you prompt cursor to getting the task correct
 [Taskmaster AI - The PM for your AI agent](https://www.task-master.dev/)[How I reduced 90% errors for my Cursor (+ any other AI IDE) - YouTube](https://www.youtube.com/watch?v=1L509JK8p1I)
@@ -18,6 +18,11 @@ create prd for your project (project requirements documents)
 **how to set up in cursor **
 [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 context7 mcp server
+
+since image to figma is really bad
+do image to code
+then code to figma, and then edit easily
+then figma back to code
 
 
 **library of mcp servers**
