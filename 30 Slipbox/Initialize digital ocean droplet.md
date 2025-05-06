@@ -1,13 +1,21 @@
 ---
 created: 2024-05-16 17:39
-modified: 2025-01-30T18:50:01-05:00
+modified: 2025-05-06T17:49:51-04:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 type:: #note/how-to
 links::
 ## Initialize digital ocean droplet
-
+```
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACDyJWoMDh0Tla/l3407uQ/8IyO5VhxR28mcQ9fRTExaOAAAAKD0FEs/9BRL
+PwAAAAtzc2gtZWQyNTUxOQAAACDyJWoMDh0Tla/l3407uQ/8IyO5VhxR28mcQ9fRTExaOA
+AAAEA2tRX8/cQ+WdcZtKY3Ph6nyIDtIiDtSqwAKTPX8SKd5fIlagwOHROVr+XfjTu5D/wj
+I7lWHFHbyZxD19FMTFo4AAAAGHZpdmlhbkBNYWNCb29rLVByby5sb2NhbAECAwQF
+-----END OPENSSH PRIVATE KEY-----
+```
 1. Create [digital ocean](https://cloud.digitalocean.com/projects/30a9541f-c92b-4411-9533-7b51e0c2d737/resources?i=2a9ec8) droplet
 2. SSH into the server 
 **Generate ssh key**
