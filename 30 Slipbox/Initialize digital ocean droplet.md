@@ -1,11 +1,15 @@
 ---
 created: 2024-05-16 17:39
-modified: 2025-05-06T17:49:51-04:00
+modified: 2025-05-07T07:46:11-04:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 type:: #note/how-to
 links::
+
+```
+
+```
 ## Initialize digital ocean droplet
 ```
 -----BEGIN OPENSSH PRIVATE KEY-----
