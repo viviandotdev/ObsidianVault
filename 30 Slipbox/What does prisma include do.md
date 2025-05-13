@@ -1,12 +1,12 @@
 ---
 created: 2023-10-07 21:18
-modified: Saturday 7th October 2023 21:19:23
-alias:
+modified: 2025-05-13T07:59:06-04:00
+alias: 
 ---
 up::
 tags:: #prisma #backend #graphql
 
-## What does prisma include do?
+## What does prisma include do
 
 ```ts
 @Mutation(() => Article, { nullable: true }) @UseGuards(GraphqlAuthGuard, AuthorGuard) async deleteArticle( @Args('where') where: ArticleWhereUniqueInput, @GraphqlFields() fields: PlainObject, ) { const article = await this.service.findUnique({ where }); if (!article) { throw new NotFoundException( `Article ${JSON.stringify(where)} do not exists`, ); } return this.service.delete({ where, include: { author: Boolean(fields.author), tags: Boolean(fields.tags), }, }); }

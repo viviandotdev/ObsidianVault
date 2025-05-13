@@ -1,6 +1,6 @@
 ---
 created: 2025-05-13 07:55
-modified: 2025-05-13T07:56:52-04:00
+modified: 2025-05-13T07:58:02-04:00
 alias: 
 ---
 up::  
@@ -26,47 +26,45 @@ Here is the list of series grouped by their **Status** and formatted for clarity
 - **EVANGELION:1.11 YOU ARE (NOT) ALONE.**  
   Type: anime  
   [Link](https://www.primevideo.com/detail/EVANGELION111-YOU-ARE-NOT-ALONE/0K1XKKH7C44WF7VDCYDCFKF3EO)
-
 - **Attack on Titan**  
   Type: anime
-
 - **Mulan**  
   Type: movie
 
 
 ## Plan to Watch
 
-| Name                | Chinese Title | Episodes | Genre                      | Type   | Link                                                                                   |
-|---------------------|---------------|----------|----------------------------|--------|----------------------------------------------------------------------------------------|
-| I am Nobody         |               |          | Comedy, Drama, Fantasy     | series | [MyDramaList](https://mydramalist.com/66507-the-outcast)                              |
-| Under the Skin      |               |          | Mystery, Thriller          | series | [MyDramaList](https://mydramalist.com/70249-lie-zui-tu-jian)                         |
-| Hikaru no Go        | 鬼魂          |          | Comedy, Drama, Sports      | series | [MyDramaList](https://mydramalist.com/45437-qi-hun)                                  |
-| The Lion King       |               |          |                            | movie  |                                                                                        |
-| Beauty and the Beast|               |          |                            | movie  |                                                                                        |
-| Lightyear           |               |          |                            | movie  |                                                                                        |
-| Soul                |               |          |                            | movie  |                                                                                        |
-| Wall-E              |               |          |                            | movie  |                                                                                        |
-| Finding Neoo        |               |          |                            | movie  |                                                                                        |
-| Big Hero 6          |               |          |                            | movie  |                                                                                        |
-| Wreck it Ralph      |               |          |                            | movie  |                                                                                        |
-| Coco                |               |          |                            | movie  |                                                                                        |
-| K-ON                |               |          |                            | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/S90GWbRA)    |
-| The Outcast         |               |          |                            | anime  |                                                                                        |
-| False Memory        |               |          |                            | anime  |                                                                                        |
-| Death Note          |               |          |                            | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/PssSzBYZ)    |
-| Arcane              |               |          |                            | anime  |                                                                                        |
-| Parasyte            |               |          |                            | anime  |                                                                                        |
-| Link Click          |               |          |                            | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/ro91TaqD)    |
-| Haikyuu             |               |          |                            | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/i9tExQwJ)    |
-| Legend of Hei       |               |          |                            | movie  |                                                                                        |
-| The World Between Us|               | 10       | Drama                      | series |                                                                                        |
-| The King's Avatar   | 全职高手      | 40       | Modern, Slice of Life      |        |                                                                                        |
-| Lovely Us           |               |          | Comedy, Romance            | series |                                                                                        |
-| Meet Yourself       |               | 40       | Drama, Romance, Slice of Life | series |                                                                                        |
-| Kingdom             | 킹덤          | 12       | Horror, Supernatural       | series |                                                                                        |
-| Someday or One Day  | 想見你        | 13       | Comedy, Romance, Thriller  | series | [MyDramaList](https://mydramalist.com/39715-some-day-or-one-day)                      |
-| Shards of Her       | 她和她的她    | 9        | Horror, Mystery            | series | [Netflix](https://www.netflix.com/browse?jbv=81622630)                               |
-| The Heart of Genius | 天才基本法    | 45       | Mystery, Supernatural      | series | [Viki](https://www.viki.com/tv/38665c-the-heart-of-genius)                           |
+| Name                 | Chinese Title | Episodes | Genre                         | Type   | Link                                                                              |
+| -------------------- | ------------- | -------- | ----------------------------- | ------ | --------------------------------------------------------------------------------- |
+| I am Nobody          |               |          | Comedy, Drama, Fantasy        | series | [MyDramaList](https://mydramalist.com/66507-the-outcast)                          |
+| Under the Skin       |               |          | Mystery, Thriller             | series | [MyDramaList](https://mydramalist.com/70249-lie-zui-tu-jian)                      |
+| Hikaru no Go         | 鬼魂            |          | Comedy, Drama, Sports         | series | [MyDramaList](https://mydramalist.com/45437-qi-hun)                               |
+| The Lion King        |               |          |                               | movie  |                                                                                   |
+| Beauty and the Beast |               |          |                               | movie  |                                                                                   |
+| Lightyear            |               |          |                               | movie  |                                                                                   |
+| Soul                 |               |          |                               | movie  |                                                                                   |
+| Wall-E               |               |          |                               | movie  |                                                                                   |
+| Finding Neoo         |               |          |                               | movie  |                                                                                   |
+| Big Hero 6           |               |          |                               | movie  |                                                                                   |
+| Wreck it Ralph       |               |          |                               | movie  |                                                                                   |
+| Coco                 |               |          |                               | movie  |                                                                                   |
+| K-ON                 |               |          |                               | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/S90GWbRA) |
+| The Outcast          |               |          |                               | anime  |                                                                                   |
+| False Memory         |               |          |                               | anime  |                                                                                   |
+| Death Note           |               |          |                               | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/PssSzBYZ) |
+| Arcane               |               |          |                               | anime  |                                                                                   |
+| Parasyte             |               |          |                               | anime  |                                                                                   |
+| Link Click           |               |          |                               | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/ro91TaqD) |
+| Haikyuu              |               |          |                               | anime  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/i9tExQwJ) |
+| Legend of Hei        |               |          |                               | movie  |                                                                                   |
+| The World Between Us |               | 10       | Drama                         | series |                                                                                   |
+| The King's Avatar    | 全职高手          | 40       | Modern, Slice of Life         |        |                                                                                   |
+| Lovely Us            |               |          | Comedy, Romance               | series |                                                                                   |
+| Meet Yourself        |               | 40       | Drama, Romance, Slice of Life | series |                                                                                   |
+| Kingdom              | 킹덤            | 12       | Horror, Supernatural          | series |                                                                                   |
+| Someday or One Day   | 想見你           | 13       | Comedy, Romance, Thriller     | series | [MyDramaList](https://mydramalist.com/39715-some-day-or-one-day)                  |
+| Shards of Her        | 她和她的她         | 9        | Horror, Mystery               | series | [Netflix](https://www.netflix.com/browse?jbv=81622630)                            |
+| The Heart of Genius  | 天才基本法         | 45       | Mystery, Supernatural         | series | [Viki](https://www.viki.com/tv/38665c-the-heart-of-genius)                        |
 
 ---
 
