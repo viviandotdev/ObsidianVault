@@ -35,4 +35,3 @@ Things to build a design
 2. Some organizers for the things inside
 3. Bed desk thing
 
-![Screenshot 2024-03-30 at 6.38.57 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9fd5ad49-0b0e-4995-8c5a-e15ec506e4c5/544d0049-4526-46f1-a3f3-fe36b464b4ea/Screenshot_2024-03-30_at_6.38.57_AM.png)
