@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-12T20:30:49-04:00
+modified: 2025-05-13T06:40:36-04:00
 ---
 **3D Modeling Courses before buying a printer**
 
