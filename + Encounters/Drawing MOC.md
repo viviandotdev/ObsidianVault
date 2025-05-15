@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-02-22T08:20:52-05:00
+modified: 2025-05-15T06:57:34-04:00
 alias: 
 ---
 up::  [[+ Library]]
@@ -61,3 +61,5 @@ The combindation of the above (technique, aesthetic and structure/logic) is crea
 Peter Han
 Kim Jung Gi
 Miyazaki
+**resources**
+[[1 Year of DRAWING & PAINTING Lessons]]
