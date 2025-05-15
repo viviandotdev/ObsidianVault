@@ -1,7 +1,7 @@
 ---
 created: 2024-04-13 11:19
-modified: Saturday 13th April 2024 11:19:56
-alias:
+modified: 2025-05-15T07:11:29-04:00
+alias: 
 ---
 up::  [[Language MOC]]
 tags:: #language
@@ -25,6 +25,7 @@ links::
 	1. Consume content look for these words you learned and mine the sentences
 5. Write your own journal stories
 	1. write your own essays about an interesting topic
+	2. translate you favorite essays from english to chines (create a list of them to track all the ones you have completed)
 6. Speaking (imitate the text and record yourself speaking)
 	1. pause and say them to yourself
 	2. write down sentences you say

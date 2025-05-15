@@ -1,9 +1,9 @@
 ---
 created: 2025-05-13 07:55
-modified: 2025-05-13T07:58:02-04:00
+modified: 2025-05-15T07:12:45-04:00
 alias: 
 ---
-up::  
+up::  [[Chinese Language MOC]]
 type:: #note/atomic🌳 
 links:: #chinese  
 ## Immersion Content
@@ -14,12 +14,6 @@ links:: #chinese
 [Anime](https://docs.google.com/spreadsheets/d/15ePAgVgzODjoxxaxjTETXiPNlS7Kl6VqzroUJl2HNIU/edit#gid=0)
 [iyf.tv](https://www.iyf.tv/variety)
 [Netflix](https://www.netflix.com/browse/audio/81582768/zh)
-
-
-
-Here is the list of series grouped by their **Status** and formatted for clarity:
-
----
 
 ## Watching
 
