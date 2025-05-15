@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-15T06:48:02-04:00
+modified: 2025-05-15T06:52:22-04:00
 ---
 up::  [[My Tools]]
 tags:: 
@@ -18,18 +18,18 @@ I want to build a to do app, help me break down into small tasks of core MCP fea
 
 task-master parse-prd scripts/PRD.txt
 
+
+**how to set up in cursor**
 create prd for your project (project requirements documents)
-**how to set up in cursor **
 [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
-context7 mcp server
 
-since image to figma is really bad
-do image to code
-then code to figma, and then edit easily
-then figma back to code
+**Developing UI Process**
+1. Since image to figma is really bad
+2. Do image to code using v0
+3. Then code to figma, and then edit easily
+4. Then figma back to code
 
-**ai coding process**
-- [[How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice) - YouTube]]
+**AI Coding Process** ![[How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice) - YouTube#4 step work flow to building features with AI]]
 	
 **library of mcp servers**
 [MCP servers | Glama](https://glama.ai/mcp/servers)

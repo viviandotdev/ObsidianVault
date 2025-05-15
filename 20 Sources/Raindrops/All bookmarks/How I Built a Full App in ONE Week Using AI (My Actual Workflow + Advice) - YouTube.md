@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Q13QOgwoF0E
 created: April 22nd 2025
 status: 🟩
 type: link
-modified: 2025-04-22T06:01:46-04:00
+modified: 2025-05-15T06:50:28-04:00
 tags:
   - ai
   - coding
@@ -16,7 +16,7 @@ tags:
 
 ### How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice) - YouTube
 
-4 step work flow to building features with AI ^198ecd
+#### 4 step work flow to building features with AI 
 - build the basic UI only with dummy data
 ```
 Create a meeting detail screen in SwiftUl with hardcoded transcript data. Include a header with the meeting title, date, and duration. Below that, show the transcript with different speakers highlighted in different colors.
@@ -34,7 +34,7 @@ Update the MeetingListView to fetch real meetings from Supabase instead of using
 Update the MeetingListView to fetch real meetings from Supabase instead of using dummy data. Add loading states and error handling.
 ```
 
-**prompting framework**
+#### Propmting framework
 1. be hyper specific
 2. provider visual context
 3. don't do too much, do small iterations quickly
