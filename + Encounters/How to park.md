@@ -1,12 +1,12 @@
 ---
 created: 2025-05-15 08:20
-modified: 2025-05-15T08:29:04-04:00
+modified: 2025-05-15T08:32:18-04:00
 alias: 
 ---
 up::  
 type:: #note/how-to  
 links::
-## How to park
+## How to parallel park
 [How To: Easy Parallel Parking - YouTube](https://www.youtube.com/watch?v=pB_iFY2jIdI)
 [Parallel Parking | How to Parallel Park Perfectly (Step by Step) | Parking tips. - YouTube](https://www.youtube.com/watch?v=FjEmxM2PMv8)
 1. Signal and then bring your car next to the car in front of the spot (around 2 feet )
