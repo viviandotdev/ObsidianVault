@@ -5,8 +5,8 @@ raindrop_highlights:
 url: https://www.youtube.com/watch?v=o3IqOrXtxm8
 created: April 26th 2025
 status: 🟥
-
 type: video
+modified: 2025-05-15T07:13:33-04:00
 ---
 
 
@@ -61,7 +61,7 @@ Timestamps:
 05:09:58 - 21- Final Touches &amp; Completing The Project!
 
 
-#reactjs #programming #coding #reactnative
+#reactjs #programming #coding #react-native
 
 #### Highlights
 

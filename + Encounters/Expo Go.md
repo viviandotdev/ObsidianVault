@@ -1,6 +1,9 @@
 ---
-modified: 2025-04-30T06:40:32-04:00
+modified: 2025-05-15T07:14:52-04:00
 ---
+up:: [[React Native]]
+tags: #react-native 
+
 How to create expo app
 ```
 npx create-expo-app@latest
