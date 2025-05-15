@@ -1,6 +1,6 @@
 ---
 created: 2025-04-19 10:58
-modified: 2025-04-19T11:01:29-04:00
+modified: 2025-05-15T07:06:43-04:00
 alias: 
 tags: 
 ---
@@ -9,7 +9,6 @@ links::
 
 ## How to butcher a chicken
 1. Cut open the neck, be careful because you don't want to cut the esophagus and trache?
-	1. 
 ![[IMG_1847.png]]
 
 ![[IMG_1848.png]]

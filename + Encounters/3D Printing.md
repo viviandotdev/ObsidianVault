@@ -1,5 +1,6 @@
 ---
 modified: 2025-05-13T07:08:24-04:00
+tags: #3d-
 ---
 **3D Modeling Courses before buying a printer**
 

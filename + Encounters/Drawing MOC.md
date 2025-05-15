@@ -1,10 +1,10 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-05-15T06:57:34-04:00
+modified: 2025-05-15T07:06:21-04:00
 alias: 
 ---
 up::  [[+ Library]]
-tags:: #drawing #art #
+tags:: #drawing #art 
 related:
 
 ## Drawing

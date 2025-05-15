@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-13T08:02:17-04:00
+modified: 2025-05-15T07:07:40-04:00
 tags: 
 ---
 # Blender Learning Resources & Plan
