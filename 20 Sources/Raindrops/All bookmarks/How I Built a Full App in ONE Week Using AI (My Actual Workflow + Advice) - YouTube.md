@@ -16,7 +16,7 @@ tags:
 
 ### How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice) - YouTube
 
-4 step work flow to building features with AI
+4 step work flow to building features with AI ^198ecd
 - build the basic UI only with dummy data
 ```
 Create a meeting detail screen in SwiftUl with hardcoded transcript data. Include a header with the meeting title, date, and duration. Below that, show the transcript with different speakers highlighted in different colors.

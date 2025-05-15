@@ -1,6 +1,10 @@
 ---
-modified: 2025-04-30T13:55:15-04:00
+modified: 2025-05-15T06:48:02-04:00
 ---
+up::  [[My Tools]]
+tags:: 
+related: 
+
 - set up task master ai to help you prompt cursor to getting the task correct
 [Taskmaster AI - The PM for your AI agent](https://www.task-master.dev/)[How I reduced 90% errors for my Cursor (+ any other AI IDE) - YouTube](https://www.youtube.com/watch?v=1L509JK8p1I)
 
@@ -24,6 +28,8 @@ do image to code
 then code to figma, and then edit easily
 then figma back to code
 
-
+**ai coding process**
+- [[How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice) - YouTube]]
+	
 **library of mcp servers**
 [MCP servers | Glama](https://glama.ai/mcp/servers)
