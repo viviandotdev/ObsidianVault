@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02 18:14
-modified: 2025-05-16T18:30:11-04:00
+modified: 2025-05-16T19:04:26-04:00
 alias: 
 ---
 up::  
@@ -19,7 +19,7 @@ show app project and components you build along the way?
 [codehagen](https://x.com/codehagen)
 [in_dev7](https://x.com/intent/follow?screen_name=ln_dev7)
 
-
+**create tutorais like these**
 [swift-ui tutorials](https://x.com/sucodeee)
 
 ### Links to this page
