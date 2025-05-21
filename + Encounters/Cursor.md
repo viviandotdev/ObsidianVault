@@ -1,5 +1,5 @@
 ---
-modified: 2025-05-15T06:52:22-04:00
+modified: 2025-05-21T07:22:47-04:00
 ---
 up::  [[My Tools]]
 tags:: 
@@ -30,6 +30,7 @@ create prd for your project (project requirements documents)
 4. Then figma back to code
 
 **AI Coding Process** ![[How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice) - YouTube#4 step work flow to building features with AI]]
-	
+[[Claude UI Prompts]]
+
 **library of mcp servers**
 [MCP servers | Glama](https://glama.ai/mcp/servers)
