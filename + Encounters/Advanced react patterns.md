@@ -1,7 +1,9 @@
 ---
-modified: 2025-06-06T09:47:20-04:00
+modified: 2025-06-06T09:52:58-04:00
 ---
 
+1. Clone the starter
+2. 
 
 ```
 run dev
