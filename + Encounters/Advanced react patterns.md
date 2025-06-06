@@ -7,7 +7,7 @@ modified: 2025-06-06T10:31:06-04:00
 
 ```
 
-**Install the depend**
+**Install the dependencies**
 ```
 pnpm install
 ```
