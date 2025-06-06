@@ -1,10 +1,31 @@
 ---
-modified: 2025-06-06T09:52:58-04:00
+modified: 2025-06-06T10:31:06-04:00
 ---
 
-1. Clone the starter
-2. 
+**Clone the app**
+```
 
 ```
-run dev
+
+**Install the depend**
 ```
+pnpm install
+```
+
+**Initialize the databasee**
+```
+pnpm drizzle:generate
+```
+
+```
+pnpm drizzle:migrate
+```
+
+```
+pnpm drizzle:seed
+```
+
+**Errors**
+[Error: Could not locate the bindings file. · Issue #146 · WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3/issues/146)
+
+
