@@ -1,11 +1,8 @@
 ---
-modified: 2025-06-06T10:31:06-04:00
+modified: 2025-06-06T10:34:27-04:00
 ---
 
-**Clone the app**
-```
-
-```
+### Getting Started
 
 **Install the dependencies**
 ```
@@ -13,6 +10,10 @@ pnpm install
 ```
 
 **Initialize the databasee**
+```
+cd server
+```
+
 ```
 pnpm drizzle:generate
 ```
@@ -28,4 +29,12 @@ pnpm drizzle:seed
 **Errors**
 [Error: Could not locate the bindings file. · Issue #146 · WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3/issues/146)
 
+```
+cd server
+pnpm run dev
+```
 
+```
+cd client
+pnpm run dev
+```
