@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-02T09:46:09-04:00
+modified: 2025-06-02T18:06:02-04:00
 ---
 
 **Create empty expo app**
@@ -35,4 +35,20 @@ eas build:configure
 
 ```
 eas build --platform ios --profile development
+```
+
+
+
+
+**Add react-native-reusables to your app**
+[React Native Reusables | rnr docs](https://rnr-docs.vercel.app/getting-started/introduction/)
+**run this init on your repo clean, update the code and styles to work**
+**fix the package.json and fix the imports**
+```
+npx @react-native-reusables/cli@latest init
+```
+
+**use this command to update and add new components**
+```
+npx @react-native-reusables/cli@latest add
 ```
