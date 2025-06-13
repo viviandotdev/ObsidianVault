@@ -9,9 +9,8 @@ created: January 11th 2024
 status: 🟨
 type: article
 like: false
+modified: 2025-06-13T08:22:48-04:00
 ---
-
-
 ### Productivity
 
 I think I am at least somewhat more productive than average, and people sometimes ask me for productivity tips.  So I decided to just write them all down in one place.   Compound growth gets...

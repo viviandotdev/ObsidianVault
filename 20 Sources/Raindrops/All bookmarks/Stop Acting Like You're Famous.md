@@ -5,16 +5,11 @@ raindrop_highlights:
   662cf0d57997b36d8b488621: 34a251001297ed3808ff1139e36b21b5
 url: https://ajkprojects.com/stopactinglikeyourefamous?utm_source=tldrnewsletter
 created: April 27th 2024
-status: 🟥
-tags:
 type: article
-like: true
+modified: 2025-06-13T08:22:08-04:00
 ---
 
-
-### Stop Acting Like You&#39;re Famous
-
-
+### Stop Acting Like You're Famous
 
 #### Highlights
 

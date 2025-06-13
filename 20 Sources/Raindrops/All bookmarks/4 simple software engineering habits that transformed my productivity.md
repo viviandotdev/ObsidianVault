@@ -4,10 +4,7 @@ raindrop_highlights:
   65a12cffb3f0dbaec4b129a4: 4c1a6b64f7505e54857bddc749a95b5c
 url: https://read.engineerscodex.com/p/simple-software-engineering-habits
 created: January 11th 2024
-status: 🟥
-tags:
-type: article
-like: false
+modified: 2025-06-13T08:20:03-04:00
 ---
 
 

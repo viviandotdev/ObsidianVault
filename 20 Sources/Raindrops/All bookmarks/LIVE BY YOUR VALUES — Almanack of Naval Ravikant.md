@@ -9,6 +9,7 @@ created: November 12th 2024
 status: 🟥
 type: link
 like: false
+modified: 2025-06-13T08:23:13-04:00
 ---
 
 
@@ -28,4 +29,4 @@ What are your core values?    I’ve never fully enumerated them, but a few exam
 
 > [!quote]+ Updated on Tue Nov 12 2024 14:13:18 GMT-0500
 >
-> . Generally, I find if people are fighting or quarreling about something, it’s because their values don’t line up. If their values lined up, the little things wouldn’t matter. [4]
+> Generally, I find if people are fighting or quarreling about something, it’s because their values don’t line up. If their values lined up, the little things wouldn’t matter. [4]

@@ -7,12 +7,10 @@ created: December 21st 2024
 status: 🟥
 type: video
 like: false
-modified: 2025-02-22T07:35:48-05:00
+modified: 2025-06-13T08:22:33-04:00
 ---
 
-
 ### The Agricultural Revolution Has Been a Disaster for the Human Race
-
 
 #### Highlights
 
