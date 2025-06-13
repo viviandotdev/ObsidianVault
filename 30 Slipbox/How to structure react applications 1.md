@@ -1,6 +1,6 @@
 ---
 created: 2023-10-30 19:26
-modified: 2025-06-13T07:33:32-04:00
+modified: 2025-06-13T08:38:40-04:00
 alias: 
 Category: react
 status: idea
@@ -60,7 +60,6 @@ src/modules/dashboard
 ### Resources
 
 [React Architecture: How to Structure and Organize a React Application | Tania Rascia](https://www.taniarascia.com/react-architecture-directory-structure/)
-
 
 [Notion Link](https://www.notion.so/architecture-create-application-modules-60dfdd9315b9431abceb05b028182099?pvs=4)
 [https://github1s.com/xXValhallaCoderXx/tao-react-app-structure/blob/HEAD/src/pages/products/list/slice/dux.js](https://github1s.com/xXValhallaCoderXx/tao-react-app-structure/blob/HEAD/src/pages/products/list/slice/dux.js)
