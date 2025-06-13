@@ -6,7 +6,6 @@ tags:
 [[Blender MOC]]
 # Blender Learning Resources & Plan
 
-
 ## Inspiration
 
 - [6 Mistakes I'd Avoid (if I were to learn Blender all over again)!](https://www.youtube.com/watch?v=l_N53XCqsxk&list=WL&index=16)

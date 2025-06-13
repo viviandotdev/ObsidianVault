@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-13T07:20:17-04:00
+modified: 2025-06-13T07:47:54-04:00
 alias: 
 ---
 up::  [[+ Library]]
@@ -19,7 +19,15 @@ related:
 ### Drawing Fundamentals
 
 **Structure Logic**
-[[Form MOC]]
+**Drawing Form**
+- 3d forms, shapes and volumes
+
+**Resources**
+	How to Draw Scott Roberson
+	Cognitive Drawing
+	Drawing Form and Pose
+	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
+**Perspective**
 [[Perspective MOC]]
 [[Anatomy MOC]]
 

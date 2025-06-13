@@ -1,10 +1,9 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-alias:
+modified: 2025-06-13T07:48:19-04:00
+alias: 
 ---
 up::
-tags:: #system-design
 related:[[Load Balancer]]
 
 ## Database Sharding

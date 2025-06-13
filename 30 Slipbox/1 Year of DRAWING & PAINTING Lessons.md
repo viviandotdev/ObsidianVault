@@ -2,8 +2,6 @@
 modified: 2025-05-13T08:03:29-04:00
 tags:: #drawing
 ---
-
-
 # 1 Year of DRAWING & PAINTING Lessons
 
 [https://www.youtube.com/watch?v=LqV0WZPVehw](https://www.youtube.com/watch?v=LqV0WZPVehw)

@@ -1,10 +1,9 @@
 ---
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-alias:
+alias: 
+modified: 2025-06-13T07:48:31-04:00
 ---
 up::
-tags:: #system-design #system-design/availability #system-design/reliability
+tags:: #system-design
 related:
 
 ## Load Balancer

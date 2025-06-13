@@ -1,10 +1,10 @@
 ---
 created: 2023-08-05 08:18
-modified: Saturday 5th August 2023 08:18:35
-alias:
+modified: 2025-06-13T07:48:50-04:00
+alias: 
 ---
 up::
-tags:: #memory #learning
+tags:: [[learning]]
 related:
 ### Chunking
 

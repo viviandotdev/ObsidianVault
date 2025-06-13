@@ -1,6 +1,6 @@
 ---
 created: 2024-04-14 18:15
-modified: 2025-01-18T14:57:18-05:00
+modified: 2025-06-13T07:48:00-04:00
 alias: 
 ---
 up::  [[drawing]]
@@ -18,7 +18,6 @@ links::
 
 **Perspective Grids**
 - Brewer method
-- 
 
 
 **Ellipses and Rotations**

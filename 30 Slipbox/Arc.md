@@ -1,11 +1,9 @@
 ---
-created: 2023-09-01 17:01 
-modified: Friday 1st September 2023 17:01:22
+created: 2023-09-01 17:01
+modified: 2025-06-13T07:48:59-04:00
 alias: 
 ---
 up::  [[My Tools]]
-tags:: 
-related: 
 
 ## Arc
 

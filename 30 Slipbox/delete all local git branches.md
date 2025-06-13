@@ -1,10 +1,9 @@
 ---
 created: 2023-10-30 20:44
-modified: Monday 30th October 2023 20:44:53
-alias:
+modified: 2025-06-13T07:48:06-04:00
+alias: 
 ---
 up::
-tags:: #git
 related:: [[git]]
 ## delete all local git branches
 

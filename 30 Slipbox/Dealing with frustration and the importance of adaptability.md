@@ -1,10 +1,10 @@
 ---
 created: 2023-09-23 12:36
-modified: Saturday 23rd September 2023 13:15:56
-alias:
+modified: 2025-06-13T07:48:14-04:00
+alias: 
 ---
 up::
-tags:: #emotions #happiness #stoicism
+tags:: [[happiness]]
 
 ## Dealing with frustration and the importance of adaptability
 
