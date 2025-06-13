@@ -1,11 +1,8 @@
 ---
-created: 2023-09-02 15:45 
-modified: Saturday 2nd September 2023 15:45:26
+created: 2023-09-02 15:45
+modified: 2025-06-13T07:49:35-04:00
 alias: 
 ---
-up:: [[Meta PKM]]
-tags:: 
-related:  [[Raindrop]]
 sources: [Feynman's Darlings -- Or: How Anyone Can Become Brilliant • Zettelkasten Method](https://zettelkasten.de/posts/feynmans-darlings-become-brilliant/)
 
 ### 12 Favorite problems

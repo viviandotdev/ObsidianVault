@@ -1,13 +1,13 @@
 ---
 created: 2024-02-18 12:42
-modified: Sunday 18th February 2024 12:42:58
-alias:
+modified: 2025-06-13T07:51:51-04:00
+alias: 
 ---
 up::
 tags:: #health #systems  #fitness
 links:: [The "3 by 5" Protocol: How & Why to Build Your Strength | Dr. Andrew Huberman - YouTube](https://www.youtube.com/watch?v=FcxIJcltUg0)
 
-## The "3 by 5" Protocol -How & Why to Build Your Strength
+## The 3 by 5 Protocol -How & Why to Build Your Strength
 
 Simple System for Weight Training
 

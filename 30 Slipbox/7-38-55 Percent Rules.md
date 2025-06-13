@@ -1,10 +1,10 @@
 ---
 created: 2023-12-11 17:19
-modified: Monday 11th December 2023 17:19:44
-alias:
+modified: 2025-06-13T07:49:29-04:00
+alias: 
 ---
 up:: [[Never Split the Difference by Chris Voss|Never Split the Difference by Chris Voss]]
-tags:: #negotiation #psychology
+tags:: [[negotiation]]
 
 ## 7-38-55 Percent Rule
 
