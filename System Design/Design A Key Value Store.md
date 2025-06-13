@@ -3,7 +3,7 @@ created: 2023-08-25 19:26
 modified: Friday 25th August 2023 19:26:36
 alias: 
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: 
 related: 
 

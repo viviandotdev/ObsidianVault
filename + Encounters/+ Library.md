@@ -14,7 +14,7 @@ Navigate your library of maps with a classification system made specifically for
 	- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[Meta PKM]]
 	- [[Commonplace Book]] [[Concepts MOC]]
 - ### *100 - Personal Growth* 🌱
-	- [[Habits MOC]]  
+	- [[habits]]  
 	- [[People MOC]]
 	- [[Relationships and Communication MOC]]
 	- [[Efforts]]
@@ -30,14 +30,14 @@ Navigate your library of maps with a classification system made specifically for
 	- [[Government MOC]]
 	- [[Finance MOC]]
 - ### *400 - Language & Linguistics* 🗣
-	- [[Language MOC]] 
+	- [[language]] 
 	- [[Words MOC]]
 	
 - ### *500 - Tech & Applied Sciences* 🤖
 	- [[AI MOC]] 
 	- [[Fullstack Development MOC]]
 	- [[Frontend Development MOC]]
-	- [[System Design MOC]]
+	- [[system-design]]
 	
 - ### *600 - Natural Sciences (animals, biology)* 🧪
 	- [[Health MOC]]

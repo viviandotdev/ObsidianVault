@@ -3,7 +3,7 @@ created: 2024-03-07 08:44
 modified: Thursday 7th March 2024 08:44:23
 alias:
 ---
-up::  [[Chinese Language MOC]]
+up::  [[chinese]]
 tags:: #language #chinese
 links::
 ## Chinese Marilyn Monroe Method

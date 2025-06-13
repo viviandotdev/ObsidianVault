@@ -3,7 +3,7 @@ created: 2024-01-16 12:57
 modified: Tuesday 16th January 2024 12:57:12
 alias: 
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: 
 
 ## Design a News Feed System

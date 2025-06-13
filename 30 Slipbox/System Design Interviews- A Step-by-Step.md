@@ -5,7 +5,7 @@ alias:
 Status: idea
 Category: system-design
 ---
-up:: [[System Design MOC]]
+up:: [[system-design]]
 tags:: #system-design
 
 ### System Design Interviews: A Step-by-Step Guide

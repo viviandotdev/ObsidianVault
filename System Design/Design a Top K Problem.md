@@ -2,7 +2,7 @@
 modified: 2025-03-30T11:45:04-04:00
 ---
 
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: #system-design
 source::
 

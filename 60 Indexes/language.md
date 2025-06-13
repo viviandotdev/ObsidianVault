@@ -1,13 +1,12 @@
-up:: [[+ Library]]
-tags:: #map, #language
-
-# Language MOC
 ---
-- [[English Language MOC]]
-- [[Chinese Language MOC]]
-- [[French Language MOC]]
-- [[Japanese Language MOC]]
-- [[Korean Language MOC]]
+modified: 2025-06-13T07:05:35-04:00
+---
+up:: [[+ Library]]
+tags:: 
+
+# language
+
+- [[chinese]]
 
 
 ### Links to this page

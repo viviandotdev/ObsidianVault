@@ -3,7 +3,7 @@ created: 2023-11-16 15:25
 modified: Thursday 16th November 2023 15:25:39
 alias:
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: #system-design
 
 ## Design a Rate Limiter

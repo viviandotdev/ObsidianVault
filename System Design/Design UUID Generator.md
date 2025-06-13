@@ -3,7 +3,7 @@ created: 2023-12-13 06:57
 modified: Wednesday 13th December 2023 06:57:26
 alias:
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: #system-design
 
 ## Design Unique ID Generator

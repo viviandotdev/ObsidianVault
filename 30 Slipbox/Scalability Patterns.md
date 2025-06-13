@@ -6,7 +6,7 @@ Status: idea
 Category: system-design
 tags: "#system-design"
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 
 
 ## Design Patterns that Improve Scalability

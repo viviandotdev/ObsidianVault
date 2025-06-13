@@ -3,7 +3,7 @@ created: 2025-05-13 07:55
 modified: 2025-05-15T07:12:45-04:00
 alias: 
 ---
-up::  [[Chinese Language MOC]]
+up::  [[chinese]]
 type:: #note/atomic🌳 
 links:: #chinese  
 ## Immersion Content

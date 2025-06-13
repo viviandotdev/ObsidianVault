@@ -6,7 +6,7 @@ Status: hold
 Category: system-design
 tags: "#system-design"
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 
 links::
 ## Design a Payment System

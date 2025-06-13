@@ -6,7 +6,7 @@ Category: system-design
 Status: hold
 tags: "#system-design"
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 
 ## Consistency Patterns
 

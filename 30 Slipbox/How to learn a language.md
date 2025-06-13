@@ -3,7 +3,7 @@ created: 2024-04-13 11:19
 modified: 2025-05-15T07:11:29-04:00
 alias: 
 ---
-up::  [[Language MOC]]
+up::  [[language]]
 tags:: #language
 links::
 ## How to learn a language

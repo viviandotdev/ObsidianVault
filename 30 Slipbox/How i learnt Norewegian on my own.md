@@ -3,7 +3,7 @@ created: 2023-11-04 14:48
 modified: Saturday 4th November 2023 14:48:27
 alias:
 ---
-up::  [[Language MOC]]
+up::  [[language]]
 tags:: #language
 source::  [How I learnt Norwegian on my own - YouTube](https://www.youtube.com/watch?v=uWQYqcFX8JE)
 ## How I learnt Norewegian on my own

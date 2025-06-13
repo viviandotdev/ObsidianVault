@@ -3,7 +3,7 @@ created: 2023-12-07 17:05
 modified: Thursday 7th December 2023 17:05:55
 alias:
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: #hashing #system-design
 related:: [[Consistent Hashing]]
 ## Modular Hashing

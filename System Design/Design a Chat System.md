@@ -3,7 +3,7 @@ created: 2024-02-29 16:26
 modified: Thursday 29th February 2024 16:26:14
 alias:
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: #system-design
 links::
 ## Design a Chat System

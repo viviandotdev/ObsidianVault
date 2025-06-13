@@ -3,7 +3,7 @@ created: 2023-07-21 09:57
 modified: Sunday 23rd July 2023 17:04:50
 alias:
 ---
-up::  [[System Design MOC]]
+up::  [[system-design]]
 tags:: #system-design
 source:: [System Design Interview - Distributed Cache - YouTube](https://www.youtube.com/watch?v=iuqZvajTOyA)
 

@@ -6,7 +6,7 @@ tags: "#system-design"
 status: completed
 session: ""
 ---
-up:: [[System Design MOC]]
+up:: [[system-design]]
 type:: #output/article
 
 ## Design URL Shortener

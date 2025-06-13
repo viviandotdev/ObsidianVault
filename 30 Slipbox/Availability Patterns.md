@@ -5,7 +5,7 @@ alias:
 Category: system-design
 Status: idea
 ---
-up::[[System Design MOC]]
+up::[[system-design]]
 tags:: #system-design #availability
 
 What are system design patterns that improve **availability** and **fault tolerance**?
