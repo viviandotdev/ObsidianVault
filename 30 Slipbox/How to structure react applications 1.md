@@ -5,7 +5,7 @@ alias:
 Category: react
 status: idea
 ---
-up::  [[Frontend Development MOC]]
+up::  [[frontend development]]
 tags:: [[react]]
 ## How to structure react applications
 

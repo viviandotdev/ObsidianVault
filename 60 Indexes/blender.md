@@ -1,10 +1,9 @@
 ---
 created: 2023-09-01 21:26
-modified: Friday 1st September 2023 21:26:36
-alias:
+modified: 2025-06-13T08:32:43-04:00
+alias: 
 ---
 up:: [[My Tools]]
-tags:: #blender
 
 ## Blender MOC
 

@@ -7,7 +7,7 @@ alias:
 
 [[Open Source Projects]]
 
-[[Frontend Development MOC]]
+[[frontend development]]
 
 [[Backend Development MOC]]
 

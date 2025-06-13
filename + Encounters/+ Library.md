@@ -35,8 +35,8 @@ Navigate your library of maps with a classification system made specifically for
 	
 - ### *500 - Tech & Applied Sciences* 🤖
 	- [[AI MOC]] 
-	- [[Fullstack Development MOC]]
-	- [[Frontend Development MOC]]
+	- [[fullstack development]]
+	- [[frontend development]]
 	- [[system-design]]
 	
 - ### *600 - Natural Sciences (animals, biology)* 🧪

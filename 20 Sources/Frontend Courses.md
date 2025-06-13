@@ -3,7 +3,7 @@ created: 2023-09-03 16:07
 modified: Sunday 3rd September 2023 16:11:00
 aliases:
 ---
-up::  [[Frontend Development MOC]]
+up::  [[frontend development]]
 tags:: #frontend
 
 ## Frontend Courses

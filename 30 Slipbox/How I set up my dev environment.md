@@ -7,7 +7,7 @@ category:
 tags: "#development"
 ---
 up::  [[My Tools]]
-tags:: [[dev-environment]]
+tags:: [[dev environment]]
 ## How I set up my dev environment
 
 **Table of Contents**

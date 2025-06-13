@@ -3,7 +3,7 @@ created: 2023-08-11 21:02
 modified: Friday 11th August 2023 21:03:30
 alias:
 ---
-up:: [[Frontend Development MOC]]
+up:: [[frontend development]]
 tags::  #programming #threejs
 medium::  #source/course
 status:: hold

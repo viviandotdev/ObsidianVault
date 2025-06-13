@@ -3,7 +3,7 @@ created: 2024-07-16 06:42
 modified: Tuesday 16th July 2024 06:42:43
 alias: 
 ---
-up::  [[Fullstack Development MOC]]
+up::  [[fullstack development]]
 type:: #note/atomic🌳 
 links::
 ## Open Source Projects

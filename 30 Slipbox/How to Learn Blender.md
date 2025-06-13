@@ -3,7 +3,7 @@ created: 2024-01-11 07:35
 modified: Thursday 11th January 2024 07:35:23
 alias:
 ---
-up::  [[Blender MOC]]
+up::  [[blender]]
 tags:: #blender
 source:: [100 Days of 3D Design. How I taught myself 3D modeling in 100… | by Tiantian Xu | The 100 Day Project | Medium](https://medium.com/the-100-day-project/100-days-of-3d-4b28a514f3ac)
 ## Learning Blender

@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-13T07:47:54-04:00
+modified: 2025-06-13T08:32:03-04:00
 alias: 
 ---
 up::  [[+ Library]]
@@ -10,7 +10,7 @@ related:
 [[Drawing Advice]]
 [[Anki for Artists]]
 
-**Exercies**
+**Drawing Exercises**
 [[How to build a visual library]]
 ### Current Courses
 [[Dynamic Sketching]]
@@ -29,7 +29,6 @@ related:
 	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
 **Perspective**
 [[Perspective MOC]]
-[[Anatomy MOC]]
 
 **Aesthetic**
 [[Value]]

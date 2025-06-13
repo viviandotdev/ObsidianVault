@@ -1,5 +1,5 @@
 
-up::  [[Blender MOC]]
+up::  [[blender]]
 tags:: #blender
 related:
 
