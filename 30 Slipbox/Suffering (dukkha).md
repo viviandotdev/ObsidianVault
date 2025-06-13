@@ -3,7 +3,7 @@ created: 2023-10-19 09:23
 modified: Thursday 19th October 2023 09:23:45
 alias:
 ---
-up::  [[Buddhism MOC]]
+up::  [[buddhism]]
 tags:: #buddhism
 
 ## Suffering (dukkha)

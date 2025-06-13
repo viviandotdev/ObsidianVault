@@ -3,7 +3,7 @@ created: 2023-10-19 09:20
 modified: Thursday 19th October 2023 09:20:13
 alias:
 ---
-up::  [[Buddhism MOC]]
+up::  [[buddhism]]
 tags:: #buddhism
 
 ## Not-self (anatta)

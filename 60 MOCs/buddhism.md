@@ -1,12 +1,12 @@
 ---
 created: 2023-10-19 09:07
-modified: Thursday 19th October 2023 09:07:33
-alias:
+modified: 2025-06-13T07:03:01-04:00
+alias: 
 ---
 up::  [[+ Library]]
-tags:: #buddhism
+tags::
 
-## Buddhism MOC
+## buddhism
 
 ### The 3 Marks of Existence
 

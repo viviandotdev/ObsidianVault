@@ -3,7 +3,7 @@ created: 2025-01-19 15:02
 modified: 2025-02-22T08:22:54-05:00
 alias: 
 ---
-up::  [[Drawing MOC]]
+up::  [[drawing]]
 type:: #note/atomic🌳 
 
 ## How to build a visual library

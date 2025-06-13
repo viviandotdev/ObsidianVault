@@ -3,7 +3,7 @@ created: 2024-06-22 17:01
 modified: Saturday 22nd June 2024 17:01:46
 alias: 
 ---
-up::   [[Chess MOC]]
+up::   [[chess]]
 type::
 links::
 ## Chess Openings

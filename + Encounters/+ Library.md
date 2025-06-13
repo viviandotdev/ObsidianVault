@@ -23,7 +23,7 @@ Navigate your library of maps with a classification system made specifically for
 	- [[Philosophy MOC (kit)]] 
 		- [[Stoicism MOC]] 
 		- [[Confucianism MOC]] 
-		- [[Buddhism MOC]]
+		- [[buddhism]]
 	- [[Psychology MOC (kit)]]
 - ### *300 - Social Sciences (society,  law,  gov)* 🏛
 	- [[Economics MOC]]
@@ -43,8 +43,8 @@ Navigate your library of maps with a classification system made specifically for
 	- [[Health MOC]]
 	
 - ### *700 - Art & Recreation* 🎨
-	- [[Drawing MOC]]
+	- [[drawing]]
 	
 - ### *800 - Literature* 🖊️
-	- [[Writing MOC]]
+	- [[writing]]
 	- [[Bookshelf]]

@@ -1,14 +1,16 @@
 ---
 created: 2024-04-27 16:12
-modified: 2025-02-19T06:47:44-05:00
+modified: 2025-06-13T07:01:26-04:00
 alias: 
 ---
 up::  [[My Tools]]
-type:: #map/view 
-related:: [[How I set up my dev environment]]
-# Tech Stack
+type::
+related:: 
+# Dev Environment
 
+[[How I set up my dev environment]]
 
+**Tools**
 [GitHub - lvwzhen/tools: Tools Online](https://github.com/lvwzhen/tools?tab=readme-ov-file#readme)
 
 [Paste - Toolfolio.io](https://toolfolio.io/blog/endless-clipboard-to-keep-search-and-organize-everything-copied-on-mac-and-iphone)

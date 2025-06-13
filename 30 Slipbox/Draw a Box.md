@@ -1,4 +1,4 @@
-up:: [[Drawing MOC]]
+up:: [[drawing]]
 status:: in-progress
 medium:: #source/course 
 tags: #drawing

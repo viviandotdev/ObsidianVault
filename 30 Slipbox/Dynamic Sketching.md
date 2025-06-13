@@ -3,7 +3,7 @@ created: 2024-12-10 13:06
 modified: 2024-12-22T18:45:32-05:00
 alias: 
 ---
-up::  [[Drawing MOC]]
+up::  [[drawing]]
 type:: #note/atomic🌳 
 links::
 ## Dynamic Sketching

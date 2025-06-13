@@ -3,7 +3,7 @@ created: 2024-01-12 10:42
 modified: Friday 12th January 2024 10:42:58
 alias:
 ---
-up::  [[Writing MOC]]
+up::  [[writing]]
 tags:: #writing
 sources:: [How To Write - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-write)
 

@@ -4,7 +4,7 @@ modified: 2025-01-18T12:44:20-05:00
 alias: 
 ---
 up::  [[Making Food and Drinks in Blender]]
-tags:: [[Drawing MOC]]
+tags:: [[drawing]]
 links::
 ## Lighting
 

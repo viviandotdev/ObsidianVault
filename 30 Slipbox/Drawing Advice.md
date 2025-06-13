@@ -3,7 +3,7 @@ created: 2023-12-16 17:49
 modified: Saturday 16th December 2023 17:49:53
 alias: 
 ---
-up::  [[Drawing MOC]]
+up::  [[drawing]]
 tags:: 
 
 ## Drawing Advice

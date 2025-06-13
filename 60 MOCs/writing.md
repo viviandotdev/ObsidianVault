@@ -1,12 +1,12 @@
 ---
 created: 2024-01-12 10:41
-modified: Friday 12th January 2024 10:41:49
-alias:
+modified: 2025-06-13T07:00:59-04:00
+alias: 
 ---
 up::  [[+ Library]]
-tags:: #writing
+tags::
 
-## Writing MOC
+## Writing
 
 [[Writing Tips]]
 

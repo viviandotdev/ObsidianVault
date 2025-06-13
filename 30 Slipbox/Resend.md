@@ -3,7 +3,7 @@ created: 2024-06-07 11:42
 modified: Friday 7th June 2024 11:42:27
 alias: 
 ---
-up::  [[Tech Stack]]
+up::  [[dev-environment]]
 type:: 
 links:: resend.com
 ## Resend

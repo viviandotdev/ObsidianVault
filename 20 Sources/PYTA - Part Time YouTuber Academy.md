@@ -4,7 +4,7 @@ modified: Thursday 18th April 2024 14:25:43
 aliases:
 category: writing
 ---
-up::  [[Writing MOC]]
+up::  [[writing]]
 status:: completed
 category:: completed
 tags:: #writing

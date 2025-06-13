@@ -3,7 +3,7 @@ created: 2024-05-26 11:13
 modified: 2025-06-13T06:50:12-04:00
 alias: 
 ---
-up::  [[Tech Stack]]
+up::  [[dev-environment]]
 type::
 links:: [[[React](https://react.dev/)]]
 ## React

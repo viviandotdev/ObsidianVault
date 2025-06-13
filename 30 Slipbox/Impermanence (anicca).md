@@ -4,7 +4,7 @@ modified: Thursday 19th October 2023 09:23:18
 aliases:
   - impermanence
 ---
-up::  [[Buddhism MOC]]
+up::  [[buddhism]]
 tags:: #buddhism
 
 ## Impermanence (anicca)

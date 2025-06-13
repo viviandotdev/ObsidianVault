@@ -3,7 +3,7 @@ created: 2024-04-15 20:32
 modified: Monday 15th April 2024 20:32:07
 alias: 
 ---
-up::  [[Writing MOC]]
+up::  [[writing]]
 tags:: 
 links::
 

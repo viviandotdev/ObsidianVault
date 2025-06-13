@@ -3,7 +3,7 @@ created: 2024-04-18 14:49
 modified: Thursday 18th April 2024 14:49:48
 alias:
 ---
-up::  [[Writing MOC]]
+up::  [[writing]]
 status:: completed
 tags:: #writing
 medium:: #source/course

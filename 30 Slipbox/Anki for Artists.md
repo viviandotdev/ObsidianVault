@@ -3,7 +3,7 @@ created: 2024-04-14 15:00
 modified: Sunday 14th April 2024 15:00:11
 alias: 
 ---
-up::  [[Drawing MOC]]
+up::  [[drawing]]
 tags:: 
 links::
 ## Anki for Artists

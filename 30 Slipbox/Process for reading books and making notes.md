@@ -3,7 +3,7 @@ created: 2024-02-26 20:33
 modified: Monday 26th February 2024 20:33:29
 alias: 
 ---
-up::  [[Writing MOC]]
+up::  [[writing]]
 tags:: 
 links::[A Process for Reading Books and Making Notes in Obsidian - MarkMcElroy.com](https://markmcelroy.com/a-process-for-reading-books-and-making-notes-in-obsidian/)
 ## Process for reading books and making notes

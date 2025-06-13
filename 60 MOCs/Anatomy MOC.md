@@ -3,7 +3,7 @@ created: 2023-11-28 07:47
 modified: Tuesday 28th November 2023 07:47:36
 alias: 
 ---
-up::  [[Drawing MOC]]
+up::  [[drawing]]
 tags:: #map 
 
 ## Anatomy MOC

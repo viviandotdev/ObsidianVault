@@ -3,7 +3,7 @@ created: 2024-04-14 18:15
 modified: 2025-01-18T14:57:18-05:00
 alias: 
 ---
-up::  [[Drawing MOC]]
+up::  [[drawing]]
 tags:: 
 links::
 ## Perspective
