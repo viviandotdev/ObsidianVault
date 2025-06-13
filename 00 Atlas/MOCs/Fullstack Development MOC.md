@@ -1,16 +1,12 @@
 ---
 created: 2024-05-19 18:54
-modified: 2025-05-11T08:17:10-04:00
+modified: 2025-06-13T06:28:51-04:00
 alias: 
 ---
-up::  [[+ Library]]
-type:: #map/view 
-links::
 ## Fullstack Development MOC
 
+
 [[Open Source Projects]]
-
-
 
 [[Frontend Development MOC]]
 
@@ -20,7 +16,7 @@ links::
 
 **SASS Starter kits**
 [GitHub - Saas-Starter-Kit/Saas-Kit-prisma: 🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)
-[Fetching Title#46ke](https://github.com/makeplane/plane/tree/preview)
+
 **templates ui kits**
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/)
 
@@ -41,7 +37,7 @@ links::
 - [Plane](https://github.com/makeplane/plane) - open source Jira alternative
 - [Papermark](https://github.com/mfts/papermark) - open source Dropbox DocSend 
 - [Civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [GitHub - heyxyz/hey: Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿](https://github.com/heyxyz/hey)
+- [GitHub - heyxyz/hey: Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿](https://github.com/heyxyz/hey) **graphql-react-apollo**
 
 **Resources **
 [Toools.design – An archive of 1,500+ Design Resources](https://www.toools.design/)

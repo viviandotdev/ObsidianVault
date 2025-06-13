@@ -1,3 +1,6 @@
+---
+modified: 2025-06-13T06:30:22-04:00
+---
 up:: [[+ Home]]
 tags:: #map
 
@@ -7,45 +10,41 @@ Navigate your library of maps with a classification system made specifically for
 
 ---
 
-- ## *000 - Personal Knowledge Management* 📂 
+- ### *000 - Personal Knowledge Management* 📂 
 	- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[Meta PKM]]
-	- [[Commonplace Book]] | [[Knowledge and memory MOC]] | [[Concepts MOC]] |[[Note-Taking MOC]]
-- ## *100 - Personal Growth* 🌱
+	- [[Commonplace Book]] [[Concepts MOC]]
+- ### *100 - Personal Growth* 🌱
 	- [[Habits MOC]]  
 	- [[People MOC]]
 	- [[Relationships and Communication MOC]]
 	- [[Efforts]]
 	- [[Life Map]]
-- ## *200 - Philosophy, Psychology; Spirituality, Religion  📜*
+- ### *200 - Philosophy, Psychology; Spirituality, Religion  📜*
 	- [[Philosophy MOC (kit)]] 
 		- [[Stoicism MOC]] 
 		- [[Confucianism MOC]] 
 		- [[Buddhism MOC]]
 	- [[Psychology MOC (kit)]]
-- ## *300 - Social Sciences (society,  law,  gov)* 🏛
+- ### *300 - Social Sciences (society,  law,  gov)* 🏛
 	- [[Economics MOC]]
 	- [[Government MOC]]
 	- [[Finance MOC]]
-- ## *400 - Language & Linguistics* 🗣
+- ### *400 - Language & Linguistics* 🗣
 	- [[Language MOC]] 
 	- [[Words MOC]]
 	
-- ## *500 - Tech & Applied Sciences* 🤖
+- ### *500 - Tech & Applied Sciences* 🤖
 	- [[AI MOC]] 
 	- [[Fullstack Development MOC]]
 	- [[Frontend Development MOC]]
 	- [[System Design MOC]]
 	
-- ## *600 - Natural Sciences (animals, biology)* 🧪
-	- [[The Brain MOC]]
+- ### *600 - Natural Sciences (animals, biology)* 🧪
 	- [[Health MOC]]
-		- [[Posture MOC]] | [[Breathing Exercises MOC]]
 	
-- ## *700 - Art & Recreation* 🎨
+- ### *700 - Art & Recreation* 🎨
 	- [[Drawing MOC]]
-	- [[Architecture MOC]]
-	- [[Design MOC]]
 	
-- ## *800 - Literature* 🖊️
+- ### *800 - Literature* 🖊️
 	- [[Writing MOC]]
 	- [[Bookshelf]]
