@@ -1,9 +1,9 @@
 ---
-created: 2024-06-22 12:22 
-modified: Saturday 22nd June 2024 12:22:32
+created: 2024-06-22 12:22
+modified: 2025-06-13T06:27:16-04:00
 alias: 
 ---
-**up**::  
+**up**::  [[Arduino Tutorial]]
 links::
 ## 30 Understanding and Using Servos in Projects
 

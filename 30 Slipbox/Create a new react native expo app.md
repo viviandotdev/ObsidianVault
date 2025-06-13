@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-02T18:06:02-04:00
+modified: 2025-06-13T06:24:55-04:00
 ---
-
+#expo
 **Create empty expo app**
 [Create a project - Expo Documentation](https://docs.expo.dev/get-started/create-a-project/)
 

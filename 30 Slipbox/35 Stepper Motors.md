@@ -1,9 +1,9 @@
 ---
 created: 2024-06-20 07:12
-modified: Thursday 20th June 2024 07:12:07
-alias:
+modified: 2025-06-13T06:27:21-04:00
+alias: 
 ---
-up::
+up:: [[Arduino Tutorial]]
 type:: #note/atomic🌳
 links::
 ## 35 Stepper Motors

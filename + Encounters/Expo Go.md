@@ -1,8 +1,8 @@
 ---
-modified: 2025-06-02T07:41:06-04:00
+modified: 2025-06-13T06:25:11-04:00
 ---
 up:: [[React Native]]
-tags: #react-native 
+tags: #expo 
 
 How to create expo app
 ```

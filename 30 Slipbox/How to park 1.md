@@ -1,11 +1,12 @@
 ---
 created: 2025-05-15 08:20
-modified: 2025-05-15T08:32:18-04:00
+modified: 2025-06-13T06:24:30-04:00
 alias: 
 ---
 up::  
 type:: #note/how-to  
-links::
+tags:: #parking
+
 ## How to parallel park
 [How To: Easy Parallel Parking - YouTube](https://www.youtube.com/watch?v=pB_iFY2jIdI)
 [Parallel Parking | How to Parallel Park Perfectly (Step by Step) | Parking tips. - YouTube](https://www.youtube.com/watch?v=FjEmxM2PMv8)
@@ -19,7 +20,7 @@ links::
 
 
 **Method 3**
-	- back up until the right mirror  the left brake lights of the car next to you
+	- back up until the right mirror covers the left brake lights of the car next to you
 ![[IMG_2110.png]]
 - 
 ![[IMG_2111.png]]
