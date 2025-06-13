@@ -1,11 +1,9 @@
 ---
-created: 2024-06-30 20:03 
-modified: Sunday 30th June 2024 20:03:21
+created: 2024-06-30 20:03
+modified: 2025-06-13T07:23:49-04:00
 alias: 
 ---
 up::  [[My Tools]]
-type:: #note/atomic🌳 
-links::
 ## Zed
 
 [dotfiles/zed at main · damoonrashidi/dotfiles · GitHub](https://github.com/damoonrashidi/dotfiles/tree/main/zed)

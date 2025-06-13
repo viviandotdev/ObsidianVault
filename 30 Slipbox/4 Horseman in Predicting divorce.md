@@ -1,10 +1,10 @@
 ---
 created: 2023-12-11 08:19
-modified: Monday 11th December 2023 08:19:59
-alias:
+modified: 2025-06-13T07:22:03-04:00
+alias: 
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #relationships #love
+tags:: [[relationships]]
 
 **Criticism**
 	Complaining is healthy in a marriage but  criticism is not.

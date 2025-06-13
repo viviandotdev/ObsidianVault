@@ -1,13 +1,12 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-05-15T07:06:21-04:00
+modified: 2025-06-13T07:20:17-04:00
 alias: 
 ---
 up::  [[+ Library]]
-tags:: #drawing #art 
 related:
 
-## Drawing
+## drawing
 [[Drawing Advice]]
 [[Anki for Artists]]
 
@@ -23,7 +22,6 @@ related:
 [[Form MOC]]
 [[Perspective MOC]]
 [[Anatomy MOC]]
-[[Lighting MOC]]
 
 **Aesthetic**
 [[Value]]
@@ -43,7 +41,6 @@ The combindation of the above (technique, aesthetic and structure/logic) is crea
 
 
 
-
 **Exercises**
 [[Anki for Artists]]
 [[Cognitive Drawing]]
@@ -55,9 +52,6 @@ The combindation of the above (technique, aesthetic and structure/logic) is crea
 [강남 메타코드 미술학원 (@anjjaemi) • Instagram photos and videos](https://www.instagram.com/anjjaemi/)
 [Hamedelshal - حامد الشال (@hamed.elshal) • Instagram photos and videos](https://www.instagram.com/hamed.elshal/)
 [2014 — James Jean](http://www.jamesjean.com/sketch2014/gp63dft07txn3bbftampaw2pby9vwn)
-[Stephen Travers (@stephentraversart) • Instagram photos and videos](https://www.instagram.com/stephentraversart/?hl=en)
-[Oğuzhan Çengel (@mr__constantine) • Instagram photos and videos](https://www.instagram.com/mr__constantine/?hl=en)
-[Luke Adam Hawker (@lukeadamhawker) • Instagram photos and videos](https://www.instagram.com/lukeadamhawker)
 Peter Han
 Kim Jung Gi
 Miyazaki

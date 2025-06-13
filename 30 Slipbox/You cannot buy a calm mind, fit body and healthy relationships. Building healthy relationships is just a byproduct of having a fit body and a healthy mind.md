@@ -1,5 +1,8 @@
+---
+modified: 2025-06-13T07:24:01-04:00
+---
 up::  [[My Mind]]
-tags:: #happiness  #money 
+tags:: [[happiness]]
 related::
 ## You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind 
 
