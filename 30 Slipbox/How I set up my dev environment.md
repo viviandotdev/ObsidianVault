@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27 16:18
-modified: 2025-06-13T07:33:08-04:00
+modified: 2025-06-13T08:28:43-04:00
 aliases: 
 status: idea
 category: 
@@ -177,9 +177,9 @@ curl -fsSL https://get.pnpm.io/install.sh | sh -
 ### Vscode
 1. Install project manager
 	2. Select repo to read project files from
-	[[Switch Between Projects Like a Pro Quick Guide on VS Code’s Project Manager Extension]]
 **Resources**
-[[CodingGardenmac-setup This repo contains info on all the apps  tools  settings I use on my Mac]]
+[GitHub - CodingGarden/mac-setup: This repo contains info on all the apps / tools / settings I use on my Mac.](https://github.com/CodingGarden/mac-setup)
+
 
 **Linked References to this Note**
 These notes point directly to this note. But this note doesn't point back.
