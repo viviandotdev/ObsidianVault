@@ -1,11 +1,10 @@
 ---
 created: 2023-09-03 12:10
-modified: Sunday 3rd September 2023 12:10:50
-alias:
+modified: 2025-06-13T07:42:16-04:00
+alias: 
 ---
 up::  [[My Goals]]
-tags:: #goals
-related:
+tags: [[goals]]
 
 ## Goal Setting
 

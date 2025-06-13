@@ -1,11 +1,10 @@
 ---
-created: 2024-05-24 08:55 
-modified: Friday 24th May 2024 08:55:06
+created: 2024-05-24 08:55
+modified: 2025-06-13T07:40:56-04:00
 alias: 
 ---
 up::  
-type:: #note/atomic🌳 
-tags:: #relationships #personal-development 
+tags:: [[relationships]]
 links::
 ## Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control.
 

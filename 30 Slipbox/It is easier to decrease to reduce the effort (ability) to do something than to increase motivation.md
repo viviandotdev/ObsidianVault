@@ -1,10 +1,10 @@
 ---
 created: 2023-11-03 10:58
-modified: Friday 3rd November 2023 10:58:07
-alias:
+modified: 2025-06-13T07:40:39-04:00
+alias: 
 ---
 up::
-tags:: #habits #behavior
+tags:: [[habits]]
 
 ## It is easier to decrease to reduce the effort (ability) to do something than to increase motivation
 

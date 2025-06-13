@@ -1,14 +1,11 @@
 ---
-created: 2024-09-02 08:05 
-modified: Monday 7th October 2024 20:42:59
+created: 2024-09-02 08:05
+modified: 2025-06-13T07:39:55-04:00
 alias: 
 ---
 up::  
-type:: #note/atomic🌳 
-links::
+links:: [[intelligence]]
 ## Determination vs Intelligence
-
-
 Intelligence and Determination
 
 If you have 100% determination and Intelligence, you can take away more intelligence and still succeed

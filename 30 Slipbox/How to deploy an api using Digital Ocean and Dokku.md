@@ -1,13 +1,10 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-02-05T18:56:35-05:00
-alias: 
-share_link: https://file.obsidianshare.com/e6/5527cd862eda3430ff30e64b6a273c41.html#MXyetY1S7YeSwvHgcTA1M4H4VwVuuT4gesZS3mcTLJI
-share_updated: 2023-09-25T21:33:15-04:00
+modified: 2025-06-13T07:41:52-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
-tags:: #deploy #backend #api #docker 
+tags:: 
 **sources**
 [Deploying a PostgresQL, Redis, GraphQL backend and frontend the easiest way! - DEV Community](https://dev.to/lastnameswayne/deploying-a-postgresql-redis-graphql-backend-and-frontend-the-easiest-way-4gob)
 [Setup Dokku on Digital Ocean](https://robertcooper.me/post/setup-dokku-digital-ocean)

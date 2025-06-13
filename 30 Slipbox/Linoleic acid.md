@@ -1,10 +1,10 @@
 ---
-created: 2024-10-07 20:44 
-modified: Monday 7th October 2024 20:44:33
+created: 2024-10-07 20:44
+modified: 2025-06-13T07:39:36-04:00
 alias: 
 ---
 up::  
-links::
+links:: [[intelligence]]
 ## Linoleic acid
 
 Linoleic acid is an essential (this means that humans cannot produce it, it is obtained through diet) fatty acid 

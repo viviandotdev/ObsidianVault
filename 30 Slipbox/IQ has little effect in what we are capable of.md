@@ -1,10 +1,10 @@
 ---
 created: 2023-11-03 13:35
-modified: Friday 3rd November 2023 13:35:10
-alias:
+modified: 2025-06-13T07:40:45-04:00
+alias: 
 ---
 up::
-tags:: #learning #iq
+tags:: [[intelligence]]
 
 ## IQ has little effect in what we are capable of
 

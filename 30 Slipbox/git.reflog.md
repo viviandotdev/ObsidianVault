@@ -1,10 +1,10 @@
 ---
 created: 2023-11-03 18:41
-modified: Friday 3rd November 2023 18:44:57
-alias:
+modified: 2025-06-13T07:42:35-04:00
+alias: 
 ---
 up::
-tags:: #git
+tags:: [[git]]
 
 ## git.reflog
 

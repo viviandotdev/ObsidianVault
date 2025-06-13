@@ -1,10 +1,10 @@
 ---
 created: 2023-11-03 17:35
-modified: Friday 3rd November 2023 17:38:35
-alias:
+modified: 2025-06-13T07:41:02-04:00
+alias: 
 ---
 up:: [[Barking up the Wrong Tree by Eric Barker]]
-tags:: #relationships #friends
+tags:: [[relationships]]
 
 ## Intimacy Questions
 

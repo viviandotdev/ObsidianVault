@@ -1,10 +1,9 @@
 ---
 created: 2023-11-04 14:48
-modified: Saturday 4th November 2023 14:48:27
-alias:
+modified: 2025-06-13T07:42:09-04:00
+alias: 
 ---
 up::  [[language]]
-tags:: #language
 source::  [How I learnt Norwegian on my own - YouTube](https://www.youtube.com/watch?v=uWQYqcFX8JE)
 ## How I learnt Norewegian on my own
 

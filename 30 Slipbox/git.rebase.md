@@ -1,10 +1,10 @@
 ---
 created: 2023-07-17 12:32
-modified: Monday 17th July 2023 12:32:43
-alias:
+modified: 2025-06-13T07:42:30-04:00
+alias: 
 ---
 up::
-tags:: #git
+tags:: [[git]]
 related:
 
 # git rebase
