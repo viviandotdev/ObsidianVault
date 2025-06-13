@@ -1,3 +1,6 @@
+---
+modified: 2025-06-13T08:43:53-04:00
+---
 up:: [[+ Home]] [[Meta PKM]]
 tags:: #readme
 

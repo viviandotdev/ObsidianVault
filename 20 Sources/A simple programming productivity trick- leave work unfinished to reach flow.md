@@ -1,10 +1,10 @@
 ---
 created: 2024-01-12 07:14
-modified: 2025-06-13T08:15:10-04:00
+modified: 2025-06-13T08:44:05-04:00
 alias: 
 ---
 up::
-tags:: #productivity #habits
+tags:: [[habits]]
 source::[4 simple software engineering habits that transformed my productivity](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 ## A simple programming productivity trick- leave work unfinished to reach flow
 

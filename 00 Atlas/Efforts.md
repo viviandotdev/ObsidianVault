@@ -1,14 +1,15 @@
+---
+modified: 2025-06-13T08:43:44-04:00
+---
 up:: [[+ Home]]
 tags:: #map
 
 # Efforts 🏋️
 > Efforts allow ideas to breath. Projects smother them.
 
-[[Developer Content]]
-	[[Developer Coal Mine]]
+[[Developer Coal Mine]]
 
-[[Life Optimization Content]]
-	[[Life Optimization Coal Mine]]
+[[Life Optimization Coal Mine]]
 
 [[Science and Technology Content]]
 

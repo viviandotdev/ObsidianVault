@@ -1,159 +1,74 @@
 ---
-modified: 2025-06-13T08:39:27-04:00
+created: 2023-10-30 19:26
+modified: 2025-06-13T08:38:40-04:00
+alias: 
+Category: react
+status: idea
 ---
-
+up::  [[frontend development]]
 tags:: [[react]]
-# React Application Structure & Best Practices
+## How to structure react applications
 
-## 1. Folder Structure Overview
-
-### Modules
-- Represent main application features or domains.
-- Contain containers and feature-specific components.
-- Example: `src/modules/checkout`, `src/modules/userProfile`
-
-### Components
-- **Layout-specific components:**  
-  Used strictly for page layout, placed under route-specific folders.  
-  Example:  
-  ```
-  src/app/_route_/(components)/_component_
-  ```
-- **Shared components:**  
-  Used across multiple features or modules.  
-  Example:  
-  ```
-  src/components/_component_
-  ```
-
-### Hooks
-- Store custom React hooks that encapsulate business logic or reusable behaviors.
-- Extract as much logic as possible into hooks to keep components clean.
-- Examples of use cases:
-  - API calls
-  - IntersectionObserver for element visibility
-  - Wrapping external API responses for a cleaner component API
-
-```js
-function useSalesAnalytics(date) {
-  const { loading, data, refetch } = useQuery(GET_SALES, {
-    variables: { date },
-  });
-
-  if (!data) {
-    return { loading, sales: { total: 0 }, refetch };
-  }
-
-  return {
-    loading,
-    refetch,
-    sales: aggregate(data),
-  };
-}
+### Project Structure
+Well structured applications are more productive to work on because they are easy to navigate, modify and scale.
+Place most of the application code under`src` directory. This separates the application code from the project configuration files such as `package.json`, `next.config.js` and `tsconfig.js` which should remain the root of the project.
+```shell
+|-- src                   # most of the application code
+	|-- components        # shared components used across the entire application
+	|-- config            # all the global configuration, env variables etc. get exported from here and used in the app
+	|-- modules           # feature based modules
+	|-- hooks             # shared hooks used across the entire application
+	|-- lib               # re-exporting different libraries preconfigured for the application
+	|-- providers         # all of the application providers
+	|-- app               # app router
+	|-- stores            # global state stores
+	|-- test              # test utilities and mock server
+	|-- types             # base types used across the application
+	|-- utils             # shared small reusable, generic functions
+# project configuration files
+|-- package.json
+|-- next.config.js
+|-- tsconfig.js
+|-- tailwind.config.ts
 ```
-
-### API
-- Contains business/domain-specific API functions.
-- These functions wrap generic API calls and add domain logic like calculations or data manipulation.
-- Keeps API logic decoupled from UI and generic utilities.
-
-### Utils
-- Contains small, reusable, generic utility functions.
-- Should be decoupled from business logic and React.
-- Examples:
-  - `validateEmail(email)`
-  - `sortCollectionByAttribute(collection, attribute)`
-
-### Store (State Management)
-- State stores should be decoupled from features.
-- Multiple features can consume the same store.
-- Example:  
-  - `userStore` is shared by `userProfile`, `userEditForm`, `userPreferences` features.
-- Avoid grouping stores inside feature folders to keep them reusable and modular.
-
-### Templates
-- Store page templates that compose components into page layouts.
-
-
-
-## 2. Data Fetching Code
-
-- Prefer placing data fetching logic inside **custom hooks** (in the `hooks` folder).
-- This abstracts API calls and business logic away from components.
-- Example: `useSalesAnalytics` hook shown above.
-- API calls themselves should be in the `api` folder, with business-specific logic applied there.
-
----
-
-## 3. State Management
-
-- Use stores (e.g., Zustand, Redux) to manage global or shared state.
-- Keep stores separate from feature folders.
-- Features consume stores but do not own them.
-- This promotes reusability and separation of concerns.
-
----
-
-## 4. Restructuring Recommendations
-
-- Create a `modules` folder for main features.
-- Keep routes inside `src/app` or `src/pages` depending on your framework.
-- Place layout components inside route-specific `(components)` folders.
-- Shared components go into `src/components`.
-- Extract business logic into hooks and API folders.
-- Keep generic utilities in `src/utils`.
-- Keep state stores in a dedicated `src/stores` folder.
-
----
-
-## 5. Example Folder Structure
-
+### Module Structure
+In order to scale the application easily, modularize it by splitting the application into self-contained modules that represent major features or top level routes. This improves navigation and keeps related functionalities together.
+This modular organization streamlines development by allowing you to quickly locate files relevant to the current task. For example, all dashboard-related files can be found in the dashboard module, allowing for quick access when working on that feature.
+```shell
+src/modules/dashboard
+|-- api         # exported API request declarations and api hooks related to a specific feature
+|-- components
+|-- templates
+|-- hooks
+|-- types
+|-- index.ts    # main entry point of the module.
 ```
-src/
-  app/
-    (main)/
-      order/
-        confirmed/
-          [id]/
-            loading.tsx
-          (components)/
-            OrderSummary.tsx
-  components/
-    Button.tsx
-    Modal.tsx
-  modules/
-    checkout/
-      components/
-      hooks/
-      api/
-      store/
-    userProfile/
-      components/
-      hooks/
-      api/
-      store/
-  hooks/
-    useSalesAnalytics.ts
-    useIntersectionObserver.ts
-  api/
-    salesApi.ts
-    userApi.ts
-  stores/
-    userStore.ts
-    cartStore.ts
-  utils/
-    validateEmail.ts
-    sortCollectionByAttribute.ts
-  templates/
-    MainPageTemplate.tsx
-```
+**templates**
+	templates files are compositions of components and provide a structured layout for the feature.
+**components**
+	reusable react components specific to this module
+**hooks**
+	hosts the custom hooks specific to this module
+**api**
+	API logic specific to this feature such as calculations or data manipulation logic
+**templates**
+	hosts templates
+**types**
+	TypeScript type declarations that are specific to the dashboard module. It can include interfaces, types, or enums.
 
----
 
-## 6. Additional Resources
+### Resources
 
-- [Bulletproof React](https://github.com/alan2207/bulletproof-react)
-- [React Handbook](https://github.com/ericdiviney/react-handbook)
-- [Zustand Store Best Practices](https://www.reddit.com/r/reactjs/comments/15agnsv/zustand_where_to_place_files_selectors_stores_how/)
-- [Next.js Medusa Starter Example](https://github1s.com/medusajs/nextjs-starter-medusa/blob/HEAD/src/app/(main)/order/confirmed/[id]/loading.tsx)
-- [Example API and Slice Structure](https://github1s.com/xXValhallaCoderXx/tao-react-app-structure/blob/HEAD/src/pages/products/list/slice/dux.js)
+[React Architecture: How to Structure and Organize a React Application | Tania Rascia](https://www.taniarascia.com/react-architecture-directory-structure/)
+
+[Notion Link](https://www.notion.so/architecture-create-application-modules-60dfdd9315b9431abceb05b028182099?pvs=4)
+[https://github1s.com/xXValhallaCoderXx/tao-react-app-structure/blob/HEAD/src/pages/products/list/slice/dux.js](https://github1s.com/xXValhallaCoderXx/tao-react-app-structure/blob/HEAD/src/pages/products/list/slice/dux.js)
+
+[https://github.com/ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook)
+[https://github.com/alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+
+[https://github1s.com/AllStackDev1/github-user-search/blob/HEAD/src/components/ErrorButton.tsx](https://github1s.com/AllStackDev1/github-user-search/blob/HEAD/src/components/ErrorButton.tsx)
+
+[bulletproof-react](https://github.com/alan2207/bulletproof-react)
+
+nextjs medusa[https://github1s.com/medusajs/nextjs-starter-medusa/blob/HEAD/src/modules/checkout/components/shipping/index.tsx#L28](https://github1s.com/medusajs/nextjs-starter-medusa/blob/HEAD/src/modules/checkout/components/shipping/index.tsx#L28)

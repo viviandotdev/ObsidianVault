@@ -1,11 +1,10 @@
 ---
 created: 2024-05-26 11:13
-modified: 2025-06-13T06:50:12-04:00
+modified: 2025-06-13T08:40:33-04:00
 alias: 
 ---
 up::  [[dev environment]]
 type::
-links:: [[[React](https://react.dev/)]]
 ## React
 
 **Resources**
@@ -15,6 +14,7 @@ links:: [[[React](https://react.dev/)]]
 
 **Courses**
 [[Zero to Shipped]]
+[[Joy of React]]
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
