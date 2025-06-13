@@ -1,8 +1,5 @@
-
 ---
-created: 2023-08-30 05:57 
-modified: Wednesday 30th August 2023 05:57:43
-alias: 
+modified: 2025-06-13T08:16:04-04:00
 ---
 up::  [[Three.js Journey]]
 tags:: 

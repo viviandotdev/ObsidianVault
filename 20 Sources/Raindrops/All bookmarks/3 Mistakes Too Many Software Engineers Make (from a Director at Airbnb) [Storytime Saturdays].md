@@ -5,12 +5,9 @@ raindrop_highlights:
   6662fbc84dd145b36b53e6db: a032066f06a4eed0e6e8d7ee363974af
 url: https://codinginterviewsmadesimple.substack.com/p/3-mistakes-too-many-software-engineers?utm_source=post-email-title&amp;publication_id=108704&amp;post_id=144937064&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 created: June 7th 2024
-status: 🟥
 type: article
 like: false
 ---
-
-
 ### 3 Mistakes Too Many Software Engineers Make (from a Director at Airbnb) [Storytime Saturdays]
 
 How to not be your own worst enemy

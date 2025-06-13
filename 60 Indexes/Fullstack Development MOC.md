@@ -1,10 +1,9 @@
 ---
 created: 2024-05-19 18:54
-modified: 2025-06-13T06:28:51-04:00
+modified: 2025-06-13T08:16:47-04:00
 alias: 
 ---
 ## Fullstack Development MOC
-
 
 [[Open Source Projects]]
 
@@ -31,7 +30,7 @@ alias:
 - [Formbricks](https://github.com/formbricks/formbricks) - open source survey platform
 - [Documenso](https://github.com/documenso/documenso) - open source Docusign alternative
 - [Inbox Zero](https://github.com/elie222/inbox-zero) - open-source email app whose goal is to help you reach inbox zero fast with AI assistance
-- [Roomgpt.](https://github.com/Nutlope/roomGPT)
+- [Roomgpt.](https://github.com/Nutlope/roomGPT)- open source AI application
 - [Photoshot](https://github.com/shinework/photoshot) - open source AI avatar generator
 - [Infisical](https://github.com/Infisical/infisical) - open source secret management platform (similar to HashiCorp Vault)
 - [Plane](https://github.com/makeplane/plane) - open source Jira alternative

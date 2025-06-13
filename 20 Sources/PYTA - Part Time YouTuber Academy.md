@@ -1,17 +1,16 @@
 ---
 created: 2024-04-18 14:25
-modified: Thursday 18th April 2024 14:25:43
-aliases:
+modified: 2025-06-13T08:18:26-04:00
+aliases: 
 category: writing
 ---
 up::  [[writing]]
 status:: completed
 category:: completed
-tags:: #writing
+tags:: [[writing]]
 medium:: #source/course
 links::
 ## PYTA - Part Time YouTuber Academy
-
 
 [[Idea generation]]
 [[How to create interesting titles]]

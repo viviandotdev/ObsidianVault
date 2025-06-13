@@ -4,12 +4,9 @@ raindrop_highlights:
   65b9a28c49b2c62881322250: 0b03a0800182d165b4ecc5ec1abf42b5
 url: https://nesslabs.com/procrastination-emotions
 created: January 16th 2024
-status: 🟥
-type: article
 like: false
+modified: 2025-06-13T08:16:21-04:00
 ---
-
-
 ### Why we wait: Understanding the emotions behind procrastination
 
 Procrastination is your body and your brain trying to communicate a state of emotional struggle. Ignoring that message leads to more negative emotions, but embracing procrastination and trying to decipher the message can help you get unstuck while protecting your mental health.
