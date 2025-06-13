@@ -27,7 +27,7 @@ related::
 - pnpm
 
 ### Frontend Stack
-- Next.js / [[React]]
+- Next.js / [[react]]
 - Apollo-Client
 - Zustand
 - NextAuth

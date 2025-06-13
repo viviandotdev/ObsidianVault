@@ -1,13 +1,12 @@
 ---
 created: 2023-10-30 19:26
-modified: Friday 3rd November 2023 18:40:13
+modified: 2025-06-13T07:33:32-04:00
 alias: 
 Category: react
 status: idea
 ---
 up::  [[Frontend Development MOC]]
-type:: #output/article
-tags:: #nextjs #react #architecture
+tags:: [[react]]
 ## How to structure react applications
 
 ### Project Structure
