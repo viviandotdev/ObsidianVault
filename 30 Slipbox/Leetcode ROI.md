@@ -1,13 +1,12 @@
 ---
 created: 2025-03-21 15:08
-modified: 2025-03-21T15:08:48-04:00
+modified: 2025-06-13T07:39:10-04:00
 alias: 
 ---
 up::  
 type:: #note/atomic🌳 
-links::
-tags:: #leetcode
-## Leetcode ROI
+tags:: [[leetcode]]
+## leetcode ROI
 
 [Coding Interview Patterns: The Smart, Data-Driven Way to Prepare for Tech Interviews](https://algo.monster/problems/stats)
 

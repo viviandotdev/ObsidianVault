@@ -1,13 +1,9 @@
 ---
 created: 2024-04-22 08:44
-modified: Friday 26th April 2024 13:16:43
-alias:
-Category: Learning
-Status: completed
+modified: 2025-06-13T07:35:08-04:00
+alias: 
 ---
-up::  [[Systems for Life MOC]]
-tags:: #learning
-type:: #output/atomic-essay
+tags:: [[learning]]
 ## Embracing the Struggle - The Power of the Generation Effect in Learning
 
 The "Generation Effect" suggests that **struggling to generate answers on your own, even if incorrect, enhances subsequent learning.**

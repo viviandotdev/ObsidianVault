@@ -1,10 +1,11 @@
 ---
-modified: 2025-05-15T07:07:40-04:00
+modified: 2025-06-13T07:36:58-04:00
 tags: 
 ---
+
+[[Blender MOC]]
 # Blender Learning Resources & Plan
 
----
 
 ## Inspiration
 

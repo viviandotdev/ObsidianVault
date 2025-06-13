@@ -1,10 +1,8 @@
 ---
 created: 2024-04-27 19:47
-modified: Saturday 27th April 2024 19:47:02
-aliases: 
-Status: idea
+modified: 2025-06-13T07:34:41-04:00
 ---
-channel:: #channel/systems-for-life
+tags:: [[content-creation]]
 ## why you should create content?
 
 There are people in the world who need to hear you say the thing in your words, something about the way you say it and the way you explain it may make them understand it.
