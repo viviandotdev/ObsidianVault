@@ -27,7 +27,7 @@ by [[Eric Barker]]
 Express your gratitude toward others. Feeling gratitude and not expression it is like wrapping a present and not giving it.
 ### Goals
 - [[If you want to follow through with your goals, phrase them in this simple way (If…then...)]]
-[[Power]]
+[[Power reduces empathy and causes us to be more selfish]]
 - [[Confidence is the result of success, not the cause. The surest path to confidence is becoming excellent at what you do.]]
 - [[IQ has little effect in what we are capable of]]
 ### Choices

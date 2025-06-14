@@ -3,7 +3,7 @@ created: 2023-12-17 13:00
 modified: Sunday 17th December 2023 13:01:08
 alias:
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: #postgresql #database
 
 ## PostgreSQL

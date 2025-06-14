@@ -3,7 +3,7 @@ created: 2024-07-05 10:04
 modified: Friday 5th July 2024 10:04:41
 alias: 
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 type:: #note/atomic🌳 
 links::
 ## CHUWI MiniBook X

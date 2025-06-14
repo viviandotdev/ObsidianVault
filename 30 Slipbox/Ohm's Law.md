@@ -1,9 +1,8 @@
 ---
-created: 2024-06-19 07:58 
-modified: Wednesday 19th June 2024 07:58:16
+created: 2024-06-19 07:58
+modified: 2025-06-14T19:18:28-04:00
 alias: 
 ---
-up::  [[Arduino Tutorial]]
 type:: #note/atomic🌳 
 links::
 ## Ohm's Law

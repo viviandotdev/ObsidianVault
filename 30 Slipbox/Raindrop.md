@@ -3,7 +3,7 @@ created: 2023-09-02 17:28
 modified: Saturday 2nd September 2023 17:28:36
 alias:
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: #PKM #second-brain
 related:
 

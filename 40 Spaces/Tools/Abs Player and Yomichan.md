@@ -3,7 +3,7 @@ created: 2023-09-18 09:25
 modified: Monday 18th September 2023 09:50:13
 alias:
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: #language
 
 ## Abs Player and Yomichan

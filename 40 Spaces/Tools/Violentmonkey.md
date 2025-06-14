@@ -3,7 +3,7 @@ created: 2023-07-15 08:46
 modified: Saturday 15th July 2023 08:46:48
 alias:
 ---
-up:: [[My Tools]]/[[Arc]]
+up:: [[tools]]/[[Arc]]
 tags:: #tools
 related:
 

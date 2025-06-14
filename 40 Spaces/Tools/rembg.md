@@ -4,7 +4,7 @@ modified: 2025-03-23T00:07:03-04:00
 aliases: 
 ---
 
-up: [[My Tools]]
+up: [[tools]]
 ## rembg
 
 background remover

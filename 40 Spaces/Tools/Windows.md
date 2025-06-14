@@ -3,7 +3,7 @@ created: 2023-09-02 15:40
 modified: 2025-06-14T19:07:59-04:00
 alias: 
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: 
 related: 
 

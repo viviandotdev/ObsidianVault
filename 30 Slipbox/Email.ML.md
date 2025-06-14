@@ -3,7 +3,7 @@ created: 2024-06-08 18:49
 modified: Saturday 8th June 2024 18:49:31
 alias: 
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 type:: #note/atomic🌳 
 links::
 ## Email.ML

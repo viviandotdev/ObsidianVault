@@ -3,7 +3,7 @@ created: 2024-05-26 13:51
 modified: Sunday 26th May 2024 13:51:46
 alias: 
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 type:: 
 links::
 ## Self Control

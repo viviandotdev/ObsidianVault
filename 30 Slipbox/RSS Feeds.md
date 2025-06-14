@@ -1,9 +1,9 @@
 ---
 created: 2023-08-06 10:17
-modified: Sunday 6th August 2023 10:17:33
-alias:
+modified: 2025-06-14T19:16:48-04:00
+alias: 
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: #tools
 related:
 
@@ -14,6 +14,9 @@ When browsing the modern internet we are bombarded with ads, sponsored posts and
 Self Hosted
 [Login · FreshRSS](https://freshrss-net.fly.dev/i/)
 
+[RssEverything](https://rsseverything.com/newfeed)
+
+[my Feeds](https://rsseverything.com/dashboard)
 
 ### Resources
 [Browse the Web Better - YouTube](https://www.youtube.com/watch?v=nxV0CPNeFxY)

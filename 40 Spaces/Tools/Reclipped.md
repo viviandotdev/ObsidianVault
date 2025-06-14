@@ -3,7 +3,7 @@ created: 2023-07-16 05:33
 modified: Sunday 16th July 2023 05:33:12
 alias:
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: #tools
 
 ## Reclipped

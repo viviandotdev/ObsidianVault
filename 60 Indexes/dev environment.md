@@ -3,7 +3,7 @@ created: 2024-04-27 16:12
 modified: 2025-06-13T07:01:26-04:00
 alias: 
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 type::
 related:: 
 # Dev Environment

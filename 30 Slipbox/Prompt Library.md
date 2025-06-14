@@ -3,7 +3,7 @@ created: 2024-03-25 20:31
 modified: Monday 25th March 2024 20:31:36
 alias:
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: #ai-prompting
 links::
 ## Prompt Library MOC

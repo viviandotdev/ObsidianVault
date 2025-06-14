@@ -6,7 +6,7 @@ status: idea
 category: 
 tags: "#development"
 ---
-up::  [[My Tools]]
+up::  [[tools]]
 tags:: [[dev environment]]
 ## How I set up my dev environment
 
