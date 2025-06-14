@@ -1,10 +1,10 @@
 ---
 created: 2024-02-18 16:28
-modified: Sunday 18th February 2024 16:29:56
-alias:
+modified: 2025-06-14T19:00:58-04:00
+alias: 
 ---
-up::  [[The Labor Of Inspiratoin]]
-tags:: #creativity
+up::  
+tags:: [[creativity]]
 links::
 ## Laborer create their own inspiration by showing up at the same time everyday for a set amount of hours.
 

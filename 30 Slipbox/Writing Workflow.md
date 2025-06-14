@@ -1,6 +1,6 @@
 ---
-created: 2024-04-15 20:32 
-modified: Monday 15th April 2024 20:32:07
+created: 2024-04-15 20:32
+modified: 2025-06-14T19:01:37-04:00
 alias: 
 ---
 up::  [[writing]]
@@ -12,8 +12,6 @@ links::
 **Content Production System**
 PYTA for systems to ideas and scripting
 	learn the systems 
-[[Why every Cleo Abram video goes viral - YouTube(httpswww.youtube.comwatchv=qYLzSN_Jz_E)]]
-
 1. Research Ryan holiday process
 	[Best Articles - RyanHoliday.net](https://ryanholiday.net/best-articles/)
 2. Research Robert Greene writing process

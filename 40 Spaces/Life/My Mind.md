@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-14T18:59:22-04:00
+modified: 2025-06-14T19:00:24-04:00
 ---
-[[creativity#]]
+[[creativity]]
 
 #business
 - [[Opportunity is everywhere,  all you need is to make something better]]
