@@ -1,7 +1,7 @@
 ---
 created: 2023-12-07 16:15
-modified: Thursday 7th December 2023 16:15:47
-alias:
+modified: 2025-06-14T18:58:30-04:00
+alias: 
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
 tags:: #relationships
@@ -22,5 +22,4 @@ Find something to do together consistently. Touching base in some form every two
 
 It takes 60 hours to develop a light friendship and 100 hours to become friends and 200 - 300 hours to become best friends.
 ### Related
-[[Friendships make use happier than any other relationship]]
 [[Self Expansion Theory]]
