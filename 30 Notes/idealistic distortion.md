@@ -1,10 +1,9 @@
 ---
 created: 2023-12-07 16:34
-modified: Thursday 7th December 2023 16:34:14
-alias:
+modified: 2025-06-15T18:43:16-04:00
+alias: 
 ---
-up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #love #relationships
+tags:: [[relationships]]
 ## Idealistic distortion
 
 Idealization: people to idealized their partner in a positive way are more likely to get married. This “*idealistic* distortion” of our partner is what keeps the relationship strong.

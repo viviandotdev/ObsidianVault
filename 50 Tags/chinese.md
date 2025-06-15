@@ -8,7 +8,7 @@ tags::
 links::
 
 ## chinese 
-[[Immersion Content]]
+[[chinese immersion content]]
 
 ```dataview
 LIST

@@ -1,10 +1,9 @@
 ---
 created: 2024-05-02 12:26
-modified: 2025-06-15T07:20:00-04:00
+modified: 2025-06-15T18:41:46-04:00
 alias: 
 ---
 tags:: [[css]]
-links::
 ## Understanding the Basis of Flex
 
 `flex-wrap` - determines whether the flex items should stay in one line or can wrap on to multiple lines when there isn't enough space in the flex container.

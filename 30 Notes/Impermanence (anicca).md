@@ -1,11 +1,10 @@
 ---
 created: 2023-10-19 09:22
-modified: Thursday 19th October 2023 09:23:18
+modified: 2025-06-15T18:45:26-04:00
 aliases:
   - impermanence
 ---
 up::  [[buddhism]]
-tags:: #buddhism
 
 ## Impermanence (anicca)
 

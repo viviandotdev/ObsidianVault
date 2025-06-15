@@ -1,13 +1,10 @@
 ---
-created: 2024-09-28 12:16 
-modified: Saturday 28th September 2024 12:16:39
+created: 2024-09-28 12:16
+modified: 2025-06-15T18:42:51-04:00
 alias: 
 ---
-up::  
-type:: #note/atomic🌳 
-tags:: #github #git
+tags:: [[git]]
 ## How To Work With Multiple Github Accounts on a single Machine
-
 
 [https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
 

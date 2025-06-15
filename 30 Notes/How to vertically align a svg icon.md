@@ -1,11 +1,9 @@
 ---
 created: 2023-09-18 16:51
-modified: Monday 18th September 2023 16:51:08
-alias:
+modified: 2025-06-15T18:42:39-04:00
+alias: 
 ---
-up::
-tags:: #html #react #css
-
+tags:: [[react]] [[css]]
 ## How to vertically align a svg icon
 
 ### Example

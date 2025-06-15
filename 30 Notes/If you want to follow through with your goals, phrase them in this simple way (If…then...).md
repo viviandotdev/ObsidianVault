@@ -1,10 +1,9 @@
 ---
 created: 2023-10-24 06:05
-modified: Tuesday 24th October 2023 06:05:26
-alias:
+modified: 2025-06-15T18:45:24-04:00
+alias: 
 ---
-up::
-tags:: #goals #habits
+tags:: [[goals]]
 
 ## If you want to follow through with your goals, phrase them in this simple way (If…then...)
 

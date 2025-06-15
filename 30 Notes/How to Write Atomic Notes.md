@@ -1,12 +1,11 @@
 ---
 created: 2023-07-15 08:56
-modified: Saturday 15th July 2023 08:56:42
+modified: 2025-06-15T18:43:03-04:00
 aliases:
   - create atomic note
 ---
 up::  [[My PKM Workflows]]
-tags:: #PKM #note-taking
-
+tags:: [[pkm]] [[note-taking]]
 ## How to Write Atomic Notes
 
 Aim to have it no shorter than a tweet (180 characters) and no longer than an atomic essay (300-500 words).

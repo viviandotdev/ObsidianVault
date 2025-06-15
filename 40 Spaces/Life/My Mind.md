@@ -20,7 +20,7 @@ modified: 2025-06-14T19:00:24-04:00
 - [[It is not that hard to be successful because most of people are distracted on their phones or TVs ]]
 - [[Nothing happens then everything happens]]
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]  
-- [[If you want to do something right, do it yourself, because other people don't care enough.]]
+- [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 
 #happiness 

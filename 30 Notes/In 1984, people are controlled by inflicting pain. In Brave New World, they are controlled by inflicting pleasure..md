@@ -1,12 +1,9 @@
 ---
 created: 2024-04-26 15:19
-modified: Friday 26th April 2024 15:24:43
-alias:
+modified: 2025-06-15T18:45:40-04:00
+alias: 
 ---
-up::
-tags:: #social-media
-type:: #note/atomic🌳
-links::
+tags:: [[social-media]]
 
 ## In 1984, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure.
 

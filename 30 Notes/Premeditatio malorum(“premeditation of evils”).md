@@ -1,10 +1,10 @@
 ---
 created: 2023-10-24 06:10
-modified: Tuesday 24th October 2023 06:10:36
-alias:
+modified: 2025-06-15T18:44:50-04:00
+alias: 
 ---
 up::
-tags:: #goals #habits
+tags:: [[goals]] [[habits]]
 Related: [[If you want to follow through with your goals, phrase them in this simple way (If…then...)]]
 ## Premeditatio malorum(“premeditation of evils”)
 

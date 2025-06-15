@@ -1,12 +1,10 @@
 ---
-created: 2024-11-12 10:48 
-modified: Tuesday 12th November 2024 10:48:22
+created: 2024-11-12 10:48
+modified: 2025-06-15T18:44:02-04:00
 alias: 
 ---
-up::  
-type:: #note/atomic🌳 
-links:: [Life-Changing Insights From A Decade Of Self-Improvement - Tim Ferriss (4K) - YouTube](https://youtu.be/9G5dXlMGMf8?feature=shared&t=3850)
-## Identity Diversification
+tags:: [[happiness]]
+## identity diversification
 This is concept similar to financial diversification do not base all your self worth on a singular project instead engage in multiple different activities at a time so that if one area faces challenges the other areas can provide fulfillment. 
 
 

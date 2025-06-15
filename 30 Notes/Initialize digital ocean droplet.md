@@ -4,8 +4,6 @@ modified: 2025-06-13T07:41:09-04:00
 alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
-type:: #note/how-to
-links::
 
 ## Initialize digital ocean droplet
 ```
