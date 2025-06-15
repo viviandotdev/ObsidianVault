@@ -1,13 +1,12 @@
 ---
 created: 2024-04-18 14:25
-modified: 2025-06-13T08:18:26-04:00
+modified: 2025-06-15T07:01:25-04:00
 aliases: 
 category: writing
 ---
 up::  [[writing]]
 status:: completed
 category:: completed
-tags:: [[writing]]
 medium:: #source/course
 links::
 ## PYTA - Part Time YouTuber Academy

@@ -1,10 +1,10 @@
 ---
 created: 2024-01-12 10:42
-modified: Friday 12th January 2024 10:42:58
-alias:
+modified: 2025-06-15T07:00:51-04:00
+alias: 
 ---
+#source/article 
 up::  [[writing]]
-tags:: #writing
 sources:: [How To Write - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-write)
 
 ## Writing Tips

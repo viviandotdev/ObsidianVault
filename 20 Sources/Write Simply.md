@@ -1,12 +1,12 @@
 ---
 created: 2024-01-12 12:20
-modified: Friday 12th January 2024 12:20:23
-alias:
+modified: 2025-06-15T07:00:26-04:00
+alias: 
 ---
-up::
-tags:: #writing
-source:: [Write Simply](https://www.paulgraham.com/simply.html) [Write Like You Talk](https://www.paulgraham.com/talk.html)
-related:: [[Writing Tips]]
+tags:: [[writing]]
+source:: #source 
+[Write Simply](https://www.paulgraham.com/simply.html) [Write Like You Talk](https://www.paulgraham.com/talk.html)
+
 ## Write Simply
 
 - Write using ordinary words and simple sentences, use [[Hemingway Editor](https://hemingwayapp.com/)] to achieve grade 6 readability.

@@ -1,11 +1,13 @@
+---
+modified: 2025-06-15T07:01:17-04:00
+---
 status:: in-progress
 medium:: #source/course 
-tags: #react 
+tags: [[react]]
 links::
 ## Zero to Shipped
 
 **Open eventio**
-  
 
 **Zero to shipped** (setting up payments and an admin account)
 

@@ -1,10 +1,10 @@
 ---
 created: 2024-02-19 07:39
-modified: Monday 19th February 2024 07:39:49
-alias:
+modified: 2025-06-15T07:01:09-04:00
+alias: 
 ---
 up::  [[Bookshelf]]
-tags:: #reading
+tags:: [[reading]]
 links:: [You've been reading wrong all your life. - YouTube](https://www.youtube.com/watch?v=DpIrzA2ohcg&t=1s)
 ## You've been reading wrong all your life.
 
