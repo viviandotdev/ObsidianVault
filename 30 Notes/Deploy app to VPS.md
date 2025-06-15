@@ -1,7 +1,7 @@
 ---
 modified: 2025-02-05T20:02:16-05:00
 ---
-[[How to build and deploy a sass]]
+[[How to start a programming project]]
 
 **Digital Ocean**
 [[Initialize digital ocean droplet]]

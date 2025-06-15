@@ -1,4 +1,4 @@
-up::[[How to build and deploy a sass]]
+up::[[How to start a programming project]]
 **Set up a Monorepo**
 
 Initialize new pnpm workspace

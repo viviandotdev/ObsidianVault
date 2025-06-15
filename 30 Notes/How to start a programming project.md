@@ -1,8 +1,9 @@
 ---
 created: 2024-05-10 20:55
-modified: 2025-02-22T10:43:50-05:00
+modified: 2025-06-15T18:40:26-04:00
 ---
-## How to build and deploy a sass
+status:: #🟨
+## How to start a programming project
 
 **Pre Development**
 **How to start and plan the project**
@@ -11,7 +12,6 @@ modified: 2025-02-22T10:43:50-05:00
 [[Design Tools]
 [Create site map](https://www.flowmapp.com/features/sitemap)
 - Create a kanban board to track the project progress i notion
-- 
 
 **How to set up a monorepo and boilerplates**
 [[Set up a Monorepo]]
@@ -22,8 +22,6 @@ modified: 2025-02-22T10:43:50-05:00
 
 
 **How to set up authentication**
-[[Authentication]]
-
 
 
 **How to handle image Uploads**

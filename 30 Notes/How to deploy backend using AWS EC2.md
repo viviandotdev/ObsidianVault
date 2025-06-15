@@ -3,7 +3,7 @@ created: 2024-05-14 10:19
 modified: Tuesday 14th May 2024 10:19:02
 alias: 
 ---
-up::  [[How to build and deploy a sass]]
+up::  [[How to start a programming project]]
 tags:: #aws #deploy #backend #api 
 type:: #note/how-to
 links::

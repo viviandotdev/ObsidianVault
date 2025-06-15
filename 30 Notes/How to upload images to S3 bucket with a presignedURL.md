@@ -1,12 +1,9 @@
 ---
 created: 2024-05-12 19:50
-modified: 2025-06-13T07:38:37-04:00
+modified: 2025-06-15T18:41:09-04:00
 alias: 
 ---
-up::  [[How to build and deploy a sass]]
-tags:: #s3-bucket #aws
-type:: #note/how-to
-links:: [[file-upload]]
+tags:: [[aws]] [[s3]]
 ## How to upload images to S3 bucket with a presignedURL
 
 ![[2024-05-12.excalidraw]]

@@ -1,11 +1,10 @@
 ---
 created: 2025-05-15 08:20
-modified: 2025-06-13T06:24:30-04:00
+modified: 2025-06-15T18:39:43-04:00
 alias: 
 ---
-up::  
 type:: #note/how-to  
-tags:: #parking
+
 
 ## How to parallel park
 [How To: Easy Parallel Parking - YouTube](https://www.youtube.com/watch?v=pB_iFY2jIdI)

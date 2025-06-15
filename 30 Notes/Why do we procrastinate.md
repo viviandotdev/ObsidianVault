@@ -1,10 +1,10 @@
 ---
 created: 2023-09-23 12:18
-modified: Saturday 23rd September 2023 12:19:03
-alias:
+modified: 2025-06-15T18:39:10-04:00
+alias: 
 ---
 up::
-tags:: #procrastination  #productivity
+tags:: [[procrastination]] [[productivity]]
 related:: [[How to overcome procrastination?]]
 ## Why do we procrastinate
 

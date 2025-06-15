@@ -1,11 +1,10 @@
 ---
-created: 2024-05-24 20:38 
-modified: Friday 24th May 2024 20:38:55
+created: 2024-05-24 20:38
+modified: 2025-06-15T18:40:39-04:00
 alias: 
 ---
 up::  
-type:: #note/atomic🌳 
-tags:: #productivity 
+tags:: [[productivity]]
 links::
 ## How to structure your day?  
 

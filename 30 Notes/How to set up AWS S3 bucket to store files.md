@@ -1,12 +1,9 @@
 ---
-created: 2024-05-12 12:10 
-modified: Sunday 12th May 2024 12:10:17
+created: 2024-05-12 12:10
+modified: 2025-06-15T18:40:13-04:00
 alias: 
 ---
-up:: 
-tags:: #s3-bucket #aws 
-type:: #notes/how-to
-links::
+tags:: [[file-upload]]
 ## How to set up AWS S3 bucket to store files?
 ### Create AWS user
 1. Go to [AWS Console](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1)

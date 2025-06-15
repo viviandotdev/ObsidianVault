@@ -3,8 +3,8 @@ created: 2023-11-04 14:34
 modified: Saturday 4th November 2023 14:38:29
 alias:
 ---
-up::
-tags:: #learning #anki #source/video
+type:: #source/video
+tags:: [[learning]] [[anki]] 
 source::[How to use Anki like a PRO (by a Learning Expert) - YouTube](https://www.youtube.com/watch?v=eauQac_23R0&list=WL&index=1)
 ## How to use Anki like a PRO (by a Learning Expert)
 

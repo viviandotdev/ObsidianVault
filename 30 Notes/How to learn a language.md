@@ -1,11 +1,9 @@
 ---
 created: 2024-04-13 11:19
-modified: 2025-05-15T07:11:29-04:00
+modified: 2025-06-15T18:39:22-04:00
 alias: 
 ---
-up::  [[language]]
-tags:: #language
-links::
+tags::  [[language]]
 ## How to learn a language
 
 [learning a new language is easy, actually - YouTube](https://www.youtube.com/watch?v=E6588DlZW-c)
