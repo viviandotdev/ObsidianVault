@@ -4,7 +4,7 @@ modified: Thursday 7th December 2023 17:05:55
 alias:
 ---
 up::  [[system-design]]
-tags:: #hashing #system-design
+tags:: #hashing [[system-design]]
 related:: [[Consistent Hashing]]
 ## Modular Hashing
 

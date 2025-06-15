@@ -4,7 +4,7 @@ modified: Thursday 10th August 2023 17:23:34
 alias:
 ---
 up::  [[system-design]]
-tags:: #system-design  
+tags:: [[system-design]]
 sources::
 ## Design Distributed Message Queue
 

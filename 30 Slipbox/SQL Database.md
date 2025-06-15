@@ -4,7 +4,7 @@ modified: Sunday 16th July 2023 15:26:29
 alias:
 ---
 up::
-tags:: #system-design
+tags:: [[system-design]]
 related: [[No SQL Database]]
 
 ## SQL Database

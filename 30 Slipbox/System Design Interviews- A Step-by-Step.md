@@ -1,12 +1,9 @@
 ---
 created: 2023-10-15 09:41
 modified: 2025-03-30T11:43:52-04:00
-alias: 
-Status: idea
-Category: system-design
+alias:
 ---
-up:: [[system-design]]
-tags:: #system-design
+tags:: [[system-design]]
 
 ### System Design Interviews: A Step-by-Step Guide
 
@@ -50,6 +47,3 @@ tags:: #system-design
 ### Resources
 [System Design Interview: A Step-By-Step Guide - YouTube](https://www.youtube.com/watch?v=i7twT3x5yv8)
 [Complete Guide to System Design Interviews (and Top Questions) - Exponent](https://www.tryexponent.com/blog/system-design-interview-guide)
-[Complete Guide to System Design Interviews (and Top Questions) - Exponent](https://www.tryexponent.com/blog/system-design-interview-guide?src=footer)
-
-

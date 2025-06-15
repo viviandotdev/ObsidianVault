@@ -4,7 +4,7 @@ modified: Thursday 16th November 2023 15:25:39
 alias:
 ---
 up::  [[system-design]]
-tags:: #system-design
+tags:: [[system-design]]
 
 ## Design a Rate Limiter
 

@@ -4,7 +4,7 @@ modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 alias:
 ---
 up::
-tags:: #system-design
+tags:: [[system-design]]
 related:
 
 ## Check pointing

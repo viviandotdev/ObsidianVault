@@ -1,10 +1,9 @@
 ---
 created: 2023-12-07 17:00
-modified: Thursday 7th December 2023 17:00:27
-alias:
+modified: 2025-06-15T13:19:27-04:00
+alias: 
 ---
-up::  [[system-design]]
-tags:: #system-design
+tags:: [[system-design]]
 
 ## Consistent Hashing
 

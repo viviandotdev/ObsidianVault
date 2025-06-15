@@ -1,9 +1,9 @@
 ---
-alias: 
+alias:
 modified: 2025-06-13T07:48:31-04:00
 ---
 up::
-tags:: #system-design
+tags:: [[system-design]]
 related:
 
 ## Load Balancer

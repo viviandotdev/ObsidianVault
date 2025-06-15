@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags::
-related:  #system-design
+related:  [[system-design]]
 
 ## Service Discovery
 

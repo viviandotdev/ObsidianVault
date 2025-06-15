@@ -3,8 +3,7 @@ created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 alias:
 ---
-up::  [[system-design]]
-tags:: #system-design
+up:: [[system-design]]
 links::
 ## <% tp.file.title %>
 

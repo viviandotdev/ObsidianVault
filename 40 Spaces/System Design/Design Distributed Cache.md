@@ -4,7 +4,7 @@ modified: Sunday 23rd July 2023 17:04:50
 alias:
 ---
 up::  [[system-design]]
-tags:: #system-design
+tags:: [[system-design]]
 source:: [System Design Interview - Distributed Cache - YouTube](https://www.youtube.com/watch?v=iuqZvajTOyA)
 
 # Design Distributed Cache

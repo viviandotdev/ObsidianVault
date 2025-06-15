@@ -4,7 +4,7 @@ modified: Sunday 16th July 2023 13:38:01
 alias:
 ---
 up::
-tags:: #system-design
+tags:: [[system-design]]
 medium:: #source/video
 source: [System Design Interview – Step By Step Guide - YouTube](https://www.youtube.com/watch?v=bUHFg8CZFws)
 

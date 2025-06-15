@@ -4,7 +4,7 @@ modified: Wednesday 21st February 2024 13:25:20
 alias:
 ---
 up::
-tags::  #system-design
+tags::  [[system-design]]
 
 ## Design Instagram
 
