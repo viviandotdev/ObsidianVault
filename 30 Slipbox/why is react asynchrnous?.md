@@ -1,7 +1,10 @@
+---
+modified: 2025-06-15T07:22:47-04:00
+---
 
+tags:: [[react]]
 
-
-React is asynchrnous because **it helps with performance**,
+React is asynchronous because **it helps with performance**,
 when we call setState it does not update immediately,
 the state is updated on the next render,
 

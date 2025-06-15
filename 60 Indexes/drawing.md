@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-15T07:21:34-04:00
+modified: 2025-06-15T07:22:17-04:00
 alias: 
 ---
 up::  [[+ Library]]
@@ -28,13 +28,17 @@ related:
 	Drawing Form and Pose
 	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
 **Perspective**
-[[drawing anatomy]]
+
 [[perspective]]
 
 **Aesthetic**
-[[Value]]
-[[Composition]]
-[[Color and Light]]
+Value
+Composition
+- Elements of composition
+- Composition theory
+- Compositional schemes
+**Resources**
+	 Framed Ink by Marcos Mateo-Mestre, Mitchell Albala landscape painting 
 
 **Technique
 [[Digital (Procreate)]]
@@ -42,11 +46,9 @@ related:
 
 The combindation of the above (technique, aesthetic and structure/logic) is creativity. Combing all those skills create a story or design of someting
 **Creative** 
-[[Design]]
-[[Story]]
-[[Expression]]
-
-
+Design
+Story
+Expression
 
 
 **Exercises**

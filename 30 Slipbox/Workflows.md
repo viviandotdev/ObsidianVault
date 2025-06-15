@@ -18,7 +18,7 @@ related:
 [[Protocol to Fight Distractions]]
 [[Monthly Reviews]]
 [[Quarterly Reviews]]
-[[40 Spaces/Life/How I Read|How I Read]]
+[[How I Read|How I Read]]
 ### Productivity System
 [Ultimate Brain.](https://thomasfrank.notion.site/Ultimate-Brain-Creator-s-Companion-Hub-536903bad2f44dfab9eb87f2bf459d5a)
  
