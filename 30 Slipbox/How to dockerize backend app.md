@@ -3,7 +3,7 @@ created: 2024-05-18 14:14
 modified: Saturday 18th May 2024 14:14:59
 alias: 
 ---
-up::  [[Docker|Docker]]
+up::  [[docker|docker]]
 type:: #note/
 links:: [[How to deploy an api using Digital Ocean and Dokku]]
 ## How to dockerize backend app

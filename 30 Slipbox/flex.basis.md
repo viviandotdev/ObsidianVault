@@ -1,10 +1,9 @@
 ---
-created: 2024-05-02 12:26 
-modified: Thursday 2nd May 2024 12:26:28
+created: 2024-05-02 12:26
+modified: 2025-06-15T07:20:00-04:00
 alias: 
 ---
-up::  
-type:: #css #flexbox 
+tags:: [[css]]
 links::
 ## Understanding the Basis of Flex
 

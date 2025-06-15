@@ -1,10 +1,10 @@
 ---
-created: 2024-05-25 09:48 
-modified: Saturday 25th May 2024 09:48:32
+created: 2024-05-25 09:48
+modified: 2025-06-15T07:19:30-04:00
 alias: 
 ---
 up::  
-type:: #note/atomic🌳 
+type: #note 
 on:: #ai #goals 
 ## Find joy in the process of learning and doing, It is nice learn and understand how this work instead of having done for you.
 

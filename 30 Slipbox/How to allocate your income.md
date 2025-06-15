@@ -1,10 +1,10 @@
 ---
 created: 2023-09-23 10:28
-modified: Saturday 23rd September 2023 10:28:22
-alias:
+modified: 2025-06-15T07:12:32-04:00
+alias: 
 ---
 up::
-tags:: [[mo]]
+tags:: [[money]]
 ## How to allocate your income
 
 - **50% to 60% for your fixed costs:** As we went over earlier, fixed costs are your essentials.

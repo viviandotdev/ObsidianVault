@@ -1,10 +1,10 @@
 ---
 created: 2023-09-24 06:21
-modified: Sunday 24th September 2023 12:19:17
-alias:
+modified: 2025-06-15T07:13:25-04:00
+alias: 
 ---
 up::
-tags:: #docker #deploy
+tags:: [[docker]]
 ## Docker
 
 What is docker?

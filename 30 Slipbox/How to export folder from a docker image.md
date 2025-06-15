@@ -1,10 +1,10 @@
 ---
 created: 2023-09-15 07:22
-modified: Friday 15th September 2023 07:22:41
-alias:
+modified: 2025-06-15T07:13:12-04:00
+alias: 
 ---
 up::
-tags:: #docker
+tags:: [[docker]]
 
 ## How to export folder from a docker image?
 

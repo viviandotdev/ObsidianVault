@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-13T08:32:03-04:00
+modified: 2025-06-15T07:21:34-04:00
 alias: 
 ---
 up::  [[+ Library]]
@@ -28,7 +28,8 @@ related:
 	Drawing Form and Pose
 	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
 **Perspective**
-[[Perspective MOC]]
+[[drawing anatomy]]
+[[perspective]]
 
 **Aesthetic**
 [[Value]]

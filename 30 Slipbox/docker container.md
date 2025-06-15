@@ -1,11 +1,10 @@
 ---
-created: 2024-06-08 15:54 
-modified: Saturday 8th June 2024 15:54:31
+created: 2024-06-08 15:54
+modified: 2025-06-15T07:13:52-04:00
 alias: 
 ---
-up::  
-tags:: #docker
-type:: #note/atomic🌳 
+type:: #note 
+tags:: [[docker]]
 links::
 ## docker container
 
