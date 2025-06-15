@@ -3,9 +3,6 @@ created: 2023-10-19 09:07
 modified: 2025-06-13T07:03:01-04:00
 alias: 
 ---
-up::  [[+ Library]]
-tags::
-
 ## buddhism
 
 ### The 3 Marks of Existence
@@ -15,7 +12,6 @@ I want to understand the thinkers who came before and what they thought and how 
 [[Suffering (dukkha)]]
 [[Impermanence (anicca)]]
 [[Not-self (anatta)]]
-
 
 [[Second arrow of suffering]]
 

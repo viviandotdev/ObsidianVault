@@ -1,10 +1,14 @@
-### Links to this page
-These notes point directly to this note. But this note doesn't point back.
+---
+created: <% tp.file.creation_date() %>
+modified: 2025-06-15T12:58:22-04:00
+alias: 
+---
+## <% tp.file.title %>
+
 ```dataview
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-and -#map
 
 SORT file.link asc
 ```
