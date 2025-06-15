@@ -1,9 +1,9 @@
 ---
 created: 2024-05-19 18:54
-modified: 2025-06-13T08:16:47-04:00
+modified: 2025-06-15T07:29:55-04:00
 alias: 
 ---
-## Fullstack Development MOC
+## Full stack development
 
 [[Open Source Projects]]
 

@@ -1,7 +1,19 @@
 ---
-modified: 2025-06-13T08:33:05-04:00
+modified: 2025-06-15T07:27:19-04:00
 ---
 up:: [[react-native]]
 tags: [[expo]]
 
-[[How to create an expo app]]
+### Expo
+
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+and -#map
+
+SORT file.link asc
+```
+
+
+
