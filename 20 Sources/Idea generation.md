@@ -1,11 +1,10 @@
 ---
-created: 2024-04-16 12:42 
-modified: Tuesday 16th April 2024 12:42:42
+created: 2024-04-16 12:42
+modified: 2025-06-15T19:10:20-04:00
 alias: 
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
-tags:: 
-links::
+tags:: [[content-creation]]
 ## Idea generation
 
 ### Capture

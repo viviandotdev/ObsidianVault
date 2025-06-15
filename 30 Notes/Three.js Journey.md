@@ -17,7 +17,7 @@ status:: hold
 9. [[Geometries]]
 10. [[Debug UI|Debug UI]]
 11. [[Textures]]
-12. [[Materials]]
+12. [[three.js.materials]]
 13.
 ### Classic Techniques
 20. [[Scroll based animation]]
