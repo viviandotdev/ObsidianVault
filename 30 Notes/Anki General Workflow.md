@@ -1,13 +1,12 @@
 ---
 created: 2024-12-22 09:18
-modified: 2025-06-15T07:04:40-04:00
+modified: 2025-06-15T13:50:08-04:00
 alias: 
 ---
-up::  
-links::
+tags:: [[Anki]]
 ## Anki General Workflow
 
-**things you want to remmeber**
+**things you want to remember**
 - Add the things you want to remember sporadically
 
 **language learning**

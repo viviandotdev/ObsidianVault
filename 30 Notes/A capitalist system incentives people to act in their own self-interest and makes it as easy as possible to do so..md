@@ -1,12 +1,12 @@
 ---
 created: 2023-09-19 06:37
-modified: Tuesday 19th September 2023 06:37:53
-alias:
+modified: 2025-06-15T13:52:05-04:00
+alias: 
 ---
 up::
-tags:: #capitalism  #sociology
+tags:: [[capitalism]]
 
-## Capitalism is good
+## A Capitalist system incentives people to act in their own self-interest and makes it as easy as possible to do so.
 
 A Capitalist system incentives people to act in their own self-interest and makes it as easy as possible to do so.
 After Capitalism was established as the main mode of production during the Industrial Revolution, the GDP per capital risen in proportion to the size of population cubed,

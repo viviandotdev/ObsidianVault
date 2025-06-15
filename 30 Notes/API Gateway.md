@@ -1,11 +1,9 @@
 ---
 created: 2023-07-25 17:55
-modified: 2025-06-15T07:04:49-04:00
+modified: 2025-06-15T13:50:11-04:00
 alias: 
 ---
-up::
 tags:: [[system-design]]
-related:
 
 ## API Gateway
 API Gateway is an abstraction layer between the front end and backend microservices that routes the request sent from the client to the correct backend service.

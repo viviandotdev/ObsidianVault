@@ -1,11 +1,9 @@
 ---
 created: 2023-09-23 11:37
-modified: 2025-06-15T07:07:45-04:00
+modified: 2025-06-15T13:51:15-04:00
 alias: 
 ---
-up::
 tags:: [[money]]
-source:: [[The Money Expert- "Do Not Buy A House!"... The 10 Ways To Make REAL Money! Ramit Seth]]
 ## Buying a house vs investing in the market
 
 **Investing in the S&P 500 historically has better returns. Considering numbers like inflation, opportunity cost, and other expenses is crucial when buying a house.**

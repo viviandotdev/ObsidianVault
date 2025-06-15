@@ -1,9 +1,8 @@
 ---
 created: 2023-11-04 14:39
-modified: 2025-06-15T07:07:34-04:00
+modified: 2025-06-15T13:50:57-04:00
 alias: 
 ---
-up::
 tags:: [[learning]]
 
 ## Be strategic with what information you learn at what stage of the learning process

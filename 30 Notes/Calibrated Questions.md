@@ -1,12 +1,10 @@
 ---
-created: 2023-12-11 08:08 
-modified: Monday 11th December 2023 08:08:27
+created: 2023-12-11 08:08
+modified: 2025-06-15T13:51:33-04:00
 alias: 
 ---
-up::  [[Never Split the Difference by Chris Voss|Never Split the Difference by Chris Voss]]
-tags:: 
-
-## What are Calibrated Questions
+tags:: [[communication]]
+## Calibrated Questions
 
 Calibrated questions begin with "What" or "How", these questions removes aggression from the conversion by acknowledging the other side without resistance. 
 

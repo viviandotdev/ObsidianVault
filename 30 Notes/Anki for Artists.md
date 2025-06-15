@@ -1,6 +1,6 @@
 ---
 created: 2024-04-14 15:00
-modified: 2025-06-15T13:48:25-04:00
+modified: 2025-06-15T13:49:29-04:00
 alias: 
 ---
 tags:: [[learning]] [[drawing]] 
@@ -33,3 +33,4 @@ draw them and make them as accurate as possible by using the methods of comparat
 _Anatomy of Movement_ and tackle just a single new page. I try to convert every bit of knowledge on that page into flashcards that will tax any skills and all the knowledge I can find on that page.
 
 Finish the drawings for the cards I photograph them, then convert them into actual flashcards inside of Anki, and add them to my running “Anatomy” deck
+
