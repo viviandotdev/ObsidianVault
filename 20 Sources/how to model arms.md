@@ -1,10 +1,11 @@
 ---
 created: 2024-03-26 19:53
 modified: 2025-06-13T08:15:14-04:00
-alias: 
+alias:
 ---
+# How to model Arms
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
+tags::
 links::
 ## Arms
 Fix the legs?
@@ -20,9 +21,9 @@ Fix the legs?
 	![[Screenshot 2024-03-27 at 7.40.08 AM.png]]
 6. Create sphere and flatten it create wrist
 7. Place the hands on the figure
-8. Add the shovel and letter into place  
+8. Add the shovel and letter into place
 ![[Screenshot 2024-03-27 at 7.35.24 PM.png]]
-  
+
 9. Create the hand similar to how the leg is created
 10. Create the bezier path and curve
 	1. Create the path of the arm, you can select the slated points and rotate them to straighten or bend the arm more.
@@ -33,9 +34,9 @@ Fix the legs?
 	2. The two points should be together
 	3. Move the hand and the arm to fit into each other
 	 ![[Screenshot 2024-03-29 at 7.04.03 AM.png]]
-13. Duplicate the arm and rotate is Y -180 and move into position 
+13. Duplicate the arm and rotate is Y -180 and move into position
 	![[Screenshot 2024-03-29 at 7.04.39 AM.png]]
-	
-	
+
+
 	**Activate the 3D Maniuplator**
 	![[Screenshot 2024-03-29 at 7.36.21 AM.png]]

@@ -1,10 +1,11 @@
 ---
-created: 2024-03-26 18:37 
-modified: Tuesday 26th March 2024 18:37:19
+created: 2024-03-26 19:53
+modified: 2025-06-15T19:13:23-04:00
 alias: 
 ---
+# How to model a Head
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
+tags::
 links::
 ## Head
 
@@ -13,8 +14,8 @@ Tip
 
 ****
 1. Create Cube
-2. Subdivision surface 2, 2 and 
-3. Duplicate the cube 
+2. Subdivision surface 2, 2 and
+3. Duplicate the cube
 	1. flatten to make muzzle
 4. Create cube
 	1. Scale down for the nose
@@ -58,5 +59,5 @@ Tip
 			2. ![[Screenshot 2024-03-26 at 6.58.26 PM.png]]
 		3. Play the object and morph it into a shape of a hat![[Screenshot 2024-03-26 at 7.00.20 PM.png]]!
 10. Organize the objects and place in collection called **Head**
-**Final Bear** 
+**Final Bear**
 ![[Screenshot 2024-03-26 at 7.00.52 PM.png]]

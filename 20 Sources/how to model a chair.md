@@ -1,8 +1,9 @@
 ---
-created: 2024-03-20 19:32
-modified: 2025-06-15T13:44:08-04:00
-alias: 
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
+alias:
 ---
+# How to model a Chair
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags:: #blender
 links::

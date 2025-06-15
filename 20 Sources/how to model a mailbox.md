@@ -1,10 +1,11 @@
 ---
-created: 2024-03-22 07:56 
-modified: Friday 22nd March 2024 07:56:49
-alias: 
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
+alias:
 ---
+# How to model a Mailbox
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
+tags::
 links::
 ## Mailbox
 

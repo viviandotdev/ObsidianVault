@@ -1,8 +1,9 @@
 ---
-created: 2024-03-22 16:37 
-modified: Friday 22nd March 2024 16:37:38
-alias: 
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
+alias:
 ---
+# How to model a Shelf
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
 links::
@@ -73,4 +74,3 @@ links::
 **Honey Pot Cap**
 1. Extrude a little to sharpen the edges, inset a little to make sharp edges
 ![[Screenshot 2024-03-22 at 4.15.55 PM.png|500]]
-

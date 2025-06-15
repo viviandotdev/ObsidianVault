@@ -1,12 +1,13 @@
 ---
-created: 2024-03-26 18:24 
-modified: Tuesday 26th March 2024 18:24:25
-alias: 
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
+alias:
 ---
+# How to model a Shoe
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags::  
-links::  
-## Shoe  
+tags::
+links::
+## Shoe
 
 
 **Table of Contents**
@@ -15,15 +16,15 @@ links::
 
 #### Boot
 
-1. Sole of the boot  
-	![[Screenshot 2024-03-23 at 10.34.00 AM 4.png]]  
-2.   Duplicate sole and move the top face up and adjust  
-	![[Screenshot 2024-03-23 at 10.35.24 AM.png]]  
-3. Make loop cuts into the boot shape  
-4. Inset the top of the boot and extrude downwards  
-	![[Screenshot 2024-03-23 at 10.36.07 AM.png]]  
-5. Final boot  
- ![[Screenshot 2024-03-23 at 10.37.40 AM.png]]  
+1. Sole of the boot
+	![[Screenshot 2024-03-23 at 10.34.00 AM 4.png]]
+2.   Duplicate sole and move the top face up and adjust
+	![[Screenshot 2024-03-23 at 10.35.24 AM.png]]
+3. Make loop cuts into the boot shape
+4. Inset the top of the boot and extrude downwards
+	![[Screenshot 2024-03-23 at 10.36.07 AM.png]]
+5. Final boot
+ ![[Screenshot 2024-03-23 at 10.37.40 AM.png]]
 
 
 

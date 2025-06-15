@@ -1,10 +1,11 @@
 ---
-created: 2024-03-20 20:38 
-modified: Wednesday 20th March 2024 20:38:56
-alias: 
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
+alias:
 ---
+# How to model a Shovel
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
+tags::
 links::
 ## Shovel
 

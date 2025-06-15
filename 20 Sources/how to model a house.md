@@ -1,10 +1,11 @@
 ---
-created: 2024-03-28 21:03 
-modified: Thursday 28th March 2024 21:03:23
-alias: 
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
+alias:
 ---
+# How to model a House
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
+tags::
 links::
 ## House
 
@@ -44,7 +45,7 @@ links::
 	1. Add bevel modifier
 	2. Add the array modifier on the y, 6 items
 	3. Add another array modifier ( add a small factor to offset them)
-	4. Then. rotate on the shape of the roof. 
+	4. Then. rotate on the shape of the roof.
 	![[Screenshot 2024-03-28 at 9.20.05 PM.png|150]]![[Screenshot 2024-03-28 at 9.20.26 PM.png|400]]
 5. Then copy and then rotate Z 180 degrees
 	 ![[Screenshot 2024-03-28 at 9.21.55 PM.png]]
@@ -55,7 +56,7 @@ links::
 8. Create door, shape into door, add bevel
 	1. ![[Screenshot 2024-03-28 at 9.24.31 PM.png|100]]
 	2. Create windows, create a new object for the holes in the door
-	3. Then add array modifiers 
+	3. Then add array modifiers
 	4. ![[Screenshot 2024-03-28 at 9.25.31 PM.png|200]]
 	5. Add and apply the boolean modifier to the door
 	6. Add handle and bottom panels
@@ -71,6 +72,6 @@ links::
 Rearrange the bojects into space
 1. To scale properly to make sure to deselect the belt shape, arm shapes, and leg shapes and the shoelace shapes
 2.  ![[Screenshot 2024-03-28 at 9.32.06 PM.png]]
-3. 
+3.
 Put everything into place
 ![[Screenshot 2024-03-30 at 11.41.50 AM.png]]

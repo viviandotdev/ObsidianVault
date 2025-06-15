@@ -1,8 +1,9 @@
 ---
-created: 2024-03-20 20:36
-modified: Wednesday 20th March 2024 20:36:47
+created: 2024-03-26 19:53
+modified: 2025-06-13T08:15:14-04:00
 alias:
 ---
+# How to model a Saw
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags:: #blender
 links::
