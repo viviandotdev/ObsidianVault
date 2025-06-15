@@ -3,8 +3,7 @@ created: 2023-07-15 09:05
 modified: Saturday 15th July 2023 09:05:41
 alias:
 ---
-up::  [[Knowledge and memory MOC]]
-tags::  #memory
+tags::  [[memory]]
 related:
 
 ## Mnemonic Major System

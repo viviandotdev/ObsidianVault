@@ -1,10 +1,9 @@
 ---
 created: 2023-10-14 10:12
-modified: Saturday 14th October 2023 11:05:37
-alias:
+modified: 2025-06-15T18:52:17-04:00
+alias: 
 ---
-up::
-tags:: #minecraft
+tags:: [[minecraft]]
 
 ## Minecraft Mods
 ### Technical Mods

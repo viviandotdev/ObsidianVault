@@ -1,11 +1,8 @@
 ---
 created: 2024-04-22 18:33
-modified: Monday 22nd April 2024 18:33:19
-alias:
+modified: 2025-06-15T18:52:47-04:00
+alias: 
 ---
-up::  [[Why did facebook build react?]]
-tags:: #architecture #patterns
-type:: #note/atomic🌳
 links:: [Hacker Way: Rethinking Web App Development at Facebook - YouTube](https://www.youtube.com/watch?v=nYkdrAPrdcw&t=624s)
 [Flux vs MVC Design Pattern. In Web Application development MVC is… | by Madasamy M | Medium](https://madasamy.medium.com/flux-vs-mvc-design-pattern-de134dfaa12b)
 # Model View Controller

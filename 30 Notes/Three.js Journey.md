@@ -1,10 +1,9 @@
 ---
 created: 2023-08-11 21:02
-modified: Friday 11th August 2023 21:03:30
-alias:
+modified: 2025-06-15T18:55:31-04:00
+alias: 
 ---
 up:: [[frontend development]]
-tags::  #programming #threejs
 medium::  #source/course
 status:: hold
 

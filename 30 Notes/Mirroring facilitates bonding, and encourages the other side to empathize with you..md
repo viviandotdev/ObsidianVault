@@ -1,11 +1,9 @@
 ---
 created: 2023-12-07 16:29
-modified: Thursday 7th December 2023 16:29:57
-alias:
+modified: 2025-06-15T18:52:37-04:00
+alias: 
 ---
-up::  [[Never Split the Difference by Chris Voss|Never Split the Difference by Chris Voss]]
-tags:: #negotiation
-
+tags:: [[communication]]
 ## Mirroring facilitates bonding, and encourages the other side to empathize with you.
 
 **What is Mirroring**

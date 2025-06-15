@@ -1,10 +1,10 @@
 ---
 created: 2024-01-16 10:45
-modified: Tuesday 16th January 2024 10:46:28
-alias:
+modified: 2025-06-15T18:55:59-04:00
+alias: 
 ---
 up::
-tags:: #finance
+tags:: [[Finance]] [[money]]
 
 ## There is little correlation between investment effort and investment results.
 

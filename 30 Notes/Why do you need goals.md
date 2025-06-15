@@ -1,11 +1,9 @@
 ---
-created: 2024-11-28 16:38 
-modified: Thursday 28th November 2024 16:38:27
+created: 2024-11-28 16:38
+modified: 2025-06-15T18:54:00-04:00
 alias: 
 ---
-up::  
-type:: #note/atomic🌳 
-tags:: #goals 
+tags:: [[goals]] 
 ## Why do you need goals?
 
 You need to pick something on the horizon and go towards it or else you will just walk in circles

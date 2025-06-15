@@ -1,10 +1,9 @@
 ---
 created: 2023-11-03 10:54
-modified: Friday 3rd November 2023 10:54:04
-alias:
+modified: 2025-06-15T18:54:32-04:00
+alias: 
 ---
-up::
-tags:: #happiness
+tags:: [[happiness]]
 
 ## We don’t do what actually makes us happy we choose to do what is easy.
 

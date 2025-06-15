@@ -18,7 +18,7 @@ by [[Eric Barker]]
 
 ### Games
 - [[WNGF (Whiny neutered goats fly) What makes a good game]]
-- [[Meaningful work]]
+- [[Meaningful work is something it important to you and something that you are good at]]
 
 ### Relationships
 - [[Early on, "love marriages" are happier than "arranged marriages". However, overtime studies shows that arranged marriages have a lower divorce rates and more content couples.]]

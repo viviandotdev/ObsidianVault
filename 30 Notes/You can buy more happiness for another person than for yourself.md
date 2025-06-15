@@ -1,11 +1,9 @@
 ---
 created: 2025-02-06 09:14
-modified: 2025-02-06T09:17:43-05:00
+modified: 2025-06-15T18:53:13-04:00
 alias: 
 ---
-up::  
-type:: #note/atomic🌳 
-links:: #happiness 
+links:: [[happiness]]
 ## You can buy more happiness for another person than for yourself
 
 **Why people have kids**

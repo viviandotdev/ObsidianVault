@@ -1,9 +1,8 @@
 ---
 created: 2023-09-23 12:18
-modified: 2025-06-15T18:39:10-04:00
+modified: 2025-06-15T18:54:02-04:00
 alias: 
 ---
-up::
 tags:: [[procrastination]] [[productivity]]
 related:: [[How to overcome procrastination?]]
 ## Why do we procrastinate

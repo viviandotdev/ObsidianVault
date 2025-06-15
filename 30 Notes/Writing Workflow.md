@@ -1,11 +1,9 @@
 ---
 created: 2024-04-15 20:32
-modified: 2025-06-14T19:01:37-04:00
+modified: 2025-06-15T18:53:25-04:00
 alias: 
 ---
 up::  [[writing]]
-tags:: 
-links::
 
 ## Writing Workflow System
 

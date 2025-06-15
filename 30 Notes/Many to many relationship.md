@@ -1,7 +1,7 @@
 ---
 created: 2023-10-13 11:20
-modified: Friday 13th October 2023 11:20:12
-alias:
+modified: 2025-06-15T18:51:35-04:00
+alias: 
 ---
 tags:: [[prisma]] [[database]]
 
@@ -113,9 +113,9 @@ model Shelf {
 
 
 ### Resources
+[[Database Relationships]]
 [Many-to-many relations | Prisma Docs](https://www.prisma.io/docs/concepts/components/prisma-schema/relations/many-to-many-relations)
 [GitHub1s](https://github1s.com/jimleestone/next-real-world/blob/HEAD/lib/api/mutation/article.mutation.ts)
 	article.mutations.ts
 		updateArticle
 [typescript - Prisma many-to-many relations: create and connect - Stack Overflow](https://stackoverflow.com/questions/65950407/prisma-many-to-many-relations-create-and-connect)
-[[Database Relationships]]

@@ -1,10 +1,10 @@
 ---
 created: 2023-09-20 06:16
-modified: Wednesday 20th September 2023 06:16:50
-alias:
+modified: 2025-06-15T18:54:25-04:00
+alias: 
 ---
 up::  [[Workflows]]
-tags:: #productivity
+tags:: [[productivity]]
 
 ## Weekly Review
 
