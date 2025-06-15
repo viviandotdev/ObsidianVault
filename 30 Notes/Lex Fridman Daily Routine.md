@@ -1,11 +1,9 @@
 ---
-created: 2024-06-30 20:37 
-modified: Sunday 30th June 2024 20:37:00
+created: 2024-06-30 20:37
+modified: 2025-06-15T18:48:23-04:00
 alias: 
 ---
 up::  [[Daily Routines]]
-type:: 
-links::
 ## Lex Fridman Daily Routine
 
 - **Mantra Routine** — This is split into four parts: rules, visualise, goals, and principles.

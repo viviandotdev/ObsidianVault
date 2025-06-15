@@ -1,10 +1,9 @@
 ---
 created: 2024-01-16 10:35
-modified: Tuesday 16th January 2024 10:36:07
-alias:
+modified: 2025-06-15T18:49:47-04:00
+alias: 
 ---
-up::
-tags:: #psychology
+tags:: [[psychology]]
 
 ## Loss Aversion
 

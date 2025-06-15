@@ -1,11 +1,11 @@
 ---
-created: 2024-04-28 20:02 
-modified: Sunday 28th April 2024 20:03:05
+created: 2024-04-28 20:02
+modified: 2025-06-15T18:47:57-04:00
 alias: 
 ---
-up::  
-type:: #note/insight💡 
-links::
+status:: #🟨 
+tags:: [[learning]]
+
 ## Learning is one of the most pleasurable experiences in life
 
 

@@ -1,10 +1,9 @@
 ---
 created: 2023-12-07 16:25
-modified: Thursday 7th December 2023 16:25:16
-alias:
+modified: 2025-06-15T18:50:01-04:00
+alias: 
 ---
-up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #love #relationships
+tags:: [[relationships]] [[love]]
 
 ## Love is actually misdiagnosed as major depressive episodes by mental health professionals
 
@@ -18,3 +17,4 @@ Symptoms of love sick
 Loves best resembles OCD (obsessive compulsive disorder)
 - you can’t control your attention and turn it toward your responsibilities
 - people newly in love spend 85% of their waking hours thinking about that special someone
+

@@ -1,9 +1,8 @@
 ---
 created: 2024-10-07 20:44
-modified: 2025-06-13T07:39:36-04:00
+modified: 2025-06-15T18:48:32-04:00
 alias: 
 ---
-up::  
 links:: [[intelligence]]
 ## Linoleic acid
 

@@ -1,10 +1,9 @@
 ---
 created: 2023-10-24 05:37
-modified: Tuesday 24th October 2023 05:37:33
-alias:
+modified: 2025-06-15T18:51:16-04:00
+alias: 
 ---
-up::
-tags:: #happiness #motivation
+tags:: [[happiness]]
 
 ## Meaningful work
 

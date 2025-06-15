@@ -21,7 +21,7 @@ by [[Eric Barker]]
 - [[Meaningful work]]
 
 ### Relationships
-- [[Love vs Arranged Marriages]]
+- [[Early on, "love marriages" are happier than "arranged marriages". However, overtime studies shows that arranged marriages have a lower divorce rates and more content couples.]]
 - [[Making friends]]
 - [[Responding to conflicts in relationships]]
 Express your gratitude toward others. Feeling gratitude and not expression it is like wrapping a present and not giving it.
@@ -29,7 +29,7 @@ Express your gratitude toward others. Feeling gratitude and not expression it is
 - [[If you want to follow through with your goals, phrase them in this simple way (If…then...)]]
 [[Power reduces empathy and causes us to be more selfish]]
 - [[Confidence is the result of success, not the cause. The surest path to confidence is becoming excellent at what you do.]]
-- [[IQ has little effect in what we are capable of]]
+- [[After the 120 mark, IQ has little effect in what we are capable of]]
 ### Choices
 - [[Sacrificing vs Maximizing]]
 -  [[We don’t do what actually makes us happy we choose to do what is easy.]]

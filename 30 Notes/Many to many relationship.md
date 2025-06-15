@@ -3,9 +3,8 @@ created: 2023-10-13 11:20
 modified: Friday 13th October 2023 11:20:12
 alias:
 ---
-up::
-tags:: #prisma #database
-related:: [[Database Relationships]]
+tags:: [[prisma]] [[database]]
+
 ## Many to many relationship
 
 Create and connect
@@ -119,3 +118,4 @@ model Shelf {
 	article.mutations.ts
 		updateArticle
 [typescript - Prisma many-to-many relations: create and connect - Stack Overflow](https://stackoverflow.com/questions/65950407/prisma-many-to-many-relations-create-and-connect)
+[[Database Relationships]]

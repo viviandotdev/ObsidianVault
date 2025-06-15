@@ -1,11 +1,9 @@
 ---
-created: 2024-05-24 10:24 
-modified: Friday 24th May 2024 10:24:17
+created: 2024-05-24 10:24
+modified: 2025-06-15T18:48:42-04:00
 alias: 
 ---
-up::  
-type:: 
-links:
+status #🟨 
 ## Life Optimization Coal Mine
 
 - [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)

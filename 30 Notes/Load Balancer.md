@@ -1,10 +1,8 @@
 ---
-alias:
-modified: 2025-06-13T07:48:31-04:00
+alias: 
+modified: 2025-06-15T18:49:30-04:00
 ---
-up::
 tags:: [[system-design]]
-related:
 
 ## Load Balancer
 Technologies: (NetScaler, NGINX, AWS ELB)

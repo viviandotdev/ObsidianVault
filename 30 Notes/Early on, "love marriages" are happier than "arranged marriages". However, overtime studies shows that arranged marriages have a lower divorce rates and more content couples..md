@@ -1,10 +1,9 @@
 ---
 created: 2023-10-24 06:03
-modified: Tuesday 24th October 2023 06:03:52
-alias:
+modified: 2025-06-15T18:50:33-04:00
+alias: 
 ---
-up::
-tags:: #relationships
+tags:: [[relationships]]
 
 ## Love vs Arranged Marriages
 
