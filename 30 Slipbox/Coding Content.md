@@ -1,10 +1,9 @@
 ---
 created: 2025-02-02 18:14
-modified: 2025-05-16T19:04:26-04:00
+modified: 2025-06-15T13:25:53-04:00
 alias: 
 ---
-up::  
-type:: #note/atomic🌳 
+tags:: [[content-creation]]  
 links::
 ## Coding Content
 

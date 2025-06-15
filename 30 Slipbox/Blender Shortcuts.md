@@ -2,7 +2,7 @@
 modified: 2025-06-15T07:07:37-04:00
 ---
 
-tags::  [[blender]]
+tags:: [[blender]]
 related:
 
 ## Blender Shortcuts
