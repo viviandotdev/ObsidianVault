@@ -1,6 +1,6 @@
 ---
 created: 2024-04-18 14:25
-modified: 2025-06-15T07:01:25-04:00
+modified: 2025-06-15T19:17:40-04:00
 aliases: 
 category: writing
 ---
@@ -10,12 +10,6 @@ category:: completed
 medium:: #source/course
 links::
 ## PYTA - Part Time YouTuber Academy
-
-[[Idea generation]]
-[[How to create interesting titles]]
-[[Crash Course in Writing]]
-[[PYTA Resources]]
-
 
 
 **Linked References to this Note**

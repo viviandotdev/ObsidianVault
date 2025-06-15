@@ -1,11 +1,9 @@
 ---
-created: 2024-04-18 14:31 
-modified: Thursday 18th April 2024 14:31:11
+created: 2024-04-18 14:31
+modified: 2025-06-15T19:17:29-04:00
 alias: 
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
-tags:: 
-links::
 ## Crash Course in Writing
 
 Write down your ideas, this is how you become more articulate, you must spend time thinking through everything you want to say. Words should be used intentionally.
