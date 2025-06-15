@@ -1,10 +1,10 @@
 ---
 created: 2024-04-18 14:44
-modified: Thursday 18th April 2024 14:44:26
-alias:
+modified: 2025-06-15T18:36:06-04:00
+alias: 
 ---
 up::  [[Ship 30 For 30]]
-tags:: #writing
+tags:: [[writing]] [[habits]]
 links::
 ## How to build a daily writing habit
 

@@ -1,12 +1,9 @@
 ---
 created: 2024-01-16 10:44
-modified: 2025-06-13T07:47:21-04:00
+modified: 2025-06-15T18:35:03-04:00
 alias: 
 ---
-
-up::  [[My Mind]]
 tags:: [[happiness]]
-related:: [[Psychology of Money by Morgan Housel]]
 ## Freedom and flexility over one’s life is the best predictor of wellbeing 
 I value freedom and flexibility over my time more that money, when making decisions I consider the time cost as well
 **Freedom and flexility over one’s life is the best predictor of wellbeing** - Morgan Housel

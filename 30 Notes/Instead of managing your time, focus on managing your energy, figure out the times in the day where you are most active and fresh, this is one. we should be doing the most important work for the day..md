@@ -1,11 +1,8 @@
 ---
 created: 2024-03-23 08:59
-modified: Saturday 23rd March 2024 09:00:07
-alias:
+modified: 2025-06-15T18:34:02-04:00
 ---
-up::
-tags::  #productivity #time-management
-links::
+tags:: [[productivity]]
 ## Energy Management
 
 Instead of managing your time, focus on managing your energy, figure out the times in the day where you are most active and fresh, this is one. we should be doing the most important work for the day.

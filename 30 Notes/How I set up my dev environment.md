@@ -1,13 +1,12 @@
 ---
 created: 2024-04-27 16:18
-modified: 2025-06-13T08:28:43-04:00
+modified: 2025-06-15T18:35:44-04:00
 aliases: 
 status: idea
 category: 
 tags: "#development"
 ---
 up::  [[tools]]
-tags:: [[dev environment]]
 ## How I set up my dev environment
 
 **Table of Contents**

@@ -1,9 +1,9 @@
 ---
 created: 2023-09-10 15:06
-modified: Sunday 10th September 2023 15:06:26
-alias:
+modified: 2025-06-15T18:34:53-04:00
+alias: 
 ---
-tags:: #psychology #habits
+tags:: [[psychology]]
 
 ## Fogg Behavior Model
 

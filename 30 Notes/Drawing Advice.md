@@ -1,10 +1,9 @@
 ---
-created: 2023-12-16 17:49 
-modified: Saturday 16th December 2023 17:49:53
+created: 2023-12-16 17:49
+modified: 2025-06-15T18:32:35-04:00
 alias: 
 ---
-up::  [[drawing]]
-tags:: 
+tags::  [[drawing]]
 
 ## Drawing Advice
 

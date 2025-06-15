@@ -1,12 +1,9 @@
 ---
 created: 2023-07-17 12:32
-modified: 2025-06-13T07:42:30-04:00
+modified: 2025-06-15T18:35:17-04:00
 alias: 
 ---
-up::
 tags:: [[git]]
-related:
-
 # git rebase
 
 The git rebase command allows you to easily modify the history of your branch or repository.

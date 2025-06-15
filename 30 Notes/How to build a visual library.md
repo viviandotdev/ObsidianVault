@@ -1,11 +1,9 @@
 ---
 created: 2025-01-19 15:02
-modified: 2025-02-22T08:22:54-05:00
+modified: 2025-06-15T18:36:09-04:00
 alias: 
 ---
 up::  [[drawing]]
-type:: #note/atomic🌳 
-
 ## How to build a visual library
 
 Choose a scene from a movie you really like and study the objects of the scene for a month

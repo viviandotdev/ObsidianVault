@@ -1,14 +1,12 @@
 ---
 created: 2024-06-08 15:54
-modified: 2025-06-15T07:13:52-04:00
+modified: 2025-06-15T18:31:50-04:00
 alias: 
 ---
-type:: #note 
 tags:: [[docker]]
-links::
 ## docker container
 
- An instance of an [[Docker Image]] that runs as an isolated process on the host machine. Lightweight executable package with everything you need to run an application.
+ An instance of an [[docker image]] that runs as an isolated process on the host machine. Lightweight executable package with everything you need to run an application.
 Containers are **mutable** and can be changed 
 
 ```

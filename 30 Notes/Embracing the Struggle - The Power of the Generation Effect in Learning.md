@@ -1,8 +1,9 @@
 ---
 created: 2024-04-22 08:44
-modified: 2025-06-13T07:35:08-04:00
+modified: 2025-06-15T18:33:24-04:00
 alias: 
 ---
+type:: #note/atomic-essay
 tags:: [[learning]]
 ## Embracing the Struggle - The Power of the Generation Effect in Learning
 

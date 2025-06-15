@@ -1,12 +1,11 @@
 ---
 created: 2023-11-04 14:48
-modified: 2025-06-13T07:42:09-04:00
+modified: 2025-06-15T18:35:28-04:00
 alias: 
 ---
 up::  [[language]]
 source::  [How I learnt Norwegian on my own - YouTube](https://www.youtube.com/watch?v=uWQYqcFX8JE)
 ## How I learnt Norewegian on my own
-
 
 How do kids learn language?
 1. Listen to the language as much as possible

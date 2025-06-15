@@ -1,10 +1,9 @@
 ---
-created: 2024-10-03 21:51 
-modified: Thursday 3rd October 2024 21:51:47
+created: 2024-10-03 21:51
+modified: 2025-06-15T18:32:01-04:00
 alias: 
 ---
 up::  
-type:: #note/atomic🌳 
 links::[Docosahexaenoic Acid benefits, dosage, and side effects](https://examine.com/supplements/docosahexaenoic-acid/)
 ## Docosahexaenoic acid
 

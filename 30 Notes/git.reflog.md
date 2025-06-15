@@ -1,9 +1,8 @@
 ---
 created: 2023-11-03 18:41
-modified: 2025-06-15T07:11:24-04:00
+modified: 2025-06-15T18:35:13-04:00
 alias: 
 ---
-type:: #note
 tags:: [[git]]
 
 ## git.reflog

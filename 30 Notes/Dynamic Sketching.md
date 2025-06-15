@@ -1,11 +1,9 @@
 ---
 created: 2024-12-10 13:06
-modified: 2024-12-22T18:45:32-05:00
+modified: 2025-06-15T18:32:43-04:00
 alias: 
 ---
 up::  [[drawing]]
-type:: #note/atomic🌳 
-links::
 ## Dynamic Sketching
 
 [Dynamic Sketching Study Guide - YouTube](https://www.youtube.com/watch?v=t6Jc3hjxcLM&list=LL&index=7)

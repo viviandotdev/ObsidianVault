@@ -1,10 +1,10 @@
 ---
-created: 2024-06-14 14:52 
-modified: Friday 14th June 2024 14:52:48
+created: 2024-06-14 14:52
+modified: 2025-06-15T18:34:34-04:00
 alias: 
 ---
 up::  
-type:: #postgresql 
+type:: [[PostgreSQL]]
 links:: [postgresql - 5: Input/output error Error: Failure while executing; \`/bin/launchctl bootstrap gui/502 and FATAL: password authentication failed for user - Stack Overflow](https://stackoverflow.com/questions/69094757/5-input-output-error-error-failure-while-executing-bin-launchctl-bootstrap)
 ## fix postgres error
 

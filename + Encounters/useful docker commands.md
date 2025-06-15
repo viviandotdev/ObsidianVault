@@ -1,7 +1,6 @@
 ---
-created: 2025-06-15 18:31 
-modified: Sunday 15th June 2025 18:31:11
-alias: 
+created: 2025-06-15 18:31
+modified: 2025-06-15T18:31:42-04:00
 ---
 tags:: [[docker]]
 ## useful docker commands

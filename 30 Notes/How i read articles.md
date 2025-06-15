@@ -1,11 +1,9 @@
 ---
-created: 2024-04-28 13:07 
-modified: Sunday 28th April 2024 13:07:25
+created: 2024-04-28 13:07
+modified: 2025-06-15T18:35:35-04:00
 alias: 
 ---
 up::  [[Workflows]]
-type:: 
-links::
 ## How i read articles
 
 **Articles**
