@@ -1,9 +1,9 @@
 ---
 created: 2023-07-12 09:49
-modified: Wednesday 12th July 2023 09:49:57
+modified: 2025-06-15T06:56:56-04:00
 ---
 up::  [[Meta PKM]]
-tags:: #PKM
+tags:: [[pkm]]
 
 ## The structure of My PKM
 + + **Encounters**: inbox for new notes

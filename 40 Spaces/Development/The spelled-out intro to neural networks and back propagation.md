@@ -3,7 +3,6 @@ created: 2023-11-29 05:58
 modified: Wednesday 7th February 2024 08:30:19
 alias:
 ---
-up::  [[Neural Networks MOC]]
 tags::  #neural-networks
 links:: [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
