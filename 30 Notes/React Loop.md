@@ -1,10 +1,9 @@
 ---
-created: 2024-04-23 06:10 
-modified: Tuesday 23rd April 2024 06:45:39
+created: 2024-04-23 06:10
+modified: 2025-06-15T19:01:21-04:00
 alias: 
 ---
 up::  [[Joy of React]]
-tags:: #note/atomic🌳 
 links:: [Render and Commit – React](https://react.dev/learn/render-and-commit)
 ## React Loop
 ![[Screenshot 2024-06-08 at 6.34.58 PM.png]]

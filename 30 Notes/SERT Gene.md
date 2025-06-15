@@ -1,11 +1,9 @@
 ---
-created: 2024-06-04 18:21 
-modified: Tuesday 4th June 2024 18:21:02
+created: 2024-06-04 18:21
+modified: 2025-06-15T18:59:58-04:00
 alias: 
 ---
-up::  
-type:: #note/
-links:: 
+up::  [[serotonin]]
 ## SERT Gene
 
 This is known as the sensitive gene and studies have shown that people of East Asian decent were much more likely to carry this short gene variant.

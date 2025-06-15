@@ -1,10 +1,9 @@
 ---
 created: 2023-10-19 09:23
-modified: Thursday 19th October 2023 09:23:45
-alias:
+modified: 2025-06-15T18:58:49-04:00
+alias: 
 ---
 up::  [[buddhism]]
-tags:: #buddhism
 
 ## Suffering (dukkha)
 The second mark of existence is

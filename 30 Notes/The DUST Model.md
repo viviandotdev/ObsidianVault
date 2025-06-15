@@ -1,13 +1,9 @@
 ---
 created: 2024-01-30 20:30
-modified: Tuesday 30th January 2024 20:30:11
-alias:
+modified: 2025-06-15T18:57:49-04:00
+alias: 
 ---
-up::
-tags:: #procrastination
-source::[Why we wait: Understanding the emotions behind procrastination](https://nesslabs.com/procrastination-emotions)
-related:: [[How to overcome procrastination?]]
-
+tags:: [[procrastination]]
 
 ## The DUST Model for Procrastination
 
@@ -22,3 +18,7 @@ The reasons we procrastinate
 **Scary:** The fear of failure may stop you from doing what you need to do. Create a bigger fear than the original that will make you do the task.
 **Tedious**: The task is tedious and boring.
 	**Strategy**- listen to podcast while do the work, reward yourself with something once the task is deon
+
+**Resources**
+[Why we wait: Understanding the emotions behind procrastination](https://nesslabs.com/procrastination-emotions)
+[[How to overcome procrastination?]]

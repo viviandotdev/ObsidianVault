@@ -1,10 +1,9 @@
 ---
 created: 2023-11-03 10:59
-modified: Friday 3rd November 2023 10:59:32
-alias:
+modified: 2025-06-15T18:59:14-04:00
+alias: 
 ---
-up::
-tags:: #life #happiness
+tags:: [[happiness]]
 
 ## Signature strengths
 

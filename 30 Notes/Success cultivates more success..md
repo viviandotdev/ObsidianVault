@@ -1,10 +1,9 @@
 ---
 created: 2023-11-03 13:35
-modified: Friday 3rd November 2023 13:35:50
-alias:
+modified: 2025-06-15T18:58:55-04:00
+alias: 
 ---
-up::
-tags:: #success
+tags:: [[success]]
 
 ## Success cultivates more success.
 

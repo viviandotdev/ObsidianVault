@@ -1,10 +1,10 @@
 ---
 created: 2023-12-07 16:26
-modified: Thursday 7th December 2023 16:26:40
-alias:
+modified: 2025-06-15T18:57:01-04:00
+alias: 
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #love #relationships
+tags:: [[love]]
 
 ## The irrationality of love is exceedingly rational.
 

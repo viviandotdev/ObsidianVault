@@ -1,10 +1,10 @@
 ---
 created: 2023-10-19 09:05
-modified: Thursday 19th October 2023 09:06:00
-alias:
+modified: 2025-06-15T19:00:58-04:00
+alias: 
 ---
 up::
-tags:: #buddhism #suffering
+tags:: [[buddhism]] [[Suffering (dukkha)]]
 
 ### Second arrow of suffering
 When you feel physical suffering, you react to it emotionally. This is the second arrow of suffering, how you react to that initial suffering can cause you mental pain. Another example is when you feel angry. When people are angry, they will react with physical violence or yelling. This is additional suffering that you are creating for yourself and the person you are angry at. However, instead you should pause and feel the emotion and not react to it.

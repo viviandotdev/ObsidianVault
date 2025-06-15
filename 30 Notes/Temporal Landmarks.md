@@ -1,10 +1,9 @@
 ---
 created: 2023-09-19 13:19
-modified: Tuesday 19th September 2023 13:19:28
-alias:
+modified: 2025-06-15T18:58:40-04:00
+alias: 
 ---
-up::
-tags:: #habits
+tags:: [[habits]]
 
 ## Temporal Landmarks
 

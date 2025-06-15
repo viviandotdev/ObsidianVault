@@ -1,10 +1,9 @@
 ---
 created: 2023-07-15 09:05
-modified: Saturday 15th July 2023 09:05:41
-alias:
+modified: 2025-06-15T18:56:35-04:00
+alias: 
 ---
 tags::  [[memory]]
-related:
 
 ## Mnemonic Major System
 

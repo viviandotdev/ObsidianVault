@@ -1,10 +1,10 @@
 ---
 created: 2023-07-15 12:02
-modified: Saturday 15th July 2023 12:02:23
-alias:
+modified: 2025-06-15T18:57:23-04:00
+alias: 
 ---
 up:: [[My PKM Workflows]]
-tags:: #note-taking #PKM
+tags:: [[note-taking]]
 related: [[How to Write Atomic Notes]]
 
 ## The Idea Compass

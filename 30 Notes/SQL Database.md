@@ -1,9 +1,8 @@
 ---
 created: 2023-07-16 15:26
-modified: Sunday 16th July 2023 15:26:29
-alias:
+modified: 2025-06-15T18:58:58-04:00
+alias: 
 ---
-up::
 tags:: [[system-design]]
 related: [[No SQL Database]]
 
