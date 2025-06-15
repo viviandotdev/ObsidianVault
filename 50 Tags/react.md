@@ -1,9 +1,10 @@
 ---
 created: 2024-05-26 11:13
-modified: 2025-06-13T08:40:33-04:00
+modified: 2025-06-15T14:14:51-04:00
 alias: 
 ---
-## React
+up:: [[frontend development]]
+## react
 
 **Resources**
 

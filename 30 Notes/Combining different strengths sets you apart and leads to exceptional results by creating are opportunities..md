@@ -1,6 +1,7 @@
-up::  [[My Mind]]
-tags::
-related::
+---
+modified: 2025-06-15T14:15:26-04:00
+---
+tags:: 
 ## Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.
 
 **Topic**
@@ -38,5 +39,3 @@ However if you combine your strengths/skills there is less competietion.
 
 **Potential Framework, System, or Solution**
 *Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!*
-
-  - List
