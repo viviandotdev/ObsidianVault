@@ -1,9 +1,9 @@
 ---
 created: 2023-07-12 05:34
-modified: Wednesday 12th July 2023 05:34:43
+modified: 2025-06-15T07:07:10-04:00
 ---
 up::
-tags::  #finance
+tags::  [[finance]]
 related:
 
 ## Backdoor Roth IRA

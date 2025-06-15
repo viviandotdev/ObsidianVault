@@ -9,7 +9,7 @@ alias:
 
 [[frontend development]]
 
-[[Backend Development MOC]]
+[[backend development]]
 
 [[Deploy app to VPS]]
 

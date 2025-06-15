@@ -1,10 +1,10 @@
 ---
 created: 2023-07-25 17:55
-modified: Sunday 6th August 2023 12:02:43
-alias:
+modified: 2025-06-15T07:04:49-04:00
+alias: 
 ---
 up::
-tags:: #system-design
+tags:: [[system-design]]
 related:
 
 ## API Gateway

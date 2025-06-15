@@ -1,10 +1,8 @@
 ---
 created: 2023-11-03 14:12
 modified: Friday 3rd November 2023 14:12:11
-alias:
 ---
-up::
-tags:: #success
+tags:: [[success]]
 
 ## Balance the big four metrics of success to create a well rounded life with no regrets.
 
