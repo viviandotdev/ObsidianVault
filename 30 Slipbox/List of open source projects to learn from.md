@@ -1,10 +1,8 @@
 ---
 created: 2024-05-19 18:54
-modified: 2025-06-15T12:46:36-04:00
+modified: 2025-06-15T12:53:01-04:00
 alias: 
 ---
-
-type: #note/list
 tags:: [[open source]]
 ## List of open source projects to learn from
 
