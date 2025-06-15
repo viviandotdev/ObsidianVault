@@ -1,11 +1,8 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-15T07:22:17-04:00
+modified: 2025-06-15T18:24:40-04:00
 alias: 
 ---
-up::  [[+ Library]]
-related:
-
 ## drawing
 [[Drawing Advice]]
 [[Anki for Artists]]
@@ -50,6 +47,13 @@ Design
 Story
 Expression
 
+
+Color and Light 
+-  Color Theory
+- Light Sources
+**Resources**
+-  Color and Light by James Gurney, 
+-  Color and Light by 3DTotal Publishing
 
 **Exercises**
 [[Anki for Artists]]

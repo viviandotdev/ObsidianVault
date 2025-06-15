@@ -3,8 +3,6 @@ created: <% tp.file.creation_date() %>
 modified: 2025-06-13T07:48:19-04:00
 alias: 
 ---
-up::
-related:[[Load Balancer]]
 
 ## Database Sharding
 
@@ -25,6 +23,10 @@ Database sharding is a form of horizontal scaling, rather than making the databa
 - Increased complexity
   - With every sharded database, on top of managing the shards themselves, there are additional service nodes to maintain.
 
+
+## Related
+
+[[Load Balancer]]
 ### Links to this page
 ```dataview
 LIST

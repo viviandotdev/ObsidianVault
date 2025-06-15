@@ -1,9 +1,6 @@
 ---
 created: 2023-09-22 06:41
-modified: 2025-06-15T14:13:40-04:00
-alias: 
-Status: idea
-Category: react
+modified: 2025-06-15T18:24:55-04:00
 ---
 up::
 tags:: [[react]]

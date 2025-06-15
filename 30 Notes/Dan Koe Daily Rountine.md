@@ -1,11 +1,9 @@
 ---
 created: 2024-06-30 20:55
-modified: 2025-02-19T06:48:06-05:00
+modified: 2025-06-15T18:25:52-04:00
 alias: 
 ---
-up::  
-type:: #note/atomic🌳 
-links::
+tags:: [[habits]]
 ## Dan Koe Daily Rountine
 
 4 blocks separated by walking or meals

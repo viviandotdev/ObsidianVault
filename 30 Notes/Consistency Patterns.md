@@ -1,10 +1,6 @@
 ---
 created: 2023-10-15 10:55
-modified: Sunday 15th October 2023 13:31:17
-alias:
-Category: system-design
-Status: hold
-tags: "[[system-design]]"
+modified: 2025-06-15T18:24:51-04:00
 ---
 up::  [[system-design]]
 

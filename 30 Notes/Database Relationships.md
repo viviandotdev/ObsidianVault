@@ -1,10 +1,9 @@
 ---
 created: 2023-09-25 21:24
-modified: Monday 25th September 2023 21:24:18
-alias:
+modified: 2025-06-15T18:26:11-04:00
+alias: 
 ---
-up::
-tags:: #database #prisma
+tags:: [[database]] [[prisma]]
 
 ## Database Relationships
 

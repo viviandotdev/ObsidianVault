@@ -1,9 +1,8 @@
 ---
 created: 2023-09-19 06:37
-modified: 2025-06-15T13:52:05-04:00
+modified: 2025-06-15T18:25:01-04:00
 alias: 
 ---
-up::
 tags:: [[capitalism]]
 
 ## A Capitalist system incentives people to act in their own self-interest and makes it as easy as possible to do so.
