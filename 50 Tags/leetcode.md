@@ -1,17 +1,26 @@
 ---
-modified: 2025-06-13T06:53:07-04:00
+created: 2025-03-23 20:22
+modified: 2025-06-15T13:01:17-04:00
+alias: 
 ---
-**Leetcode**
+## leetcode
 
 How to solve and think through problems 
 [How to solve coding problems](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=19)
 [LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!) - YouTube](https://www.youtube.com/watch?v=RYT08CaYq6A)
-[[Leetcode ROI]]
 [LeetCode Algorithm Templates: Code Faster, Error-Free Solutions](https://algo.monster/templates)
 
 **Patterns**
 [[Two Pointers]]
 
+
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+
+SORT file.link asc
+```
 
 
 

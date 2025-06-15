@@ -1,16 +1,17 @@
 ---
-modified: 2025-06-15T07:26:51-04:00
+created: 2025-06-15 07:19
+modified: 2025-06-15T12:59:16-04:00
+alias: 
 ---
+## css
 
-### Links to this page
-These notes point directly to this note. But this note doesn't point back.
 ```dataview
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-and -#map
 
 SORT file.link asc
 ```
+
 
 

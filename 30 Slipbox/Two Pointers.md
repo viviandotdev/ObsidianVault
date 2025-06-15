@@ -1,7 +1,7 @@
 ---
-modified: 2025-04-14T09:28:09-04:00
+modified: 2025-06-15T13:00:23-04:00
 ---
-up:: [[leetcode]]
+tags:: [[leetcode]]
 
 [Two Pointers in 7 minutes | LeetCode Pattern - YouTube](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45&index=1)
 Iterate through an array or list looking for pairs of elements that meet a specific criteria

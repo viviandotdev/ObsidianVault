@@ -1,23 +1,17 @@
 ---
-created: 2024-01-12 09:17
-modified: 2025-06-13T07:02:23-04:00
+created: 2024-10-20 11:35
+modified: 2025-06-15T12:59:08-04:00
 alias: 
 ---
-up::
-
 ## creativity
 
-**Books**
-
-
-
-### Unmentioned notes, with related tag
-These notes have the tag `#` and are not mentioned above.
 ```dataview
 LIST
-
-FROM #creativity
+FROM [[#]]
 and !outgoing([[#]])
 
 SORT file.link asc
 ```
+
+
+

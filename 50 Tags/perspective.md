@@ -1,12 +1,19 @@
 ---
-created: 2024-04-14 18:15
-modified: 2025-06-13T07:48:00-04:00
+created: 2024-10-20 11:35
+modified: 2025-06-15T13:02:17-04:00
 alias: 
 ---
-up::  [[drawing]]
-tags:: 
-links::
-## Perspective
+up:: [[drawing]]
+## perspective
+
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+
+SORT file.link asc
+```
+
 
 [Drawabox.com](https://drawabox.com/lesson/2)
 [Perspective Drawing Series (1994)](https://gumroad.com/d/d3a1ebb44d7b16f917b634a796485469)
@@ -17,7 +24,7 @@ links::
 - 
 
 **Perspective Grids**
-- Brewer method
+- [[Brewer method]]
 
 
 **Ellipses and Rotations**

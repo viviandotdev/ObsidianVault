@@ -1,16 +1,14 @@
 ---
-modified: 2025-06-15T07:27:19-04:00
+created: 2025-04-30 06:24
+modified: 2025-06-15T12:59:25-04:00
+alias: 
 ---
 up:: [[react-native]]
-tags: [[expo]]
-
-### Expo
-
+## expo
 ```dataview
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-and -#map
 
 SORT file.link asc
 ```
