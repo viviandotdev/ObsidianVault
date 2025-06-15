@@ -1,14 +1,14 @@
 ---
 created: 2023-09-22 06:41
-modified: Friday 22nd September 2023 06:41:21
-alias:
+modified: 2025-06-15T14:13:40-04:00
+alias: 
 Status: idea
 Category: react
 ---
 up::
-tags:: #react
+tags:: [[react]]
 
-## Component composition
+## Component Composition
 
 
 [Component Composition &amp; Compound Components - StackBlitz](https://stackblitz.com/edit/react-ts-uzanui?file=App.tsx)

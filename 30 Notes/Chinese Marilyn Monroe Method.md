@@ -1,11 +1,9 @@
 ---
 created: 2024-03-07 08:44
-modified: Thursday 7th March 2024 08:44:23
-alias:
+modified: 2025-06-15T14:10:52-04:00
+alias: 
 ---
-up::  [[chinese]]
-tags:: #language #chinese
-links::
+tags:: [[language]] [[chinese]]
 ## Chinese Marilyn Monroe Method
 [Mnemonics for Pronouncing Chinese Characters (the Marilyn Method)](https://countryoftheblind.blogspot.com/2012/01/mnemonics-for-pronouncing-chinese.html)
 [Hanzi-Movie-Method-Set-Mnemonics](https://www.mandarinblueprint.com/wp-content/uploads/2023/01/Hanzi-Movie-Method-Set-Mnemonics.pdf)

@@ -1,14 +1,10 @@
 ---
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-alias:
+created: 2024-10-20 11:35
+modified: 2025-06-15T14:10:21-04:00
 ---
-up::
 tags:: [[system-design]]
-related:
 
 ## Check pointing
-
 ![[checkpointing.excalidraw|500]]
 
 As events arrive, we store in the temporary storage (queue) and the processing service will **pull** these events from the storage sequentially.
@@ -21,3 +17,18 @@ How do checkpoints ensure **consistency?**
 
 How do checkpoints ensure **fault tolerance?**
 2. If failure occurs during aggregation process we can recover from the last saved checkpoint, avoids processing entire dataset from the beginning saving time and computational resources.
+
+
+### Links to this page
+These notes point directly to this note. But this note doesn't point back.
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+and -#map
+
+SORT file.link asc
+```
+
+
+

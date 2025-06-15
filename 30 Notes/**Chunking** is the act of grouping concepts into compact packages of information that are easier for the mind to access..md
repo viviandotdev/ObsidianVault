@@ -1,12 +1,11 @@
 ---
 created: 2023-08-05 08:18
-modified: 2025-06-13T07:48:50-04:00
+modified: 2025-06-15T14:11:10-04:00
 alias: 
 ---
 up::
 tags:: [[learning]]
 related:
-### Chunking
 
 **Chunking** is the act of grouping concepts into compact packages of information that are easier for the mind to access.
 

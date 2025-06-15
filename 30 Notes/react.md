@@ -3,8 +3,6 @@ created: 2024-05-26 11:13
 modified: 2025-06-13T08:40:33-04:00
 alias: 
 ---
-up::  [[dev environment]]
-type::
 ## React
 
 **Resources**
@@ -16,6 +14,10 @@ type::
 [[Zero to Shipped]]
 [[Joy of React]]
 
+
+**Best Practices**
+[[Component Composition]]
+[[How to structure react applications]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
