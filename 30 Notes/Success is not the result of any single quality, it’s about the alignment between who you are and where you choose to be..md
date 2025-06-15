@@ -1,11 +1,11 @@
 ---
 created: 2023-11-03 10:58
-modified: 2025-06-15T13:47:49-04:00
+modified: 2025-06-15T14:06:21-04:00
 alias: 
 ---
 tags:: [[success]]
 
-## Alignment and Success
+## Success is not the result of any single quality, it’s about the alignment between who you are and where you choose to be.
 
 **Alignment and Success**
 Success is not the result of any single quality, it’s about the alignment between who you are and where you choose to be.

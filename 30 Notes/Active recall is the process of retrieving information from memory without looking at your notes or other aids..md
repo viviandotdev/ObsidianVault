@@ -1,12 +1,12 @@
 ---
 created: 2023-09-03 12:39
-modified: 2025-06-15T13:47:42-04:00
+modified: 2025-06-15T14:08:23-04:00
 alias: 
 ---
 tags:: [[learning]]
 
 ### Active Recall
-
+Active recall is the process of retrieving information from memory without looking at your notes or other aids.
 ### How do you do active recall?
 1. **On a blank sheet of paper**, recall everything you know about the topic / concept you are trying to learn.
 	- Recall mind maps

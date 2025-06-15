@@ -29,7 +29,7 @@ A rate limiter is a system limits the number of user requests allowed to be sent
 - Accurate: The rate limiter should accurately enforce the defined rate limiting rules.
 
 ### Where to rate limit?
-Rate limiting is usually implemented within a component called [[API Gateway]] An API gateway acts as a centralized entry point for client requests in an application that uses multiple backend microservices.
+Rate limiting is usually implemented within a component called [[API Gateway is an abstraction layer between the front end and backend microservices that routes the request sent from the client to the correct backend service.]] An API gateway acts as a centralized entry point for client requests in an application that uses multiple backend microservices.
 
 TODO:  Api Gateway excalidraw image
 ### Rate Limiting Algorithms

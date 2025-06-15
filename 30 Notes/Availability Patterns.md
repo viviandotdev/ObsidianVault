@@ -1,11 +1,9 @@
 ---
 created: 2023-10-15 13:18
-modified: 2025-06-15T07:05:51-04:00
+modified: 2025-06-15T14:06:04-04:00
 alias: 
-Category: system-design
-Status: idea
 ---
-up::[[system-design]]
+tags:: [[system-design]]
 
 What are system design patterns that improve **availability** and **fault tolerance**?
 **Availability** =  System up time the percentage time the system has been working and available.

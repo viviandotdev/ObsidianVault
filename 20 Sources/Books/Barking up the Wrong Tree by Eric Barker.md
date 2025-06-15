@@ -36,7 +36,7 @@ Express your gratitude toward others. Feeling gratitude and not expression it is
 -  [[It is easier to decrease to reduce the effort (ability) to do something than to increase motivation]]
 
 ### What makes a successful life?
-- [[Alignment and Success]]
+- [[Success is not the result of any single quality, it’s about the alignment between who you are and where you choose to be.]]
 - [[Success cultivates more success.]]
 -  [[Balance the big four metrics of success to create a well rounded life with no regrets.]]
 

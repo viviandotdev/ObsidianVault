@@ -1,9 +1,10 @@
 ---
 created: 2023-12-11 08:19
-modified: 2025-06-15T13:45:50-04:00
+modified: 2025-06-15T14:09:19-04:00
 alias: 
 ---
 tags:: [[relationships]]
+### 4 Horseman in Predicting divorce
 
 **Criticism**
 	Complaining is healthy in a marriage but  criticism is not.
