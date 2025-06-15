@@ -1,13 +1,11 @@
 ---
 created: 2024-02-14 22:07
-modified: Wednesday 14th February 2024 22:07:30
-alias:
+modified: 2025-06-15T13:29:16-04:00
+alias: 
 ---
-up::
-status:: #❤️ 
-tags:: #money
-medium:: #source/article 
-URL::[The Nothingness of Money](https://moretothat.com/the-nothingness-of-money/)
+type:: #source/article 
+tags:: [[money]]
+link::[The Nothingness of Money](https://moretothat.com/the-nothingness-of-money/)
 ## Nothingness of Money
 
 Rich people need it. Poor people have it. If you eat it you die. And when you die, you take it with you. What is it?

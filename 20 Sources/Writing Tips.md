@@ -1,9 +1,9 @@
 ---
 created: 2024-01-12 10:42
-modified: 2025-06-15T07:00:51-04:00
+modified: 2025-06-15T13:30:32-04:00
 alias: 
 ---
-#source/article 
+type:: #source/article 
 up::  [[writing]]
 sources:: [How To Write - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-write)
 
