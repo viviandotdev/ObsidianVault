@@ -1,9 +1,7 @@
 ---
-modified: 2025-06-15T07:23:29-04:00
+modified: 2025-06-15T18:30:41-04:00
 ---
-[[startups]]
-
-  
+tags:: [[startups]]
 
 At the start it is okay to do things manually
 

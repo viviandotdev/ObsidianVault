@@ -1,11 +1,9 @@
 ---
-created: 2024-04-23 13:56 
-modified: Tuesday 23rd April 2024 13:56:46
+created: 2024-04-23 13:56
+modified: 2025-06-15T18:27:18-04:00
 alias: 
 ---
 up::  [[tools]]
-tags:: #map/view 
-links::
 ## Design Tools
 
 [[Figma]]

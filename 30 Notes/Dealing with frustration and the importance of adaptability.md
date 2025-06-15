@@ -1,9 +1,8 @@
 ---
 created: 2023-09-23 12:36
-modified: 2025-06-13T07:48:14-04:00
+modified: 2025-06-15T18:26:58-04:00
 alias: 
 ---
-up::
 tags:: [[happiness]]
 
 ## Dealing with frustration and the importance of adaptability

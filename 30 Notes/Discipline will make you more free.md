@@ -1,6 +1,8 @@
+---
+modified: 2025-06-15T18:30:37-04:00
+---
 up::
-tags:: #discipline #stoicism
-source:: [[The Discipline Expert- The 4 Surprising & Easy Habits ALL High Achievers Have! (Based On 2,000 Years Of Research) - Ryan Holiday]]
+tags:: [[dicipline]]
 
 ## Discipline will make you more free
 

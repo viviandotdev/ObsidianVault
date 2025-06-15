@@ -1,8 +1,9 @@
 ---
-created: <% tp.file.creation_date() %>
-modified: 2025-06-13T07:48:19-04:00
+created: 
+modified: 2025-06-15T18:26:54-04:00
 alias: 
 ---
+tags:: [[system-design]]
 
 ## Database Sharding
 

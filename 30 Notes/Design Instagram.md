@@ -1,9 +1,8 @@
 ---
 created: 2024-01-16 12:22
-modified: Wednesday 21st February 2024 13:25:20
-alias:
+modified: 2025-06-15T18:27:14-04:00
+alias: 
 ---
-up::
 tags::  [[system-design]]
 
 ## Design Instagram

@@ -1,10 +1,9 @@
 ---
-created: 2024-05-19 19:55 
-modified: Sunday 19th May 2024 19:55:00
+created: 2024-05-19 19:55
+modified: 2025-06-15T18:30:23-04:00
 alias: 
 ---
-up::  
-links::
+tags:: [[content-creation]]
 ## Development Coal Mine
 Inventory of potential websites, social media feeds, youtube channels and any other places on the web to mine for. content ideas that are relevant to your channel or blog.
 

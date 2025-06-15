@@ -1,12 +1,9 @@
 ---
 created: 2023-09-01 14:53
-modified: Friday 1st September 2023 14:53:44
-alias:
+modified: 2025-06-15T18:27:13-04:00
+alias: 
 ---
-up::
 tags:: [[system-design]]
-related:
-
 ## Design a Unique ID Generator
 
 ### Functional Requirements

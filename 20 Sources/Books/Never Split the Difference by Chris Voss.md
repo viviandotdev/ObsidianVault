@@ -1,6 +1,6 @@
 ---
 created: 2023-11-27 13:07
-modified: Tuesday 28th November 2023 14:12:21
+modified: 2025-06-15T18:28:21-04:00
 title: Never Split the Difference
 author: Chris Voss
 ---
@@ -221,9 +221,18 @@ No. 3 could be a calibrated “How” or “What” question about implementatio
 Or the three times might just be the same calibrated question phrased three different ways, like “What’s the biggest challenge you faced? What are we up against here? What do you see as being the most difficult thing to get around?”
 ### How to interpret your counterpart non-verbal cues to detect lies
 
-[[Detecting Lies]]
-[[Pinocchio Effect]]
-[[7-38-55 Percent Rules]]
+## Detecting Lies
+
+And we’re terrible at detecting lies, averaging a 54 percent success rate.
+
+Ask lots of open-ended questions that start with **“What” or “How,”** not things that can be answered with one word. You want to be friendly and say just enough to keep ’em gabbing. Letting them monologue makes them feel in control.
+If you immediately start challenging what they say, not only might they shut down
+
+Start off with expected questions. This is un-intimidating and gets you info—but more important, it gets you a baseline.
+And lead them to say something that contradicts the info you dug up. Ask for clarification so they commit to it. And then: Sorry, I’m confused.
+
+**Pinchchio Effect**
+Liars use more words and spoke with more complex sentences than truth tellers. They also use more third-person pronouns such as him, her, it one, they rather than I to put distance between them and the lie.
 
 ### Getting the Counterpart to bid against themselves using the Multi-step no
 Say "No" using "How" questions. You can usually **express "No" four times before saying the actual word**. These responses won't shutdown the other side but will sound like counter bids so that you counterpart will often keep bidding against themselves
