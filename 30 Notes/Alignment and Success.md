@@ -1,9 +1,9 @@
 ---
 created: 2023-11-03 10:58
-modified: Friday 3rd November 2023 10:59:00
-alias:
+modified: 2025-06-15T13:47:49-04:00
+alias: 
 ---
-tags:: #success
+tags:: [[success]]
 
 ## Alignment and Success
 

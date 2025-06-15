@@ -1,10 +1,9 @@
 ---
 created: 2023-09-03 12:39
-modified: Sunday 3rd September 2023 12:39:43
-alias:
+modified: 2025-06-15T13:47:42-04:00
+alias: 
 ---
-up::
-tags:: #learning #study-tips
+tags:: [[learning]]
 
 ### Active Recall
 

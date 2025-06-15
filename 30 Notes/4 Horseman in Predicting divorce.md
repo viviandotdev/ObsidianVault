@@ -1,9 +1,8 @@
 ---
 created: 2023-12-11 08:19
-modified: 2025-06-13T07:22:03-04:00
+modified: 2025-06-15T13:45:50-04:00
 alias: 
 ---
-up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
 tags:: [[relationships]]
 
 **Criticism**
@@ -16,3 +15,6 @@ tags:: [[relationships]]
 	Anything that conveys, “No, the problem isn’t me its you”. Denying responsibilities, making excuses saying “yes, but …”. During an argument don’t counterattack or dodge just listen to your partner’s issues. How you start the argument is super important because it also determines how it ends. the best way to start is by listening for at least 3 minutes.
 **Contempt**:
 	Contempt is anything that implies your partner is inferior to you. Calling them names and putting them down.
+
+**References**
+[[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]

@@ -1,8 +1,7 @@
 ---
-modified: 2025-06-13T08:32:30-04:00
+modified: 2025-06-15T13:45:24-04:00
 tags: 
 ---
-[[3d-printing]]
 **3D Modeling Courses before buying a printer**
 
 1. Complete the 30 days with fusion
@@ -73,14 +72,8 @@ Things to build a design
 - [Udemy: Beginning Fusion 360](https://www.udemy.com/course/beginning-fusion-360/?couponCode=LETSLEARNNOWPP)
 - [MakerWorld: 3D Models and Designs](https://makerworld.com/en/models/categories)
 
----
-
 ## 3. Project Ideas to Design and Build
 
 - Custom desk drawer tailored for your desk
 - Organizers for desk items and accessories
 - Bed desk or lap desk accessory
-
----
-
-If you want, I can help you create a detailed learning plan or suggest project workflows!>)

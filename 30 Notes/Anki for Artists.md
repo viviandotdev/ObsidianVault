@@ -1,17 +1,15 @@
 ---
-created: 2024-04-14 15:00 
-modified: Sunday 14th April 2024 15:00:11
+created: 2024-04-14 15:00
+modified: 2025-06-15T13:48:25-04:00
 alias: 
 ---
-up::  [[drawing]]
-tags:: 
-links::
+tags:: [[learning]] [[drawing]] 
+
 ## Anki for Artists
 
 [A Case Study in Artistic Training | Muddy Colors](https://www.muddycolors.com/2020/06/a-case-study-in-artistic-training-methods/)
 [Anki for Artists Part 1](https://www.youtube.com/watch?v=J_j3BunQ6AQ)
 [Anki for Artists - pt.2 - best practices and limitations - YouTube](https://www.youtube.com/watch?v=4MF5LWwTPTk)
-
 
 Use Anki for drawing challenges and exercises group the cards into skills
 **Creating Cards**

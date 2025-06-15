@@ -1,10 +1,9 @@
 ---
 created: 2023-09-02 15:45
-modified: 2025-06-13T07:49:35-04:00
+modified: 2025-06-15T13:47:02-04:00
 alias: 
 ---
-sources: [Feynman's Darlings -- Or: How Anyone Can Become Brilliant • Zettelkasten Method](https://zettelkasten.de/posts/feynmans-darlings-become-brilliant/)
-
+tags:: [[learning]]
 ### 12 Favorite problems
 
 A simple technique for seeing the world through the lens of open-ended questions, which he called his “favorite problems.”
@@ -16,3 +15,5 @@ You can create a list of your own favorite problems – a concrete set of questi
 - See how a piece of information might be useful and why it’s worth keeping
 - See insightful patterns across multiple subjects that seem unrelated, but might share a common thread
 
+**Resources**
+ [Feynman's Darlings -- Or: How Anyone Can Become Brilliant • Zettelkasten Method](https://zettelkasten.de/posts/feynmans-darlings-become-brilliant/)
