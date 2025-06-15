@@ -1,10 +1,10 @@
 ---
-created: 2023-11-04 08:05 
-modified: Saturday 4th November 2023 08:05:01
+created: 2023-11-04 08:05
+modified: 2025-06-15T07:08:11-04:00
 alias: 
 ---
-up::  
-tags:: #source/video 
+#source/video 
+tags:: 
 source:: [Are you took fat or just too weak?](https://reclipped.com/docs?q=uri:https://www.youtube.com/watch?v%3DseDmwOQtazU)
 ## Are you too Fat or just Too weak?
 

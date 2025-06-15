@@ -1,10 +1,10 @@
 ---
 created: 2023-09-23 11:37
-modified: Saturday 23rd September 2023 11:37:31
-alias:
+modified: 2025-06-15T07:07:45-04:00
+alias: 
 ---
 up::
-tags:: #money #renting #investing
+tags:: [[money]]
 source:: [[The Money Expert- "Do Not Buy A House!"... The 10 Ways To Make REAL Money! Ramit Seth]]
 ## Buying a house vs investing in the market
 
