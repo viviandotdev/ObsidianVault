@@ -1,26 +1,30 @@
 ---
 created: 2024-05-19 18:54
-modified: 2025-06-15T07:29:55-04:00
+modified: 2025-06-15T12:46:36-04:00
 alias: 
 ---
-## Full stack development
 
-[[Open Source Projects]]
+type: #note/list
+tags:: [[open source]]
+## List of open source projects to learn from
 
-[[frontend development]]
 
-[[backend development]]
+[OSS Gallery](https://oss.gallery/)
+[Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
+[Open Source Collection | Discover Open Source Projects | OSC](https://opensourcecollection.com/)
 
-[[Deploy app to VPS]]
 
-**SASS Starter kits**
-[GitHub - Saas-Starter-Kit/Saas-Kit-prisma: 🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)
+
+
+[GitHub - projectx-codehagen/Badget: Badget aims to simplify financial management with a user-friendly interface and robust backend](https://github.com/projectx-codehagen/Badget)
+
+
 
 **templates ui kits**
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/)
 
 
-**Next.js Open Source Projects to look at**
+**Next.js Open Source Projects to learn from**
 
 - [bkmrk.cc](https://github.com/gokulkrishh/bmrk.cc) - open source book mark manaeres
 - [dub](https://github.com/dubinc/dub) - open source link management infrastructure
@@ -40,5 +44,5 @@ alias:
 
 **Resources **
 [Toools.design – An archive of 1,500+ Design Resources](https://www.toools.design/)
-
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/)
+[GitHub - Saas-Starter-Kit/Saas-Kit-prisma: 🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)

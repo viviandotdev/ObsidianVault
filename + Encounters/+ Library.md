@@ -35,7 +35,7 @@ Navigate your library of maps with a classification system made specifically for
 	
 - ### *500 - Tech & Applied Sciences* 🤖
 	- [[AI MOC]] 
-	- [[fullstack development]]
+	- [[List of open source projects to learn from]]
 	- [[frontend development]]
 	- [[system-design]]
 	

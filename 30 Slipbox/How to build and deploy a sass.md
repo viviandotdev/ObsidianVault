@@ -3,7 +3,7 @@ created: 2024-05-10 20:55
 modified: 2025-02-22T10:43:50-05:00
 alias: 
 ---
-up::  [[fullstack development]]
+up::  [[List of open source projects to learn from]]
 medium:: #note/seedling🌱 
 type:: #map/view 
 links:: #react  #nextjs  #postgresql 

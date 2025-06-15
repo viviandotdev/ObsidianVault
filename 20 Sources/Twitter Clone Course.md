@@ -3,7 +3,7 @@ created: 2024-05-17 07:18
 modified: Friday 17th May 2024 07:18:01
 alias: 
 ---
-up::  [[fullstack development]]
+up::  [[List of open source projects to learn from]]
 type:: #source/course 
 links::
 status:: completed
