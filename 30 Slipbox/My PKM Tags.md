@@ -8,4 +8,7 @@ tags:: #PKM
 ## My PKM Tags
 ![[how to tag notes|900]]
 
+#note 
+
+
 [How to Use Tags - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/how-to-use-tags/35320/8)

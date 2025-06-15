@@ -1,12 +1,21 @@
 ---
-alias: ["000"]
+alias:
+  - "000"
+modified: 2025-06-15T13:13:08-04:00
 ---
 I# Home 🌎
 Your launchpad and home base. That's here. That's home.
 #### Main
-- [[Meta PKM]] 
-- [[+ Inbox]] and [[Notebox]] and [[Outbox]]
-- [[My Skills]]
+- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[Meta PKM]] | [[Efforts]] |[[Life Map]]
+
+### Areas of Interest
+- [[habits]]  
+- [[system-design]]
+- [[drawing]]
+- [[writing]]
+
+**Books**
+- [[Bookshelf]]
 #### Consume
 [[Courses]]
 
