@@ -14,5 +14,5 @@ up:: [[My Tools]]
 
 ## Courses
 **Modeling**
-1. [[A Complete Guide to 3D Modelling in Blender - Patata School]]
+1. [[3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
 2. [[Making Food and Drinks in Blender]]
