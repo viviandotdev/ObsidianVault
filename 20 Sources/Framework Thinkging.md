@@ -4,7 +4,7 @@ modified: Wednesday 7th February 2024 07:57:47
 alias:
 ---
 up::
-tags:: 
+tags:: []
 medium:: #source/video
 
 source:: [How to Think Fast Before You Speak: Framework Thinking - YouTube](https://www.youtube.com/watch?v=lcyHC9HLTzc)
