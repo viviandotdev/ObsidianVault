@@ -1,13 +1,13 @@
 ---
-created: 2023-08-29 06:52 
-modified: Tuesday 29th August 2023 06:55:24
+created: 2023-08-29 06:52
+modified: 2025-06-16T07:19:08-04:00
 alias: 
 ---
 up::  [[Three.js Journey]]
 tags:: 
 related: 
 
-## three.js.screen
+## Fullscreen and resizing
 
 ### Clean up CSS
 

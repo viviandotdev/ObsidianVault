@@ -1,10 +1,9 @@
 ---
 created: 2024-02-18 14:23
-modified: Sunday 18th February 2024 14:23:09
-alias:
+modified: 2025-06-16T07:21:57-04:00
 ---
-up::
 tags:: [[creativity]]
+type:: #source/article 
 source:: [The Labor of Inspiration](https://moretothat.com/the-labor-of-inspiration/)
 ## The Labor Of Inspiration
 
@@ -23,7 +22,6 @@ At the beginning this process will seem boring but after a while the experience 
 
 Instead of drawing something great all you need is to draw something. You want to lower the barrier to start so you can explore without any pressure. Follow the path of what you find interesting.
 
-![[Screenshot 2024-02-18 at 4.30.35 PM.png|500]]
 
 Throughout the day you want to balance the laborer and the fairy of inspiration. Every time dedicate 1-2 hours being a laborer and the rest of the time can be for reading books and doing things to help you strike inspiration.
 For example, I am trying to learn to draw. however it is more fun to find resources and books about drawing that actually simply sitting down and drawing. I am constantly in the searching instead of putting in any action.

@@ -1,9 +1,9 @@
 ---
 created: 2023-09-03 16:07
-modified: Sunday 3rd September 2023 16:11:00
-aliases:
+modified: 2025-06-16T07:20:16-04:00
+aliases: 
 ---
-up::  [[frontend development]]
+type:: #note/list
 tags:: [[frontend development]]
 
 ## Frontend Courses
