@@ -1,7 +1,6 @@
 ---
 created: 2024-09-02 07:52
-modified: 2025-06-15T21:37:37-04:00
-
+modified: 2025-06-16T09:44:20-04:00
 ---
 up::
 source::
@@ -19,7 +18,7 @@ Every morning before work spend 1 -2 hours working on this
 - Do one pull up
 - lose 5-10 pounds slowly
 
-My Daily Routine
+My Daily Routine [[Dan Koe Daily Rountine]]
 4 blocks separated by walking or meals
 60 - 90 minutes blocks
 

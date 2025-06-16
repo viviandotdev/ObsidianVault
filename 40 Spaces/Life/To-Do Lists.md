@@ -1,7 +1,6 @@
 ---
 created: 2023-09-03 12:30
-modified: Sunday 3rd September 2023 12:30:20
-
+modified: 2025-06-16T09:43:51-04:00
 ---
 up::  [[Workflows]]
 tags:: [[productivity]]
@@ -17,7 +16,7 @@ related:
 **Effective to-do lists are limited to specific tasks that can be tackled right away and finished fairly soon, Ms. Morgenstern says. Instead of listing “solve client issue,” write, “spend one hour defining the scope of client problem.”**
 Schedule your to do lists tasks related to the big four into your calendar
 
-3-2-1
+3-2-1 (priority of tasks)
 (3 hours on 1st most important task)
 (2 hours on the 2nd most important task)
 (1 hour on the 3rd most important task)

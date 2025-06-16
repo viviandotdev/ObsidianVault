@@ -1,11 +1,7 @@
 ---
 created: 2024-11-12 14:12
-modified: 2025-06-14T19:12:58-04:00
-
+modified: 2025-06-16T09:46:04-04:00
 ---
-up::
-type::
-source:: [[LIVE BY YOUR VALUES — Almanack of Naval Ravikant]]
 ## Values and Beliefs
 
 - I don’t believe in anger anymore.
@@ -15,7 +11,9 @@ source:: [[LIVE BY YOUR VALUES — Almanack of Naval Ravikant]]
 - I think it is better to assume the better of people then to assume the worst of people.
 - I value freedom and flexibility over my time more than money
 
-**Importance**
+(health, time and money)
+
+**Importance Ranked** 
 -  Health
 - Hobbies
 - Work / Career Making Money

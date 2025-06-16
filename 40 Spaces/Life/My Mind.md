@@ -1,9 +1,9 @@
 ---
-modified: 2025-06-16T07:03:49-04:00
+modified: 2025-06-16T09:48:21-04:00
 ---
 [[creativity]]
 
-[[bussiness]]
+[[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
 - [[People are willing to pay if you present valuable information in a neat and organized and pretty way.]]
 
@@ -28,7 +28,6 @@ modified: 2025-06-16T07:03:49-04:00
 - [[The key to happiness is optimizing health, time and money]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
 - [[You are happiest when working towards your goals, not when you have achieved them]]
--
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]

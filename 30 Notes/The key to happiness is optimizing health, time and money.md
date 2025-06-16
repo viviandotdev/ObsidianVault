@@ -1,7 +1,6 @@
 ---
 created: 2024-11-11 10:26
-modified: 2025-06-15T18:56:51-04:00
-
+modified: 2025-06-16T09:46:34-04:00
 ---
 tags:: [[happiness]]
 ## The key to happiness is optimizing health, time and money
@@ -11,7 +10,10 @@ When you’re young and healthy, you can do more. By doing more, you’re actual
 **So the trifecta is trying to get all three at once.**
 By the time people realize they have enough money, they’ve lost their time and their health.
 
-
+Ranked
+- Health
+- Time 
+- Money
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
