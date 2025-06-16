@@ -1,12 +1,9 @@
 ---
 created: 2024-04-21 14:55
 modified: Sunday 21st April 2024 14:55:39
-alias:
 ---
-up::  [[writing]]
-tags::
-source::
-
+status:: #🟨 
+tags:: [[writing]]
 ## How to Write an Atomic Essay?
 
 [Examples of Productivity Atomic Essays](https://twitter.com/julia_saxena/status/1373253118297772032)

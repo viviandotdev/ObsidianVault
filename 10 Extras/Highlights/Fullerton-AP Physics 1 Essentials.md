@@ -5,7 +5,6 @@ kindle-sync:
   author: Dan Fullerton
   asin: B00FN37TI0
   lastAnnotatedDate: '2018-03-21'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81A+2gdhyyL._SY160.jpg'
   highlightsCount: 3
 ---
 # AP Physics 1 Essentials

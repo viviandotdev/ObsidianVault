@@ -1,13 +1,12 @@
 ---
 created: 2024-10-27 19:37
-modified: Friday 1st November 2024 21:07:18
-alias:
+modified: 2025-06-16T07:32:26-04:00
+alias: 
 ---
-
-URL:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
-Status:: #🟩
 type:: #source/video
 tags:: [[fasting]]
+source:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
+
 ## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol
 
 **Transform Body Composition and Increase Lifespan with Fasting**
@@ -79,6 +78,3 @@ Salt affects hunger
 	-thererfor if you want to gain more muslce reduce myostatin
 	- after a prolonged fast your body will reduce myostatin a period of time after refeeding
 - **Refeed Protocol:** Follow a feast and fast protocol for optimal results.
-
-fastingh
-[WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)

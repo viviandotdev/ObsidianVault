@@ -1,11 +1,12 @@
 ---
 created: 2023-08-11 21:02
-modified: 2025-06-15T20:47:18-04:00
+modified: 2025-06-16T07:29:56-04:00
 alias: 
 ---
 up:: [[frontend development]]
 type::  #source/course
 status:: hold
+id:: TJS
 
 ## Three.js Journey
 **Bruno Simon Three.js Journey**

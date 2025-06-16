@@ -1,9 +1,8 @@
 ---
 created: 2024-03-20 19:35
-modified: 2025-06-16T07:27:56-04:00
+modified: 2025-06-16T07:30:18-04:00
 aliases: 
 ---
-id:: [PID-1]
 type:: #source/course
 tags::  [[blender]]
 source:: [A Complete Guide to 3D Modelling in Blender](https://courses.patataschool.com/a-complete-guide-to-3d-modelling-in-blender)

@@ -1,13 +1,12 @@
 ---
 kindle-sync:
   bookId: '18039'
-  title: >-
+  title:
     The Solution To Social Anxiety: Break Free From The Shyness That Holds You
     Back
   author: Aziz Gazipura
   asin: B00F5IU5CU
   lastAnnotatedDate: '2019-06-11'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81fb+pX8iNL._SY160.jpg'
   highlightsCount: 38
 ---
 # The Solution To Social Anxiety
