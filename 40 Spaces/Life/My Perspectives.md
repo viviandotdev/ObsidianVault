@@ -1,6 +1,8 @@
 ---
-modified: 2025-06-16T09:48:21-04:00
+modified: 2025-06-16T09:56:28-04:00
 ---
+### My Perspectives
+
 [[creativity]]
 
 [[business]]

@@ -25,7 +25,7 @@ modified: 2025-06-16T09:32:07-04:00
 	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
 **Perspective**
 
-[[perspective]]
+[[50 Tags/perspective]]
 
 **Aesthetic**
 Value

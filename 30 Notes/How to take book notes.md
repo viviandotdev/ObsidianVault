@@ -25,7 +25,7 @@ Find the important and main ideas from the highlights and make atomic notes from
 1. How will you use and apply this information
 2.
 
-[[source.book]]
+[[book]]
 
 #### Resources
 [Learn How to Take Effective Book Notes - Obsidian MD Zettlekasten Step By Step Example and Guide - YouTube](https://www.youtube.com/watch?v=WlwyYwP3HLg)

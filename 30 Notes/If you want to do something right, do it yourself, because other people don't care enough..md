@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-15T18:44:12-04:00
 ---
-up::  [[My Mind]]
+up::  [[My Perspectives]]
 tags:: 
 ## if you want to do something right, do it yourself, because other people don't care enough. 
 
