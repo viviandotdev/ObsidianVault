@@ -1,10 +1,10 @@
 ---
 created: 2025-05-13 07:55
-modified: 2025-06-15T18:44:57-04:00
-
+modified: 2025-06-16T08:24:35-04:00
 ---
-up::  [[chinese]]
-## chinese immersion content
+type:: #note/list 
+tags::  [[chinese]]
+## Chinese Immersion content
 
 [Refold](https://www.notion.so/d54bfade358b4d0a88b5600acb99582b?pvs=21)
 [Mega Immersion](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/zk0WUTaY)

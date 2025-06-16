@@ -1,13 +1,11 @@
 ---
 created: 2024-02-07 07:57
-modified: 2025-06-16T07:19:57-04:00
-
+modified: 2025-06-16T08:24:59-04:00
 ---
-up::
-tags:: [[learning]]
+tags:: [[learning]] [[communication]]
 type:: #source/video
 source:: [How to Think Fast Before You Speak: Framework Thinking - YouTube](https://www.youtube.com/watch?v=lcyHC9HLTzc)
-## Framework Thinking
+## How to Think Fast Before You Speak: Framework Thinking
 
 ### Structure information
 Our brain categorizes information based on these types
