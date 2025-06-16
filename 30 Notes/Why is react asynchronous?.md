@@ -1,8 +1,10 @@
 ---
-modified: 2025-06-15T07:22:47-04:00
+modified: 2025-06-16T08:16:52-04:00
 ---
 
 tags:: [[react]]
+
+## Why is react asynchronous?
 
 React is asynchronous because **it helps with performance**,
 when we call setState it does not update immediately,

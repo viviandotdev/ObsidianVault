@@ -4,7 +4,7 @@ modified: 2025-06-15T18:38:58-04:00
 
 ---
 tags:: [[productivity]] [[procrastination]]
-related:: [[Why do we procrastinate]]
+related:: [[Why do we procrastinate?]]
 
 ### How to overcome procrastination?
 
