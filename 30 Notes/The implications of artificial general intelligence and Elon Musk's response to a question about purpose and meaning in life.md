@@ -1,10 +1,10 @@
 ---
 created: 2023-09-22 21:25
-modified: Friday 22nd September 2023 21:25:57
-alias:
+modified: 2025-06-15T21:36:09-04:00
+alias: 
 ---
 up::
-tags:: #ai #jobs #life
+tags:: [[ai]]
 ## The implications of artificial general intelligence
 
 **Elon Musk was asked about what advice he would give his children regarding purpose and meaning in a world with artificial general intelligence. Elon Musk's response to the question was described as chilling, with a long silence and stuttering.**

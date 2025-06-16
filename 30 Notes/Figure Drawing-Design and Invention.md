@@ -1,11 +1,10 @@
 ---
 created: 2024-12-10 13:16
-modified: Tuesday 10th December 2024 13:16:12
-alias:
+modified: 2025-06-15T21:37:02-04:00
+alias: 
 ---
 up::  [[drawing]]
-type:: #note/atomic
-source::
+type:: #note/list
 ## Figure Drawing-Design and Invention
 
 [Gesture Drawing tutorials - YouTube](https://www.youtube.com/playlist?list=PLQOGKNmiKFwVNYwIlrUIlmGFT2QlB9hVz)

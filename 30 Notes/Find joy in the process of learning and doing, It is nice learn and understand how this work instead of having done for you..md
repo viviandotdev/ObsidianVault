@@ -1,11 +1,11 @@
 ---
 created: 2024-05-25 09:48
-modified: 2025-06-15T07:19:30-04:00
-alias:
+modified: 2025-06-15T21:36:28-04:00
+alias: 
 ---
 up::
-type: #note
-on:: #ai [[goals]]
+type: #note/atomic 
+on:: [[goals]]
 ## Find joy in the process of learning and doing, It is nice learn and understand how this work instead of having done for you.
 
 

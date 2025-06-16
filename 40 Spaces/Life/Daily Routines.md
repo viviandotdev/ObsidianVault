@@ -1,11 +1,9 @@
 ---
 created: 2024-06-30 20:35
-modified: 2025-06-14T18:54:41-04:00
-alias:
+modified: 2025-06-15T21:36:49-04:00
+alias: 
 ---
 up::  [[Workflows]]
-type:: #note/atomic
-source::
 ## Daily Routines
 
 [[Lex Fridman Daily Routine]]

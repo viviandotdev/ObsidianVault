@@ -1,12 +1,10 @@
 ---
 created: 2024-06-08 15:53
-modified: Saturday 8th June 2024 15:53:43
-alias:
+modified: 2025-06-15T21:36:55-04:00
+alias: 
 ---
 up::
 tags:: #docker
-type:: #note/atomic
-source::
 ## Docker Image
 
 A read only template that defines the environment which a [[docker container]] runs.

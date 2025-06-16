@@ -1,10 +1,9 @@
 ---
 created: 2024-09-02 07:52
-modified: 2025-02-19T06:46:56-05:00
-alias:
+modified: 2025-06-15T21:37:37-04:00
+alias: 
 ---
 up::
-type:: #note/atomic
 source::
 ## My Systems
 **Goals**-

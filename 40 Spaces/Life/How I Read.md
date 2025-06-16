@@ -1,11 +1,10 @@
 ---
 created: 2024-12-21 14:41
-modified: 2025-02-22T10:08:50-05:00
-alias:
+modified: 2025-06-15T21:37:14-04:00
+alias: 
 ---
 up::  [[Workflows]]
-type:: #note/atomic
-source:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
+source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)
 ## How i read
 ## Capture
 **books** - read on kindle
