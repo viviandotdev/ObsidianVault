@@ -1,3 +1,6 @@
+---
+modified: 2025-06-16T08:31:28-04:00
+---
 up::  [[My Mind]]
 tags::
 related::
@@ -17,14 +20,10 @@ related::
 **Common Goals, Problems, & Advice**
 *Everyone is working towards a goal, which one? What are the problems associated with those goals? What common advice is given to overcome those problems? This starts to frame our unique perspective.*
 
-  - List
 
 **Personal Experience**
 *What experiences, stories, or problems you’ve faced that come to mind?*
 
-  - List
 
 **Potential Framework, System, or Solution**
 *Can you create a memorable, step-by-step solution to solving the problem? You can flesh this out in your content. Be sure to add your own unique name to it!*
-
-  - List

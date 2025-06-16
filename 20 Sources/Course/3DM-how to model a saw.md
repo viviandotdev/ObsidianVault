@@ -1,11 +1,8 @@
 ---
 created: 2024-03-26 19:53
-modified: 2025-06-15T20:50:10-04:00
-
+modified: 2025-06-16T08:33:08-04:00
 ---
 up::  [[3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
-tags:: [[blender]]
-source::
 # How to model a Saw
 
 

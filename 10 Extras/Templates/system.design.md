@@ -1,7 +1,6 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-
+modified: 2025-06-16T08:31:32-04:00
 ---
 up:: [[system-design]]
 source::
@@ -9,7 +8,6 @@ source::
 
 
 **Functional Requirements**
-1.
 
 **Non-functional requirements**
 - Scalable

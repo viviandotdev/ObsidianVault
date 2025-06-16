@@ -1,7 +1,6 @@
 ---
 created: 2024-06-30 21:05
-modified: 2025-06-13T07:02:41-04:00
-
+modified: 2025-06-16T08:34:45-04:00
 ---
 up::
 source::
@@ -11,9 +10,8 @@ source::
 
 
 ### Links to this page
-These notes point directly to this note. But this note doesn't point back.
 ```dataview
-LIST
+table file.mtime.year + "-" + file.mtime.month + "-" + file.mtime.day as Modified
 FROM [[#]]
 and !outgoing([[#]])
 and -#map

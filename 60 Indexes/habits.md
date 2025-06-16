@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-16T07:15:51-04:00
+modified: 2025-06-16T08:34:01-04:00
 ---
 tags:: [[#habits]]
 
@@ -75,16 +75,6 @@ These notes point directly to this note. But this note doesn't point back.
 ```dataview
 table file.mtime.year + "-" + file.mtime.month + "-" + file.mtime.day as Modified
 from [[Habits MOC]]
-and !outgoing([[Habits MOC]])
-sort file.mtime desc
-```
-
-### Unmentioned notes, with related tag
-These notes have the tag `#` and are not mentioned above.
-
-```dataview
-table file.mtime.year + "-" + file.mtime.month + "-" + file.mtime.day as Modified
-from #habit
 and !outgoing([[Habits MOC]])
 sort file.mtime desc
 ```

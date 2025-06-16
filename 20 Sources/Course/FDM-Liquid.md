@@ -1,11 +1,8 @@
 ---
 created: 2024-04-06 19:46
-modified: Saturday 6th April 2024 19:46:59
-
+modified: 2025-06-16T08:33:21-04:00
 ---
 up::  [[FDM-Making Food and Drinks in Blender]]
-tags::  [[blender]]
-source::
 ## Liquid
 
 

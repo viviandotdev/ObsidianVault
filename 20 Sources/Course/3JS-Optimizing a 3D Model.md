@@ -1,11 +1,8 @@
 ---
 created: 2023-09-21 15:06
-modified: Thursday 21st September 2023 15:06:46
-
+modified: 2025-06-16T08:33:27-04:00
 ---
 up::  [[3JS-Three.js Journey]]
-tags:: [[blender]] [[three.js]]
-
 ## Optimizing a 3D Model
 
 1. Removes all the faces you cannot see
