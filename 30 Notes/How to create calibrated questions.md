@@ -1,7 +1,7 @@
 ---
 created: 2023-12-11 08:12
 modified: 2025-06-16T07:04:50-04:00
-alias: 
+
 ---
 up::  [[Never Split the Difference by Chris Voss|Never Split the Difference by Chris Voss]]
 tags:: [[communication]]

@@ -1,7 +1,7 @@
 ---
 created: 2025-05-13 07:55
 modified: 2025-06-15T18:44:57-04:00
-alias: 
+
 ---
 up::  [[chinese]]
 ## chinese immersion content
@@ -14,12 +14,12 @@ up::  [[chinese]]
 
 ## Watching
 
-- **EVANGELION:1.11 YOU ARE (NOT) ALONE.**  
-  Type: anime  
-  [Link](https://www.primevideo.com/detail/EVANGELION111-YOU-ARE-NOT-ALONE/0K1XKKH7C44WF7VDCYDCFKF3EO)
-- **Attack on Titan**  
+- **EVANGELION:1.11 YOU ARE (NOT) ALONE.**
   Type: anime
-- **Mulan**  
+  [Link](https://www.primevideo.com/detail/EVANGELION111-YOU-ARE-NOT-ALONE/0K1XKKH7C44WF7VDCYDCFKF3EO)
+- **Attack on Titan**
+  Type: anime
+- **Mulan**
   Type: movie
 
 
@@ -70,4 +70,3 @@ up::  [[chinese]]
 | Vagabond              |                               | 16       | Action, Drama, Thriller| series | [Netflix](https://www.netflix.com/title/81095101)                                    |
 | More Than Blue: The Series | 比悲傷更悲傷的故事：影集版) |          | Drama, Romance        | series |                                                                                        |
 | Go Ahead              | 以家人之名                    | 40       | Drama, Slice of Life  | series | [Viki](https://www.viki.com/tv/36770c-go-ahead)                                      |
-

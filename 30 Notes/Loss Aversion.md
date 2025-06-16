@@ -1,7 +1,7 @@
 ---
 created: 2024-01-16 10:35
 modified: 2025-06-15T18:49:47-04:00
-alias: 
+
 ---
 tags:: [[psychology]]
 

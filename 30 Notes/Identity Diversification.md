@@ -1,11 +1,11 @@
 ---
 created: 2024-11-12 10:48
 modified: 2025-06-15T18:44:02-04:00
-alias: 
+
 ---
 tags:: [[happiness]]
 ## identity diversification
-This is concept similar to financial diversification do not base all your self worth on a singular project instead engage in multiple different activities at a time so that if one area faces challenges the other areas can provide fulfillment. 
+This is concept similar to financial diversification do not base all your self worth on a singular project instead engage in multiple different activities at a time so that if one area faces challenges the other areas can provide fulfillment.
 
 
 Hedge your identity by engaging in diverse activities, so if one area encounters challenges, others can still provide fulfillment and balance.
@@ -20,5 +20,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-

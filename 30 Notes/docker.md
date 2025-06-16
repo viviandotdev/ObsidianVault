@@ -1,7 +1,7 @@
 ---
 created: 2023-09-24 06:21
 modified: 2025-06-15T18:38:38-04:00
-alias:
+
 ---
 tags:: [[docker]]
 ## Docker

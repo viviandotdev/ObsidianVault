@@ -1,7 +1,7 @@
 ---
 created: 2024-04-22 18:31
 modified: Monday 22nd April 2024 19:41:23
-alias:
+
 ---
 up::  [[Joy of React]]
 tags:: #note/atomic

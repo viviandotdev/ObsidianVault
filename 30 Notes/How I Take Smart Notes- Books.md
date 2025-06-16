@@ -1,10 +1,10 @@
 ---
 created: 2023-09-09 06:44
 modified: 2025-06-16T07:22:39-04:00
-alias: 
+
 ---
 up:: [[My PKM Workflows]]
-type:: #note/how-to 
+type:: #note/how-to
 tags:: [[note-taking]]
 ## How I Take Smart Notes- Books/Articles
 

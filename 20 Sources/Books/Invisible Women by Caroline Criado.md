@@ -1,7 +1,6 @@
 ---
 created: 2024-01-06 20:17
-modified: 2025-06-15T20:28:41-04:00
-aliases:
+modified: 2025-06-16T07:33:31-04:00
 title: Invisible Women
 author: Caroline Criado Perez
 ---

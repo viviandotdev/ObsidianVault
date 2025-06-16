@@ -1,10 +1,10 @@
 ---
-created: 2024-01-16 12:57 
+created: 2024-01-16 12:57
 modified: Tuesday 16th January 2024 12:57:12
-alias: 
+
 ---
 up::  [[system-design]]
-tags:: 
+tags::
 
 ## Design a News Feed System
 
@@ -14,27 +14,27 @@ tags::
 
 **Functional Requirements**
 1. Publish posts- A user create a post and we save it to the cache and database.
-2. View posts- To view posts, we aggregate the your friends' posts and display them in the order of most recently created. 
+2. View posts- To view posts, we aggregate the your friends' posts and display them in the order of most recently created.
 
 **Non-functional requirements**
-- **Low Latency**- the system should have a fast response time 
+- **Low Latency**- the system should have a fast response time
 	- cache
 - **Scalable**- the system should handle a growing number of users and posts. As we have more users and posts, we need to scale our system by distributing our data onto multiple machines such that we can read/write efficiently.
 	Sharding posts and metadata
 	As we have more users and posts, we need to scale our system by distributing our data onto multiple machines such that we can read/write efficiently.
-	
+
 	Sharding feed data
 	Since we only store a limited number of feeds in memory, we shouldn't distribute the feed data of one user onto multiple servers.
 	We can partition the user feed data based on userId. We hash the userId and map the hash to a cache server. We would need to use [consistent hashing](https://liuzhenglaichn.gitbook.io/systemdesign/consistent-hashing).
 
-- **Available**- the news feed should be highly available minimizing downtime and ensuring users can access the new feed at all times. 
+- **Available**- the news feed should be highly available minimizing downtime and ensuring users can access the new feed at all times.
 - master slave replication
 	- read replicas, since this system will handle more reads than writes, there will much more users view posts than people uploading posts. this will help scalability and availability.
 
 #### API
 This endpoint allows users to create a new post
 **POST: /publish**
-Params: 
+Params:
 	post_content: content of the post
 	auth_token: used to authenticate users
 
@@ -43,7 +43,7 @@ This endpoint retrieves the latest posts from the user's friends..
 Params
 	auth_token: used to authenticate the request
 
-	
+
 #### Database Schema (NoSQL vs SQL)
 Use a relational database like SQL because the database is highly related
 ![[Screenshot 2024-01-18 at 8.47.40 AM.png]]
@@ -57,7 +57,7 @@ if you are user with (userId 10) and you follow user with userId(15)
 INSERT into follows (follower_id, following_id )
 you are the follower (10) and are following userId (15)
 **Get the the list of users you follow**
-SELECT * FROM follows where (followerd is 10) 
+SELECT * FROM follows where (followerd is 10)
 you are the follower and want to get all the users you are following
 **Get all the users that are following you**
 SELECT all from follows where  **followingID** is 10
@@ -80,7 +80,7 @@ you are being followed by these users
 		- Fanout on write, new posts are **pushed** to the friends' caches **immediately after publication**.
 			- Fast, because the news feed is already pre generated
 		- Fanout on read, when the user loads their page the new feed service pulls the recent posts
-			- Slow because the feed is not pre generated 
+			- Slow because the feed is not pre generated
 **Hybrid Approach**
  **Celebrities** who have a lot of followers will use **fanout on read**, this is because fetching the follower. list of celebrities and generating new feed for all them is slow.
  **Normal people** will **fanout on write** because they don't have the hotkey problem.

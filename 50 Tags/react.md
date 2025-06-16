@@ -1,7 +1,7 @@
 ---
 created: 2024-05-26 11:13
 modified: 2025-06-15T20:18:41-04:00
-alias: 
+
 ---
 up:: [[frontend development]]
 ## react
@@ -31,6 +31,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

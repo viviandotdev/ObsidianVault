@@ -1,7 +1,7 @@
 ---
 created: 2023-09-29 12:15
 modified: Friday 29th September 2023 14:16:20
-alias:
+
 ---
 up::
 tags:: [[buddhism]]

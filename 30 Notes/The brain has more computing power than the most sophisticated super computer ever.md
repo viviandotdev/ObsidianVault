@@ -1,7 +1,7 @@
 ---
 created: 2024-02-28 16:22
 modified: 2025-06-15T18:58:28-04:00
-alias: 
+
 ---
 tags:: [[brain]]
 ## The brain has more computing power than the most sophisticated super computer ever

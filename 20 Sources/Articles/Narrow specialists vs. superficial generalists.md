@@ -1,10 +1,9 @@
 ---
 created: 2024-01-12 16:47
-modified: 2025-06-15T13:29:48-04:00
-alias: 
+modified: 2025-06-16T07:35:55-04:00
 ---
-up::
 tags:: [[psychology]]
+type:: #source/article 
 source:: [Of narrow specialists vs. superficial generalists](https://www.icopilots.com/of-narrow-specialists-vs-superficial-generalists/#:~:text=I%20do%20immersive%20deep%20dives,any%20of%20the%20rabbit%20holes.)
 ## Narrow specialists vs. superficial generalists
 

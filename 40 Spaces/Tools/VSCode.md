@@ -1,11 +1,11 @@
 ---
-created: 2023-07-11 20:18 
+created: 2023-07-11 20:18
 modified: Tuesday 11th July 2023 20:18:23
-alias: VSCode
+ VSCode
 ---
 up::  [[My Tools]]
 
-# VSCode 
+# VSCode
 
 ## Keyboard Shortcuts
 ### Markdown

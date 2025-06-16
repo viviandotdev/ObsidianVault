@@ -1,7 +1,7 @@
 ---
 created: 2024-02-07 13:06
 modified: Wednesday 7th February 2024 13:06:46
-aliases:
+
 title: Ultralearning
 author: Scott Young
 ---

@@ -1,7 +1,7 @@
 ---
 created: 2023-11-03 10:54
 modified: 2025-06-15T18:54:32-04:00
-alias: 
+
 ---
 tags:: [[happiness]]
 

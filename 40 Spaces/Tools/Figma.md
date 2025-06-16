@@ -1,11 +1,11 @@
 ---
-created: 2024-03-06 10:59 
+created: 2024-03-06 10:59
 modified: Wednesday 6th March 2024 10:59:46
-alias: 
+
 ---
 up::  [[My Tools]]
-tags:: 
-related: 
+tags::
+related:
 Journal App
 ## Figma
 

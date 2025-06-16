@@ -1,7 +1,7 @@
 ---
 created: 2024-05-18 14:14
 modified: Saturday 18th May 2024 14:14:59
-alias:
+
 ---
 up::  [[docker|docker]]
 type:: #note/

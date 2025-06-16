@@ -1,8 +1,9 @@
 ---
 created: 2024-01-16 12:22
-modified: 2025-06-15T18:27:14-04:00
+modified: Wednesday 21st February 2024 13:25:20
 
 ---
+up::
 tags::  [[system-design]]
 
 ## Design Instagram
@@ -69,7 +70,7 @@ tags::  [[system-design]]
 - **Users:** Each user has a unique identifier, profile information, followers, following, etc.
 - **Posts:** Posts contain content (text, images, videos), metadata (time, location), and are associated with the user who created them.
 ### System Components
-[[API Gateway is an abstraction layer between the front end and backend microservices that routes the request sent from the client to the correct backend service.]] abstraction layer between front and backend services that routes request sent from the client to the correct backend service.
+[[API Gateway]] abstraction layer between front and backend services that routes request sent from the client to the correct backend service.
 	**Auth Service** (Authenticates and Authorizes User)
 	**Rate Limiting**
 [[Load Balancer]] distributes incoming client requests across multiple servers evenly to ensure high availability and reliability

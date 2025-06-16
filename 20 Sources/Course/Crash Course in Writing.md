@@ -1,7 +1,7 @@
 ---
 created: 2024-04-18 14:31
 modified: 2025-06-15T20:46:16-04:00
-alias: 
+
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
 
@@ -22,14 +22,14 @@ Default to short sentences
 	Don't just write words write music
 		Vary your sentences length
 		This is how we naturally talk, write like you talk, write for one person
-		
+
 ![[Screenshot 2024-04-17 at 6.30.06 PM.png]]
 
 ![[Screenshot 2024-04-17 at 6.25.57 PM.png]]
 
 
 **Note-Taking System**
-	Naturally consume what you are interested in and take notes, and collect the information 
+	Naturally consume what you are interested in and take notes, and collect the information
 ![[Screenshot 2024-04-17 at 6.31.27 PM.png]]
 Collect the dots, then connect the dots
 
@@ -45,6 +45,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

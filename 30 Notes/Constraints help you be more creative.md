@@ -1,7 +1,7 @@
 ---
 created: 2023-09-25 18:54
 modified: Monday 25th September 2023 18:54:48
-alias:
+
 ---
 up::
 tags:: [[creativity]] [[productivity]]

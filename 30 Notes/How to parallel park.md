@@ -1,7 +1,7 @@
 ---
 created: 2025-05-15 08:20
 modified: 2025-06-15T18:42:18-04:00
-alias: 
+
 ---
 ## How to parallel park
 [How To: Easy Parallel Parking - YouTube](https://www.youtube.com/watch?v=pB_iFY2jIdI)
@@ -18,14 +18,14 @@ alias:
 **Method 3**
 	- back up until the right mirror covers the left brake lights of the car next to you
 ![[IMG_2110.png]]
-- 
+-
 ![[IMG_2111.png]]
 
 
 **Method 3 - top view** back up until you see the back of the car's license plate
-		
+
 ![[IMG_2106.png]]
-	
+
 ![[IMG_2108.png]]
 ![[IMG_2107.png]]
 ![[IMG_2109.png]]
@@ -59,6 +59,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

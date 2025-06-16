@@ -1,7 +1,7 @@
 ---
 created: 2024-02-14 22:07
 modified: 2025-06-15T13:29:16-04:00
-alias:
+
 ---
 type:: #source/article
 tags:: [[money]]

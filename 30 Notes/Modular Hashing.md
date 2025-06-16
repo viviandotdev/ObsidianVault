@@ -1,7 +1,7 @@
 ---
 created: 2023-12-07 17:05
 modified: 2025-06-16T07:09:36-04:00
-alias: 
+
 ---
 tags:: [[system-design]]
 related:: [[Consistent Hashing]]

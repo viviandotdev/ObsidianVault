@@ -1,7 +1,7 @@
 ---
 created: 2024-04-15 20:32
 modified: 2025-06-15T18:53:25-04:00
-alias: 
+
 ---
 up::  [[writing]]
 
@@ -9,7 +9,7 @@ up::  [[writing]]
 
 **Content Production System**
 PYTA for systems to ideas and scripting
-	learn the systems 
+	learn the systems
 1. Research Ryan holiday process
 	[Best Articles - RyanHoliday.net](https://ryanholiday.net/best-articles/)
 2. Research Robert Greene writing process
@@ -34,7 +34,7 @@ how does this work?
 
 How do you find questions or ideas, through consumption and things?
 There is so much information in the world and so little time so only spend time on things you find interesting. there is not enough time to learn everything so only learn what is interesting to you and contsaly be filtering out what is not important to you
-	look for a video, read the sources to find 
+	look for a video, read the sources to find
 **Both Robert Greene and Ryan Holiday do This**
 “I read a book, very carefully, writing on the margins with all kinds of notes. A few weeks later I return to the book, and transfer my scribbles on to note cards, each card representing an important theme in the book.”
 
@@ -42,11 +42,11 @@ There is so much information in the world and so little time so only spend time 
 
 1. Find a question or topic you are interested in 
 	From books, movies, tv show,  blogs and other youtube video
-	 Assess the ideas  
+	 Assess the ideas
 2. Research- Find 3-5 books on the topic
 		Skim each book and highlight the relevant and interesting sections
 		From the highlights create an outline. (10-20. pages)
-		
+
 
 Writing non function-
 	write about how something works

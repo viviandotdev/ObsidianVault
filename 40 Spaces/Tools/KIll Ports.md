@@ -1,7 +1,7 @@
 ---
 created: 2024-03-30 16:44
 modified: 2025-06-16T07:02:03-04:00
-alias: 
+
 ---
 tags:: [[bash]]
 ## Kill Ports

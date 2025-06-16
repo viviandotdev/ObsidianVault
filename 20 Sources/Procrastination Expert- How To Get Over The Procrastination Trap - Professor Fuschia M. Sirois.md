@@ -1,7 +1,7 @@
 ---
 created: 2023-09-23 10:07
 modified: 2025-06-15T20:37:50-04:00
-alias: 
+
 ---
 type:: #source/podcast
 tags:: [[procrastination]] [[productivity]]
@@ -55,4 +55,3 @@ source:: [Procrastination Expert: How To Get Over The Procrastination Trap - Pro
 3. Being less hard on oneself and avoiding actions that generate more negative emotions can be helpful when dealing with difficult emotions and procrastination.
 4. Self-compassion is an effective strategy for dealing with task struggles and recognizing that making mistakes is part of the learning process.
 5. Self-compassion is important when facing personal failings, shortcomings, and negative thoughts about oneself and the task.
-

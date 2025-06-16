@@ -1,9 +1,9 @@
 ---
 created: 2024-05-24 10:24
 modified: 2025-06-15T18:48:42-04:00
-alias: 
+
 ---
-status #🟨 
+status #🟨
 ## Life Optimization Coal Mine
 
 - [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
@@ -124,46 +124,46 @@ Get paid courses and then repackge that content in posts for free
 Find 3 articles,videos,essays,tweets on that topic
 
 - Then improve those articles by following **Actionable Guide “better” than the competition**
-    
+
     **“Better” Quality:** If everyone else writes short guides that don’t go into very much detail, you can be the one to write long, insightful, walkthrough-style guides. Conversely, if everyone else writes long, boring, walkthrough-style guides, you can be the one to condense them into shorter, more digestible bites. “Better” Voice: If everyone else’s How To guides are dense and overwhelming, you can show up to the party and be fast, full of personality, and overly casual. Conversely, if everyone else’s How To guides are so casual you feel as though you aren’t being given professional insight, you can be the one to write in a more formal way.
-    
+
     **“Better” Organization:** If everyone else writes really great material, but it’s organized poorly and full of huge paragraphs and no subheads or page breaks for the reader, you can win simply by organizing your writing more visually and “appearing” easier to read and understand.
-    
+
     **“Better” Positioned:** If everyone else is writing about the same problem, you can flip the problem on its head to be seen as something radically different. For example, if there are a million guides all titled “How To Get Your First Client As A Freelance Photographer,” you can position yourself differently by reframing the problem: “Freelance Photographers, Here’s Why You Don’t Want To Charge Your First Client Any Money At All.”
-    
+
     **“Better” For The Audience:** If everyone else is writing about their industry from a broad perspective, you can stand out by choosing not to use universal language and using extremely specific terminology and vernacular only that specific audience would understand—and vice versa, if everyone else writes exclusively for the niche, you can stand out by writing for a broader, more universal audience.
-    
+
     **“Better” Experience:** If everyone else writes as if they are trying to hard-sell readers into buying a product or course, only giving them 10% of the information they actually need and hoping they’ll pay for the other 90%, you can stand out by giving away that same information (and then some) for free.
-    
+
 - Ai Article
-    
+
     ## The Effectiveness of Testing as a Learning Method
-    
+
     A [2013 study](https://journals.sagepub.com/doi/abs/10.1177/1529100612453266?ref=blog.alexanderfyoung.com) that analyzed hundreds of different studies about effective review methods found that testing, also known as the testing effect, is a highly useful method that can be easily implemented with minimal training.
-    
+
     > "Based on the evidence, we think that practise tests are very useful. Testing effects have been shown in a wide range of practise test formats, types of material, learner ages, outcome measures, and retention intervals. So, practise testing as a learning process has a wide range of uses."
-    
+
     ## Active Recall vs. Passive Study Techniques
-    
+
     Scientific literature from [1939](https://gwern.net/doc/psychology/spaced-repetition/1939-spitzer.pdf?ref=blog.alexanderfyoung.com) and [2010](https://pubmed.ncbi.nlm.nih.gov/20804289/?ref=blog.alexanderfyoung.com) provides strong evidence that active recall is a high-yield learning technique and is superior to passive study techniques. However, [Karpicke and Blunt's 2011 paper published in Science](https://www.science.org/doi/10.1126/science.1199327?ref=blog.alexanderfyoung.com) is probably the best example of the effectiveness of active studying.
-    
+
     ## Karpicke and Blunt's Study
-    
+
     In the study, researchers divided students into four groups and provided each group with the same learning material. Each group was then tested on their knowledge, but with different rules and instructions for learning the information:
-    
+
     1. The first group was instructed to read the material only once.
     2. The second group had to read the information four times.
     3. The third group was told to read the information and then create a mind map.
     4. The fourth group would only read the information once and then attempt to recall as much as possible.
-    
+
     The active group (fourth group) significantly outperformed the other groups in both the verbatim test, which assessed factual recall, and the inference test, which evaluated the understanding of ideas.
-    
+
     ## Implications and Benefits
-    
+
     This study demonstrates that a single test is more effective than reviewing a chapter four times. By simply testing yourself once, you can significantly enhance the effectiveness and efficiency of your studies. Although active recall may be more challenging and mentally demanding than rereading, it is crucial to remember that effective review should be mentally taxing.
-    
+
     > Just as lifting challenging weights at the gym leads to greater muscle growth, the more effort we put into remembering something, the better our brains become at retaining and retrieving that information in the future.
-    
+
 
 then find an article to write tmmw
 

@@ -1,7 +1,7 @@
 ---
 created: 2024-04-22 17:48
 modified: 2025-06-15T20:38:38-04:00
-aliases:
+
 category: react
 ---
 status:: in-progress

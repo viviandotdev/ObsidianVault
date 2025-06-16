@@ -1,7 +1,7 @@
 ---
 created: 2024-05-19 18:54
 modified: 2025-06-15T18:48:51-04:00
-alias: 
+
 ---
 tags:: [[open source]]
 ## List of open source projects to learn from
@@ -36,7 +36,7 @@ tags:: [[open source]]
 - [Photoshot](https://github.com/shinework/photoshot) - open source AI avatar generator
 - [Infisical](https://github.com/Infisical/infisical) - open source secret management platform (similar to HashiCorp Vault)
 - [Plane](https://github.com/makeplane/plane) - open source Jira alternative
-- [Papermark](https://github.com/mfts/papermark) - open source Dropbox DocSend 
+- [Papermark](https://github.com/mfts/papermark) - open source Dropbox DocSend
 - [Civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [GitHub - heyxyz/hey: Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿](https://github.com/heyxyz/hey) **graphql-react-apollo**
 

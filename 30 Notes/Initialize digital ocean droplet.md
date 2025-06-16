@@ -1,7 +1,7 @@
 ---
 created: 2024-05-16 17:39
 modified: 2025-06-15T18:46:28-04:00
-alias: 
+
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 
@@ -16,10 +16,10 @@ I7lWHFHbyZxD19FMTFo4AAAAGHZpdmlhbkBNYWNCb29rLVByby5sb2NhbAECAwQF
 -----END OPENSSH PRIVATE KEY-----
 ```
 1. Create [digital ocean](https://cloud.digitalocean.com/projects/30a9541f-c92b-4411-9533-7b51e0c2d737/resources?i=2a9ec8) droplet
-2. SSH into the server 
+2. SSH into the server
 **Generate ssh key**
 ```
-ssh-keygen -t rsa -b 4096 
+ssh-keygen -t rsa -b 4096
 cat ~/.ssh/id_rsa.pub
 ```
 **ssh into the server using that key**
@@ -45,8 +45,6 @@ cat ~/.ssh/authorized_keys | dokku ssh-keys:add admin
 ```
 6. set your global domain
 ```
-# you can also use the ip of your server 
+# you can also use the ip of your server
 dokku domains:set-global 134.209.64.204.sslip.io
 ```
-
-

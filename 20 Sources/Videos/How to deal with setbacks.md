@@ -1,7 +1,7 @@
 ---
 created: 2024-02-08 07:59
 modified: 2025-06-16T07:26:19-04:00
-alias: 
+
 ---
 tags:: [[buddhism]]
 type:: #source/video

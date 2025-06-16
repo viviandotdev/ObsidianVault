@@ -1,7 +1,7 @@
 ---
 created: 2024-04-13 11:19
 modified: 2025-06-15T18:39:22-04:00
-alias: 
+
 ---
 tags::  [[language]]
 ## How to learn a language

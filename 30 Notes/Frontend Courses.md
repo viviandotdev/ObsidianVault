@@ -1,7 +1,7 @@
 ---
 created: 2023-09-03 16:07
 modified: 2025-06-16T07:20:16-04:00
-aliases: 
+
 ---
 type:: #note/list
 tags:: [[frontend development]]

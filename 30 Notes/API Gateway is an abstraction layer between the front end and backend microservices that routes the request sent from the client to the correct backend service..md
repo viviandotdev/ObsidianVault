@@ -1,7 +1,7 @@
 ---
 created: 2023-07-25 17:55
 modified: 2025-06-15T14:06:43-04:00
-alias: 
+
 ---
 tags:: [[system-design]]
 ## API Gateway

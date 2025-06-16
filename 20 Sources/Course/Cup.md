@@ -1,7 +1,7 @@
 ---
 created: 2024-04-03 21:25
 modified: 2025-06-15T20:51:16-04:00
-alias: 
+
 ---
 source::  [[Making Food and Drinks in Blender]]
 ## Cup

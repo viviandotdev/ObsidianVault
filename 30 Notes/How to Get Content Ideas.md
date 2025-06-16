@@ -1,7 +1,7 @@
 ---
 created: 2023-09-03 14:43
 modified: Sunday 3rd September 2023 14:43:43
-alias:
+
 ---
 up::
 tags:: [[writing]]

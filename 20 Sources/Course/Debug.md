@@ -1,7 +1,7 @@
 ---
 created: 2023-09-02 07:11
 modified: Saturday 2nd September 2023 07:11:50
-alias:
+
 ---
 up::  [[Three.js Journey]]
 tags:: [[react]] [[three.js]]

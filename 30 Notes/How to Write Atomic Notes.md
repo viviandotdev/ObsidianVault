@@ -1,7 +1,7 @@
 ---
 created: 2023-07-15 08:56
 modified: 2025-06-15T21:03:03-04:00
-aliases:
+
   - create atomic note
 ---
 up::  [[My PKM Workflows]]

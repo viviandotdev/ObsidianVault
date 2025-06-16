@@ -1,11 +1,11 @@
 ---
 created: 2023-12-11 08:31
 modified: 2025-06-15T14:08:48-04:00
-alias: 
+
 ---
 tags:: [[communication]]
 
-## Active Listening 
+## Active Listening
 
 **Active Listening:** Focus on what the other person is saying. This disarms your counterpart. Listen and give your opponent the opportunity to give you more information.
 

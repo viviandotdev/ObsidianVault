@@ -1,7 +1,7 @@
 ---
 created: 2024-05-20 07:03
 modified: 2025-06-15T18:39:55-04:00
-alias: 
+
 ---
 up::  [[How to start a programming project]]
 tags:: [[Resend]]

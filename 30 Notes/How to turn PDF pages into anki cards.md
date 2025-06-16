@@ -1,7 +1,7 @@
 ---
 created: 2024-04-23 19:15
 modified: Tuesday 23rd April 2024 19:16:28
-alias:
+
 ---
 up::  [[Anki]]
 tags:: #note/how-to

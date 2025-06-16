@@ -1,9 +1,9 @@
 ---
 created: 2023-09-09 06:44
 modified: 2025-06-16T07:24:27-04:00
-alias: 
+
 ---
-type:: #source/article 
+type:: #source/article
 tags:: [[note-taking]]
 source:: [How I take smart digital notes—Part 3: Videos and podcasts | Ramses' Blog](https://ramses.blog/how-take-notes-part-3/)
 ## How I Take Smart Notes- Videos

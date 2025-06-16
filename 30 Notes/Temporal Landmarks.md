@@ -1,7 +1,7 @@
 ---
 created: 2023-09-19 13:19
 modified: 2025-06-15T18:58:40-04:00
-alias: 
+
 ---
 tags:: [[habits]]
 

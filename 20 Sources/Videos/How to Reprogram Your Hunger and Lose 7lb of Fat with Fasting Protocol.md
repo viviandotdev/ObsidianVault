@@ -1,7 +1,7 @@
 ---
 created: 2024-10-27 19:37
 modified: 2025-06-16T07:32:26-04:00
-alias: 
+
 ---
 type:: #source/video
 tags:: [[fasting]]

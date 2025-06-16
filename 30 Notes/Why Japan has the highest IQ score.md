@@ -1,7 +1,7 @@
 ---
 created: 2024-10-03 21:38
 modified: 2025-06-15T07:23:07-04:00
-alias: 
+
 ---
 up::  [[intelligence]]
 ## Japan has the highest average IQ in the world of 106.49

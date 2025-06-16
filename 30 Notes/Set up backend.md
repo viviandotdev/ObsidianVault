@@ -1,7 +1,7 @@
 ---
 created: 2024-05-19 19:24
 modified: 2025-06-15T21:10:15-04:00
-alias: 
+
 ---
 up::  [[How to start a programming project]]
 tags::  [[backend development]]

@@ -1,11 +1,11 @@
 ---
 created: 2023-08-29 06:52
 modified: 2025-06-16T07:19:08-04:00
-alias: 
+
 ---
 up::  [[Three.js Journey]]
-tags:: 
-related: 
+tags::
+related:
 
 ## Fullscreen and resizing
 

@@ -1,7 +1,7 @@
 ---
 created: 2023-10-19 09:22
 modified: 2025-06-15T18:45:26-04:00
-aliases:
+
   - impermanence
 ---
 up::  [[buddhism]]

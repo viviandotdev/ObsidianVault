@@ -1,7 +1,7 @@
 ---
 created: 2023-09-25 21:24
 modified: 2025-06-15T18:26:11-04:00
-alias: 
+
 ---
 tags:: [[database]] [[prisma]]
 

@@ -1,7 +1,7 @@
 ---
 created: 2023-07-17 12:32
 modified: 2025-06-15T18:35:17-04:00
-alias: 
+
 ---
 tags:: [[git]]
 # git rebase

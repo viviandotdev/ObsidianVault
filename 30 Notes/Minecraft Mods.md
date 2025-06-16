@@ -1,7 +1,7 @@
 ---
 created: 2023-10-14 10:12
 modified: 2025-06-15T18:52:17-04:00
-alias: 
+
 ---
 tags:: [[minecraft]]
 

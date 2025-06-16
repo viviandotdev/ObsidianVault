@@ -1,7 +1,7 @@
 ---
 created: 2024-04-23 06:10
 modified: 2025-06-15T19:01:21-04:00
-alias:
+
 ---
 up::  [[Joy of React]]
 source:: [Render and Commit – React](https://react.dev/learn/render-and-commit)

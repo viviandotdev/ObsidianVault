@@ -1,7 +1,7 @@
 ---
 created: 2024-01-30 20:30
 modified: 2025-06-15T18:57:49-04:00
-alias: 
+
 ---
 tags:: [[procrastination]]
 

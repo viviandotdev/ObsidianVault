@@ -1,7 +1,7 @@
 ---
 created: 2023-10-24 06:05
 modified: 2025-06-15T18:45:24-04:00
-alias: 
+
 ---
 tags:: [[goals]]
 

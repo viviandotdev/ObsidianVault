@@ -1,7 +1,6 @@
 ---
 created: 2024-04-16 12:42
-modified: 2025-06-15T19:10:20-04:00
-alias: 
+modified: 2025-06-16T07:33:43-04:00
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
 tags:: [[content-creation]]
@@ -26,7 +25,7 @@ Describe your audience in the and ask them
 	Gather data, post short essays on topics and see which ones gain the most tractuib
 **Ethical Analysis**
 Repeat a popular video idea 3-6 months people won't really notice
-youtube 
+youtube
 Look at suggested videos
 **TubeBuddy**
 **vidIQ**

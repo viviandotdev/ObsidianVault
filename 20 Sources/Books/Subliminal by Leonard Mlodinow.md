@@ -1,14 +1,14 @@
 ---
 created: 2024-02-07 12:49
 modified: 2025-06-15T20:52:28-04:00
-aliases: 
+
 title: Subliminal
 author: Leonard Mlodinow
 ---
 up::  [[Bookshelf]]
 status:: summarized
 tags:: [[psychology]]
-type:: #source/book 
+type:: #source/book
 
 ## Subliminal
 **Subliminal- How Your Unconscious Mind Rules Your Behavior**

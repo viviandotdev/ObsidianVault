@@ -1,10 +1,10 @@
 ---
-created: 2024-02-07 13:24 
+created: 2024-02-07 13:24
 modified: Wednesday 7th February 2024 13:24:28
-alias: 
+
 ---
-up::  
-tags:: 
+up::
+tags::
 
 ## Ego is the Enemy
 

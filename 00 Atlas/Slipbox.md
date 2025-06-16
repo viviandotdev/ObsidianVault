@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-16T07:18:12-04:00
 ---
-up:: [[+ Home]] [[Meta PKM]]
+up:: [[+ Home]] / [[Meta PKM]]
 
 ### Here is a view of the slipbox folder
 

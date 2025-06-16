@@ -1,10 +1,10 @@
 ---
 created: 2023-11-03 10:51
 modified: 2025-06-15T21:35:58-04:00
-alias: 
+
 ---
 up::
-tags:: 
+tags::
 
 ## Sacrificing vs Maximizing
 **Maximizing** is exploring all possible options and trying to get the best one.

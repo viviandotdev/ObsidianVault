@@ -1,10 +1,9 @@
 ---
 created: 2024-03-23 19:29
-modified: Saturday 23rd March 2024 19:29:09
-alias:
+modified: 2025-06-16T07:34:54-04:00
 ---
-up::
 tags:: [[learning]] [[memory]]
+type:: #source/video 
 source::[I Hate Memorising, so I Created a System to Remember Everything - YouTube](https://www.youtube.com/watch?v=PjyMdQptGYI&list=WL&index=12)
 ## I Hate Memorising, so I Created a System to Remember Everything
 

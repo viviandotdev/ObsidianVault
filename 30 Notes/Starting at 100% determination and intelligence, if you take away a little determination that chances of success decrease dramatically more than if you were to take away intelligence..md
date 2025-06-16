@@ -1,7 +1,7 @@
 ---
 created: 2024-09-02 08:05
 modified: 2025-06-15T18:29:52-04:00
-alias: 
+
 ---
 tags:: [[intelligence]] [[success]]
 
@@ -26,6 +26,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

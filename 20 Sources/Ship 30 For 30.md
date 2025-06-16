@@ -1,7 +1,7 @@
 ---
 created: 2024-04-18 14:49
 modified: Thursday 18th April 2024 14:49:48
-alias:
+
 ---
 up::  [[writing]]
 status:: completed

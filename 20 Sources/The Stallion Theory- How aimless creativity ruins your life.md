@@ -1,9 +1,9 @@
 ---
 created: 2024-01-08 16:13
 modified: 2025-06-15T20:38:56-04:00
-alias: 
+
 ---
-type:: #source/video 
+type:: #source/video
 tags:: [[creativity]]
 source:: [The Stallion Theory: How aimless creativity ruins your life - YouTube](https://www.youtube.com/watch?v=z8f5MRDiSGY)
 

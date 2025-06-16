@@ -1,7 +1,7 @@
 ---
 created: 2024-05-12 19:50
 modified: 2025-06-15T18:41:09-04:00
-alias: 
+
 ---
 tags:: [[aws]] [[s3]]
 ## How to upload images to S3 bucket with a presignedURL
@@ -72,7 +72,7 @@ import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
 import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 
 
-const s3Client = new S3Client({ 
+const s3Client = new S3Client({
 	region: process.env.AWS_DEFAULT_REGION,
 });
 ```
@@ -88,7 +88,7 @@ const queries = {
 	  // Check if the user is authorized
 	  if (!ctx.user || !ctx.user.id)
 	    throw new Error("You are not authorized to make this tweet");
-	
+
 	  // Define allowed image types
 	  const allowedImgTypes = [
 	    "image/jpeg",
@@ -96,11 +96,11 @@ const queries = {
 	    "image/webp",
 	    "image/png",
 	  ];
-	
+
 	  // Check if the provided image type is allowed
 	  if (!allowedImgTypes.includes(ImgType))
 	    throw new Error("Image type not supported");
-	
+
 	  // Create the PutObjectCommand with the specified bucket and key
 	  const putObjectCommand = new PutObjectCommand({
 	    Bucket: "dezire-twitter-clone-dev",
@@ -108,12 +108,12 @@ const queries = {
 	      ImgName.split(".")[0]
 	    }-${Date.now().toString()}.${ImgType.split("/")[1]}`,
 	  });
-	
+
 	  // Generate a signed URL for the putObjectCommand
 	  const signedUrl = await getSignedUrl(s3Client, putObjectCommand, {
 	    expiresIn: 300,
 	  });
-	
+
 	  // Return the signed URL
 	  return signedUrl;
 	},

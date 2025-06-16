@@ -1,15 +1,15 @@
 ---
-created: 2023-09-07 07:15 
+created: 2023-09-07 07:15
 modified: Thursday 7th September 2023 08:59:59
-alias: 
+
 ---
 up::  [[Three.js Journey]]
-tags:: 
+tags::
 source: [Three.js Journey — Scroll based animation](https://threejs-journey.com/lessons/scroll-based-animation#easing)
 
 ## Threejs Journey-Scroll based animation
 
-### Animate meshes 
+### Animate meshes
 **Notes on high frequency displays**
 - tick function in Three.js is called every frame to update animations, physics, input, etc. It is tied to the browser's requestAnimationFrame.
 - On higher frequency displays (120Hz, 144Hz, etc), requestAnimationFrame will fire more often, so Three.js's tick function will be called more times per second.
@@ -18,7 +18,7 @@ source: [Three.js Journey — Scroll based animation](https://threejs-journey.co
 ```javascript
 
 const clock = new THREE.Clock()
-let previousTime = 0 //keeps track of the previous time to get the change in time 
+let previousTime = 0 //keeps track of the previous time to get the change in time
 
 const tick = () => // tick () is called on each tick or frame of the scene's render loop.
 {
@@ -38,7 +38,7 @@ const tick = () => // tick () is called on each tick or frame of the scene's r
 
 
 ### Parallax uses CSS and JavaScript to make the background sections move slower than the foreground, creating an illusion of 3D depth as you scroll.
-- 
+-
 Put the camera in a group, because we are updating the camera position twice once on the on scroll and then again for the parallax effect
 ```javascript
 /**
@@ -67,7 +67,7 @@ const tick = () =>
 
     const parallaxX = cursor.x * 0.5
     const parallaxY = - cursor.y * 0.5
-    
+
 	cameraGroup.position.x += (parallaxX - cameraGroup.position.x) * 5 * deltaTime
     cameraGroup.position.y += (parallaxY - cameraGroup.position.y) * 5 * deltaTime
 
@@ -105,4 +105,3 @@ window.addEventListener('scroll', () =>
     }
 })
 ```
-

@@ -1,7 +1,7 @@
 ---
-created: 2024-02-07 12:54 
+created: 2024-02-07 12:54
 modified: Wednesday 7th February 2024 12:54:19
-alias: 
+
 ---
 ## The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now
 

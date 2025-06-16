@@ -1,7 +1,7 @@
 ---
 created: 2023-08-11 21:02
 modified: 2025-06-16T07:29:56-04:00
-alias: 
+
 ---
 up:: [[frontend development]]
 type::  #source/course

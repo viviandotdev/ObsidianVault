@@ -1,7 +1,7 @@
 ---
 created: 2023-09-19 06:37
 modified: 2025-06-15T18:25:01-04:00
-alias: 
+
 ---
 tags:: [[capitalism]]
 

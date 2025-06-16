@@ -1,7 +1,7 @@
 ---
 created: 2023-12-07 17:00
 modified: 2025-06-15T13:19:27-04:00
-alias: 
+
 ---
 tags:: [[system-design]]
 

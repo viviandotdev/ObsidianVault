@@ -1,7 +1,7 @@
 ---
 created: 2024-03-20 19:35
 modified: 2025-06-16T07:30:18-04:00
-aliases: 
+
 ---
 type:: #source/course
 tags::  [[blender]]

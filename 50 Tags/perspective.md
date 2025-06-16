@@ -1,7 +1,7 @@
 ---
 created: 2024-10-20 11:35
 modified: 2025-06-15T13:02:17-04:00
-alias: 
+
 ---
 up:: [[drawing]]
 ## perspective
@@ -21,7 +21,7 @@ SORT file.link asc
 **Perspective Techniques**
 - Multiplying rectangles
 - Dividing rectangles
-- 
+-
 
 **Perspective Grids**
 - [[Brewer method]]

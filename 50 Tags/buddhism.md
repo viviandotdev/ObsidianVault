@@ -1,7 +1,7 @@
 ---
 created: 2023-10-19 09:07
 modified: 2025-06-15T12:58:48-04:00
-alias: 
+
 ---
 ## buddhism
 

@@ -1,7 +1,7 @@
 ---
 created: 2024-02-18 16:28
 modified: 2025-06-15T18:47:27-04:00
-alias: 
+
 ---
 tags:: [[creativity]]
 ## Laborer create their own inspiration by showing up at the same time everyday for a set amount of hours.

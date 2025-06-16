@@ -1,7 +1,7 @@
 ---
 created: 2023-08-29 06:41
 modified: 2025-06-15T20:48:24-04:00
-alias: 
+
 ---
 tags:: [[three.js]]
 source: [[Three.js Journey]]

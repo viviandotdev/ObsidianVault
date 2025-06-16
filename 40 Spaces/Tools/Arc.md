@@ -1,7 +1,7 @@
 ---
 created: 2023-09-01 17:01
 modified: 2025-06-13T07:48:59-04:00
-alias: 
+
 ---
 up::  [[My Tools]]
 
@@ -33,4 +33,3 @@ youtube shorts block
 [How to stay organized & focused with Arc Browser - YouTube](https://www.youtube.com/watch?v=53aEnT53f3Q)
 [The Arc Browser is GENIUS, Here’s Why (Invite no longer needed) - YouTube](https://www.youtube.com/watch?v=fcWuhUQreXs)
 [Arc Browser Review: 10 Reason Why YOU Should Switch! - YouTube](https://www.youtube.com/watch?v=I1MRsFRESbY)
-

@@ -1,7 +1,7 @@
 ---
 created: 2024-12-21 14:41
 modified: 2025-06-16T07:02:25-04:00
-alias: 
+
 ---
 up::  [[Workflows]]
 source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)

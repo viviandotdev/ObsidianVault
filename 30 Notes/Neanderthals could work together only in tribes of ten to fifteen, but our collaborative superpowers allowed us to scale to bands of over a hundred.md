@@ -1,7 +1,7 @@
 ---
 created: 2023-12-11 08:25
 modified: 2025-06-16T07:04:32-04:00
-alias: 
+
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
 tags:: [[communication]]

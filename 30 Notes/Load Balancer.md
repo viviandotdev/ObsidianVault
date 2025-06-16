@@ -1,5 +1,5 @@
 ---
-alias: 
+
 modified: 2025-06-15T18:49:30-04:00
 ---
 tags:: [[system-design]]

@@ -1,7 +1,7 @@
 ---
 created: 2024-02-07 22:29
 modified: 2025-06-15T20:35:06-04:00
-alias: 
+
 ---
 tags:: [[mindfulness]]
 type:: #source/article

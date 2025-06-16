@@ -1,11 +1,11 @@
 ---
-created: 2023-07-11 18:24 
+created: 2023-07-11 18:24
 modified: Tuesday 11th July 2023 18:24:35
-alias: Vim
+ Vim
 ---
 up::  [[My Tools]]
 
-## Vim 
+## Vim
 ****
 [vi - How can I do a 'change word' in Vim using the current paste buffer? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/88714/how-can-i-do-a-change-word-in-vim-using-the-current-paste-buffer)
 viwp
@@ -35,7 +35,7 @@ viwp
 | dd   | delete current line (and put them in the same buffer that yank would have) |
 | yy   | yank (copy) the current line                                               |
 | p    | paste after the current cursor position (or full line)                     |
-| cw     |  change word        
+| cw     |  change word
 
 **Folding**
 
@@ -54,6 +54,3 @@ viwp
 ## Resources
 [Commands List · Issue #1 · aioutecism/amVim-for-VSCode · GitHub](https://github.com/aioutecism/amVim-for-VSCode/issues/1)
 [mza's list of useful vim commands](https://www.phys.hawaii.edu/~mza/PC/vim.html)
-
-
-

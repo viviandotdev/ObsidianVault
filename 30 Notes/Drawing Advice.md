@@ -1,7 +1,7 @@
 ---
 created: 2023-12-16 17:49
 modified: 2025-06-15T18:32:35-04:00
-alias: 
+
 ---
 tags::  [[drawing]]
 

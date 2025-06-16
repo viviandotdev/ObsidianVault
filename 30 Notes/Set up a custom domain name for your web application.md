@@ -1,7 +1,7 @@
 ---
 created: 2024-05-16 17:33
 modified: 2025-06-16T07:05:11-04:00
-alias: 
+
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 type:: #note/how-to

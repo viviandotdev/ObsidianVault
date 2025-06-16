@@ -1,7 +1,7 @@
 ---
 created: 2025-03-21 15:08
 modified: 2025-06-15T18:48:10-04:00
-alias: 
+
 ---
 tags:: [[leetcode]]
 ## leetcode ROI
@@ -68,6 +68,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

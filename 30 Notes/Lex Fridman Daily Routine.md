@@ -1,7 +1,7 @@
 ---
 created: 2024-06-30 20:37
 modified: 2025-06-15T18:48:23-04:00
-alias: 
+
 ---
 up::  [[Daily Routines]]
 ## Lex Fridman Daily Routine
@@ -10,7 +10,7 @@ up::  [[Daily Routines]]
 	- Exercise Every Single Day
 	- Accept today may be the last day on earth
 	- Goals for the Next 5 years
-	- Goals for the Next year 
+	- Goals for the Next year
 	- Focus on the day, visualize your day, and doing it sucessfully
 	- Core principles
 		- compassion, ambitions, patient
@@ -34,6 +34,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

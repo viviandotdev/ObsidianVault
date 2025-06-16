@@ -1,7 +1,7 @@
 ---
 created: 2024-04-10 15:27
 modified: Wednesday 10th April 2024 15:27:44
-alias:
+
 Status: hold
 Category: system-design
 tags: "[[system-design]]"

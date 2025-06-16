@@ -1,13 +1,12 @@
 ---
 created: 2024-02-07 08:32
-modified: Wednesday 7th February 2024 08:32:42
-alias:
+modified: 2025-06-16T07:36:24-04:00
 ---
-up::
+type:: #source/video 
 tags:: [[finance]]
 source:: [16. Portfolio Management - YouTube](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
 
-## Portfolio Theory
+## Portfolio Management
 1. observations
 2. models, math
 3. observations

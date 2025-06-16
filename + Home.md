@@ -1,7 +1,5 @@
 ---
-alias:
-  - "000"
-modified: 2025-06-15T13:13:08-04:00
+modified: 2025-06-16T07:37:48-04:00
 ---
 I# Home 🌎
 Your launchpad and home base. That's here. That's home.
@@ -9,7 +7,7 @@ Your launchpad and home base. That's here. That's home.
 - [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[Meta PKM]] | [[Efforts]] |[[Life Map]]
 
 ### Areas of Interest
-- [[habits]]  
+- [[habits]]
 - [[system-design]]
 - [[drawing]]
 - [[writing]]
@@ -26,7 +24,7 @@ Your launchpad and home base. That's here. That's home.
 #### Things
 - [[+ Library]]
 - [[Slipbox]]
-- [[Sources]] | [[Commonplace Book]] | [[Bookshelf]] | [[People MOC]] 
+- [[Sources]] | [[Commonplace Book]] | [[Bookshelf]] | [[People MOC]]
 #### Action and Reflection
 - [[Efforts]]
 #### Life

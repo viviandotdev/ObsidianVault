@@ -1,10 +1,9 @@
 ---
 created: 2024-03-22 08:53
-modified: 2025-06-16T07:30:08-04:00
-alias: 
+modified: 2025-06-16T07:33:38-04:00
 ---
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
+tags::
 source::
 ## Horns
 #### Step 1: Creating the Torus

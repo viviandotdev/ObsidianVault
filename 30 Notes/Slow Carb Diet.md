@@ -1,7 +1,7 @@
 ---
 created: 2024-10-20 11:35
 modified: 2025-06-16T07:10:58-04:00
-alias: 
+
 ---
 type:: #note/how-to
 ### Rules

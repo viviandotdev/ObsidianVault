@@ -1,7 +1,7 @@
 ---
 created: 2023-10-19 09:23
 modified: 2025-06-15T18:58:49-04:00
-alias: 
+
 ---
 up::  [[buddhism]]
 

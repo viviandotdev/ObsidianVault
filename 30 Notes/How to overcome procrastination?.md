@@ -1,7 +1,7 @@
 ---
 created: 2023-09-23 11:58
 modified: 2025-06-15T18:38:58-04:00
-alias: 
+
 ---
 tags:: [[productivity]] [[procrastination]]
 related:: [[Why do we procrastinate]]

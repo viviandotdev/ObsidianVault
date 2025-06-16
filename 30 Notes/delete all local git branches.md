@@ -1,7 +1,7 @@
 ---
 created: 2023-10-30 20:44
 modified: 2025-06-15T18:27:01-04:00
-alias: 
+
 ---
 related:: [[git]]
 ## delete all local git branches

@@ -1,9 +1,9 @@
 ---
 created: 2024-02-28 17:24
 modified: 2025-06-15T18:55:41-04:00
-alias: 
+
 ---
-up::  
+up::
 ## This voice exists to make you feel more comfortable and control of the world around you
 
 Through constant narration it recreates the outside world inside yourself to give you a sense of control.

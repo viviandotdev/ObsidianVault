@@ -1,8 +1,8 @@
 ---
 created: 2024-03-30 11:42
-modified: 2025-01-18T12:44:20-05:00
-alias:
+modified: 2025-06-16T07:33:49-04:00
 ---
+
 up::  [[Making Food and Drinks in Blender]]
 tags:: [[drawing]]
 source::

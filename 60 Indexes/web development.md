@@ -1,7 +1,7 @@
 ---
 created: 2024-04-27 16:12
 modified: 2025-06-16T07:17:21-04:00
-alias: 
+
 ---
 tags:: [[frontend development]]
 

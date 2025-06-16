@@ -1,11 +1,11 @@
 ---
-created: 2023-08-29 06:59 
+created: 2023-08-29 06:59
 modified: Tuesday 29th August 2023 06:59:33
-alias: 
+
 ---
 up::  [[Three.js Journey]]
-tags:: 
-related: 
+tags::
+related:
 
 ## three.js.geometry
 

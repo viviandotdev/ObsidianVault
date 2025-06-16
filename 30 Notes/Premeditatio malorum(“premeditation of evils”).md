@@ -1,7 +1,7 @@
 ---
 created: 2023-10-24 06:10
 modified: 2025-06-15T18:44:50-04:00
-alias: 
+
 ---
 up::
 tags:: [[goals]] [[habits]]

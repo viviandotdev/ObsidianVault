@@ -1,7 +1,7 @@
 ---
 created: 2024-12-22 09:18
 modified: 2025-06-15T13:50:08-04:00
-alias: 
+
 ---
 tags:: [[Anki]]
 ## Anki General Workflow
@@ -18,7 +18,7 @@ tags:: [[Anki]]
 - do not add cards you do not fully understand
 	- add only cards you fully understand
 - review things you are interested in and actually want to remember or else it will just become a burdern
-	- it is better to delete it, if you are not sure, if it is really that important the concept will come back to you 
+	- it is better to delete it, if you are not sure, if it is really that important the concept will come back to you
 - reduce new cards to reduce study time
 	- if you think you spend too much time on anki then stop studying less new cards
 ### Links to this page
@@ -31,6 +31,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

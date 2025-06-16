@@ -1,7 +1,7 @@
 ---
 created: 2024-04-18 14:25
 modified: 2025-06-16T07:26:15-04:00
-alias: 
+
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
 ## How to create interesting titles

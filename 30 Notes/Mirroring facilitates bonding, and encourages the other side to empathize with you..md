@@ -1,7 +1,7 @@
 ---
 created: 2023-12-07 16:29
 modified: 2025-06-15T18:52:37-04:00
-alias: 
+
 ---
 tags:: [[communication]]
 ## Mirroring facilitates bonding, and encourages the other side to empathize with you.

@@ -1,7 +1,6 @@
 ---
 created: 2024-03-26 19:53
-modified: 2025-06-15T20:49:47-04:00
-alias:
+modified: 2025-06-16T07:33:35-04:00
 ---
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::

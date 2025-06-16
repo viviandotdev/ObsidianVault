@@ -1,9 +1,7 @@
 ---
 created: 2024-02-18 12:13
-modified: Sunday 18th February 2024 12:13:09
-alias:
+modified: 2025-06-16T07:35:33-04:00
 ---
-up::
 tags::  [[learning]]
 type:: #source/video
 source::[Mastering the Art of Continuous Learning - YouTube](https://www.youtube.com/watch?v=s8BQ5Suab6Y)

@@ -1,7 +1,7 @@
 ---
 created: 2023-08-30 12:00
 modified: 2025-06-15T20:47:57-04:00
-alias: 
+
 ---
 up::  [[Three.js Journey]]
 related:

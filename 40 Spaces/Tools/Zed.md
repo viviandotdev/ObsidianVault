@@ -1,7 +1,7 @@
 ---
 created: 2024-06-30 20:03
 modified: 2025-06-13T07:23:49-04:00
-alias: 
+
 ---
 up::  [[My Tools]]
 ## Zed
@@ -18,6 +18,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

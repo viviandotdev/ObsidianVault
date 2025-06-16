@@ -1,7 +1,7 @@
 ---
 created: 2024-01-12 10:44
 modified: Friday 12th January 2024 10:44:01
-alias:
+
 ---
 up::  [[writing]]
 tags:: [[writing]]

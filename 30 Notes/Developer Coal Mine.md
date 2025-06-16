@@ -1,7 +1,7 @@
 ---
 created: 2024-05-19 19:55
 modified: 2025-06-15T18:30:23-04:00
-alias: 
+
 ---
 tags:: [[content-creation]]
 ## Development Coal Mine

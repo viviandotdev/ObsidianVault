@@ -1,7 +1,7 @@
 ---
 created: 2024-03-07 08:44
 modified: 2025-06-15T14:10:52-04:00
-alias: 
+
 ---
 tags:: [[language]] [[chinese]]
 ## Chinese Marilyn Monroe Method

@@ -1,12 +1,12 @@
 ---
 created: 2024-06-22 17:01
 modified: 2025-06-15T14:10:34-04:00
-alias: 
+
 ---
 tags:: [[chess]]
 ## Chess Openings
 go through each video on the london system to build your white repotorie
-go the 
+go the
 **Create a opening white**
 london system,
 **Create a opening repirtoree**  king to safety, putting your bishop on g7, and playing d6 whenever you see e4.
@@ -35,6 +35,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

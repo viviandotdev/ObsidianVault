@@ -1,7 +1,7 @@
 ---
 created: 2024-07-12 10:12
 modified: 2025-06-15T21:36:52-04:00
-alias: 
+
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 ## Deploying nest.js app to dokku

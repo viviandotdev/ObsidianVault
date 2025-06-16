@@ -1,7 +1,7 @@
 ---
 created: 2024-07-11 18:01
 modified: Thursday 11th July 2024 18:01:16
-alias:
+
 ---
 up::
 type:: [[docker]]

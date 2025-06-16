@@ -1,14 +1,15 @@
 ---
 created: 2024-04-21 14:55
-modified: Sunday 21st April 2024 14:55:39
+modified: 2025-06-16T07:34:38-04:00
 ---
+up:: [[My PKM Workflows]]
 status:: #🟨 
-tags:: [[writing]]
+tags:: [[writing]] 
+type:: #note/how-to 
 ## How to Write an Atomic Essay?
 
 [Examples of Productivity Atomic Essays](https://twitter.com/julia_saxena/status/1373253118297772032)
 [How to Write An Atomic Essay: A Beginner's Guide](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
-
 
 1. Pick a specific topic
 2. Decide who you are writing for

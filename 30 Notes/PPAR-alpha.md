@@ -1,7 +1,7 @@
 ---
 created: 2024-10-27 19:58
 modified: 2025-06-15T21:37:56-04:00
-alias: 
+
 ---
 up::
 type:: #note/atomic

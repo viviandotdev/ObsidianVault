@@ -1,7 +1,7 @@
 ---
 created: 2024-04-22 08:44
 modified: 2025-06-15T18:33:24-04:00
-alias: 
+
 ---
 type:: #note/atomic-essay
 tags:: [[learning]]

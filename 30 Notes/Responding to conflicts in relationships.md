@@ -1,11 +1,9 @@
 ---
 created: 2023-11-03 11:32
-modified: Friday 3rd November 2023 11:32:03
-alias:
+modified: 2025-06-16T07:37:02-04:00
 ---
-up::
+type:: #note/atomic 
 tags:: [[relationships]]
-
 ## Responding to conflicts in relationships
 
 - Don’t show them evidence that conflicts with what they believe.

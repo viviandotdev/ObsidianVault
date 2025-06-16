@@ -1,7 +1,7 @@
 ---
 created: 2024-09-28 12:16
 modified: 2025-06-15T18:42:51-04:00
-alias: 
+
 ---
 tags:: [[git]]
 ## How To Work With Multiple Github Accounts on a single Machine
@@ -52,6 +52,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

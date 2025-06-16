@@ -1,7 +1,7 @@
 ---
 created: 2024-06-07 11:42
 modified: 2025-06-15T18:39:59-04:00
-alias: 
+
 ---
 ## Resend
 
@@ -21,6 +21,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

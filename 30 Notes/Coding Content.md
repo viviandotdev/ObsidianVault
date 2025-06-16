@@ -1,7 +1,7 @@
 ---
 created: 2025-02-02 18:14
 modified: 2025-06-15T13:25:53-04:00
-alias:
+
 ---
 tags:: [[content-creation]]
 source::

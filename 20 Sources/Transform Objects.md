@@ -1,7 +1,6 @@
 ---
 created: 2023-08-29 06:41
-modified: 2025-06-15T20:48:43-04:00
-alias: 
+modified: 2025-06-16T07:33:55-04:00
 ---
 
 source: [Three.js Journey — Transform objects](https://threejs-journey.com/lessons/transform-objects)

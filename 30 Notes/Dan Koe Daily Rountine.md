@@ -1,7 +1,7 @@
 ---
 created: 2024-06-30 20:55
 modified: 2025-06-15T18:25:52-04:00
-alias: 
+
 ---
 tags:: [[habits]]
 ## Dan Koe Daily Rountine
@@ -26,6 +26,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

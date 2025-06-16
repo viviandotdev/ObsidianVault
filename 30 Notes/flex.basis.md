@@ -1,7 +1,7 @@
 ---
 created: 2024-05-02 12:26
 modified: 2025-06-15T18:41:46-04:00
-alias: 
+
 ---
 tags:: [[css]]
 ## Understanding the Basis of Flex

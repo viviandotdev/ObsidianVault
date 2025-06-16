@@ -1,7 +1,7 @@
 ---
 created: 2024-11-28 16:30
 modified: 2025-06-15T18:50:25-04:00
-alias: 
+
 ---
 tags:: [[love]] [[relationships]]
 ## Love is not conditional
@@ -18,6 +18,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

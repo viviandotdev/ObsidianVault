@@ -1,7 +1,7 @@
 ---
-created: 2024-02-07 12:46 
+created: 2024-02-07 12:46
 modified: Wednesday 7th February 2024 12:46:31
-alias: 
+
 ---
 ## The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 

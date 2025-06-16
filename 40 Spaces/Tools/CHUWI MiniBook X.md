@@ -1,7 +1,7 @@
 ---
 created: 2024-07-05 10:04
 modified: 2025-06-15T21:36:44-04:00
-alias: 
+
 ---
 up::  [[My Tools]]
 ## CHUWI MiniBook X

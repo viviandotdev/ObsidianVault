@@ -1,7 +1,7 @@
 ---
 created: 2023-09-01 20:53
 modified: 2025-06-15T18:24:40-04:00
-alias: 
+
 ---
 ## drawing
 [[Drawing Advice]]
@@ -35,24 +35,24 @@ Composition
 - Composition theory
 - Compositional schemes
 **Resources**
-	 Framed Ink by Marcos Mateo-Mestre, Mitchell Albala landscape painting 
+	 Framed Ink by Marcos Mateo-Mestre, Mitchell Albala landscape painting
 
 **Technique
 [[Digital (Procreate)]]
 
 
 The combindation of the above (technique, aesthetic and structure/logic) is creativity. Combing all those skills create a story or design of someting
-**Creative** 
+**Creative**
 Design
 Story
 Expression
 
 
-Color and Light 
+Color and Light
 -  Color Theory
 - Light Sources
 **Resources**
--  Color and Light by James Gurney, 
+-  Color and Light by James Gurney,
 -  Color and Light by 3DTotal Publishing
 
 **Exercises**

@@ -1,7 +1,7 @@
 ---
 created: 2024-10-07 20:51
 modified: 2025-06-16T07:03:08-04:00
-alias: 
+
 ---
 type:: #note/atomic
 tags:: [[brain]]

@@ -1,7 +1,7 @@
 ---
 created: 2023-09-03 12:39
 modified: 2025-06-15T14:08:23-04:00
-alias: 
+
 ---
 tags:: [[learning]]
 

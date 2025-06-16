@@ -1,13 +1,13 @@
 ---
 created: 2024-05-12 12:10
 modified: 2025-06-15T18:40:13-04:00
-alias: 
+
 ---
 tags:: [[file-upload]]
 ## How to set up AWS S3 bucket to store files?
 ### Create AWS user
 1. Go to [AWS Console](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1)
-2. Search **IAM** 
+2. Search **IAM**
 	Go to Access management -> [Users](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/users)
 3. Select **Create user** button
 	1. Set username (ex. twitter-fullstack-s3)
@@ -73,4 +73,3 @@ tags:: [[file-upload]]
 [[How to upload images to S3 bucket with a presignedURL]]
 
 **Sources**
-

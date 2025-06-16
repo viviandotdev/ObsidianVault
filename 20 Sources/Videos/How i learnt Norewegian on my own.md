@@ -1,7 +1,7 @@
 ---
 created: 2023-11-04 14:48
 modified: 2025-06-16T07:21:10-04:00
-alias: 
+
 ---
 tags::  [[language]]
 source::  [How I learnt Norwegian on my own - YouTube](https://www.youtube.com/watch?v=uWQYqcFX8JE)

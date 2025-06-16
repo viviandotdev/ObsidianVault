@@ -1,7 +1,7 @@
 ---
 created: 2023-09-01 21:26
 modified: 2025-06-13T08:32:43-04:00
-alias: 
+
 ---
 up:: [[My Tools]]
 

@@ -1,7 +1,7 @@
 ---
 created: 2023-09-23 10:30
 modified: 2025-06-15T21:35:31-04:00
-alias: 
+
 ---
 up::
 tags::  [[money]]

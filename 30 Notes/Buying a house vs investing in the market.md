@@ -1,7 +1,7 @@
 ---
 created: 2023-09-23 11:37
 modified: 2025-06-15T13:51:15-04:00
-alias: 
+
 ---
 tags:: [[money]]
 ## Buying a house vs investing in the market

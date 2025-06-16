@@ -1,7 +1,7 @@
 ---
 created: 2023-11-29 05:58
 modified: 2025-06-15T06:57:35-04:00
-alias:
+
 ---
 tags:: [[neural-networks]]
 source:: [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)

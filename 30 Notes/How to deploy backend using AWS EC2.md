@@ -1,7 +1,7 @@
 ---
 created: 2024-05-14 10:19
 modified: 2025-06-16T07:01:37-04:00
-alias: 
+
 ---
 up::  [[How to start a programming project]]
 tags:: [[aws]]

@@ -1,7 +1,7 @@
 ---
 created: 2024-12-10 13:16
 modified: 2025-06-15T21:37:02-04:00
-alias: 
+
 ---
 up::  [[drawing]]
 type:: #note/list

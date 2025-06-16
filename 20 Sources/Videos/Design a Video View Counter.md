@@ -1,7 +1,7 @@
 ---
 created: 2023-07-16 13:26
 modified: 2025-06-16T07:15:18-04:00
-alias: 
+
 ---
 tags:: [[system-design]]
 type:: #source/video

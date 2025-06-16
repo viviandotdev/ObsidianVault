@@ -1,7 +1,7 @@
 ---
 created: 2023-09-07 16:28
 modified: 2025-06-15T13:08:44-04:00
-alias: 
+
 ---
 up:: [[+ Library]]
 
@@ -67,12 +67,12 @@ Security
 
 
 ### Communication between systems
-1. Service Discovery 
+1. Service Discovery
 [[Common System Design Problems]]
 
 
 grokking interview
-system design Alex book 
+system design Alex book
 and exponenet
 gather list of high prioiryty questioms , do the time table on them
 
