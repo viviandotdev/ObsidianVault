@@ -4,7 +4,7 @@ modified: Friday 12th January 2024 10:44:01
 alias:
 ---
 up::  [[writing]]
-tags:: #writing
+tags:: [[writing]]
 source:: [Why Engineers Need To Write - by Ryan Peterman](https://www.developing.dev/p/why-engineers-need-to-write)
 
 ## Why you should write

@@ -4,7 +4,7 @@ modified: Saturday 23rd September 2023 10:30:49
 alias:
 ---
 up::
-tags::  #life #life-design #money
+tags::  #life #life-design [[money]]
 
 ## Many people have generic desires like freedom and flexibility, but haven't thought deeper about what a rich life truly means
 

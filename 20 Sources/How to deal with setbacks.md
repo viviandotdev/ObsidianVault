@@ -4,7 +4,7 @@ modified: Sunday 18th February 2024 12:06:50
 alias:
 ---
 up::
-tags:: #buddhism
+tags:: [[buddhism]]
 medium:: #source/video
 links:: [How to deal with setbacks - YouTube](https://www.youtube.com/watch?v=7HyxkxDum8o)
 ## How to deal with setbacks

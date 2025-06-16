@@ -1,10 +1,11 @@
 ---
 created: 2023-07-21 07:07
-modified: Friday 21st July 2023 07:07:34
-alias:
+modified: 2025-06-15T20:27:40-04:00
+alias: 
 ---
 
-tags:: #goals #life #source/quote
+tags:: [[goals]]
+type:: #source/quote
 related::
 sources: [Willpower is for unproductive Losers](https://josepheverettwil.substack.com/p/willpower-is-for-unproductive-losers)
 

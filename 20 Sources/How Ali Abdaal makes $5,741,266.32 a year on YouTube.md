@@ -4,7 +4,7 @@ modified: Saturday 23rd September 2023 09:44:52
 alias:
 ---
 up::
-tags:: #money #finance #source/podcast
+tags:: [[money]] [[finance]] #source/podcast
 
 # How Ali Abdaal makes $5,741,266.32 a year on YouTube
 

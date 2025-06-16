@@ -1,6 +1,6 @@
-**[[The internet has opened up the opportunity to do what you enjoy. You don't have to suffer anymore when creating your own career path]] 
+**[[The internet has opened up the opportunity to do what you enjoy. You don't have to suffer anymore when creating your own career path]]
 
-tags:: #creativity  #online-business
+tags:: [[creativity]]  #online-business
 
 **Topic**
  What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.

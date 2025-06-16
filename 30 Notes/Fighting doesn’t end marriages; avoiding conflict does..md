@@ -4,7 +4,7 @@ modified: Thursday 7th December 2023 16:38:06
 alias:
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #relationships #conflict
+tags:: [[relationships]] #conflict
 
 ## Fighting doesn’t end marriages; avoiding conflict does.
 

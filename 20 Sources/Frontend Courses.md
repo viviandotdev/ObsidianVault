@@ -4,7 +4,7 @@ modified: Sunday 3rd September 2023 16:11:00
 aliases:
 ---
 up::  [[frontend development]]
-tags:: #frontend
+tags:: [[frontend development]]
 
 ## Frontend Courses
 ### JavaScript

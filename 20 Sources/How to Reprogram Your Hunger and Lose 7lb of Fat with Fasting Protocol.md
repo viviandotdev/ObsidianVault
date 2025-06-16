@@ -7,7 +7,7 @@ alias:
 URL:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
 Status:: #🟩
 Medium:: #source/video
-tags:: #fasting
+tags:: [[fasting]]
 ## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol
 
 **Transform Body Composition and Increase Lifespan with Fasting**

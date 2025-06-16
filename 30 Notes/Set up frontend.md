@@ -1,10 +1,10 @@
 ---
-created: 2024-05-19 19:23 
+created: 2024-05-19 19:23
 modified: Sunday 19th May 2024 19:23:13
-alias: 
+alias:
 ---
 up::  [[How to start a programming project]]
-tags:: #frontend #nextjs 
+tags:: [[frontend development]] #nextjs
 links::
 ## Set up frontend
 

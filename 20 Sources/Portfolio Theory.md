@@ -4,7 +4,7 @@ modified: Wednesday 7th February 2024 08:32:42
 alias:
 ---
 up::
-tags:: #finance
+tags:: [[finance]]
 links:: [16. Portfolio Management - YouTube](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
 
 ## Portfolio Theory

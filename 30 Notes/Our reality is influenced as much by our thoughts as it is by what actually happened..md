@@ -4,7 +4,7 @@ modified: Friday 29th September 2023 14:16:20
 alias:
 ---
 up::
-tags:: #buddhism
+tags:: [[buddhism]]
 ### Our reality is influenced as much by our thoughts as it is by what actually happened.
 
 Our reality is influenced as much by our thoughts as it is by what actually happened.

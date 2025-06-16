@@ -4,7 +4,7 @@ modified: Saturday 15th July 2023 16:09:11
 alias:
 ---
 related: [[How to Write Lecture Notes]] [[How to Write Atomic Notes]]
-tags:: #note-taking
+tags:: [[note-taking]]
 
 ## QEC Note-Taking Method
 

@@ -1,15 +1,15 @@
 ---
 created: 2024-05-25 09:48
 modified: 2025-06-15T07:19:30-04:00
-alias: 
+alias:
 ---
-up::  
-type: #note 
-on:: #ai #goals 
+up::
+type: #note
+on:: #ai [[goals]]
 ## Find joy in the process of learning and doing, It is nice learn and understand how this work instead of having done for you.
 
 
-It is not about the outcome or result, it is about the process of getting there. The goal is the process. 
+It is not about the outcome or result, it is about the process of getting there. The goal is the process.
 
 ### Resources
 These notes point directly to this note. But this note doesn't point back.
@@ -21,6 +21,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

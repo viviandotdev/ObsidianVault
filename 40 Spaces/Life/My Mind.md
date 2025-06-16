@@ -8,7 +8,7 @@ modified: 2025-06-14T19:00:24-04:00
 - [[People are willing to pay if you present valuable information in a neat and organized and pretty way.]]
 
 
-#learning
+[[learning]]
 - [[Learning how to learning is the ultimate skill that will give you the power to do what you love]]
 - [[Learning is one of the most pleasurable experiences in life]]
 - [[When you learn something new, learn it as if you are going to explain it someone in the next 48 hours]]
@@ -29,7 +29,7 @@ modified: 2025-06-14T19:00:24-04:00
 - [[You are happiest when working towards your goals, not when you have achieved them]]
 -
 
-#money
+[[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
 
 #life
@@ -47,7 +47,7 @@ modified: 2025-06-14T19:00:24-04:00
 - [[Past progress is proof of future potential]]
 
 
-#relationships
+[[relationships]]
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]
 - [[I am even not even close to where I want to be in life to sacrifice that time into something outside of myself]]
 

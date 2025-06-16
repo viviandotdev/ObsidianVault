@@ -4,7 +4,7 @@ modified: Sunday 18th February 2024 12:13:09
 alias:
 ---
 up::
-tags::  #learning
+tags::  [[learning]]
 medium:: #source/video
 links::[Mastering the Art of Continuous Learning - YouTube](https://www.youtube.com/watch?v=s8BQ5Suab6Y)
 ## Mastering the Art of Continuous Learning

@@ -4,7 +4,7 @@ modified: Friday 3rd November 2023 15:44:18
 alias:
 ---
 up::
-tags:: #relationships #friends
+tags:: [[relationships]] #friends
 
 ## Making friends
 

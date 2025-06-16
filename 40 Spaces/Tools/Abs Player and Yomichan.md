@@ -4,7 +4,7 @@ modified: Monday 18th September 2023 09:50:13
 alias:
 ---
 up::  [[tools]]
-tags:: #language
+tags:: [[language]]
 
 ## Abs Player and Yomichan
 

@@ -4,7 +4,7 @@ modified: Sunday 3rd September 2023 14:43:43
 alias:
 ---
 up::
-tags:: #writing
+tags:: [[writing]]
 
 ## How to Come Up with Content Ideas
 

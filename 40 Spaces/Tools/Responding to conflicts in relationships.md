@@ -4,7 +4,7 @@ modified: Friday 3rd November 2023 11:32:03
 alias:
 ---
 up::
-tags:: #relationships
+tags:: [[relationships]]
 
 ## Responding to conflicts in relationships
 

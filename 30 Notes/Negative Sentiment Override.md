@@ -4,7 +4,7 @@ modified: Thursday 7th December 2023 16:37:12
 alias:
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #love #relationships
+tags:: #love [[relationships]]
 related:: [[idealistic distortion]]
 
 ## Negative Sentiment Override

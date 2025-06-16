@@ -7,7 +7,7 @@ author: Eric Barker
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #relationships #source/book
+tags:: [[relationships]] #source/book
 
 # Playing well with Others
 ## by Eric Barkers

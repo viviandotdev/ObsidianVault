@@ -1,11 +1,11 @@
 ---
 created: 2024-04-14 07:08
-modified: Sunday 14th April 2024 07:08:06
-alias:
+modified: 2025-06-15T20:26:14-04:00
+alias: 
 ---
 up::
-tags:: [[flow]] #focus #deep-work
-medium:: #source/video
+tags:: [[flow]]
+type:: #source/video
 links::
 ## How i stay focused for long period of time (and stop infinite scrolling)
 

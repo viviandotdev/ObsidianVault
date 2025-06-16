@@ -4,7 +4,7 @@ modified: Thursday 19th October 2023 09:20:13
 alias:
 ---
 up::  [[buddhism]]
-tags:: #buddhism
+tags:: [[buddhism]]
 
 ## Not-self (anatta)
 

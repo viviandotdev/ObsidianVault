@@ -4,8 +4,8 @@ modified: Saturday 3rd February 2024 21:01:14
 alias:
 ---
 up::
-status:: #🟩 
-tags:: #agency #learning 
+status:: #🟩
+tags:: [[agency]] [[learning]]
 source:: #source/article
 
 ## How to be more agentic?

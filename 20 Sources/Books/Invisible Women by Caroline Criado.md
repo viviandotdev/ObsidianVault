@@ -1,13 +1,12 @@
 ---
 created: 2024-01-06 20:17
-modified: Sunday 7th January 2024 08:03:46
-aliases:
+modified: 2025-06-15T20:28:41-04:00
+aliases: 
 title: Invisible Women
 author: Caroline Criado Perez
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #women
 medium:: #source/book
 
 ##  Invisible Women

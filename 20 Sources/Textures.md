@@ -1,10 +1,9 @@
 ---
 created: 2023-08-30 11:26
-modified: Wednesday 30th August 2023 11:26:08
-alias:
+modified: 2025-06-15T20:27:08-04:00
+alias: 
 ---
 up::
-tags:: #3d
 related:
 
 ## three.js.textures

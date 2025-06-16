@@ -4,7 +4,7 @@ modified: Saturday 9th September 2023 06:44:39
 alias:
 ---
 up:: [[My PKM Workflows]]
-tags:: #note-taking
+tags:: [[note-taking]]
 ## How I Take Smart Notes- Books/Articles
 
 1. [Read the book.](https://zettelkasten.de/posts/reading-is-searching/) Read swiftly but don’t skip any parts unless they make you vomit or put you to sleep. [Mark all the passages](https://zettelkasten.de/posts/making-proper-marks-in-books/) that stand out and contain useful, interesting or inspiring information.

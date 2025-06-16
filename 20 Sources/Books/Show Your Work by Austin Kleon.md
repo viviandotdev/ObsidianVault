@@ -7,7 +7,7 @@ author: Austin Kleon
 ---
 up:: [[Bookshelf]]
 status:: summarized
-tags:: #source/book #creativity
+tags:: #source/book [[creativity]]
 
 ## Show Your Work
 

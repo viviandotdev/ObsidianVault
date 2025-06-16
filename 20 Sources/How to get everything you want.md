@@ -4,7 +4,7 @@ modified: Sunday 4th February 2024 20:02:41
 alias:
 ---
 up::  [[Goal Setting]]
-tags:: #goals
+tags:: [[goals]]
 [How to get everything you want this year - YouTube](https://www.youtube.com/watch?v=QUiXERZGLXA)
 ## How to get everything you want
 

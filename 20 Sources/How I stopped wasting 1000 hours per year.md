@@ -4,7 +4,7 @@ modified: Sunday 18th February 2024 14:23:09
 alias:
 ---
 up::
-tags:: #creativity
+tags:: [[creativity]]
 links:: [The Labor of Inspiration](https://moretothat.com/the-labor-of-inspiration/)
 ## The Labor Of Inspiration
 

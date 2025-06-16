@@ -5,7 +5,7 @@ alias:
 ---
 up::  [[writing]]
 status:: completed
-tags:: #writing
+tags:: [[writing]]
 medium:: #source/course
 links::
 

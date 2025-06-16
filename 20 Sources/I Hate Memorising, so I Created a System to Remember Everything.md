@@ -4,7 +4,7 @@ modified: Saturday 23rd March 2024 19:29:09
 alias:
 ---
 up::
-tags:: #learning #memory
+tags:: [[learning]] [[memory]]
 links::[I Hate Memorising, so I Created a System to Remember Everything - YouTube](https://www.youtube.com/watch?v=PjyMdQptGYI&list=WL&index=12)
 ## I Hate Memorising, so I Created a System to Remember Everything
 

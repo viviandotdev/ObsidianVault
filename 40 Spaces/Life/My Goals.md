@@ -2,11 +2,11 @@
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
 
-- [[My Goals#^736174|Rock climbing]] #health 
+- [[My Goals#^736174|Rock climbing]] #health
 - Do a L-Sit
 - Read 100 books in a year
-- [[My Goals#^b96138|Become fluent in chinese]] #language
-- [[My Goals#^a95a9f|Learn to draw]] #creativity 
+- [[My Goals#^b96138|Become fluent in chinese]] [[language]]
+- [[My Goals#^a95a9f|Learn to draw]] [[creativity]]
 - [[My Goals#^f96007|Create UI animations app]]
 
 
@@ -30,12 +30,12 @@ Financial Goals
 - [x] Design, build and publish your own personal website
 - [ ] Create app UI animations for users to easily copy code and make the internet a prettier place  ^f96007
 	- Create 100 components, basically like cooking but for the web, this is not saturated, i know a lot of these are popping up but if you are good there will always be people who will want to buy your stuff.
-	- for example doobydobap is a food influencer which is always so saturated but she was still able to quickly find an audience, 
+	- for example doobydobap is a food influencer which is always so saturated but she was still able to quickly find an audience,
 	- i will try working on this and only this for one year and see what happens,
 	- after this and i have created a good list of components use these components to create an app
 - [ ] Create a template and charge people for it
 - [ ] Publish an app on the app store
-- [ ] Generate $1000 a month online with an app or service 
+- [ ] Generate $1000 a month online with an app or service
 
 ### Creative goals
 - [ ] Learn to draw to the point where i can create art like  ^a95a9f
@@ -49,7 +49,7 @@ Financial Goals
 - [ ] Become fluent in Japanese
 - [ ] Learn to cook recipes like dobbydobap
 	-[Doobydobap](https://doobydobap.com/)
-	
+
 - [ ] Learn to snowboard
 - [ ] Learn to skateboard
 - [ ] Learn Rock climbing ^736174
@@ -65,7 +65,7 @@ Financial Goals
 - [x] Pistol Squat
 - [ ] Dragon Squat
 
-- [ ] Run a 5k 
+- [ ] Run a 5k
 - [ ] Run a 10k
 - [ ] Run a half
 - [ ] Run the NYC marathon
@@ -79,7 +79,7 @@ Financial Goals
 
 ### Travel Goals
 - [ ] Visit every continent
-- [ ] Visit japan 
+- [ ] Visit japan
 - [ ] Visit switzerland to see the mountains
 - [ ] Visit Iceland and see the northern lights
 - [ ] Visit China to see family
