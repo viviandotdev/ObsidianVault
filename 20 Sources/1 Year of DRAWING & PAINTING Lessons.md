@@ -1,6 +1,5 @@
 ---
-modified: 2025-06-13T07:49:15-04:00
-"tags:": 
+modified: 2025-06-15T20:39:06-04:00
 ---
 # 1 Year of DRAWING & PAINTING Lessons
 

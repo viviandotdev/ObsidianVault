@@ -1,11 +1,10 @@
 ---
-created: 2024-05-17 07:18 
-modified: Friday 17th May 2024 07:18:01
+created: 2024-05-17 07:18
+modified: 2025-06-15T20:39:20-04:00
 alias: 
 ---
-up::  [[List of open source projects to learn from]]
+
 type:: #source/course 
-links::
 status:: completed
 ## Twitter Clone Course
 

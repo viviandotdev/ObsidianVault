@@ -1,15 +1,12 @@
 ---
 created: 2024-02-07 22:29
-modified: 2025-06-15T20:34:03-04:00
+modified: 2025-06-15T20:35:06-04:00
 alias: 
 ---
-up::
-status::  #🟩 
-tags:: [[]]
-medium:: #source/article
-links::[Travel Is No Cure for the Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
+tags:: [[mindfulness]]
+type:: #source/article
+source::[Travel Is No Cure for the Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 ## Travel Is No Cure for the Mind
-
 
 The Box of Daily Experience, is are the mundane everyday tasks that make up our life.
 

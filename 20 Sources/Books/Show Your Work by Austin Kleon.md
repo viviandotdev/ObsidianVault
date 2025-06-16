@@ -1,13 +1,14 @@
 ---
 created: 2024-02-07 12:48
-modified: Wednesday 7th February 2024 12:48:31
-aliases:
+modified: 2025-06-15T20:38:19-04:00
+aliases: 
 title: Show Your Work
 author: Austin Kleon
 ---
 up:: [[Bookshelf]]
 status:: summarized
-tags:: #source/book [[creativity]]
+type:: #source/book 
+tags:: [[creativity]]
 
 ## Show Your Work
 

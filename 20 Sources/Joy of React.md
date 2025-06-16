@@ -1,10 +1,8 @@
 ---
 created: 2024-04-22 17:48
-modified: Monday 22nd April 2024 17:48:40
-aliases:
+modified: 2025-06-15T20:38:38-04:00
+aliases: 
 category: react
-tags:
-  - react
 ---
 status:: in-progress
 medium:: #source/course
