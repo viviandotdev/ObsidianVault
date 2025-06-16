@@ -1,11 +1,11 @@
 ---
-created: <% tp.file.creation_date() %> 
+created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-alias: 
+alias:
 ---
-up::  
-type:: #note/atomic🌳 
-links::
+up::
+type:: #note/atomic🌳
+source::
 ## <% tp.file.title %>
 
 
@@ -20,6 +20,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

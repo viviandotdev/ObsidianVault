@@ -1,13 +1,13 @@
 ---
-created: 2024-05-14 10:19 
+created: 2024-05-14 10:19
 modified: Tuesday 14th May 2024 10:19:02
-alias: 
+alias:
 ---
 up::  [[How to start a programming project]]
-tags:: #aws #deploy #backend #api 
+tags:: #aws #deploy #backend #api
 type:: #note/how-to
-links::
-## How to deploy backend using AWS EC2 
+source::
+## How to deploy backend using AWS EC2
 
 **Launch a EC2 instance**
 1. Go to [Instances](https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:)
@@ -33,7 +33,7 @@ links::
 1. Select your instance and to the security tab
 2. Select the security group attached to the instance
 	![[Screenshot 2024-05-14 at 6.09.18 PM.png]]
-3. Select edit inbound rules and add 2 inbound rules for port 8000 
+3. Select edit inbound rules and add 2 inbound rules for port 8000
 	![[Screenshot 2024-05-14 at 6.11.13 PM.png]]
  **SSH into the EC2 instance and launch api**
 1. clone the repo
@@ -65,7 +65,7 @@ pnpm db:migrate:dev
 ```
 7. run build command to create the build
 ```
-pnpm 
+pnpm
 ```
 9. Install process manager pm2
 ```
@@ -98,7 +98,7 @@ pm2 start index.js
 2. Select **Create Target Groups**
 3. Name your target group
 4. Select the instances for your target group
-	- Set the Port for selected instances to 8000 
+	- Set the Port for selected instances to 8000
 	- Select **include as pending below**
 	- Review your targets and then create target group
 	![[Screenshot 2024-05-14 at 5.59.02 PM.png]]
@@ -113,8 +113,8 @@ pm2 start index.js
 4. Under **View**
 	![[Screenshot 2024-05-14 at 6.34.01 PM.png]]
 5. Under **Cache key and origin requests**
-	1. Create cache policy 
-		Under **Cache key settings** 
+	1. Create cache policy
+		Under **Cache key settings**
 		Headers -> Include the following headers
 		![[Screenshot 2024-05-14 at 6.35.56 PM.png]]
 	1. Create Cache Policy

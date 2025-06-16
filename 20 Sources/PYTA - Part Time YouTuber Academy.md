@@ -8,7 +8,7 @@ up::  [[writing]]
 status:: completed
 category:: completed
 type:: #source/course
-links::
+source::
 ## PYTA - Part Time YouTuber Academy
 
 

@@ -1,11 +1,11 @@
 ---
 created: 2024-03-30 11:42
 modified: 2025-01-18T12:44:20-05:00
-alias: 
+alias:
 ---
 up::  [[Making Food and Drinks in Blender]]
 tags:: [[drawing]]
-links::
+source::
 ## Lighting
 
 Render Engine
@@ -24,7 +24,7 @@ Depth of Field
 1.  Blurred in areas that are out of focus
 2. Select your focus object, to set to be focused and other areas will be less focused
 Aperture
-1. Defines how much of the depth of field,  
+1. Defines how much of the depth of field,
 	1. No aperture everything is out of focus, less sharp, more aperture it. is more sharp
 1. ![[Screenshot 2024-03-30 at 11.49.50 AM.png]]
 Select the an object in the middle of the scene

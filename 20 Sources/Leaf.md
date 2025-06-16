@@ -1,18 +1,18 @@
 ---
-created: 2024-04-03 21:18 
+created: 2024-04-03 21:18
 modified: Wednesday 3rd April 2024 21:18:09
-alias: 
+alias:
 ---
 up::  [[Making Food and Drinks in Blender]]
-tags:: 
-links::
+tags::
+source::
 ## Leaf
 
 
 Path
 1. SHIFT C (move cursor back to origin)
 2. Create bezier curve and scale
-3. ![[Screenshot 2024-04-03 at 9.21.01 PM.png]] 
+3. ![[Screenshot 2024-04-03 at 9.21.01 PM.png]]
 4. Weld modifier, to glue the geometry together
 5. Add modifier, subdivision surface
 6. Select the radius option to modify the sides

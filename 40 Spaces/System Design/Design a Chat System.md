@@ -1,10 +1,10 @@
 ---
 created: 2024-02-29 16:26
 modified: 2025-06-15T13:20:32-04:00
-alias: 
+alias:
 ---
 tags:: [[system-design]]
-links::
+source::
 ## Design a Chat System
 - finish the API list
 - show the path for the direct and then the group message flow visually

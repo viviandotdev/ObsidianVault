@@ -1,11 +1,11 @@
 ---
-created: 2024-04-21 14:55 
+created: 2024-04-21 14:55
 modified: Sunday 21st April 2024 14:55:39
-alias: 
+alias:
 ---
 up::  [[writing]]
-tags:: 
-links::
+tags::
+source::
 
 ## How to Write an Atomic Essay?
 
@@ -40,6 +40,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

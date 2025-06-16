@@ -1,11 +1,11 @@
 ---
-created: 2024-05-24 11:34 
+created: 2024-05-24 11:34
 modified: Friday 24th May 2024 11:34:50
-alias: 
+alias:
 ---
-up::  
-type:: 
-links::
+up::
+type::
+source::
 ## Science and Technology Content Mine
 
 **kinda interesting.**

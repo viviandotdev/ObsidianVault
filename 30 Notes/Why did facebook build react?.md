@@ -1,11 +1,11 @@
 ---
-created: 2024-04-22 18:31 
+created: 2024-04-22 18:31
 modified: Monday 22nd April 2024 19:41:23
-alias: 
+alias:
 ---
 up::  [[Joy of React]]
-tags:: #note/atomic🌳 
-links::
+tags:: #note/atomic🌳
+source::
 ## Why did facebook build react?
 
 In the context of Facebook's chat system, using a traditional [[Model View Controller]] architecture could lead to issues such as phantom chat notifications due to the circular dependencies between components. Let's explore how this might happen:
@@ -68,7 +68,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-
-

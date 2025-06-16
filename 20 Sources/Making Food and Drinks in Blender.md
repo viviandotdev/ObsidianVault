@@ -5,7 +5,7 @@ alias:
 ---
 up::  [[blender]]
 tags:: [[blender]]
-links:: [Fruit & Drinks in Blender — Patata School](https://www.patataschool.com/fruit-drinks-in-blender)
+source:: [Fruit & Drinks in Blender — Patata School](https://www.patataschool.com/fruit-drinks-in-blender)
 ## Making Food and Drinks in Blender
 
 ```dataview

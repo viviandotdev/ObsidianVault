@@ -1,19 +1,19 @@
 ---
-created: 2024-02-26 20:33 
+created: 2024-02-26 20:33
 modified: Monday 26th February 2024 20:33:29
-alias: 
+alias:
 ---
 up::  [[writing]]
-tags:: 
-links::[A Process for Reading Books and Making Notes in Obsidian - MarkMcElroy.com](https://markmcelroy.com/a-process-for-reading-books-and-making-notes-in-obsidian/)
+tags::
+source::[A Process for Reading Books and Making Notes in Obsidian - MarkMcElroy.com](https://markmcelroy.com/a-process-for-reading-books-and-making-notes-in-obsidian/)
 ## Process for reading books and making notes
 
 **before reading create**
 application / source note
 _motive field_
 _rediscovery field_
-status- reading, to-read, read/completed 
-medium- 
+status- reading, to-read, read/completed
+medium-
 note status (seedling, budding or atomic)
 tags
 pre read outline creation of main ideas
@@ -23,7 +23,7 @@ pre read outline creation of main ideas
 highlights ideas interesting and creating atomic notes, connecting them
 	this note is summarizes the author's idea in my own wods,
 	reprase the idea that caught my attenion. the title is the content of the note, 1 -3 sentences atomic idea, no title needed
-	
+
 
 **Example**
 Parker asserts that exclusion is critical to an effective gathering, flying in the face of the familiar “the more, the merrier” mentality. Strategy, she argues, requires exclusion. Being able to say “No” to certain attendees means we’ve hit upon a truly strategic purpose for a gathering.
@@ -40,7 +40,7 @@ Parker asserts that exclusion is critical to an effective gathering, flying in t
 
 rename highlight note to tittle- highlights
 book note is title by author
- "thinking notes", another type of atomic note, sometimes you get insights from the authors ideas, 
+ "thinking notes", another type of atomic note, sometimes you get insights from the authors ideas,
 
 **after reading**
 after you finish reading import your highlights, by now you have already made
@@ -49,13 +49,13 @@ after you finish reading import your highlights, by now you have already made
 - made thinking notes.
 skim and find highlights that reienforce, supprt or conflict with previous notes
 theb
-1. open related note and embed highlight of interest and why this highlight relates to the contents of the note 
+1. open related note and embed highlight of interest and why this highlight relates to the contents of the note
 
 
 **How will i apply this information?**
 For each book you are reading create an ongoing note in obsidian, broken up into the chapter structures of the book and write notes for each chapter
 Always have a question and explain to yourself why you are reading this book so you know what to look for in the book and ignore anything that is not interesting
-Put the highlights below that 
+Put the highlights below that
 
 
 ### Related

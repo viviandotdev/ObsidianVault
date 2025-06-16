@@ -1,11 +1,11 @@
 ---
 created: 2024-09-02 07:52
 modified: 2025-02-19T06:46:56-05:00
-alias: 
+alias:
 ---
-up::  
-type:: #note/atomic🌳 
-links::
+up::
+type:: #note/atomic🌳
+source::
 ## My Systems
 **Goals**-
 **Career Goal**
@@ -49,6 +49,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

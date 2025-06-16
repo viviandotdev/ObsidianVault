@@ -1,10 +1,10 @@
 ---
 created: 2025-02-02 18:14
 modified: 2025-06-15T13:25:53-04:00
-alias: 
+alias:
 ---
-tags:: [[content-creation]]  
-links::
+tags:: [[content-creation]]
+source::
 ## Coding Content
 
 [GitHub - Codehagen/Badget: Badget aims to simplify financial management with a user-friendly interface and robust backend](https://github.com/codehagen/Badget?tab=readme-ov-file)
@@ -31,6 +31,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

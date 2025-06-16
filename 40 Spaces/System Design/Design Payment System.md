@@ -8,7 +8,7 @@ tags: "[[system-design]]"
 ---
 up::  [[system-design]]
 
-links::
+source::
 ## Design a Payment System
 Try to do most of this without looking at the summarized information,
 Watch a high level summary on youtube on what you need to know .

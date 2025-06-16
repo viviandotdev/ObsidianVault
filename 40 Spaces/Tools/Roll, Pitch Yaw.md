@@ -1,11 +1,11 @@
 ---
-created: 2024-06-17 15:42 
+created: 2024-06-17 15:42
 modified: Monday 17th June 2024 15:42:37
-alias: 
+alias:
 ---
-up::  
-type:: 
-links::
+up::
+type::
+source::
 ## Roll, Pitch Yaw
 
 
@@ -22,6 +22,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

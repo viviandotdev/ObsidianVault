@@ -6,7 +6,7 @@ alias:
 up::
 tags:: [[buddhism]]
 type:: #source/video
-links:: [How to deal with setbacks - YouTube](https://www.youtube.com/watch?v=7HyxkxDum8o)
+source:: [How to deal with setbacks - YouTube](https://www.youtube.com/watch?v=7HyxkxDum8o)
 ## How to deal with setbacks
 
 With our thoughts we create the world.

@@ -1,11 +1,11 @@
 ---
-created: 2024-04-26 16:06 
+created: 2024-04-26 16:06
 modified: Friday 26th April 2024 16:06:59
-alias: 
+alias:
 ---
-up::  
+up::
 type:: #note/
-links::
+source::
 ## Rules of React Hooks
 React hooks do not work in conditional this is because react does not assign as id to each hook, it just. executs in order every time, Therefore if a cook does not render sometimes on a component react will get confused and may assign the value of the second hook to the value of the useState inside the conditional
 
@@ -20,6 +20,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

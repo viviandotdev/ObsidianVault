@@ -1,20 +1,13 @@
 ---
 created: 2024-03-26 19:53
-modified: 2025-06-13T08:15:14-04:00
+modified: 2025-06-15T20:50:03-04:00
 alias:
 ---
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
-links::
+source::
 # How to model a Shelf
 
-## Log Shelf
-
-# Supporting Text Documentation
-
-## Shelf Construction
-
-### Log Shelf
 
 #### Shelf Structure
 - **Create the sides of the shelf:**

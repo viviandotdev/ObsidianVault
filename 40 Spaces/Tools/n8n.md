@@ -1,11 +1,11 @@
 ---
-created: 2024-06-08 06:19 
+created: 2024-06-08 06:19
 modified: Saturday 8th June 2024 06:19:05
-alias: 
+alias:
 ---
 up::  [[tools]]
-type:: 
-links::
+type::
+source::
 ## n8n - Workflow Automation
 
 [n8n.io - a powerful workflow automation tool](https://n8n.io/)
@@ -26,6 +26,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

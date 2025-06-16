@@ -1,11 +1,11 @@
 ---
-created: 2024-10-27 19:58 
+created: 2024-10-27 19:58
 modified: Sunday 27th October 2024 19:58:42
-alias: 
+alias:
 ---
-up::  
-type:: #note/atomic🌳 
-links:: [[How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol]]
+up::
+type:: #note/atomic🌳
+source:: [[How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol]]
 ## PPAR-alpha
 
 **Peroxisome Proliferator-Activated Receptor Alpha (PPAR-alpha) and Fat Adaptation**
@@ -49,6 +49,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

@@ -1,11 +1,11 @@
 ---
 created: 2024-11-12 14:12
 modified: 2025-06-14T19:12:58-04:00
-alias: 
+alias:
 ---
-up::  
-type:: 
-links:: [[LIVE BY YOUR VALUES — Almanack of Naval Ravikant]]
+up::
+type::
+source:: [[LIVE BY YOUR VALUES — Almanack of Naval Ravikant]]
 ## Values and Beliefs
 
 - I don’t believe in anger anymore.
@@ -19,8 +19,8 @@ links:: [[LIVE BY YOUR VALUES — Almanack of Naval Ravikant]]
 -  Health
 - Hobbies
 - Work / Career Making Money
-- 
-- 
+-
+-
 
 
 One of the best ways to test other people's temper is to test their patience over small things. If they get upset over the littlest things then that is gives you a clue into the way they will react over larger issues.
@@ -36,6 +36,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

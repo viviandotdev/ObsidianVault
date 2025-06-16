@@ -1,11 +1,11 @@
 ---
-created: 2024-07-05 10:04 
+created: 2024-07-05 10:04
 modified: Friday 5th July 2024 10:04:41
-alias: 
+alias:
 ---
 up::  [[tools]]
-type:: #note/atomic🌳 
-links::
+type:: #note/atomic🌳
+source::
 ## CHUWI MiniBook X
 **ReInstall Windows 11**
 [How to install Windows 11 on a MiniBook X 2023 (N100)? (solved) - Laptops / Minibook X - CHUWI | Official Forum](https://forum.chuwi.com/t/how-to-install-windows-11-on-a-minibook-x-2023-n100-solved/43608)
@@ -22,6 +22,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

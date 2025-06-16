@@ -1,11 +1,11 @@
 ---
 created: 2024-04-21 08:03
 modified: 2025-02-22T10:45:37-05:00
-alias: 
+alias:
 ---
 up::  [[tools]]
-tags:: 
-links::
+tags::
+source::
 
 ## Kindle
 
@@ -15,7 +15,7 @@ Kindle, **any of the portable wireless electronic reading devices (e-readers) p
 2. Download them from Anna's Archive
 3. Then process them through Bionic Reading
 4. Then send the books to kindle
-[Send to Kindle](https://www.amazon.com/sendtokindle) 
+[Send to Kindle](https://www.amazon.com/sendtokindle)
  [Amazon Sign-In](https://www.amazon.com/hz/mycd/digital-console/contentlist/allcontent/dateDsc)
 
 [[How to Download Ebooks]]
@@ -35,6 +35,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

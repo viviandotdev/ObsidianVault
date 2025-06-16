@@ -1,14 +1,14 @@
 ---
-created: 2024-03-06 11:05 
+created: 2024-03-06 11:05
 modified: Wednesday 6th March 2024 11:05:36
-alias: 
+alias:
 ---
 up::  [[tools]]
-tags:: 
-links::
+tags::
+source::
 ## Excalidraw
 
-  
+
 ### Hot Keys
 
 | Key | Description |

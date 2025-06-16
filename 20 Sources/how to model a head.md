@@ -1,12 +1,12 @@
 ---
 created: 2024-03-26 19:53
 modified: 2025-06-15T19:13:23-04:00
-alias: 
+alias:
 ---
 # How to model a Head
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
-links::
+source::
 ## Head
 
 Tip

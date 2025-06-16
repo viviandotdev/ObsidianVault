@@ -1,11 +1,11 @@
 ---
-created: 2024-04-03 20:43 
+created: 2024-04-03 20:43
 modified: Wednesday 3rd April 2024 20:43:28
-alias: 
+alias:
 ---
 up::  [[Making Food and Drinks in Blender]]
 tags::
-links::
+source::
 ## Strawberry
 
 1. Create cude
@@ -15,7 +15,7 @@ links::
 4. Create cube ten scale down
 5. Create the stem, add subdivision surface add loop cut to the top and bottom
 	![[Screenshot 2024-04-03 at 8.48.43 PM.png]]
-	
+
 1. Leaf create place extrude edge and scale ends, add subdivision
 	![[Screenshot 2024-04-03 at 9.07.32 PM.png]]
 1. add two loop cuts in the middle and drag down![[Screenshot 2024-04-03 at 9.08.46 PM.png]]

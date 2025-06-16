@@ -7,7 +7,7 @@ category: react
 status:: in-progress
 type:: #source/course
 tags: [[react]]
-links::
+source::
 ## Joy of React
 
 The truly magical thing about React is that **we don't have to worry about keeping our state (held in JavaScript) and our UI (in the DOM?) in sync.**

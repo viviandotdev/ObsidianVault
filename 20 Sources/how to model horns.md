@@ -1,11 +1,11 @@
 ---
-created: 2024-03-22 08:53 
+created: 2024-03-22 08:53
 modified: Friday 22nd March 2024 08:53:14
-alias: 
+alias:
 ---
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: 
-links::
+tags::
+source::
 ## Horns
 #### Step 1: Creating the Torus
 - **Create a torus:** Begin by creating a torus shape in your 3D modeling software.

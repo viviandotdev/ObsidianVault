@@ -4,7 +4,7 @@ modified: 2025-06-15T07:01:17-04:00
 status:: in-progress
 type:: #source/course
 tags: [[react]]
-links::
+source::
 ## Zero to Shipped
 
 **Open eventio**

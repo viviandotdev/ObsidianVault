@@ -1,11 +1,11 @@
 ---
-created: 2024-03-23 19:22 
+created: 2024-03-23 19:22
 modified: Saturday 23rd March 2024 19:22:14
-alias: 
+alias:
 ---
-up::  
-tags:: 
-links:: 
+up::
+tags::
+source::
 ## Protocol to Fight Distractions
 
 Protocol to Fight of Distractions

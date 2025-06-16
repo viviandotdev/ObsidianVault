@@ -1,12 +1,12 @@
 ---
-created: 2024-10-07 20:51 
+created: 2024-10-07 20:51
 modified: Monday 7th October 2024 20:51:42
-alias: 
+alias:
 ---
-up::  
-tags:: #brain 
-type:: #note/atomic🌳 
-links::
+up::
+tags:: #brain
+type:: #note/atomic🌳
+source::
 ## Prefrontal cortex
 
 ![[Pasted image 20241007205241.png]]
@@ -23,6 +23,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

@@ -1,12 +1,12 @@
 ---
-created: 2024-06-08 15:53 
+created: 2024-06-08 15:53
 modified: Saturday 8th June 2024 15:53:43
-alias: 
+alias:
 ---
-up::  
+up::
 tags:: #docker
-type:: #note/atomic🌳 
-links:: 
+type:: #note/atomic🌳
+source::
 ## Docker Image
 
 A read only template that defines the environment which a [[docker container]] runs.
@@ -29,6 +29,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

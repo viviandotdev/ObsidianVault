@@ -1,11 +1,11 @@
 ---
-created: 2024-04-18 14:25 
+created: 2024-04-18 14:25
 modified: Thursday 18th April 2024 14:25:14
-alias: 
+alias:
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
-tags:: 
-links::
+tags::
+source::
 ## How to create interesting titles
 
 You should generate 5-10 titles for videos
@@ -39,7 +39,7 @@ You want your titles to be intriguing, "click baity" and grabs the readers atten
 	8 Habits That made be a millionare
 5. A/B Testing
 	[Homepage - TubeBuddy - TubeBuddy](https://www.tubebuddy.com/)
-	
+
 
 
 **Linked References to this Note**
@@ -52,6 +52,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

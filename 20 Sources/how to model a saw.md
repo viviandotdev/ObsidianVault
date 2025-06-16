@@ -1,13 +1,13 @@
 ---
 created: 2024-03-26 19:53
-modified: 2025-06-13T08:15:14-04:00
+modified: 2025-06-15T20:50:10-04:00
 alias:
 ---
-# How to model a Saw
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags:: [[blender]]
-links::
-## Saw
+source::
+# How to model a Saw
+
 
 How to Create a Saw
 Creating the Handle:

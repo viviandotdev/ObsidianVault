@@ -1,18 +1,18 @@
 ---
-created: 2024-05-19 19:24 
+created: 2024-05-19 19:24
 modified: Sunday 19th May 2024 19:24:05
-alias: 
+alias:
 ---
 up::  [[How to start a programming project]]
-tags::  #nestjs #backend 
-links::
+tags::  #nestjs #backend
+source::
 ## Set up backend
 
 
 **Set up the backend**
 ```
 //Clone the nestjs typescript starter git clone
-https://github.com/nestjs/typescript-starter 
+https://github.com/nestjs/typescript-starter
 //install dependencies
 pnpm install
 

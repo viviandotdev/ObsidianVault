@@ -1,12 +1,12 @@
 ---
 created: 2024-04-14 07:08
 modified: 2025-06-15T20:26:14-04:00
-alias: 
+alias:
 ---
 up::
 tags:: [[flow]]
 type:: #source/video
-links::
+source::
 ## How i stay focused for long period of time (and stop infinite scrolling)
 
 1. **Log your distractions**

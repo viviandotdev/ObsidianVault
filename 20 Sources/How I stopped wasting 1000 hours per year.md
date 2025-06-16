@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: [[creativity]]
-links:: [The Labor of Inspiration](https://moretothat.com/the-labor-of-inspiration/)
+source:: [The Labor of Inspiration](https://moretothat.com/the-labor-of-inspiration/)
 ## The Labor Of Inspiration
 
 Many creatives wait around for inspiration to show up to create. however the issue with this approach is how long will it take? One year, one month or one week.

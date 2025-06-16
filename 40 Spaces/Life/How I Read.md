@@ -1,11 +1,11 @@
 ---
 created: 2024-12-21 14:41
 modified: 2025-02-22T10:08:50-05:00
-alias: 
+alias:
 ---
 up::  [[Workflows]]
-type:: #note/atomic🌳 
-links:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
+type:: #note/atomic🌳
+source:: [[20 Sources/Raindrops/All bookmarks/How I Read|How I Read]]
 ## How i read
 ## Capture
 **books** - read on kindle
@@ -41,6 +41,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

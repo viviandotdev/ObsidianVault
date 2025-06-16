@@ -1,11 +1,11 @@
 ---
 created: 2024-06-30 20:35
 modified: 2025-06-14T18:54:41-04:00
-alias: 
+alias:
 ---
 up::  [[Workflows]]
-type:: #note/atomic🌳 
-links::
+type:: #note/atomic🌳
+source::
 ## Daily Routines
 
 [[Lex Fridman Daily Routine]]
@@ -22,6 +22,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

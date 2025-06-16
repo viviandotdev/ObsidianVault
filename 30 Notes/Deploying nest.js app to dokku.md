@@ -1,11 +1,11 @@
 ---
 created: 2024-07-12 10:12
 modified: 2025-02-05T19:59:14-05:00
-alias: 
+alias:
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
-type:: #note/atomic🌳 
-links::
+type:: #note/atomic🌳
+source::
 ## Deploying nest.js app to dokku
 
 Here's the updated markdown with smaller font sizes and only H3 headings:
@@ -59,7 +59,7 @@ dokku letsencrypt:enable bookshelf-api
 ```
 Install Let's Encrypt plugin and enable SSL
 
-**Create .env.production file** and copy the contents over 
+**Create .env.production file** and copy the contents over
 ```
 NEXT_PUBLIC_APP_URL=https://bookcue.vercel.app
 BOOKCUE_API_PORT=8080
@@ -121,7 +121,7 @@ docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:1 .
 Build Docker image for AMD64 platform
 
 
-**Create app, 
+**Create app,
 ```bash
 dokku apps:create bookcue-api
 ```
@@ -156,7 +156,7 @@ query {
 ```
 [Fetching Title#9rho](https://bookshelf-webapp.vercel.app/)
 ### Known Issues
-1. .env variables not loading 
+1. .env variables not loading
 **view env varialbes**
 ```
 dokku config bookshelf-api
@@ -218,5 +218,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-

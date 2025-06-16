@@ -7,7 +7,7 @@ up::  [[writing]]
 status:: completed
 tags:: [[writing]]
 type:: #source/course
-links::
+source::
 
 ## Ship 30 For 30
 

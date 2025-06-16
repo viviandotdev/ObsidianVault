@@ -6,7 +6,7 @@ alias:
 up::
 type:: #source/video
 tags:: [[productivity]]
-links:: [How I stay focused for long periods of time (and stop infinite scrolling) - YouTube](https://www.youtube.com/watch?v=XF8EqnE1iLo&t=575s)
+source:: [How I stay focused for long periods of time (and stop infinite scrolling) - YouTube](https://www.youtube.com/watch?v=XF8EqnE1iLo&t=575s)
 ## How i stay focused for long period of time (and stop infinite scrolling)
 
 

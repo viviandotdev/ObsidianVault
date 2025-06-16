@@ -6,7 +6,7 @@ alias:
 # How to model a Chair
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags:: [[blender]]
-links::
+source::
 ## Chair
 
 Parts of a Chair:

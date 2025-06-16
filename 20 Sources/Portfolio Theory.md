@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: [[finance]]
-links:: [16. Portfolio Management - YouTube](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
+source:: [16. Portfolio Management - YouTube](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
 
 ## Portfolio Theory
 1. observations

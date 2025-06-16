@@ -1,16 +1,16 @@
 ---
-created: 2024-05-16 17:33 
+created: 2024-05-16 17:33
 modified: Thursday 16th May 2024 17:33:47
-alias: 
+alias:
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
-type:: #note/how-to 
+type:: #note/how-to
 tags:: #dns #custom-domain
-links::
+source::
 ## Set up a custom domain name for your web application
 **Do this first to make sure it propagates**
 
-1. Purchase a domain at 
+1. Purchase a domain at
 	- [Go Daddy](https://dcc.godaddy.com/control/dnsmanagement?domainName=retwitter.site&subtab=nameservers)
 	- [Namecheap](https://www.namecheap.com/)
 	- [Porkbun](https://porkbun.com/)

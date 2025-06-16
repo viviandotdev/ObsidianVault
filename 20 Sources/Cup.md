@@ -1,15 +1,10 @@
 ---
-created: 2024-04-03 21:25 
-modified: Wednesday 3rd April 2024 21:25:09
+created: 2024-04-03 21:25
+modified: 2025-06-15T20:51:16-04:00
 alias: 
 ---
-up::  [[Making Food and Drinks in Blender]]
-tags:: 
-links::
+source::  [[Making Food and Drinks in Blender]]
 ## Cup
-
-
-
 1. Create cube
 2. Select top part, remove face
 3. Select the top edges, and move it up
@@ -28,7 +23,7 @@ links::
 7. extrude and then pull up![[Screenshot 2024-04-03 at 9.33.53 PM.png]]
 8. extrude again and then scale it in for the rims
 9. Apply subdivision to the cap
-	1. 
+	1.
 10. select the middle points and scale out,
 11. the add subdivision again,
 12. then add soldifiy to the top and bottom of the cups

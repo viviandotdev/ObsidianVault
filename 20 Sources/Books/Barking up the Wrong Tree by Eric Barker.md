@@ -1,11 +1,11 @@
 ---
 title: Barking Up the Wrong Tree
 author: Eric Barker
-modified: 2025-06-15T20:23:06-04:00
+modified: 2025-06-15T20:52:17-04:00
 ---
 up:: [[Bookshelf]]
 status:: summarized
-tags:: [[#success]]
+tags:: [[success]]
 type:: #source/book
 
 # Barking Up the Wrong Tree

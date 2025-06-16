@@ -5,7 +5,7 @@ alias:
 ---
 up::  [[How to start a programming project]]
 tags:: [[frontend development]] #nextjs
-links::
+source::
 ## Set up frontend
 
 

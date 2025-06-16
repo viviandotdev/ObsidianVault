@@ -1,9 +1,9 @@
 ---
 created: 2025-02-06 09:14
 modified: 2025-06-15T18:53:13-04:00
-alias: 
+alias:
 ---
-links:: [[happiness]]
+source:: [[happiness]]
 ## You can buy more happiness for another person than for yourself
 
 **Why people have kids**
@@ -23,6 +23,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-
-

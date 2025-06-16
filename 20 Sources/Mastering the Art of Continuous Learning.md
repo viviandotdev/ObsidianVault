@@ -6,7 +6,7 @@ alias:
 up::
 tags::  [[learning]]
 type:: #source/video
-links::[Mastering the Art of Continuous Learning - YouTube](https://www.youtube.com/watch?v=s8BQ5Suab6Y)
+source::[Mastering the Art of Continuous Learning - YouTube](https://www.youtube.com/watch?v=s8BQ5Suab6Y)
 ## Mastering the Art of Continuous Learning
 
 ### Framework Learning

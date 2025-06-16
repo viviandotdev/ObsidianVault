@@ -6,7 +6,7 @@ alias:
 # How to model a House
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
-links::
+source::
 ## House
 
 1. Create cube, platform
