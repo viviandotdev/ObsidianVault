@@ -1,12 +1,12 @@
 ---
 created: 2024-05-14 10:19
-modified: Tuesday 14th May 2024 10:19:02
-alias:
+modified: 2025-06-16T07:01:37-04:00
+alias: 
 ---
 up::  [[How to start a programming project]]
-tags:: #aws #deploy #backend #api
+tags:: [[aws]]
 type:: #note/how-to
-source::
+source:: [[Twitter Clone Course]]
 ## How to deploy backend using AWS EC2
 
 **Launch a EC2 instance**

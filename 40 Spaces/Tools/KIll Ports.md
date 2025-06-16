@@ -1,11 +1,9 @@
 ---
 created: 2024-03-30 16:44
-modified: Saturday 30th March 2024 16:44:50
-alias:
+modified: 2025-06-16T07:02:03-04:00
+alias: 
 ---
-up::
-tags:: #bash #commands
-source::
+tags:: [[bash]]
 ## Kill Ports
 
 

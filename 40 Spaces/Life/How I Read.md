@@ -1,6 +1,6 @@
 ---
 created: 2024-12-21 14:41
-modified: 2025-06-15T21:37:14-04:00
+modified: 2025-06-16T07:02:25-04:00
 alias: 
 ---
 up::  [[Workflows]]
@@ -13,10 +13,10 @@ source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)
 **videos**- watch on youtube (research channel)
 
 ## Review
-**books** - create note in tick-tick tagged #book
+**books** - create note in tick-tick tagged books
 	compile all your notes and thoughts about this book. random ideas that relate or remind you about this book
 	**when the book is finished import all the highlights into anki**
-**videos** - create note in tick tick tagged #videos, include your notes on the video
+**videos** - create note in tick tick tagged videos , include your notes on the video
 	- write summary of the video, note interesting ideas
 **articles** -  create note in tick tick tagged article
 	these are article you want to write note about.

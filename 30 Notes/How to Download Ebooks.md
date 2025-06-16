@@ -1,10 +1,10 @@
 ---
 created: 2023-09-13 08:10
-modified: Wednesday 13th September 2023 12:01:41
-alias:
+modified: 2025-06-16T07:02:44-04:00
+alias: 
 ---
 up::  [[Kindle]]
-tags:: #books #reading
+tags:: [[reading]] 
 
 ## How to Download Ebooks
 
