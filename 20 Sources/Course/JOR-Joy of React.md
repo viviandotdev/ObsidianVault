@@ -13,7 +13,7 @@ The truly magical thing about React is that **we don't have to worry about keepi
 With React, we're **describing what we want the UI to be, based on the current application state.** React takes those descriptions and makes it real.
 
 ### React Fundamentals
-[[Why did facebook build react?]]
+[[JOR-Why did facebook build react?]]
 
 ### Working with State
 [[React Loop]]

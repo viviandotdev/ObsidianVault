@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-15T13:44:29-04:00
+modified: 2025-06-16T09:28:12-04:00
 ---
 ep:: [[+ Home]] / [[Sources]] 
 
@@ -12,6 +12,5 @@ TABLE WITHOUT ID
 FROM  #source/article 
 WHERE !contains(file.path, "Templates")
 GROUP BY status
-SORT raindrop_id ASC
 SORT status ASC
 ```

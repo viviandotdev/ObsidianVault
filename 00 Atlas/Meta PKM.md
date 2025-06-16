@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-16T07:16:06-04:00
+modified: 2025-06-16T09:25:02-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -13,4 +13,3 @@ Hi Future Self 👋  Here are "best practices" for managing your PKM system.
 - Managing my PKM workflows ♽
 	- *What are my "best practice" workflows for processing the world of ideas?*
 	- [[My PKM Workflows]]
-	- 

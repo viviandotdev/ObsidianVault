@@ -1,11 +1,9 @@
 ---
 created: 2024-04-23 19:15
-modified: Tuesday 23rd April 2024 19:16:28
-
+modified: 2025-06-16T09:25:34-04:00
 ---
 up::  [[Anki]]
-tags:: #note/how-to
-source::
+type:: #note/how-to
 ## How to turn PDF pages into anki cards
 [Is it possible to turn PDF pages into anki cards in batches? : r/Anki](https://www.reddit.com/r/Anki/comments/mufglx/is_it_possible_to_turn_pdf_pages_into_anki_cards/)
 
