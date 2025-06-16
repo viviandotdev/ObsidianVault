@@ -1,7 +1,6 @@
 ---
 modified: 2025-06-15T18:37:56-04:00
-status:
-  - 🟨
+status: #🟨
 ---
 
 **3D Modeling Courses before buying a printer**
@@ -44,19 +43,19 @@ Things to build a design
 
 ## 1. Learning Steps
 
-1. **Complete the "30 Days with Fusion 360" course**  
+1. **Complete the "30 Days with Fusion 360" course**
    Build foundational skills in Fusion 360.
 
-2. **Create a printable Raspberry Pi case with snap-to-fit design**  
+2. **Create a printable Raspberry Pi case with snap-to-fit design**
    Practice designing functional, printable objects.
 
-3. **Create parametric LEGO bricks**  
-   Learn parametric modeling to customize designs.  
+3. **Create parametric LEGO bricks**
+   Learn parametric modeling to customize designs.
    *(After this step, you can consider ordering your 3D printer.)*
 
-4. **Fusion 360 for Hobbyists and Woodworkers**  
-   Projects to expand your skills and create useful items:  
-   - Wooden candle holder  
+4. **Fusion 360 for Hobbyists and Woodworkers**
+   Projects to expand your skills and create useful items:
+   - Wooden candle holder
    - Battery organizer (watch the tutorial video first to decide if you want to model it)
 
 5. **Explore Scot Yu Han’s 3D tutorials** (currently 5% completed)

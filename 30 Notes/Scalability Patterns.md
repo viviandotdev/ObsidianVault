@@ -1,12 +1,9 @@
 ---
 created: 2023-10-15 13:09
 modified: Sunday 15th October 2023 13:30:32
-
-Status: idea
 Category: system-design
-tags: "[[system-design]]"
 ---
-up::  [[system-design]]
+tags::  [[system-design]]
 
 
 ## Design Patterns that Improve Scalability

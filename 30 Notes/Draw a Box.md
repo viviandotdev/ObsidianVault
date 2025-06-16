@@ -2,7 +2,7 @@
 modified: 2025-06-16T07:07:20-04:00
 ---
 up:: [[drawing]]
-status:: in-progress
+status:: #🟨
 type:: #source/course
 
 ### Draw a box

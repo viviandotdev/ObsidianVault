@@ -1,12 +1,12 @@
 ---
-title: "The Untethered Soul"
-author: "Michael A. Singer"
+title: The Untethered Soul
+author: Michael A. Singer
 status: currently-reading
 created: 2024-02-27 07:27
-modified: Tuesday 27th February 2024 07:27:54
+modified: 2025-06-16T08:42:59-04:00
 ---
 up:: [[Bookshelf]]
-tags::
+tags:: [[philosophy]] [[spirituality]] 
 type:: #source/book
 
 # The Untethered Soul
