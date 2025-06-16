@@ -4,7 +4,7 @@ modified: Sunday 14th April 2024 07:08:06
 alias:
 ---
 up::
-tags:: #flow #focus #deep-work
+tags:: [[flow]] #focus #deep-work
 medium:: #source/video
 links::
 ## How i stay focused for long period of time (and stop infinite scrolling)

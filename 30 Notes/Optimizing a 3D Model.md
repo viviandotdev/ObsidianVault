@@ -4,7 +4,7 @@ modified: Thursday 21st September 2023 15:06:46
 alias:
 ---
 up::  [[Three.js Journey]]
-tags:: #blender #threejs
+tags:: [[blender]] [[three.js]]
 
 ## Optimizing a 3D Model
 

@@ -6,7 +6,7 @@ author: Morgan Housel
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #psychology #finance #source/book
+tags:: [[#psychology]] #finance #source/book
 highlights:: [[Psychology of Money Highlights]]
 ## Psychology of Money
 

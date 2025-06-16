@@ -1,14 +1,14 @@
 ---
 created: 2024-04-22 17:48
 modified: Monday 22nd April 2024 17:48:40
-aliases: 
+aliases:
 category: react
 tags:
   - react
 ---
 status:: in-progress
-medium:: #source/course 
-tags: #react 
+medium:: #source/course
+tags: [[react]]
 links::
 ## Joy of React
 
@@ -36,6 +36,6 @@ With React, we're **describing what we want the UI to be, based on the current a
 
 **React Hooks**
 WIP [[Rules of React Hooks]]
-	
+
 WIP  [[useRef]]
 WIP [[useEffect]]

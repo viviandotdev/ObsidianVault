@@ -4,7 +4,7 @@ modified: Tuesday 19th September 2023 06:55:23
 alias:
 ---
 up::
-tags:: #habits #life #source/video #note/literature
+tags:: [[#habits]] #life #source/video #note/literature
 source:: [Set SIX Alarms. It’ll Change Your Life. - YouTube](https://www.youtube.com/watch?v=hApnn1vnWi0)
 ## Set SIX Alarms. It’ll Change Your Life.
 

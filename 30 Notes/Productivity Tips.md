@@ -4,7 +4,7 @@ modified: Wednesday 7th February 2024 12:46:01
 alias:
 ---
 up::  [[Workflows]]
-tags:: #productivity
+tags:: [[productivity]]
 
 ## Productivity Tips
 - **Schedule your daily to-do list,** it can be overwhelming to look at long list and feel like you need to get everything done that day

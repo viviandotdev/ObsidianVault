@@ -5,7 +5,7 @@ alias:
 ---
 # How to model a Saw
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
-tags:: #blender
+tags:: [[blender]]
 links::
 ## Saw
 

@@ -4,7 +4,7 @@ modified: Monday 25th September 2023 18:54:48
 alias:
 ---
 up::
-tags:: #creativity #productivity
+tags:: #creativity [[productivity]]
 source:: [How to Build Side Projects 🕹️ - by Luca Rossi](https://refactoring.fm/p/how-to-build-side-projects)
 
 ## Setting deadlines will make you more creative

@@ -7,7 +7,7 @@ author: Leonard Mlodinow
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #source/book #psychology
+tags:: #source/book [[#psychology]]
 
 ## Subliminal
 **Subliminal- How Your Unconscious Mind Rules Your Behavior**

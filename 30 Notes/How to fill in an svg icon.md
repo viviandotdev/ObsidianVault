@@ -4,7 +4,7 @@ modified: Friday 6th October 2023 19:53:50
 alias:
 ---
 up::
-tags:: #html #react #css
+tags:: #html [[react]] #css
 ## How to modify svg icon colors in tailwind
 
 

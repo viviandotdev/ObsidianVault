@@ -1,10 +1,9 @@
 ---
 created: 2024-02-18 19:09
-modified: Sunday 18th February 2024 19:09:00
-alias:
+modified: 2025-06-15T20:24:06-04:00
+alias: 
 ---
 up::  [[drawing]]
-tags::  #systems #drawing
 links::  [(vent) advice on daily drawing routine/practice? : r/ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/mu3tsw/vent_advice_on_daily_drawing_routinepractice/)
 ## Drawing Workflow
 

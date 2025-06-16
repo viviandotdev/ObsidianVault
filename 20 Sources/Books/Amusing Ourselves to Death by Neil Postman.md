@@ -2,11 +2,11 @@
 title: Amusing Ourselves to Death
 author: Neil Postman
 created: 2024-02-07 15:55
-modified: Wednesday 7th February 2024 15:55:22
+modified: 2025-06-15T20:21:04-04:00
 ---
 up:: [[Bookshelf]]
 status:: summarized
-tags:: #philosophy #psychology #technology
+tags:: [[philosophy]] [[#psychology]]
 medium:: #source/book
 
 # Amusing Ourselves to Death: Public Discourse in the Age of Show Business

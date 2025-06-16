@@ -4,7 +4,7 @@ modified: Wednesday 7th February 2024 18:41:52
 alias:
 ---
 up::  [[Workflows]]
-tags:: #productivity #programming
+tags:: [[productivity]] #programming
 links::
 ## Software Developer Workflow
 

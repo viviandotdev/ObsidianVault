@@ -7,7 +7,7 @@ aliases:
 ---
 up:: [[Bookshelf]]
 status:: summarized
-tags:: #philosophy
+tags:: [[philosophy]]
 medium:: #source/book
 
 # Be Water

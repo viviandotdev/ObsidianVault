@@ -1,12 +1,11 @@
 ---
 title: Barking Up the Wrong Tree
 author: Eric Barker
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+modified: 2025-06-15T20:23:06-04:00
 ---
 up:: [[Bookshelf]]
 status:: summarized
-tags:: #success
+tags:: [[#success]]
 medium:: #source/book
 
 # Barking Up the Wrong Tree

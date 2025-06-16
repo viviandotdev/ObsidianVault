@@ -4,8 +4,8 @@ modified: Saturday 23rd September 2023 11:49:57
 alias:
 ---
 up::
-medium:: #source/podcast  
-tags:: #procrastination #productivity
+medium:: #source/podcast
+tags:: #procrastination [[productivity]]
 
 ## Procrastination Expert: How To Get Over The Procrastination Trap - Professor Fuschia M. Sirois
 
@@ -156,4 +156,3 @@ tags:: #procrastination #productivity
 <summary>Click to expand</summary>
 <blockquote><b>Speaker 1</b><br/><br/>So there's a couple of different approaches. I think if it's something to do with the task, as we talked about, getting clarity on tasks that are uncertain, if the task is too big and isn't structured well, give it some structure, Break the task down into small pieces. So all these things can kind of bring down and quiesce those, you know, potentially high negative or difficult emotions that might prompt you to procrastinate. I think there's other dynamics that go on too, especially once we start procrastinating that are really good to kind of be aware of and in terms of when you're trying to manage the procrastination. And so how you see the task, obviously the meaningfulness we just spoke about, that's a really effective strategy that can certainly help. But I think when you're dealing with the task is more, especially with the emotions and you're really struggling with those emotions, an important thing is to actually, you know, not Be so hard on yourself. Like don't do anything that's going to generate more negative emotions or throw more layers of negative difficult emotions onto something that you're already procrastinating because You've got difficult emotions in there in the first place, right? So a couple key strategies, and again, it depends on whether you've already procrastinated or if you're struggling with a task, right? So if you're struggling with a task, you would say that self compassion is an effective strategy. And that's basically recognizing that, you know, to struggle with things as part of a learning process as part of being human, not getting it right on the first time, you know, and that's Often people we start things and then they realize, oh, it's not going the way I planned, right? And that's when they can abandon it because they made a mistake and the perfectionism kicks in and everything. That's when you need to be self compassionate. And so self compassion kicks in when we're struggling with our own personal failings, shortcomings, difficult thoughts about ourselves and the task, etc.</blockquote>
 </details>
-

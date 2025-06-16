@@ -4,7 +4,7 @@ modified: Wednesday 15th November 2023 07:35:04
 alias:
 ---
 up::  [[To-Do Lists]]
-tags:: #productivity #source/video
+tags:: [[productivity]] #source/video
 
 ## Ditch Your To-Do List and Do This Instead
 

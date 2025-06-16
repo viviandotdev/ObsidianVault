@@ -6,7 +6,7 @@ modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #psychology #habits
+tags:: [[#psychology]] [[#habits]]
 medium:: #source/book
 # Atomic Habits Summary (by James Clear)
 by [[James Clear]]

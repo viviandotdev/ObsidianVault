@@ -1,5 +1,5 @@
 up:: [[+ Library]]
-tags:: #map #habits
+tags:: #map [[#habits]]
 
 > [!NOTE]+ Navigate with your new MOC
 > Connect your new MOC with the the rest of your network of knowledge so you can *navigate your notes near the speed of thought*.

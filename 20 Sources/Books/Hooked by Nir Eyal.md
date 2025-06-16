@@ -17,7 +17,7 @@ isbn10: 0698190661
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #source/book #habits #psychology #technology
+tags:: #source/book [[#habits]] [[#psychology]] #technology
 dates:: December 25, 2013
 ### Hooked
 by Nir Eyal, Ryan Hoover

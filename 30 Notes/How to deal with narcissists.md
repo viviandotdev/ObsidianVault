@@ -4,7 +4,7 @@ modified: Thursday 7th December 2023 16:23:58
 alias:
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #psychology
+tags:: [[#psychology]]
 
 ## How to deal with narcissists
 

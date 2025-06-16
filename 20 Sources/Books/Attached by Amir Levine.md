@@ -1,13 +1,12 @@
 ---
 created: 2023-09-11 06:32
-modified: Monday 11th September 2023 06:32:51
+modified: 2025-06-15T20:23:31-04:00
 title: Attached
 author: Amir Levine
-tags:
-  - relationships
 ---
 up::  [[Bookshelf]]
 status:: summarized
+tags:: [[relationships]]
 medium:: #source/book
 
 # Attached

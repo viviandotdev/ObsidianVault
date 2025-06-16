@@ -8,7 +8,7 @@ aliases:
 
 up:: [[Bookshelf]]
 status:: summarized
-tags:: #flow
+tags:: [[flow]]
 medium:: #source/book
 # Flow by Mihaly Csikszentmihalyi
 
