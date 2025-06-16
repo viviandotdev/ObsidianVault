@@ -1,9 +1,8 @@
 ---
 created: 2024-01-12 10:44
-modified: Friday 12th January 2024 10:44:01
-
+modified: 2025-06-16T08:06:14-04:00
 ---
-up::  [[writing]]
+type:: #source/article 
 tags:: [[writing]]
 source:: [Why Engineers Need To Write - by Ryan Peterman](https://www.developing.dev/p/why-engineers-need-to-write)
 
@@ -15,6 +14,5 @@ source:: [Why Engineers Need To Write - by Ryan Peterman](https://www.developing
 
 
 
-
 #### Related
-[[Writing Tips]]
+[[How to Write - by Ryan Peterman]]

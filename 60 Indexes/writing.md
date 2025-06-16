@@ -8,7 +8,7 @@ tags::
 
 ## Writing
 
-[[Writing Tips]]
+[[How to Write - by Ryan Peterman]]
 
 ### Note Taking
 [[QEC Note-Taking]]

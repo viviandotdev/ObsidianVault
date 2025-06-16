@@ -1,13 +1,12 @@
 ---
 created: 2024-01-12 10:42
-modified: 2025-06-15T13:30:32-04:00
-
+modified: 2025-06-16T08:06:59-04:00
 ---
 type:: #source/article
 up::  [[writing]]
 sources:: [How To Write - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-write)
 
-## Writing Tips
+## How to Write - by Ryan Peterman
 
 Writing Process
 1. Outline - create a bulleted list to structure your thoughts, simple and malleable (20% of writing time)

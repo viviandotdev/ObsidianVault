@@ -1,11 +1,10 @@
 ---
 created: 2024-01-12 12:20
-modified: 2025-06-15T07:00:26-04:00
-
+modified: 2025-06-16T08:06:37-04:00
 ---
+type:: #source/article 
 tags:: [[writing]]
-source:: #source
-[Write Simply](https://www.paulgraham.com/simply.html) [Write Like You Talk](https://www.paulgraham.com/talk.html)
+source:: [Write Simply](https://www.paulgraham.com/simply.html) [Write Like You Talk](https://www.paulgraham.com/talk.html)
 
 ## Write Simply
 

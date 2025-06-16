@@ -6,7 +6,7 @@ modified: 2025-06-16T07:01:37-04:00
 up::  [[How to start a programming project]]
 tags:: [[aws]]
 type:: #note/how-to
-source:: [[Twitter Clone Course]]
+source:: [[TWC-Twitter Clone Course]]
 ## How to deploy backend using AWS EC2
 
 **Launch a EC2 instance**

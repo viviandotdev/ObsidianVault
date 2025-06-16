@@ -1,8 +1,8 @@
 ---
 created: 2024-02-19 07:39
-modified: 2025-06-15T13:30:15-04:00
-
+modified: 2025-06-16T08:07:22-04:00
 ---
+type:: #source/article 
 tags:: [[reading]]
 source:: [You've been reading wrong all your life. - YouTube](https://www.youtube.com/watch?v=DpIrzA2ohcg&t=1s)
 ## You've been reading wrong all your life.
