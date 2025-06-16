@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-16T07:16:01-04:00
+modified: 2025-06-16T08:39:45-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -16,6 +16,7 @@ This is a simple data view pulling anything from the **Sources** folder.
 
 ```dataview
 table tags
-from "20 Sources" and -#readme
+from "20 Sources"
+where !contains(file.path, "20 Sources/Course")
 sort file.name asc
 ```

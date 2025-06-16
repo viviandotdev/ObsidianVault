@@ -1,9 +1,9 @@
 ---
 created: 2024-01-12 10:42
-modified: 2025-06-16T08:06:59-04:00
+modified: 2025-06-16T08:39:56-04:00
 ---
 type:: #source/article
-up::  [[writing]]
+tags::  [[writing]]
 sources:: [How To Write - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-write)
 
 ## How to Write - by Ryan Peterman

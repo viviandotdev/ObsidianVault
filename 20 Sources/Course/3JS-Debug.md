@@ -1,11 +1,8 @@
 ---
 created: 2023-09-02 07:11
-modified: Saturday 2nd September 2023 07:11:50
-
+modified: 2025-06-16T08:37:00-04:00
 ---
 up::  [[3JS-Three.js Journey]]
-tags:: [[react]] [[three.js]]
-related:
 
 ## Debug
 
