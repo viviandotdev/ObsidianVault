@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-16T09:32:07-04:00
+modified: 2025-06-16T14:14:28-04:00
 ---
 ## drawing
 [[Drawing Advice]]
@@ -59,14 +59,10 @@ Color and Light
 [[Cognitive Drawing]]
 
 
-### Artists
-[Drawing an Urban Landscape in Ink - New Masters Academy](https://www.nma.art/videolessons/drawing-an-urban-landscape-in-ink/)
-[Samet Türkan (@clsamet) • Instagram photos and videos](https://www.instagram.com/clsamet/)
-[강남 메타코드 미술학원 (@anjjaemi) • Instagram photos and videos](https://www.instagram.com/anjjaemi/)
-[Hamedelshal - حامد الشال (@hamed.elshal) • Instagram photos and videos](https://www.instagram.com/hamed.elshal/)
-[2014 — James Jean](http://www.jamesjean.com/sketch2014/gp63dft07txn3bbftampaw2pby9vwn)
-Peter Han
-Kim Jung Gi
-Miyazaki
-**resources**
-[[1 Year of DRAWING & PAINTING Lessons]]
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+
+SORT file.link asc
+```

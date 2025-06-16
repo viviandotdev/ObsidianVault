@@ -1,9 +1,9 @@
 ---
-modified: 2025-06-16T07:07:20-04:00
+modified: 2025-06-16T14:12:41-04:00
 ---
-up:: [[drawing]]
-status:: #🟨
 type:: #source/course
+tags:: [[drawing]]
+
 
 ### Draw a box
 
