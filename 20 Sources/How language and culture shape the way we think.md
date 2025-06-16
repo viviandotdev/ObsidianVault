@@ -1,10 +1,9 @@
 ---
 created: 2023-10-18 17:29
-modified: Saturday 4th November 2023 19:32:48
-alias:
+modified: 2025-06-15T20:29:44-04:00
+alias: 
 ---
-up::  [[language]]
-tags:: [[language]] #culture
+tags:: [[language]]
 source:: [Eastern and Western Design: How culture rewires the brain](https://www.youtube.com/watch?v=8UAsN9wvePE&list=WL&index=23)
 ## How language and culture shape the way we think
 

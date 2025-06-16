@@ -1,13 +1,14 @@
 ---
 created: 2023-11-07 20:07
-modified: Monday 20th November 2023 11:19:20
-aliases:
+modified: 2025-06-15T20:33:33-04:00
+aliases: 
 title: Playing well with others
 author: Eric Barker
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: [[relationships]] #source/book
+tags:: [[relationships]] 
+type:: #source/book
 
 # Playing well with Others
 ## by Eric Barkers

@@ -1,11 +1,11 @@
 ---
 created: 2024-02-07 22:29
-modified: Wednesday 7th February 2024 22:29:28
-alias:
+modified: 2025-06-15T20:34:03-04:00
+alias: 
 ---
 up::
 status::  #🟩 
-tags:: #travel
+tags:: [[]]
 medium:: #source/article
 links::[Travel Is No Cure for the Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 ## Travel Is No Cure for the Mind

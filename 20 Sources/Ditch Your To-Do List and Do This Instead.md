@@ -1,10 +1,11 @@
 ---
 created: 2023-11-15 07:34
-modified: Wednesday 15th November 2023 07:35:04
-alias:
+modified: 2025-06-15T20:33:04-04:00
+alias: 
 ---
 up::  [[To-Do Lists]]
-tags:: [[productivity]] #source/video
+type:: #source/video
+tags:: [[productivity]] 
 
 ## Ditch Your To-Do List and Do This Instead
 

@@ -1,10 +1,9 @@
 ---
-modified: 2024-12-22T09:19:01-05:00
+modified: 2025-06-15T20:31:26-04:00
 ---
 
 up::  [[tools]]
-tags:: 
-related: 
+tags:: [[learning]]
 
 ## Anki
 

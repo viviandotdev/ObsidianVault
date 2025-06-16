@@ -2,22 +2,16 @@
 title: Hooked
 subtitle: How to Build Habit-Forming Products
 author: Nir Eyal
-authors: Nir Eyal
-category: Business & Economics
-publisher: Penguin
 totalPage: 203
 coverUrl: http://books.google.com/books/content?id=dsz5AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=dsz5AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
 publishDate: 2014-11-04
-description: "Revised and Updated, Featuring a New Case Study How do successful companies create products people can’t put down? Why do some products capture widespread attention while others flop? What makes us engage with certain products out of sheer habit? Is there a pattern underlying how technologies hook us? Nir Eyal answers these questions (and many more) by explaining the Hook Model—a four-step process embedded into the products of many successful companies to subtly encourage customer behavior. Through consecutive “hook cycles,” these products reach their ultimate goal of bringing users back again and again without depending on costly advertising or aggressive messaging. Hooked is based on Eyal’s years of research, consulting, and practical experience. He wrote the book he wished had been available to him as a start-up founder—not abstract theory, but a how-to guide for building better products. Hooked is written for product managers, designers, marketers, start-up founders, and anyone who seeks to understand how products influence our behavior. Eyal provides readers with: • Practical insights to create user habits that stick. • Actionable steps for building products people love. • Fascinating examples from the iPhone to Twitter, Pinterest to the Bible App, and many other habit-forming products."
-link: https://play.google.com/store/books/details?id=dsz5AwAAQBAJ
-previewLink: http://books.google.com/books?id=dsz5AwAAQBAJ&printsec=frontcover&dq=Hooked&hl=&as_pt=BOOKS&cd=1&source=gbs_api
-isbn13: 9780698190665
-isbn10: 0698190661
+modified: 2025-06-15T20:30:44-04:00
 ---
 up::  [[Bookshelf]]
 status:: summarized
-tags:: #source/book [[#habits]] [[#psychology]] #technology
+type:: #source/book 
+tags:: [[#habits]] [[#psychology]]
 dates:: December 25, 2013
 ### Hooked
 by Nir Eyal, Ryan Hoover

@@ -1,10 +1,11 @@
 ---
 created: 2023-09-19 06:55
-modified: Tuesday 19th September 2023 06:55:23
-alias:
+modified: 2025-06-15T20:32:48-04:00
+alias: 
 ---
-up::
-tags:: [[#habits]] #life #source/video #note/literature
+type:: #source/video 
+tags:: [[#habits]] 
+
 source:: [Set SIX Alarms. It’ll Change Your Life. - YouTube](https://www.youtube.com/watch?v=hApnn1vnWi0)
 ## Set SIX Alarms. It’ll Change Your Life.
 
@@ -23,9 +24,6 @@ when you shift from a task to another, or from a date to another
 **Why does this work**
 Setting alarms at these times allow starting fresh with a day and make sure you're on track. They also can be **automatic reminders that make sure that you are on track and on the right path.**
 - The alarms you set decreases [[cognitive load]], decreases the amount of information you need to hold in your brain, this allows you to pay more attention to the task at hand
-
-
-![[Domino Habit#Domino Habit]]
 
 The one constant habit that you do that makes you feel most fulfilled.
 (start journaling to really find your domino habit)
