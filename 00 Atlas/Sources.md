@@ -1,8 +1,8 @@
 ---
-modified: 2025-06-16T08:39:45-04:00
+modified: 2025-06-16T09:33:44-04:00
 ---
 up:: [[+ Home]]
-tags:: #map/view 
+type:: #map/view 
 
 # Sources MOC
 This is where I keep tabs on some of the sources I have encountered.

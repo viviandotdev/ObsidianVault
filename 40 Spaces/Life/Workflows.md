@@ -1,12 +1,7 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-06-15T18:53:31-04:00
-
+modified: 2025-06-16T09:37:05-04:00
 ---
-up::
-ags::
-related:
-
 ## Workflows
 
 ### Organizing Life Tasks
