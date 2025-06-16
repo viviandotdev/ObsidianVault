@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-16T14:20:27-04:00
+modified: 2025-06-16T14:21:46-04:00
 ---
 ## drawing
 [[Drawing Advice]]
@@ -63,6 +63,6 @@ Color and Light
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-
+and -#map
 SORT file.link asc
 ```

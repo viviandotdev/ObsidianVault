@@ -1,13 +1,19 @@
 ---
-modified: 2025-06-16T14:20:16-04:00
+modified: 2025-06-16T14:23:12-04:00
 ---
 up:: [[+ Library]]
 tags:: 
 
 # language
 
-- [[chinese]]
+**how to learn a language**
+[[How to learn a language]]
+[[How I learnt Norewegian on my own]]
 
+**language i want to learn**
+- [[chinese]]
+- [[japanese]]
+- [[french]]
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
@@ -15,9 +21,6 @@ These notes point directly to this note. But this note doesn't point back.
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-WHERE
-file.name != this.file.name
-AND
-file.name !="+ Home"
+and -#map
 SORT file.link asc
 ```
