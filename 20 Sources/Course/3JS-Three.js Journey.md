@@ -12,8 +12,8 @@ id:: TJS
 **Bruno Simon Three.js Journey**
 
 **Basics**
-5. [[Transform Objects]]
-7. [[Cameras]]
+5. [[3JS-Transform Objects]]
+7. [[3JS-Cameras]]
 8. [[Fullscreen and resizing]]
 9. [[3JS-Geometries]]
 10. [[Debug UI|Debug UI]]

@@ -3,7 +3,7 @@ created: 2024-04-18 14:31
 modified: 2025-06-15T20:46:16-04:00
 
 ---
-up::  [[PYTA - Part Time YouTuber Academy]]
+up:: [[PYTA - Part Time YouTuber Academy]]
 
 ## Crash Course in Writing
 

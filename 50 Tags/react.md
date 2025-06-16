@@ -11,7 +11,7 @@ up:: [[frontend development]]
 [GitHub - brillout/awesome-react-components: Curated List of React Components & Libraries.](https://github.com/brillout/awesome-react-components)
 
 **Courses**
-[[Zero to Shipped]]
+[[ZTS-Zero to Shipped]]
 [[JOR-Joy of React]]
 
 

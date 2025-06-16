@@ -1,11 +1,10 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-
+modified: 2025-06-16T08:29:54-04:00
 ---
-up::
-type:: #note/atomic
-source::
+type:: #note/atomic 
+tags::
+
 ## <% tp.file.title %>
 
 
@@ -15,7 +14,7 @@ These notes point directly to this note. But this note doesn't point back.
 ```dataview
 LIST
 FROM [[#]]
-and !outgoing([[#]])
+and outgoing([[#]])
 and -#map
 
 SORT file.link asc

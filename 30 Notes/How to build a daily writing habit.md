@@ -1,11 +1,9 @@
 ---
 created: 2024-04-18 14:44
-modified: 2025-06-15T18:36:06-04:00
-
+modified: 2025-06-16T08:28:33-04:00
 ---
-up::  [[Ship 30 For 30]]
 tags:: [[writing]] [[habits]]
-source::
+source:: Ship 30 for 30
 ## How to build a daily writing habit
 
 1. Carve out time in advance every day from one hour
