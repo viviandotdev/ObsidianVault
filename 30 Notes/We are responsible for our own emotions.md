@@ -1,11 +1,12 @@
 ---
 created: 2023-09-23 12:36
-modified: Saturday 23rd September 2023 13:08:13
-alias:
+modified: 2025-06-15T20:57:05-04:00
+alias: 
 ---
 up::
-tags:: #stoicism #emotions
+tags:: [[stoicism ]]
 
+#
 ## We are responsible for our own emotions
 
 **We are responsible for our own emotions.** You can't make it someone else's fault for you feeling frustrated. They are doing what they are doing, and you are the one feeling the frustration.

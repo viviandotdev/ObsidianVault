@@ -1,5 +1,5 @@
 ---
-modified: 2025-03-07T10:29:08-05:00
+modified: 2025-06-15T20:57:19-04:00
 ---
 # Who Am I? Template [PUBLIC]
 
@@ -16,8 +16,6 @@ Hopefully it can be just as useful to you as it has been to me.
 — Flickman
 
 **Concept inspired by [this Sam Ovens video](https://www.youtube.com/watch?v=GLtmel8hD1k).*
-
-**WATCH THIS VIDEO FIRST ⤵️** #to-do
 
 [https://www.loom.com/share/aad76ac5556e41ffa5c5cfae87ec0b70](https://www.loom.com/share/aad76ac5556e41ffa5c5cfae87ec0b70)
 
