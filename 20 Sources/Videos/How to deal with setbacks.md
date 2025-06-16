@@ -1,9 +1,8 @@
 ---
 created: 2024-02-08 07:59
-modified: Sunday 18th February 2024 12:06:50
-alias:
+modified: 2025-06-16T07:26:19-04:00
+alias: 
 ---
-up::
 tags:: [[buddhism]]
 type:: #source/video
 source:: [How to deal with setbacks - YouTube](https://www.youtube.com/watch?v=7HyxkxDum8o)

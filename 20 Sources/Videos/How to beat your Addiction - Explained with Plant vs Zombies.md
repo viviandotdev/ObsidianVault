@@ -1,9 +1,9 @@
 ---
 created: 2024-01-30 21:28
-modified: Saturday 3rd February 2024 20:14:54
-alias:
+modified: 2025-06-16T07:26:00-04:00
+alias: 
 ---
-up::
+status: #🟨 
 tags:: [[addiction]] [[social-media]] [[productivity]]
 type:: #source/video
 source:: [How to Beat Your Addictions - Explained With Plants vs Zombies - YouTube](https://www.youtube.com/watch?v=-gHU3BPHHfQ&list=WL&index=5)

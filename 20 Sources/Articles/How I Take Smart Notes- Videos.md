@@ -1,10 +1,11 @@
 ---
 created: 2023-09-09 06:44
-modified: Saturday 9th September 2023 06:44:31
-alias:
+modified: 2025-06-16T07:24:27-04:00
+alias: 
 ---
-type:: #source/article
-source::[How I take smart digital notes—Part 3: Videos and podcasts | Ramses' Blog](https://ramses.blog/how-take-notes-part-3/)
+type:: #source/article 
+tags:: [[note-taking]]
+source:: [How I take smart digital notes—Part 3: Videos and podcasts | Ramses' Blog](https://ramses.blog/how-take-notes-part-3/)
 ## How I Take Smart Notes- Videos
 
 1. **Indexing:** Create a list of all the topics you will need to learn, **Layout a basic organizational structure of the content you will be watching or listening.**

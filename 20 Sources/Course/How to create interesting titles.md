@@ -1,11 +1,9 @@
 ---
 created: 2024-04-18 14:25
-modified: Thursday 18th April 2024 14:25:14
-alias:
+modified: 2025-06-16T07:26:15-04:00
+alias: 
 ---
 up::  [[PYTA - Part Time YouTuber Academy]]
-tags::
-source::
 ## How to create interesting titles
 
 You should generate 5-10 titles for videos

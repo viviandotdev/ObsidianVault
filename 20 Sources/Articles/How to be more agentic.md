@@ -1,15 +1,12 @@
 ---
 created: 2024-02-03 21:01
-modified: Saturday 3rd February 2024 21:01:14
-alias:
+modified: 2025-06-16T07:25:41-04:00
 ---
-up::
-status:: #🟩
-tags:: [[agency]] [[learning]]
-source:: #source/article
+tags:: [[agency]] [[life]]
+source:: [How to be More Agentic - by Cate Hall - Useful Fictions](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
+type:: #source/article
 
 ## How to be more agentic?
-
 Having agency means that you feel that you have **control** and are **responsible** for your own life.
 
 Many people in this world don't have agency, they often play the victim and say that because of their circumstances there is nothing that they can do to change their current situation.
@@ -24,4 +21,4 @@ They also **Learn to love being bad at something,** when learning new skills you
 
 **They are willing to seek feedback and receive criticism**
 
-[How to be More Agentic - by Cate Hall - Useful Fictions](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
+
