@@ -23,7 +23,7 @@ Your launchpad and home base. That's here. That's home.
 
 #### Things
 - [[+ Library]]
-- [[Slipbox]]
+- [[Notes]]
 - [[Sources]] | [[Commonplace Book]] | [[Bookshelf]] | [[People MOC]]
 #### Action and Reflection
 - [[Efforts]]

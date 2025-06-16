@@ -1,3 +1,6 @@
+---
+modified: 2025-06-16T09:33:15-04:00
+---
 up:: [[+ Home]] / [[Sources]] 
 
 # 📚 Courses

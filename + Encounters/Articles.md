@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-16T09:28:12-04:00
+modified: 2025-06-16T09:28:56-04:00
 ---
 ep:: [[+ Home]] / [[Sources]] 
 
@@ -8,7 +8,7 @@ ep:: [[+ Home]] / [[Sources]]
 ```dataview
 TABLE WITHOUT ID
 	status as Status,
-	rows.file.link as Book
+	rows.file.link as Article
 FROM  #source/article 
 WHERE !contains(file.path, "Templates")
 GROUP BY status

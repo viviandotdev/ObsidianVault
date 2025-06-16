@@ -1,9 +1,9 @@
 ---
-modified: 2025-06-16T07:38:05-04:00
+modified: 2025-06-16T09:31:08-04:00
 ---
 up:: [[+ Home]] / [[Meta PKM]]
 
-### Here is a view of the slipbox folder
+### Here is a view of  the notes folder
 
 ``` dataview
 table tags

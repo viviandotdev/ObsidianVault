@@ -1,7 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-15T18:24:40-04:00
-
+modified: 2025-06-16T09:32:07-04:00
 ---
 ## drawing
 [[Drawing Advice]]
@@ -11,7 +10,7 @@ modified: 2025-06-15T18:24:40-04:00
 [[How to build a visual library]]
 ### Current Courses
 [[Dynamic Sketching]]
-[[Draw a Box]]
+[[DAB-Draw a Box]]
 [[Figure Drawing-Design and Invention]]
 ### Drawing Fundamentals
 
