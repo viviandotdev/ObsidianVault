@@ -1,11 +1,10 @@
 ---
 created: 2024-10-07 20:51
-modified: Monday 7th October 2024 20:51:42
-alias:
+modified: 2025-06-16T07:03:08-04:00
+alias: 
 ---
-up::
-tags:: [[brain]]
 type:: #note/atomic
+tags:: [[brain]]
 source::
 ## Prefrontal cortex
 

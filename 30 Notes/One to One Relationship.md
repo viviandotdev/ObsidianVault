@@ -1,10 +1,10 @@
 ---
 created: 2023-09-27 19:44
-modified: Wednesday 27th September 2023 19:44:00
-alias:
+modified: 2025-06-16T07:05:28-04:00
+alias: 
 ---
 up::
-tags:: #database #prisma
+tags:: [[database]] [[prisma]]
 Related: [[Database Relationships]]
 
 ## One to One Relationship

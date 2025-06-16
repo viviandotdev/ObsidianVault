@@ -1,10 +1,10 @@
 ---
 created: 2023-12-11 08:25
-modified: Monday 11th December 2023 08:25:15
-alias:
+modified: 2025-06-16T07:04:32-04:00
+alias: 
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
-tags:: #collaboration #humans
+tags:: [[communication]]
 
 ## Neanderthals could work together only in tribes of ten to fifteen, but our collaborative superpowers allowed us to scale to bands of over a hundred
 

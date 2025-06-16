@@ -1,7 +1,7 @@
 ---
 created: 2023-09-24 06:21
 modified: 2025-06-15T18:38:38-04:00
-alias: 
+alias:
 ---
 tags:: [[docker]]
 ## Docker
@@ -24,9 +24,9 @@ Is a platform designed to help developers build, test and deploy containerized a
 ### Unmentioned notes, with related tag
 These notes have the tag `#` and are not mentioned above.
 ```dataview
-LIST 
+LIST
 
-FROM #docker
+FROM [[docker]]
 and !outgoing([[#]])
 
 SORT file.link asc

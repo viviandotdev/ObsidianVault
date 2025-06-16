@@ -1,10 +1,10 @@
 ---
 created: 2023-12-11 08:12
-modified: Monday 11th December 2023 08:12:13
-alias:
+modified: 2025-06-16T07:04:50-04:00
+alias: 
 ---
 up::  [[Never Split the Difference by Chris Voss|Never Split the Difference by Chris Voss]]
-tags:: #negotiation #conflict
+tags:: [[communication]]
 
 ## How to create calibrated questions
 

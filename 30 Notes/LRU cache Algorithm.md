@@ -1,10 +1,10 @@
 ---
 created: 2023-10-19 18:57
-modified: Thursday 19th October 2023 18:58:12
-alias:
+modified: 2025-06-16T07:04:02-04:00
+alias: 
 ---
 up::
-tags:: #cache
+tags:: [[cache]]
 
 ## LRU cache Algorithm
 

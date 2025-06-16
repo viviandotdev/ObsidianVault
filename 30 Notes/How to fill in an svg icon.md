@@ -1,10 +1,10 @@
 ---
 created: 2023-10-06 19:53
-modified: Friday 6th October 2023 19:53:50
-alias:
+modified: 2025-06-16T07:05:00-04:00
+alias: 
 ---
 up::
-tags:: #html [[react]] #css
+tags:: [[react]] [[css]]
 ## How to modify svg icon colors in tailwind
 
 

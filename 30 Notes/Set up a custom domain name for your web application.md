@@ -1,12 +1,12 @@
 ---
 created: 2024-05-16 17:33
-modified: Thursday 16th May 2024 17:33:47
-alias:
+modified: 2025-06-16T07:05:11-04:00
+alias: 
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 type:: #note/how-to
-tags:: #dns #custom-domain
-source::
+tags:: [[dns]]
+
 ## Set up a custom domain name for your web application
 **Do this first to make sure it propagates**
 
