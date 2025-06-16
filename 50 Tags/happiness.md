@@ -1,6 +1,6 @@
 ---
 created: 2025-06-13 07:23
-modified: 2025-06-16T09:45:25-04:00
+modified: 2025-06-16T09:48:55-04:00
 ---
 ## happiness
 
@@ -8,6 +8,5 @@ modified: 2025-06-16T09:45:25-04:00
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-
 SORT file.link asc
 ```
