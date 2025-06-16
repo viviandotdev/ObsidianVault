@@ -1,8 +1,8 @@
 ---
-modified: 2025-03-07T10:29:37-05:00
+modified: 2025-06-16T07:16:11-04:00
 ---
 up:: [[+ Home]]
-tags:: #map 
+tags:: #map/view  
 
 
 # Life Map 🗺
@@ -13,7 +13,7 @@ These are the dials that determine where I go.
 
 - My Direction & Drivers
 	- 01 - [[My Values]] | [[My Mind]] | [[Self Analysis]] | [[Who Am i]]
-	- 02 - [[My Environments]] | [[tools]] | [[Workflows]] | [[Finance]] | [[My Goals]] 
+	- 02 - [[My Environments]] | [[My Tools]] | [[Workflows]] | [[Finance]] | [[My Goals]] 
 	- 03 - [[My Experiences]] |  [[Life Reflections]]
 	- 04 - [[My Manifesto]] | [[My Career]]
 	- 05 - [[My Obituary]]

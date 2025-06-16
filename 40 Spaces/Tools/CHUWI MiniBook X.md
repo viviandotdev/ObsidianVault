@@ -3,7 +3,7 @@ created: 2024-07-05 10:04
 modified: 2025-06-15T21:36:44-04:00
 alias: 
 ---
-up::  [[tools]]
+up::  [[My Tools]]
 ## CHUWI MiniBook X
 **ReInstall Windows 11**
 [How to install Windows 11 on a MiniBook X 2023 (N100)? (solved) - Laptops / Minibook X - CHUWI | Official Forum](https://forum.chuwi.com/t/how-to-install-windows-11-on-a-minibook-x-2023-n100-solved/43608)

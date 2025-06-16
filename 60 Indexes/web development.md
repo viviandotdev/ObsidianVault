@@ -1,12 +1,11 @@
 ---
 created: 2024-04-27 16:12
-modified: 2025-06-13T07:01:26-04:00
+modified: 2025-06-16T07:17:21-04:00
 alias: 
 ---
-up::  [[tools]]
-type::
-related:: 
-# Dev Environment
+tags:: [[frontend development]]
+
+# web development
 
 [[How I set up my dev environment]]
 

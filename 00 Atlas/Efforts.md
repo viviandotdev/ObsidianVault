@@ -1,8 +1,8 @@
 ---
-modified: 2025-06-13T08:43:44-04:00
+modified: 2025-06-16T07:15:38-04:00
 ---
 up:: [[+ Home]]
-tags:: #map
+tags:: #map/view
 
 # Efforts 🏋️
 > Efforts allow ideas to breath. Projects smother them.

@@ -1,9 +1,8 @@
 ---
 created: 2023-07-16 13:26
-modified: Sunday 16th July 2023 13:38:01
-alias:
+modified: 2025-06-16T07:15:18-04:00
+alias: 
 ---
-up::
 tags:: [[system-design]]
 type:: #source/video
 source: [System Design Interview – Step By Step Guide - YouTube](https://www.youtube.com/watch?v=bUHFg8CZFws)

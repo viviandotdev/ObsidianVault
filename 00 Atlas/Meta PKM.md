@@ -1,5 +1,8 @@
+---
+modified: 2025-06-16T07:16:06-04:00
+---
 up:: [[+ Home]]
-tags:: #map
+tags:: #map/view 
 
 # Meta PKM
 Hi Future Self 👋  Here are "best practices" for managing your PKM system. 

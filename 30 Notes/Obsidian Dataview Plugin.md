@@ -1,9 +1,8 @@
 ---
 created: 2023-07-13 21:55
-modified: 2025-06-15T20:57:27-04:00
+modified: 2025-06-16T07:13:25-04:00
 ---
 up::  [[Obsidian|Obsidian]]
-tags:: #tools
 sources: [Source Code](https://github.com/blacksmithgu/obsidian-dataview) [Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
 
 ## Data View Plugin

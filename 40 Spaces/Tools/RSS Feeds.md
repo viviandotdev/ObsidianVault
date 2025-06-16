@@ -1,11 +1,9 @@
 ---
 created: 2023-08-06 10:17
-modified: 2025-06-14T19:16:48-04:00
+modified: 2025-06-16T07:13:34-04:00
 alias: 
 ---
-up::  [[tools]]
-tags:: #tools
-related:
+up::  [[My Tools]]
 
 ## RSS Feed
 

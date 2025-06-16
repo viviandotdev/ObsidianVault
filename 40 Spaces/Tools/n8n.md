@@ -3,7 +3,7 @@ created: 2024-06-08 06:19
 modified: Saturday 8th June 2024 06:19:05
 alias:
 ---
-up::  [[tools]]
+up::  [[My Tools]]
 type::
 source::
 ## n8n - Workflow Automation

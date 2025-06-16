@@ -1,11 +1,9 @@
 ---
 created: 2023-07-15 08:46
-modified: Saturday 15th July 2023 08:46:48
-alias:
+modified: 2025-06-16T07:13:45-04:00
+alias: 
 ---
-up:: [[tools]]/[[Arc]]
-tags:: #tools
-related:
+up:: [[My Tools]] / [[Arc]]
 
 # Violentmonkey
 
