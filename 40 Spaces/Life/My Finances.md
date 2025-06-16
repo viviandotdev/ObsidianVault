@@ -1,3 +1,8 @@
+---
+modified: 2025-06-16T09:43:11-04:00
+---
+
+tags::
 current for 3 months
 1800 (individual) -> 36 percent
 700 (picks) -> spending + 14 percent

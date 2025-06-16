@@ -4,7 +4,7 @@ modified: 2025-06-15T18:55:59-04:00
 
 ---
 up::
-tags:: [[Finance]] [[money]]
+tags:: [[My Finances]] [[money]]
 
 ## There is little correlation between investment effort and investment results.
 
