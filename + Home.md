@@ -1,8 +1,10 @@
 ---
-modified: 2025-06-16T14:15:41-04:00
+modified: 2025-06-16T14:21:12-04:00
 ---
+type:: #map/view 
 # Home 🌎
 Your launchpad and home base. That's here. That's home.
+
 #### Main
 - [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[Meta PKM]] | [[Efforts]] |[[Life Map]]
 

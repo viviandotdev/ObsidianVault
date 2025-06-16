@@ -1,7 +1,6 @@
 ---
 created: 2023-09-07 16:28
-modified: 2025-06-15T13:08:44-04:00
-
+modified: 2025-06-16T14:20:41-04:00
 ---
 up:: [[+ Library]]
 
@@ -90,7 +89,6 @@ LIST
 FROM [[#]]
 and !outgoing([[#]])
 and -#map
-
 SORT file.link asc
 ```
 

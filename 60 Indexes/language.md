@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-16T14:16:15-04:00
+modified: 2025-06-16T14:20:16-04:00
 ---
 up:: [[+ Library]]
 tags:: 
@@ -15,7 +15,9 @@ These notes point directly to this note. But this note doesn't point back.
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-and -#map
-
+WHERE
+file.name != this.file.name
+AND
+file.name !="+ Home"
 SORT file.link asc
 ```
