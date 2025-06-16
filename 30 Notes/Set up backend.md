@@ -1,10 +1,10 @@
 ---
 created: 2024-05-19 19:24
-modified: Sunday 19th May 2024 19:24:05
-alias:
+modified: 2025-06-15T21:10:15-04:00
+alias: 
 ---
 up::  [[How to start a programming project]]
-tags::  #nestjs #backend
+tags::  [[backend development]]
 source::
 ## Set up backend
 

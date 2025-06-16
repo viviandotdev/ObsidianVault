@@ -1,10 +1,10 @@
 ---
 created: 2023-09-23 10:30
-modified: Saturday 23rd September 2023 10:30:49
-alias:
+modified: 2025-06-15T21:35:31-04:00
+alias: 
 ---
 up::
-tags::  #life #life-design [[money]]
+tags::  [[money]]
 
 ## Many people have generic desires like freedom and flexibility, but haven't thought deeper about what a rich life truly means
 

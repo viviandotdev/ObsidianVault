@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-14T19:00:24-04:00
+modified: 2025-06-15T21:35:40-04:00
 ---
 [[creativity]]
 
@@ -32,7 +32,7 @@ modified: 2025-06-14T19:00:24-04:00
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
 
-#life
+[[life]]
 - [[Life is suffering, but you can choose how you suffer]]
 - [[Life is a game]]
 - [[Validate everything you learn through experimentation on your own life]]
