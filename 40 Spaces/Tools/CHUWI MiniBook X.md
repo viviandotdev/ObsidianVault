@@ -4,7 +4,7 @@ modified: Friday 5th July 2024 10:04:41
 alias:
 ---
 up::  [[tools]]
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## CHUWI MiniBook X
 **ReInstall Windows 11**

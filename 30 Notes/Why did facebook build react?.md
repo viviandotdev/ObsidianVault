@@ -4,7 +4,7 @@ modified: Monday 22nd April 2024 19:41:23
 alias:
 ---
 up::  [[Joy of React]]
-tags:: #note/atomic🌳
+tags:: #note/atomic
 source::
 ## Why did facebook build react?
 

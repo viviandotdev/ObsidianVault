@@ -3,7 +3,7 @@ created: 2024-06-19 07:58
 modified: 2025-06-14T19:18:28-04:00
 alias:
 ---
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## Ohm's Law
 

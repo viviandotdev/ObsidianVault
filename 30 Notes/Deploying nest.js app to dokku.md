@@ -4,7 +4,7 @@ modified: 2025-02-05T19:59:14-05:00
 alias:
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## Deploying nest.js app to dokku
 

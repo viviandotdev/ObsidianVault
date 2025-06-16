@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: #brain
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## Prefrontal cortex
 

@@ -4,7 +4,7 @@ modified: 2025-05-15T07:09:28-04:00
 alias:
 tags:
 ---
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 
 ## How to butcher a chicken

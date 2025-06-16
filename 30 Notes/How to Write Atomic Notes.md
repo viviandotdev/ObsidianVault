@@ -1,6 +1,6 @@
 ---
 created: 2023-07-15 08:56
-modified: 2025-06-15T18:43:03-04:00
+modified: 2025-06-15T21:03:03-04:00
 aliases:
   - create atomic note
 ---
@@ -30,7 +30,6 @@ Aim to have it no shorter than a tweet (180 characters) and no longer than an at
 **budding**: notes that are in the middle of being processed
 **atomic or evergreen**: finalized notes
 
-#note/seedling🌱 - #note/budding🌿 - #note/atomic🌳
 
 
 ### Resources

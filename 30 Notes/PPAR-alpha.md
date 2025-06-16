@@ -4,7 +4,7 @@ modified: Sunday 27th October 2024 19:58:42
 alias:
 ---
 up::
-type:: #note/atomic🌳
+type:: #note/atomic
 source:: [[How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol]]
 ## PPAR-alpha
 

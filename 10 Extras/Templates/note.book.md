@@ -3,12 +3,11 @@ title: "{{title}}"
 author: "{{author}}"
 status: currently-reading
 created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+modified: 2025-06-15T21:03:14-04:00
 ---
 up:: [[Bookshelf]]
 tags::
 type:: #source/book
-type:: #note/literature
 # {{Title}}
 by [[{{author}}]]
 

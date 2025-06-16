@@ -4,7 +4,7 @@ modified: 2025-02-19T06:46:56-05:00
 alias:
 ---
 up::
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## My Systems
 **Goals**-

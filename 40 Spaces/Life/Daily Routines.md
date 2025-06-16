@@ -4,7 +4,7 @@ modified: 2025-06-14T18:54:41-04:00
 alias:
 ---
 up::  [[Workflows]]
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## Daily Routines
 

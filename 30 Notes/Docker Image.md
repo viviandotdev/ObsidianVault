@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: #docker
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## Docker Image
 

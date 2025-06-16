@@ -4,7 +4,7 @@ modified: Tuesday 10th December 2024 13:16:12
 alias:
 ---
 up::  [[drawing]]
-type:: #note/atomic🌳
+type:: #note/atomic
 source::
 ## Figure Drawing-Design and Invention
 

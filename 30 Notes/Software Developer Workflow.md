@@ -1,10 +1,10 @@
 ---
 created: 2024-02-07 08:25
-modified: Wednesday 7th February 2024 18:41:52
-alias:
+modified: 2025-06-15T21:01:32-04:00
+alias: 
 ---
 up::  [[Workflows]]
-tags:: [[productivity]] #programming
+tags:: [[productivity]] [[coding]]
 source::
 ## Software Developer Workflow
 
