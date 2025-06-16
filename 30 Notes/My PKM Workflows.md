@@ -1,10 +1,8 @@
 ---
 created: 2023-07-13 16:43
-modified: Thursday 13th July 2023 16:43:51
+modified: 2025-06-16T07:12:55-04:00
 ---
 up::  [[Meta PKM]]
-tags:: #PKM
-related:
 
 ## My PKM Workflows - Global Guidelines
 

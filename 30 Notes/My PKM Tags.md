@@ -1,9 +1,8 @@
 ---
 created: 2023-07-11 16:00
-modified: 2025-06-15T13:13:58-04:00
+modified: 2025-06-16T07:12:45-04:00
 ---
 up::  [[Meta PKM]]
-tags:: #PKM
 
 ## My PKM Tags
 ![[how to tag notes|900]]

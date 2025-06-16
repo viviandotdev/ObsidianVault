@@ -1,8 +1,11 @@
+---
+modified: 2025-06-16T07:09:41-04:00
+---
 
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
 
-- [[My Goals#^736174|Rock climbing]] #health
+- [[My Goals#^736174|Rock climbing]] 
 - Do a L-Sit
 - Read 100 books in a year
 - [[My Goals#^b96138|Become fluent in chinese]] [[language]]

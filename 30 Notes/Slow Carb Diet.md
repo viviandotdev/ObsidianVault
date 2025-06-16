@@ -1,14 +1,9 @@
-
 ---
-created: 2023-07-14 05:49
-modified: Friday 14th July 2023 05:50:53
+created: 2024-10-20 11:35
+modified: 2025-06-16T07:10:58-04:00
+alias: 
 ---
-up:: [[Health MOC]]
-tags:: #nutrition
-related:
-
-## Slow Carb Diet
-
+type:: #note/how-to
 ### Rules
 1. Don't drink calories
 2. Don't eat fruit
@@ -33,9 +28,13 @@ related:
 [Slow Carb Chicken and Vegetable Stir-Fry Recipe | 4 Hour Body Recipes](https://www.4hourbodyrecipes.com/4-hour-body-recipes/slow-carb-chicken-vegetable-stir-fry/)
 [Cedar Plank Salmon with Whipped Cauliflower & Asparagus](https://www.4hourbodyrecipes.com/4-hour-body-recipes/4-hour-body-dinner-recipes/cedar-plank-salmon-with-whipped-cauliflower-and-asparagus-tips/)
 
+### Links to this page
+These notes point directly to this note. But this note doesn't point back.
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+and -#map
 
-**Links to this page**
-
-``` dataview
-LIST FROM [[#]]
+SORT file.link asc
 ```

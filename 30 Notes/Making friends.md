@@ -1,10 +1,9 @@
 ---
 created: 2023-10-24 05:36
-modified: Friday 3rd November 2023 15:44:18
-alias:
+modified: 2025-06-16T07:09:22-04:00
+alias: 
 ---
-up::
-tags:: [[relationships]] #friends
+tags:: [[relationships]] [[friendships]]
 
 ## Making friends
 

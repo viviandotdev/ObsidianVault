@@ -1,9 +1,8 @@
 ---
 created: 2023-07-12 10:06
-modified: Wednesday 12th July 2023 10:08:28
+modified: 2025-06-16T07:12:47-04:00
 ---
 up::  [[tools]]
-tags:: #PKM #tools
 
 ## Obsidian
 
