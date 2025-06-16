@@ -20,6 +20,6 @@ Protocol to Fight of Distractions
 **Tally up your tasks and count the number of wasted minutes through out the day**
 
 ![[Screenshot 2024-06-09 at 5.03.06 PM.png]]
-[[How i stay focused for long period of time (and stop infinite scrolling)]]
+[[How I stay focused for long period of time (and stop infinite scrolling)]]
 
 [How A “SPUNC” Log Will 10X Your Productivity And Bulletproof You Against Distraction | by Barry Davret | Medium](https://barry-davret.medium.com/how-a-spunc-log-will-10x-your-productivity-and-bulletproof-you-against-distraction-17d1c97669fa)

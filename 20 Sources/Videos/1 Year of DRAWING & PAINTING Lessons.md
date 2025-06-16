@@ -1,9 +1,10 @@
 ---
-modified: 2025-06-15T20:39:06-04:00
+modified: 2025-06-16T08:12:25-04:00
 ---
+type:: #source/video 
+tags:: [[drawing]]
+source:: [https://www.youtube.com/watch?v=LqV0WZPVehw](https://www.youtube.com/watch?v=LqV0WZPVehw)
 # 1 Year of DRAWING & PAINTING Lessons
-
-[https://www.youtube.com/watch?v=LqV0WZPVehw](https://www.youtube.com/watch?v=LqV0WZPVehw)
 
 - Self Taught is not efficient
     - expect mistakes,

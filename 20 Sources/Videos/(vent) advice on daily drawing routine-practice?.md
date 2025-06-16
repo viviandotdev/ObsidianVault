@@ -1,16 +1,14 @@
 ---
 created: 2024-02-18 19:09
-modified: 2025-06-15T20:24:06-04:00
-
+modified: 2025-06-16T08:15:27-04:00
 ---
-up::  [[drawing]]
+tags::  [[drawing]] [[habits]]
+type:: #source/article 
 source::  [(vent) advice on daily drawing routine/practice? : r/ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/mu3tsw/vent_advice_on_daily_drawing_routinepractice/)
-## Drawing Workflow
+## (vent) advice on daily drawing routine/practice?
 
 The two daily routines I find important professionally I call "300 drawings" and "Daily Edit".
 Find cool art you want to recreate (ghibli) goal only draw things you enjoy.
-
-
 
 1. **300 Drawings Process:**
    - **Step 1:** Choose a specific subject to improve drawing skills on (e.g., hands, trees, cars).

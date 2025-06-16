@@ -1,12 +1,11 @@
 ---
 created: 2024-03-23 09:12
-modified: 2025-06-16T07:21:13-04:00
-
+modified: 2025-06-16T08:12:52-04:00
 ---
 type:: #source/video
 tags:: [[productivity]]
 source:: [How I stay focused for long periods of time (and stop infinite scrolling) - YouTube](https://www.youtube.com/watch?v=XF8EqnE1iLo&t=575s)
-## How i stay focused for long period of time (and stop infinite scrolling)
+## How I stay focused for long period of time (and stop infinite scrolling)
 
 
 1. **Log your distractions**
