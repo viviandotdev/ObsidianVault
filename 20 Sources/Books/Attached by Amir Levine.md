@@ -7,7 +7,7 @@ author: Amir Levine
 up::  [[Bookshelf]]
 status:: summarized
 tags:: [[relationships]]
-medium:: #source/book
+type:: #source/book
 
 # Attached
 by Amir Levine

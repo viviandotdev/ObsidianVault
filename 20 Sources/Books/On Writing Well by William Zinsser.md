@@ -7,7 +7,7 @@ modified: 2025-06-15T20:29:07-04:00
 ---
 up:: [[Bookshelf]]
 tags:: [[writing]]
-medium:: #source/book
+type:: #source/book
 
 # On Writing Well
 by [[William Zinsser]]

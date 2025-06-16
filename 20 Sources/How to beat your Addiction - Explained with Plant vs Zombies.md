@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: [[addiction]] [[social-media]] [[productivity]]
-medium:: #source/video
+type:: #source/video
 links:: [How to Beat Your Addictions - Explained With Plants vs Zombies - YouTube](https://www.youtube.com/watch?v=-gHU3BPHHfQ&list=WL&index=5)
 
 ## How to beat your Addiction - Explained with Plant vs Zombie

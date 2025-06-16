@@ -8,7 +8,7 @@ author: Scott Young
 up::  [[Bookshelf]]
 status:: summarized
 tags:: [[learning]] [[productivity]]
-medium:: #source/book
+type:: #source/book
 
 ## Ultralearning
 

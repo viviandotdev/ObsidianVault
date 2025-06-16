@@ -9,7 +9,7 @@ aliases:
 up:: [[Bookshelf]]
 status:: summarized
 tags:: [[flow]]
-medium:: #source/book
+type:: #source/book
 # Flow by Mihaly Csikszentmihalyi
 
 ### Summary/High Level Thoughts

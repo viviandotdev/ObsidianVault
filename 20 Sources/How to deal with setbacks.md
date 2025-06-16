@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: [[buddhism]]
-medium:: #source/video
+type:: #source/video
 links:: [How to deal with setbacks - YouTube](https://www.youtube.com/watch?v=7HyxkxDum8o)
 ## How to deal with setbacks
 

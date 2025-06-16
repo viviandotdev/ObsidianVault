@@ -8,7 +8,7 @@ aliases:
 up:: [[Bookshelf]]
 status:: summarized
 tags:: [[philosophy]]
-medium:: #source/book
+type:: #source/book
 
 # Be Water
 by Shannon Lee

@@ -1,11 +1,10 @@
 ---
 created: 2023-08-29 06:41
-modified: 2025-06-15T20:22:20-04:00
+modified: 2025-06-15T20:48:24-04:00
 alias: 
 ---
-up::  [[Three.js Journey]]
-tags:: [[threejs]]
-source:
+tags:: [[three.js]]
+source: [[Three.js Journey]]
 
 ## three.js.cameras
 

@@ -6,9 +6,9 @@ created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 up:: [[Bookshelf]]
-tags:: 
-medium:: #source/book
-type:: #note/literature 
+tags::
+type:: #source/book
+type:: #note/literature
 # {{Title}}
 by [[{{author}}]]
 

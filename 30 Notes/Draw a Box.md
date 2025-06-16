@@ -3,7 +3,7 @@ modified: 2025-06-15T18:32:24-04:00
 ---
 up:: [[drawing]]
 status:: in-progress
-medium:: #source/course 
+type:: #source/course
 tags: #drawing
 
 ### Draw a box

@@ -3,10 +3,11 @@ created: 2024-03-26 19:53
 modified: 2025-06-13T08:15:14-04:00
 alias:
 ---
-# How to model a Shelf
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
 links::
+# How to model a Shelf
+
 ## Log Shelf
 
 # Supporting Text Documentation

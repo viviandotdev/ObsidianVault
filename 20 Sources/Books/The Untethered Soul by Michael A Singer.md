@@ -6,16 +6,16 @@ created: 2024-02-27 07:27
 modified: Tuesday 27th February 2024 07:27:54
 ---
 up:: [[Bookshelf]]
-tags:: 
-medium:: #source/book
+tags::
+type:: #source/book
 
 # The Untethered Soul
 by [[Michael A. Singer]]
 
 **Motive**:
 <!-- What motivated you to read this book? -->
- I heard it was being recommended often. 
- 
+ I heard it was being recommended often.
+
 **Rediscovery**:
 <!-- In what situation would anticipate applying the contents of this book to your life?-->
 In everyday life, when i think and stuff

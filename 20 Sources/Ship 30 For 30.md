@@ -6,7 +6,7 @@ alias:
 up::  [[writing]]
 status:: completed
 tags:: [[writing]]
-medium:: #source/course
+type:: #source/course
 links::
 
 ## Ship 30 For 30

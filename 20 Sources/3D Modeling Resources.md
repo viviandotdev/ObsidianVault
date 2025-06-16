@@ -1,9 +1,9 @@
 ---
-modified: 2025-06-13T08:32:37-04:00
+modified: 2025-06-15T20:46:03-04:00
 tags: 
 ---
 
-[[blender]]
+tags:: [[blender]]
 # Blender Learning Resources & Plan
 
 ## Inspiration

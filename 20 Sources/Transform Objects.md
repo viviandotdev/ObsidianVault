@@ -1,10 +1,9 @@
 ---
-created: 2023-08-29 06:41 
-modified: Tuesday 29th August 2023 06:43:12
+created: 2023-08-29 06:41
+modified: 2025-06-15T20:48:43-04:00
 alias: 
 ---
-up::  [[Three.js Journey]]
-tags:: 
+
 source: [Three.js Journey — Transform objects](https://threejs-journey.com/lessons/transform-objects)
 
 ## Transform Objects

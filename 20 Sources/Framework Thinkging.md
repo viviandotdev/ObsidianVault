@@ -1,11 +1,11 @@
 ---
 created: 2024-02-07 07:57
 modified: 2025-06-15T20:24:47-04:00
-alias: 
+alias:
 ---
 up::
 tags:: [[learning]]
-medium:: #source/video
+type:: #source/video
 
 source:: [How to Think Fast Before You Speak: Framework Thinking - YouTube](https://www.youtube.com/watch?v=lcyHC9HLTzc)
 ## Framework Thinking

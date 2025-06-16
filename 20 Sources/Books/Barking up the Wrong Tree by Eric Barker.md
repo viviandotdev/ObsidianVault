@@ -6,7 +6,7 @@ modified: 2025-06-15T20:23:06-04:00
 up:: [[Bookshelf]]
 status:: summarized
 tags:: [[#success]]
-medium:: #source/book
+type:: #source/book
 
 # Barking Up the Wrong Tree
 by [[Eric Barker]]

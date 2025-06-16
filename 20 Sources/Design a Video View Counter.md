@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags:: [[system-design]]
-medium:: #source/video
+type:: #source/video
 source: [System Design Interview – Step By Step Guide - YouTube](https://www.youtube.com/watch?v=bUHFg8CZFws)
 
 # Design a Video View Counter

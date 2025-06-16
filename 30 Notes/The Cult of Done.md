@@ -1,11 +1,11 @@
 ---
 created: 2024-01-08 17:16
 modified: 2025-06-15T18:58:10-04:00
-alias: 
+alias:
 ---
 type:: #source/video
 tags:: [[productivity]]
-link:: [How To Get Started: The Cult of Done - YouTube](https://www.youtube.com/watch?v=bJQj1uKtnus)
+source:: [How To Get Started: The Cult of Done - YouTube](https://www.youtube.com/watch?v=bJQj1uKtnus)
 ## The Cult of Done
 
 Just do things for the sake of getting things done. The more things you get done the more you want to get done. Objects that are motion stay in motion and objects that are still stay still.

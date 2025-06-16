@@ -1,10 +1,10 @@
 ---
 created: 2023-08-11 21:02
-modified: 2025-06-15T18:55:31-04:00
+modified: 2025-06-15T20:47:18-04:00
 alias: 
 ---
 up:: [[frontend development]]
-medium::  #source/course
+type::  #source/course
 status:: hold
 
 ## Three.js Journey
@@ -17,8 +17,8 @@ status:: hold
 9. [[Geometries]]
 10. [[Debug UI|Debug UI]]
 11. [[Textures]]
-12. [[three.js.materials]]
-13.
+12. [[Materials]]
+
 ### Classic Techniques
 20. [[Scroll based animation]]
 

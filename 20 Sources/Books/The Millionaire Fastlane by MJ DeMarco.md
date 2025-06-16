@@ -6,9 +6,9 @@ created: 2024-04-26 06:49
 modified: Friday 26th April 2024 06:49:52
 ---
 up:: [[Bookshelf]]
-tags:: 
-medium:: #source/book
-type:: #note/literature 
+tags::
+type:: #source/book
+type:: #note/literature
 highlights:: [[The Millionaire Fastlane]]
 # The Millionaire Fastlane
 by [[MJ DeMarco]]
@@ -36,11 +36,11 @@ A skewed value attribute could be **better ingredients, better delivery, better 
 [[Opportunity is everywhere,  all you need is to make something better]]
 **Personal Revelations**
 <!-- Connections and insights to your own life -->
-I think I can become a millionaire, the steps are rather simple. 
-Basically create or build something that will impact millions. 
-Ideas are pawns, execution is king and marketing is the queen. 
-Opportunity is everywhere, as long as humans exist there will problems and room for improvement, through **better UI**, better marketing, better customer service, better product, 
-You can find opportunity in the language, 
+I think I can become a millionaire, the steps are rather simple.
+Basically create or build something that will impact millions.
+Ideas are pawns, execution is king and marketing is the queen.
+Opportunity is everywhere, as long as humans exist there will problems and room for improvement, through **better UI**, better marketing, better customer service, better product,
+You can find opportunity in the language,
 	this sucks,  why is this not better
 
 **Future Plans**

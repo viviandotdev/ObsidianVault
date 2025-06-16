@@ -7,7 +7,7 @@ author: Chris Voss
 up::  [[Bookshelf]]
 status:: summarized
 tags::  [[communication]] [[relationships]]
-medium:: #source/book
+type:: #source/book
 
 ## Never Split the Difference
 By; Chris Voss

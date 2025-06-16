@@ -1,13 +1,14 @@
 ---
 created: 2024-03-26 19:53
-modified: 2025-06-13T08:15:14-04:00
-alias:
+modified: 2025-06-15T20:49:41-04:00
+alias: 
 ---
-# How to model Arms
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
 links::
-## Arms
+# How to model Arms
+
+
 Fix the legs?
 1. Create a cube
 2. Flatten cube

@@ -5,7 +5,7 @@ alias:
 ---
 up::
 tags::  [[learning]]
-medium:: #source/video
+type:: #source/video
 links::[Mastering the Art of Continuous Learning - YouTube](https://www.youtube.com/watch?v=s8BQ5Suab6Y)
 ## Mastering the Art of Continuous Learning
 

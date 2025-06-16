@@ -7,7 +7,7 @@ modified: 2025-06-15T20:21:04-04:00
 up:: [[Bookshelf]]
 status:: summarized
 tags:: [[philosophy]] [[#psychology]]
-medium:: #source/book
+type:: #source/book
 
 # Amusing Ourselves to Death: Public Discourse in the Age of Show Business
 by Neil Postman

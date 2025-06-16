@@ -2,7 +2,7 @@
 modified: 2025-06-15T07:01:17-04:00
 ---
 status:: in-progress
-medium:: #source/course 
+type:: #source/course
 tags: [[react]]
 links::
 ## Zero to Shipped
@@ -17,13 +17,13 @@ links::
 
 [https://github.com/freddyal0x01/eventio](https://github.com/freddyal0x01/eventio) (up to invites)
 
-  
+
 
 **Next** 
 
 **Unsubscribe emails**
 
-  
+
 
 **Tools**
 
@@ -31,13 +31,13 @@ Complete **modal management (**
 
 [https://github.com/eBay/nice-modal-react](https://github.com/eBay/nice-modal-react)
 
-  
+
 
 **Hook tools**
 
 [https://nikgraf.github.io/react-hooks/](https://nikgraf.github.io/react-hooks/)
 
-  
+
 
 **Upload thing for image uploads**
 [https://uploadthing.com/dashboard](https://uploadthing.com/dashboard)
@@ -45,14 +45,14 @@ Complete **modal management (**
 
 Delete all install correct versions
 
-  
+
 
 **Set up Type Safe ENV**
 
 [https://env.t3.gg/docs/introduction](https://env.t3.gg/docs/introduction)
 
-  
 
-  
+
+
 
 [https://microlaunch.net/](https://microlaunch.net/)

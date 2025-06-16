@@ -1,13 +1,13 @@
 ---
 created: 2024-03-26 19:53
-modified: 2025-06-13T08:15:14-04:00
-alias:
+modified: 2025-06-15T20:49:47-04:00
+alias: 
 ---
-# How to model a Shovel
 up::  [[A Complete Guide to 3D Modelling in Blender - Patata School]]
 tags::
 links::
-## Shovel
+
+# How to model a Shovel
 
 1. Import the reference image.
 2. Press Shift + A to add a new mesh.
