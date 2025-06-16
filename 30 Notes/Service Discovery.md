@@ -1,11 +1,9 @@
 ---
 created: 2023-07-25 17:55
-modified: Wednesday 9th August 2023 19:12:59
-
+modified: 2025-06-16T08:03:39-04:00
 ---
-up::
-tags::
-related:  [[system-design]]
+
+tags:  [[system-design]]
 
 ## Service Discovery
 

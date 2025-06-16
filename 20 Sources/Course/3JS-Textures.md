@@ -1,10 +1,8 @@
 ---
 created: 2023-08-30 11:26
-modified: 2025-06-15T20:27:08-04:00
-
+modified: 2025-06-16T08:05:02-04:00
 ---
-up::
-related:
+up:: [[3JS-Three.js Journey]]
 
 ## three.js.textures
 

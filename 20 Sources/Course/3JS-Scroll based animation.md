@@ -3,7 +3,7 @@ created: 2023-09-07 07:15
 modified: Thursday 7th September 2023 08:59:59
 
 ---
-up::  [[Three.js Journey]]
+up::  [[3JS-Three.js Journey]]
 tags::
 source: [Three.js Journey — Scroll based animation](https://threejs-journey.com/lessons/scroll-based-animation#easing)
 

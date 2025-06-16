@@ -3,7 +3,7 @@ created: 2023-09-21 15:06
 modified: Thursday 21st September 2023 15:06:46
 
 ---
-up::  [[Three.js Journey]]
+up::  [[3JS-Three.js Journey]]
 tags:: [[blender]] [[three.js]]
 
 ## Optimizing a 3D Model

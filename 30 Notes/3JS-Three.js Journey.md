@@ -15,9 +15,9 @@ id:: TJS
 5. [[Transform Objects]]
 7. [[Cameras]]
 8. [[Fullscreen and resizing]]
-9. [[Geometries]]
+9. [[3JS-Geometries]]
 10. [[Debug UI|Debug UI]]
-11. [[Textures]]
+11. [[3JS-Textures]]
 12. [[Materials]]
 
 ### Classic Techniques

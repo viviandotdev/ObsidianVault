@@ -12,7 +12,7 @@ up:: [[frontend development]]
 
 **Courses**
 [[Zero to Shipped]]
-[[Joy of React]]
+[[JOR-Joy of React]]
 
 
 **Best Practices**

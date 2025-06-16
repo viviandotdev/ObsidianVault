@@ -4,7 +4,7 @@ modified: 2025-06-15T20:48:24-04:00
 
 ---
 tags:: [[three.js]]
-source: [[Three.js Journey]]
+source: [[3JS-Three.js Journey]]
 
 ## three.js.cameras
 

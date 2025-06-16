@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-13T08:16:04-04:00
 ---
-up::  [[Three.js Journey]]
+up::  [[3JS-Three.js Journey]]
 tags:: 
 related: 
 

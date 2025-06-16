@@ -3,7 +3,7 @@ created: 2024-04-22 18:31
 modified: Monday 22nd April 2024 19:41:23
 
 ---
-up::  [[Joy of React]]
+up::  [[JOR-Joy of React]]
 tags:: #note/atomic
 source::
 ## Why did facebook build react?
