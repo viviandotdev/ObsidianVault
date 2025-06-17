@@ -1,10 +1,6 @@
 ---
-modified: 2025-06-17T06:34:58-04:00
----
-**---
 created: 2023-11-04 14:48
-modified: 2025-06-16T07:21:10-04:00
-
+modified: 2025-06-17T06:53:29-04:00
 ---
 tags::  [[language]]
 source::  [How I learnt Norwegian on my own - YouTube](https://www.youtube.com/watch?v=uWQYqcFX8JE)
