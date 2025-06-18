@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-18T08:12:16-04:00
+modified: 2025-06-18T08:12:59-04:00
 ---
 type:: #note/perspective
 tags::
@@ -21,6 +21,7 @@ tags::
 
 **Braindump, Summary, & Reference Notes**
 <!-- What thoughts, summaries, and existing notes come to mind regarding this topic? -->
+[[identity diversification]]
 
 **Common Goals, Problems, & Advice**
 <!-- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them? -->
