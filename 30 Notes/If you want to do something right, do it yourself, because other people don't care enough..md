@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-18T06:52:14-04:00
+modified: 2025-06-18T06:54:42-04:00
 ---
 type:: #note/perspective
 tags::
@@ -22,6 +22,14 @@ Which is to say: If you want to do something right, do it yourself; because othe
 
 **Personal Experience**
 <!-- What personal experiences, stories, or problems have you faced that relate to this topic? -->
+  - Growing up I was always asked and told to do something and then she would get upset when I don't do it right or the way she wanted to. 
+  - The reason I do things badly is not because I don't know how to do them it's because I don't care enough. I can am capable of doing things well if I care enough about it.
+  - I think we both can be right. I think you are right that I should have communicated better and asked for more context or just did it.
+  - But you could have also avoided this by just texting Diana directly. Like why did you have to go through me?
+  - I think if something is important enough you should never delegate to someone else you should do it yourself because other people just won't care enough.
+  - I get annoyed when people ask me to do things for them and then I do it and then they get upset when I don't do it the way they intended or not up to their standards. If you want something to to be done to your standard do it yourself because I will only do it up to my standard and don't get upset at me if I don't meet your standard.
+  - Also I hate it when my mom or sister ask me to communicate to my dad because they don't feel like it.
+  - For example my sister will ask me to ask my brother to do something because he will be less upset if I ask then if she asks.  Why don't you fix your own communication tactics instead of asking me to ask them? Like why do you need a third party like it so inefficient. 
 
 **Potential Framework, System, or Solution**
 <!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->
