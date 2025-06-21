@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T09:51:14-04:00
+modified: 2025-06-21T09:54:56-04:00
 ---
 type:: #note/perspective
 tags::
@@ -7,7 +7,7 @@ tags::
 
 **Topic**
 <!-- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic. -->
-If you're sick of your job, 
+Your job is not meant to be the only thing you have, you should have other interests that full fill you
 **References**
 <!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
 [If you’re sick of your job, you need to watch this - YouTube](https://www.youtube.com/watch?v=Zl0EfP33v0k&t=1280s)
@@ -22,7 +22,11 @@ If you're sick of your job,
 **Braindump, Summary, & Reference Notes**
 <!-- What thoughts, summaries, and existing notes come to mind regarding this topic? -->
 [[identity diversification]]
-
+- hedge your identity by engaging in diverse activities
+	-  hedging is to minimize downside risk, even if it means potentially limiting upside potential.
+- hedge your identity to minimize downside risk, you want to minimize your risk of depression. Diversification limits your potential in excelling in only one area because  limiting your upside potential in your career 
+- not everything will be going well, for example you could have a bad day at work but maybe hit a PR at the gym, this can dramatically improve your mood and help with depression.
+Hedge your identity by engaging in diverse activities, so if one area encounters challenges, others can still provide fulfillment and balance.
 **Common Goals, Problems, & Advice**
 <!-- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them? -->
 
