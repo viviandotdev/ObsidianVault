@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T09:54:56-04:00
+modified: 2025-06-21T09:58:32-04:00
 ---
 type:: #note/perspective
 tags::
@@ -24,9 +24,9 @@ Your job is not meant to be the only thing you have, you should have other inter
 [[identity diversification]]
 - hedge your identity by engaging in diverse activities
 	-  hedging is to minimize downside risk, even if it means potentially limiting upside potential.
-- hedge your identity to minimize downside risk, you want to minimize your risk of depression. Diversification limits your potential in excelling in only one area because  limiting your upside potential in your career 
+- hedge your identity to minimize downside risk, you want to minimize your risk of depression. Diversification limits your potential in excelling in only one area because you need to focus elsewhere, however this worth it because if one area becomes difficult you can find fulfillment in other areas.
 - not everything will be going well, for example you could have a bad day at work but maybe hit a PR at the gym, this can dramatically improve your mood and help with depression.
-Hedge your identity by engaging in diverse activities, so if one area encounters challenges, others can still provide fulfillment and balance.
+
 **Common Goals, Problems, & Advice**
 <!-- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them? -->
 
@@ -35,3 +35,8 @@ Hedge your identity by engaging in diverse activities, so if one area encounters
 
 **Potential Framework, System, or Solution**
 <!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->
+- have multiple hobbies
+	- one that keeps you healthy - rock climbing
+	- one that earns you money - coding
+	- one that keeps your learning - reading / writing
+	- one that is creative  - drawing
