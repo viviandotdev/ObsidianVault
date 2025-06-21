@@ -1,8 +1,8 @@
 ---
 created: 2024-01-16 10:44
-modified: 2025-06-15T18:35:03-04:00
-
+modified: 2025-06-21T12:25:40-04:00
 ---
+type: #note/perspective 
 tags:: [[happiness]]
 ## Freedom and flexility over one’s life is the best predictor of wellbeing
 I value freedom and flexibility over my time more that money, when making decisions I consider the time cost as well

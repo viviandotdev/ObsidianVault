@@ -1,7 +1,8 @@
 ---
 created: 2024-11-11 10:26
-modified: 2025-06-16T09:46:34-04:00
+modified: 2025-06-21T12:25:06-04:00
 ---
+type: #note/perspective 
 tags:: [[happiness]]
 ## The key to happiness is optimizing health, time and money
 

@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-16T07:37:29-04:00
+modified: 2025-06-21T12:26:07-04:00
 ---
-type:: #note/atomic 
+type:: #note/perspective 
 tags:: [[happiness]]
 
 There are only a few moments in life where you will feel like you have achieved your goals. Those celebratory moments are fleeting and you will not have much of them.

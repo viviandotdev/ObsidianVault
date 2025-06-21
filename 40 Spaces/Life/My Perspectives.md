@@ -1,26 +1,17 @@
 ---
-modified: 2025-06-21T12:22:43-04:00
+modified: 2025-06-21T12:27:25-04:00
 ---
 ### My Perspectives
 
 
-```
-TABLE WITHOUT ID
- file.link as "Notes to be processed",
- (date(today) - file.cday).day as "Days alive"
-from #🟨 
-sort file.name asc
-```
 ```dataview
 TABLE WITHOUT ID
- file.link as "creativity",
- tags as "Tags"
-FROM [[creativity]] and #note/perspective
+ file.link as "happiness"
+FROM [[happiness]] AND #note/perspective
 WHERE !contains(file.name, "perspective")
 SORT file.name ASC
 ```
 
-[[creativity]]
 
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
@@ -43,11 +34,6 @@ SORT file.name ASC
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 
-[[happiness]]
-- [[The key to happiness is optimizing health, time and money]]
-- [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
-- [[You are happiest when working towards your goals, not when you have achieved them]]
-
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
 
@@ -56,15 +42,9 @@ SORT file.name ASC
 - [[Life is a game]]
 - [[Validate everything you learn through experimentation on your own life]]
 - [[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
-- [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative ]]
-
-[[coding]]
-- [[You must write bad code before you can write good code.]]
-
 
 [[confidence]]
 - [[Past progress is proof of future potential]]
-
 
 [[relationships]]
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]
