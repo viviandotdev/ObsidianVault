@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T12:28:33-04:00
+modified: 2025-06-21T13:31:48-04:00
 ---
 ### My Perspectives
 
@@ -12,7 +12,6 @@ WHERE !contains(file.name, "perspective")
 SORT file.name ASC
 ```
 
-
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
 - [[People are willing to pay if you present valuable information in a neat and organized and pretty way.]]
@@ -23,10 +22,9 @@ SORT file.name ASC
 - [[Learning is one of the most pleasurable experiences in life]]
 - [[When you learn something new, learn it as if you are going to explain it someone in the next 48 hours]]
 
-[[decisions]]
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 
-[[#success]]
+[[success]]
 - [[Being successful creates more success]]
 - [[It is not that hard to be successful because most of people are distracted on their phones or TVs ]]
 - [[Nothing happens then everything happens]]
