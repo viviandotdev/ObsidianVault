@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-18T08:12:59-04:00
+modified: 2025-06-21T09:51:14-04:00
 ---
 type:: #note/perspective
 tags::
@@ -7,7 +7,7 @@ tags::
 
 **Topic**
 <!-- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic. -->
-
+If you're sick of your job, 
 **References**
 <!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
 [If you’re sick of your job, you need to watch this - YouTube](https://www.youtube.com/watch?v=Zl0EfP33v0k&t=1280s)
