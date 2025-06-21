@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T12:27:25-04:00
+modified: 2025-06-21T12:28:33-04:00
 ---
 ### My Perspectives
 
@@ -42,9 +42,15 @@ SORT file.name ASC
 - [[Life is a game]]
 - [[Validate everything you learn through experimentation on your own life]]
 - [[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
+- [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative ]]
+
+[[coding]]
+- [[You must write bad code before you can write good code.]]
+
 
 [[confidence]]
 - [[Past progress is proof of future potential]]
+
 
 [[relationships]]
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]

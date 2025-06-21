@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T12:20:40-04:00
+modified: 2025-06-21T12:28:05-04:00
 ---
 type:: #note/perspective
 tags:: [[happiness]] [[life]] [[career]]
@@ -8,6 +8,7 @@ tags:: [[happiness]] [[life]] [[career]]
 **Topic**
 <!-- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic. -->
 Your job is not meant to be the only thing you have, you should have other interests that full fill you
+
 **References**
 <!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
 [If you’re sick of your job, you need to watch this - YouTube](https://www.youtube.com/watch?v=Zl0EfP33v0k&t=1280s)
@@ -35,8 +36,3 @@ Your job is not meant to be the only thing you have, you should have other inter
 
 **Potential Framework, System, or Solution**
 <!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->
-- have multiple hobbies
-	- one that keeps you healthy - rock climbing
-	- one that earns you money - coding
-	- one that keeps your learning - reading / writing (obsidian)
-	- one that is creative  - drawing
