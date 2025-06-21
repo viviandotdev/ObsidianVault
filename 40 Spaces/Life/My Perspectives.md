@@ -1,7 +1,16 @@
 ---
-modified: 2025-06-16T09:56:28-04:00
+modified: 2025-06-21T12:12:44-04:00
 ---
 ### My Perspectives
+
+
+
+```
+table tags
+FROM "30 Notes" and -#x/index and -#x/readme
+
+SORT file.name ASC
+```
 
 [[creativity]]
 
