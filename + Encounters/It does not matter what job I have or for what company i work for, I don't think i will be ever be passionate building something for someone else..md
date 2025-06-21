@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T09:58:32-04:00
+modified: 2025-06-21T11:49:46-04:00
 ---
 type:: #note/perspective
 tags::
@@ -38,5 +38,5 @@ Your job is not meant to be the only thing you have, you should have other inter
 - have multiple hobbies
 	- one that keeps you healthy - rock climbing
 	- one that earns you money - coding
-	- one that keeps your learning - reading / writing
+	- one that keeps your learning - reading / writing (obsidian)
 	- one that is creative  - drawing
