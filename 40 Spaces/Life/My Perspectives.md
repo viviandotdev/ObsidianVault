@@ -1,14 +1,22 @@
 ---
-modified: 2025-06-21T12:12:44-04:00
+modified: 2025-06-21T12:16:18-04:00
 ---
 ### My Perspectives
 
 
-
 ```
-table tags
-FROM "30 Notes" and -#x/index and -#x/readme
-
+TABLE WITHOUT ID
+ file.link as "Notes to be processed",
+ (date(today) - file.cday).day as "Days alive"
+from #🟨 
+sort file.name asc
+```
+```dataview
+TABLE WITHOUT ID
+ file.link as "creativity",
+ tags as "Tags"
+FROM #note/perspective
+WHERE !contains(file.name, "perspective")
 SORT file.name ASC
 ```
 
