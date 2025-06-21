@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T12:16:18-04:00
+modified: 2025-06-21T12:22:43-04:00
 ---
 ### My Perspectives
 
@@ -15,7 +15,7 @@ sort file.name asc
 TABLE WITHOUT ID
  file.link as "creativity",
  tags as "Tags"
-FROM #note/perspective
+FROM [[creativity]] and #note/perspective
 WHERE !contains(file.name, "perspective")
 SORT file.name ASC
 ```
