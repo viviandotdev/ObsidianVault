@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-22T12:37:13-04:00
+modified: 2025-06-22T13:00:59-04:00
 ---
 
 tags:: [[relationships]]
@@ -20,11 +20,13 @@ love needs to be learned it is any activity
 	you should not only love when it is convenient and enjoyable for you
 "fall in love "
 
-love should be active and passive, it needs to be learned like an art such as painting or playing an instrcument it takes dedication and effort
+Love should be active not passive, it needs to be learned like an art such as painting or playing an instrument it takes dedication and effort
 love is not something that happens to you it is something you build and should full fill you
-for example when a artist completes a painting it fullfill  them
+for example when a artist completes a painting it fullfill them
+women are taught that love is something that happens to them, but we also have the power to take action and be able to learn how to love someone
 
-
+**Personal Experience**-
+	i don't think i know how to love, i don't think my parents know how to love either, 
 resources
 - art of loving by eric
 - all about love 
