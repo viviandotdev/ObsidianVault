@@ -1,8 +1,8 @@
 ---
 created: 2024-04-15 20:32
-modified: 2025-06-15T18:53:25-04:00
-
+modified: 2025-06-22T19:19:07-04:00
 ---
+up:: [[My PKM Workflows]]
 up::  [[writing]]
 
 ## Writing Workflow System

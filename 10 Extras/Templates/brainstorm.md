@@ -1,8 +1,8 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: 2025-06-22T19:09:13-04:00
+modified: 2025-06-22T19:16:38-04:00
 ---
-type:: #output/brainstorm
+type:: #note/brainstorm
 tags::
 
 ## <% tp.file.title %>

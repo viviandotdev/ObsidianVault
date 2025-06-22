@@ -1,8 +1,8 @@
 ---
 created: 2024-12-22 09:18
-modified: 2025-06-15T13:50:08-04:00
-
+modified: 2025-06-22T19:18:33-04:00
 ---
+up:: [[My PKM Workflows]] 
 tags:: [[Anki]]
 ## Anki General Workflow
 

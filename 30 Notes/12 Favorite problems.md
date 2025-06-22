@@ -1,8 +1,8 @@
 ---
 created: 2023-09-02 15:45
-modified: 2025-06-15T13:47:02-04:00
-
+modified: 2025-06-22T19:17:38-04:00
 ---
+type:: #note/concept 
 tags:: [[learning]]
 ### 12 Favorite problems
 

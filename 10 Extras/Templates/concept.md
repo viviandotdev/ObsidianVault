@@ -1,8 +1,8 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: 2025-06-16T09:51:53-04:00
+modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/atomic 
+type:: #note/concept
 tags::
 
 ## <% tp.file.title %>

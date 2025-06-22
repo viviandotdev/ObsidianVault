@@ -1,8 +1,8 @@
 ---
 created: 2023-10-15 13:18
-modified: 2025-06-15T14:06:04-04:00
-
+modified: 2025-06-22T19:18:52-04:00
 ---
+type:: #note/concept 
 tags:: [[system-design]]
 
 What are system design patterns that improve **availability** and **fault tolerance**?

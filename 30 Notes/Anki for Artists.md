@@ -1,8 +1,8 @@
 ---
 created: 2024-04-14 15:00
-modified: 2025-06-15T13:49:29-04:00
-
+modified: 2025-06-22T19:18:13-04:00
 ---
+type:: #note/brainstorm 
 tags:: [[learning]] [[drawing]]
 
 ## Anki for Artists

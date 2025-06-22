@@ -1,9 +1,8 @@
 ---
 created: 2024-01-12 07:14
-modified: 2025-06-15T21:02:49-04:00
-
+modified: 2025-06-22T19:17:47-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[habits]] [[productivity]] [[coding]]
 ## A simple programming productivity trick- leave work unfinished to reach flow
 

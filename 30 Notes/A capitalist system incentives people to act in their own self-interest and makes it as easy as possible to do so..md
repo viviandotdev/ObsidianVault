@@ -1,8 +1,8 @@
 ---
 created: 2023-09-19 06:37
-modified: 2025-06-15T18:25:01-04:00
-
+modified: 2025-06-22T19:17:43-04:00
 ---
+type:: #note/concept 
 tags:: [[capitalism]]
 
 ## A Capitalist system incentives people to act in their own self-interest and makes it as easy as possible to do so.

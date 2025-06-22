@@ -1,8 +1,8 @@
 ---
 created: 2023-12-11 08:31
-modified: 2025-06-15T14:08:48-04:00
-
+modified: 2025-06-22T19:17:54-04:00
 ---
+type:: #note/concept 
 tags:: [[communication]]
 
 ## Active Listening
