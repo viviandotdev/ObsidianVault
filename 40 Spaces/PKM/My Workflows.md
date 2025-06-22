@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-06-22T19:37:49-04:00
+modified: 2025-06-22T19:44:58-04:00
 ---
 ## My Workflows
 
@@ -8,11 +8,15 @@ modified: 2025-06-22T19:37:49-04:00
 
 [[Daily Review Process]]
 [[To-Do Lists]]
-[[Weekly Review Process]]
-[[Protocol to Fight Distractions]]
+
+[[My Weekly Review Workflow]]
+
 [[Monthly Reviews]]
 [[Quarterly Reviews]]
 [[How I Read|How I Read]]
+
+**Protocols**
+[[Protocol to Fight Distractions]]
 ### Productivity System
 [Ultimate Brain.](https://thomasfrank.notion.site/Ultimate-Brain-Creator-s-Companion-Hub-536903bad2f44dfab9eb87f2bf459d5a)
 
