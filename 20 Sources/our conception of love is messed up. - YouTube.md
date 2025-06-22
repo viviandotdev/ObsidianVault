@@ -1,13 +1,11 @@
 ---
-raindrop_id: 1187254785
-raindrop_highlights:
-  685828c15550c7ba8999aeb2: 95e84b5ecb6ff36dc73c048df3530031
-modified: 2025-06-22T12:03:57-04:00
+modified: 2025-06-22T12:09:40-04:00
 ---
 
 tags:: [[relationships]]
 source:: https://www.youtube.com/watch?v=jcbEiZQ9B7o&amp;list=PLNQtoYU3DWmHv9GBhbFPoFYIlTV5jB_-_&amp;index=2
-type:: #source/link
+type:: #source/video 
+status:: #
 
 ### our conception of love is messed up. - YouTube
 
@@ -21,10 +19,12 @@ people want to be loved
 love needs to be learned it is any activity
 	requires **dedication, faith and effort**
 	you should not only love when it is convenient and enjoyable for you
+"fall in love "
+
 	 
 
 
-sources
+resources
 - art of loving by eric
 - all about love 
 
