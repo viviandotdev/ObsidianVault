@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-22T13:16:14-04:00
+modified: 2025-06-22T13:19:09-04:00
 ---
 
 tags:: [[relationships]]
@@ -20,7 +20,7 @@ people want to be loved ******
 love needs to be learned it is any activity
 	requires **dedication, faith and effort**
 	you should not only love when it is convenient and enjoyable for you
-"fall in love "
+"fall in love"
 
 [[Love is an art that requires active practice, effort and dedication]]
 Love should be active not passive, it needs to be learned like an art such as painting or playing an instrument it takes dedication and effort
@@ -32,9 +32,9 @@ women are taught that love is something that happens to them, but we also have t
 - i don't think i know how to love, i don't think my parents know how to love either
 - whatever my parents have i know what love is not but I don't think i know what love is?
 	
-resources
+**Additional Resources**
 - art of loving by eric
-- all about love 
+- all about love by bell hooks
 
 #### Highlights
 

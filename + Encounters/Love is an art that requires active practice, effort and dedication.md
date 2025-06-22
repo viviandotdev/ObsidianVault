@@ -1,10 +1,10 @@
 ---
 created: 2025-06-22 13:14
-modified: 2025-06-22T13:15:50-04:00
+modified: 2025-06-22T13:19:25-04:00
 ---
 type:: #note/atomic 
 tags:: [[relationships]] [[love]]
-
+status:: #🟥
 ## Love is an art that requires active practice, effort and dedication
 
 
