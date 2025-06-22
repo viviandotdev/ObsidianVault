@@ -1,6 +1,6 @@
 ---
 created: 2023-07-15 08:56
-modified: 2025-06-22T13:12:40-04:00
+modified: 2025-06-22T13:13:22-04:00
 ---
 up::  [[My PKM Workflows]]
 tags:: [[pkm]] [[note-taking]]
@@ -26,21 +26,13 @@ Aim to have it no shorter than a tweet (180 characters) and no longer than an at
 **Note Prompts**
 - What questions are these ideas trying to answer?
 - What evidence supports these ideas?
-- What key references and con
+- What key references and content that support this idea?
 - What conclusions can I draw from this evidence?
 -  **What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them?**
 - **How does this connect to my personal experience?**
 - What problems does this solve?
 - What new problems does this create?
 - **What memorable, step-by-step solution, framework, or system can be created to address this topic?**
-
-## Organization Prompts
-- The main topic is...
-- Key references include...
-- My initial thoughts are...
-- The summary in one sentence is...
-- Problems identified include...
-- Advice given includes...
 
 
 
