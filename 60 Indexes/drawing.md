@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-16T14:21:46-04:00
+modified: 2025-06-22T19:21:50-04:00
 ---
 ## drawing
 [[Drawing Advice]]
@@ -13,7 +13,9 @@ modified: 2025-06-16T14:21:46-04:00
 [[DAB-Draw a Box]]
 [[Figure Drawing-Design and Invention]]
 ### Drawing Fundamentals
-
+[[How to study perspective drawing]]
+[[How to study dynamic sketching]]
+[[How to study figure drawing and anatomy]]
 **Structure Logic**
 **Drawing Form**
 - 3d forms, shapes and volumes
