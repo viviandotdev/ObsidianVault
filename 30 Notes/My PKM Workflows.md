@@ -1,6 +1,6 @@
 ---
 created: 2023-07-13 16:43
-modified: 2025-06-16T07:12:55-04:00
+modified: 2025-06-22T11:34:18-04:00
 ---
 up::  [[Meta PKM]]
 
@@ -15,7 +15,6 @@ up::  [[Meta PKM]]
 [[How I Take Smart Notes- Videos]]
 
 [[How to Write Atomic Notes]]
-[[System for remembering what I read]]
 
 ### Outputs
 

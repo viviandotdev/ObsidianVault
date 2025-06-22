@@ -1,19 +1,19 @@
 ---
-modified: 2025-06-22T09:46:32-04:00
+modified: 2025-06-22T11:34:47-04:00
 ---
 type:: #note/perspective
-tags::
+tags:: [[happiness]]
 ## You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative 
 
 **Topic**
 <!-- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic. -->
 - Hobbies
-**References**
-<!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
-[[identity diversification]]
+- Happiness
 
-**Braindump, Summary, & Reference Notes**
-<!-- What thoughts, summaries, and existing notes come to mind regarding this topic? -->
+**Braindump, Summary References**
+<!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
+
+[[identity diversification]]
 
 **Common Goals, Problems, & Advice**
 <!-- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them? -->
