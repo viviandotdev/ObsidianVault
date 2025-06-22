@@ -2,6 +2,7 @@
 modified: 2025-06-16T09:31:21-04:00
 status: 
 ---
+type: #note/brainstorm
 tags::
 **3D Modeling Courses before buying a printer**
 
