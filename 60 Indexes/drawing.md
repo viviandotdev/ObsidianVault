@@ -1,8 +1,15 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-22T19:21:50-04:00
+modified: 2025-06-22T19:25:33-04:00
 ---
 ## drawing
+
+
+**Learning how to draw**
+[[How to study perspective drawing]]
+[[How to study dynamic sketching]]
+[[How to study figure drawing and anatomy]]
+
 [[Drawing Advice]]
 [[Anki for Artists]]
 
@@ -12,10 +19,7 @@ modified: 2025-06-22T19:21:50-04:00
 [[Dynamic Sketching]]
 [[DAB-Draw a Box]]
 [[Figure Drawing-Design and Invention]]
-### Drawing Fundamentals
-[[How to study perspective drawing]]
-[[How to study dynamic sketching]]
-[[How to study figure drawing and anatomy]]
+
 **Structure Logic**
 **Drawing Form**
 - 3d forms, shapes and volumes

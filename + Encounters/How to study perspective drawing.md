@@ -1,19 +1,11 @@
 ---
-created: 2024-10-20 11:35
-modified: 2025-06-15T13:02:17-04:00
-
+created: 2025-06-22 19:26
+modified: 2025-06-22T19:27:00-04:00
 ---
-up:: [[drawing]]
-## perspective
+type:: #note/brainstorm
+tags::
 
-```dataview
-LIST
-FROM [[#]]
-and !outgoing([[#]])
-
-SORT file.link asc
-```
-
+## How to study perspective drawing
 
 [Drawabox.com](https://drawabox.com/lesson/2)
 [Perspective Drawing Series (1994)](https://gumroad.com/d/d3a1ebb44d7b16f917b634a796485469)
