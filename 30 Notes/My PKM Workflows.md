@@ -1,6 +1,6 @@
 ---
 created: 2023-07-13 16:43
-modified: 2025-06-22T11:34:18-04:00
+modified: 2025-06-22T19:00:27-04:00
 ---
 up::  [[Meta PKM]]
 
@@ -17,7 +17,7 @@ up::  [[Meta PKM]]
 [[How to Write an Atomic Essay]]
 
 ### Outputs
-
+[[My Goals]]
 
 
 ### Links to this page
