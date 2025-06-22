@@ -1,11 +1,11 @@
 ---
 created: 2024-12-21 14:41
-modified: 2025-06-16T09:49:50-04:00
+modified: 2025-06-22T19:46:01-04:00
 ---
 up::  [[My Workflows]]
 tags:: [[reading]]
 source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)
-## How I Read
+## My reading workflow
 ## Capture
 **books** - read on kindle
 **articles**- read from raindrop.io
