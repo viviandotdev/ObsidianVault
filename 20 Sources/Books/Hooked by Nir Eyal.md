@@ -1,12 +1,8 @@
 ---
-title: Hooked
+title: Hooked: How to Build Habit-Forming Products
 subtitle: How to Build Habit-Forming Products
 author: Nir Eyal
-totalPage: 203
-coverUrl: http://books.google.com/books/content?id=dsz5AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-coverSmallUrl: http://books.google.com/books/content?id=dsz5AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
-publishDate: 2014-11-04
-modified: 2025-06-15T20:30:44-04:00
+modified: 2025-06-22T06:13:10-04:00
 ---
 up::  [[Bookshelf]]
 status:: summarized
