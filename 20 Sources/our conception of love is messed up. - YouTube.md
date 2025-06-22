@@ -2,6 +2,7 @@
 raindrop_id: 1187254785
 raindrop_highlights:
   685828c15550c7ba8999aeb2: 95e84b5ecb6ff36dc73c048df3530031
+modified: 2025-06-22T12:03:57-04:00
 ---
 
 tags:: [[relationships]]
@@ -10,7 +11,22 @@ type:: #source/link
 
 ### our conception of love is messed up. - YouTube
 
+passive vs **active love**
+love is out there waiting for you
+people make themselves lovable instead of loving
+everyone is trying to increase their market value 
+focus on loving itself, 
+	how do i become loved? (passive) vs how do i love? (active)
+people want to be loved 
+love needs to be learned it is any activity
+	requires **dedication, faith and effort**
+	you should not only love when it is convenient and enjoyable for you
+	 
 
+
+sources
+- art of loving by eric
+- all about love 
 
 #### Highlights
 
