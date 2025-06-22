@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 06:21
-modified: 2025-06-16T08:23:48-04:00
+modified: 2025-06-22T13:23:21-04:00
 ---
 tags:: [[docker]]
 ## docker 
@@ -13,11 +13,6 @@ Is a platform designed to help developers build, test and deploy containerized a
 
 
 [Step-by-Step Guide: Setting Up a NestJS Application with Docker and PostgreSQL - DEV Community](https://dev.to/chukwutosin_/step-by-step-guide-setting-up-a-nestjs-application-with-docker-and-postgresql-5hei)
-
-
-
-
-
 
 
 ### Unmentioned notes, with related tag
