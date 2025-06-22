@@ -12,7 +12,7 @@ These are the dials that determine where I go.
 
 - My Direction & Drivers
 	- 01 - [[My Values]] | [[My Perspectives]] | [[Self Analysis]] | [[Who Am i]]
-	- 02 - [[My Tools]] | [[Workflows]] | [[My Finances]] | [[My Goals]] | [[My Systems]] | [[My Environments]] | 
+	- 02 - [[My Tools]] | [[My Workflows]] | [[My Finances]] | [[My Goals]] | [[My Systems]] | [[My Environments]] | 
 	- 03 - [[My Experiences]] |  [[Life Reflections]]
 	- 04 - [[My Manifesto]] | [[My Career]]
 	- 05 - [[My Obituary]]

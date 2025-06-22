@@ -3,7 +3,7 @@ created: 2024-02-07 18:19
 modified: 2025-06-15T18:40:53-04:00
 
 ---
-up::  [[Workflows]]
+up::  [[My Workflows]]
 tags:: [[note-taking]] [[pkm]]
 ## How to take book/video/blog notes
 

@@ -3,7 +3,7 @@ created: 2024-02-07 08:25
 modified: 2025-06-15T21:01:32-04:00
 
 ---
-up::  [[Workflows]]
+up::  [[My Workflows]]
 tags:: [[productivity]] [[coding]]
 source::
 ## Software Developer Workflow

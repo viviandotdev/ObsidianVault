@@ -2,7 +2,7 @@
 created: 2024-12-21 14:41
 modified: 2025-06-16T09:49:50-04:00
 ---
-up::  [[Workflows]]
+up::  [[My Workflows]]
 tags:: [[reading]]
 source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)
 ## How I Read

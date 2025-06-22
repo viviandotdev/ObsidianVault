@@ -1,10 +1,9 @@
 ---
 created: 2023-09-03 12:30
-modified: 2025-06-16T09:43:51-04:00
+modified: 2025-06-22T19:37:37-04:00
 ---
-up::  [[Workflows]]
+up::  [[My Workflows]]
 tags:: [[productivity]]
-related:
 
 ## To-Do Lists
  Researchers showed that writing your daily list the **evening before** helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory.
@@ -14,7 +13,6 @@ related:
 - Have a backup plan for when you will still procrastinate.
 
 **Effective to-do lists are limited to specific tasks that can be tackled right away and finished fairly soon, Ms. Morgenstern says. Instead of listing “solve client issue,” write, “spend one hour defining the scope of client problem.”**
-Schedule your to do lists tasks related to the big four into your calendar
 
 3-2-1 (priority of tasks)
 (3 hours on 1st most important task)
