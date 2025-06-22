@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-22T11:34:47-04:00
+modified: 2025-06-22T11:37:55-04:00
 ---
 type:: #note/perspective
 tags:: [[happiness]]
@@ -11,8 +11,7 @@ tags:: [[happiness]]
 - Happiness
 
 **Braindump, Summary References**
-<!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
-
+<!-- Write everything that comes to mind about this topic, What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
 [[identity diversification]]
 
 **Common Goals, Problems, & Advice**
@@ -21,6 +20,7 @@ tags:: [[happiness]]
 **Personal Experience**
 <!-- What personal experiences, stories, or problems have you faced that relate to this topic? -->
 - i think i was the least happy when I didn't have any hobbies. i just focused on the school  made it my entire identity. Having no hobbies also meant I had nothing to talk about with other people which i think made be really shy and insecure.
+
 **Potential Framework, System, or Solution**
 <!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->
 - having multiple hobbies and actually working on them
