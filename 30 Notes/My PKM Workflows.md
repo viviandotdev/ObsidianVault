@@ -13,8 +13,8 @@ up::  [[Meta PKM]]
 
 [[How I Take Smart Notes- Books]]
 [[How I Take Smart Notes- Videos]]
-
 [[How to Write Atomic Notes]]
+[[How to Write an Atomic Essay]]
 
 ### Outputs
 
