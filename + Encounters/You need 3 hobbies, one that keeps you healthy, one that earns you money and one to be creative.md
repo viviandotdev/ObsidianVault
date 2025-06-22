@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-22T06:34:31-04:00
+modified: 2025-06-22T09:46:32-04:00
 ---
 type:: #note/perspective
 tags::
@@ -20,10 +20,10 @@ tags::
 - Society wants us to specialize into one thing, however that is not always the best way to do things, 
 **Personal Experience**
 <!-- What personal experiences, stories, or problems have you faced that relate to this topic? -->
-- growing up I had very little hobbies, I always did what I was told
+- i think i was the least happy when I didn't have any hobbies. i just focused on the school  made it my entire identity. Having no hobbies also meant I had nothing to talk about with other people which i think made be really shy and insecure.
 **Potential Framework, System, or Solution**
 <!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->
-- have multiple hobbies
+- having multiple hobbies and actually working on them
 	- one that keeps you healthy - rock climbing
 	- one that earns you money - coding
 	- one that keeps your learning - reading / writing (obsidian) (language studies?)
