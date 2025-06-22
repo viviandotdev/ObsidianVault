@@ -1,6 +1,6 @@
 ---
 created: 2023-07-15 08:56
-modified: 2025-06-22T13:07:05-04:00
+modified: 2025-06-22T13:12:40-04:00
 ---
 up::  [[My PKM Workflows]]
 tags:: [[pkm]] [[note-taking]]
@@ -23,24 +23,25 @@ Aim to have it no shorter than a tweet (180 characters) and no longer than an at
 		Reference the existing fleeting or literature note and use it as a writing prompt to elaborate on the idea until it can be understood without its original context. Write them carefully, as if for someone else.
 		Aim to have it no shorter than a tweet (180 characters) and no longer than an atomic essay (300-500 words).
 
-**Consider these questions**
-**Topic**
-<!-- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic. -->
+**Note Prompts**
+- What questions are these ideas trying to answer?
+- What evidence supports these ideas?
+- What key references and con
+- What conclusions can I draw from this evidence?
+-  **What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them?**
+- **How does this connect to my personal experience?**
+- What problems does this solve?
+- What new problems does this create?
+- **What memorable, step-by-step solution, framework, or system can be created to address this topic?**
 
-**References**
-<!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
+## Organization Prompts
+- The main topic is...
+- Key references include...
+- My initial thoughts are...
+- The summary in one sentence is...
+- Problems identified include...
+- Advice given includes...
 
-**Braindump, Summary, & Reference Notes**
-<!-- What thoughts, summaries, and existing notes come to mind regarding this topic? -->
-
-**Common Goals, Problems, & Advice**
-<!-- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them? -->
-
-**Personal Experience**
-<!-- What personal experiences, stories, or problems have you faced that relate to this topic? -->
-
-**Potential Framework, System, or Solution**
-<!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->
 
 
 ### Resources
