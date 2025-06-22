@@ -1,25 +1,30 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-06-22T19:47:12-04:00
+modified: 2025-06-22T19:55:20-04:00
 ---
 ## My Workflows
 
 ### Organizing Life Tasks
 
-[[Daily Review Process]]
-[[To-Do Lists]]
 
-[[My daily note workflow]]
+[[My todo list workflow]]
+[[My habit tracking workflow]]
 
-[[My goal setting workflow]]
+[[My daily review workflow]]
 [[My weekly review workflow]]
 [[My monthly review workflow]]
-
 [[My quarterly review workflow]]
 
-**Activities**a
+[[My goal setting workflow]]
+
+**Inputs workflow**
 [[My reading workflow|My reading workflow]]
 
+
+**Outputs workflow**
+[[My writing workflow]]
+[[My obsidian workflow]]
+[[My brainstorming workflow]]
 
 **Protocols**
 [[Protocol to Fight Distractions]]
