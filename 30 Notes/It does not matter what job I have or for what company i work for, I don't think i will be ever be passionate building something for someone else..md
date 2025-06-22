@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T12:28:05-04:00
+modified: 2025-06-22T12:14:57-04:00
 ---
 type:: #note/perspective
 tags:: [[happiness]] [[life]] [[career]]
@@ -33,6 +33,6 @@ Your job is not meant to be the only thing you have, you should have other inter
 
 **Personal Experience**
 <!-- What personal experiences, stories, or problems have you faced that relate to this topic? -->
-
+- in a capitalistic society money is required upon living but meaningless in death [[Nothingness of Money]]
 **Potential Framework, System, or Solution**
 <!-- What memorable, step-by-step solution, framework, or system can be created to address this topic? -->

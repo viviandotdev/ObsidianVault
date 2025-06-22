@@ -1,7 +1,6 @@
 ---
 created: 2024-02-14 22:07
-modified: 2025-06-15T13:29:16-04:00
-
+modified: 2025-06-22T12:15:52-04:00
 ---
 type:: #source/article
 tags:: [[money]]
@@ -11,6 +10,8 @@ source::[The Nothingness of Money](https://moretothat.com/the-nothingness-of-mon
 Rich people need it. Poor people have it. If you eat it you die. And when you die, you take it with you. What is it?
 
 This nothingness of money is only understood at the brief section of life where this pursuit fade and all you think about are the memories with the people you care about.
+
+**Money is a required pursuit for life but a pointless pursuit upon death**
 
 **You frontload your attention spent on money to generate wealth. You then offload your wealth to spend your attention on leisure, purpose, or love.**
 

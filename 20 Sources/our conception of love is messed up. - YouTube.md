@@ -1,11 +1,11 @@
 ---
-modified: 2025-06-22T12:09:40-04:00
+modified: 2025-06-22T12:11:56-04:00
 ---
 
 tags:: [[relationships]]
 source:: https://www.youtube.com/watch?v=jcbEiZQ9B7o&amp;list=PLNQtoYU3DWmHv9GBhbFPoFYIlTV5jB_-_&amp;index=2
 type:: #source/video 
-status:: #
+status:: #🟨 
 
 ### our conception of love is messed up. - YouTube
 
