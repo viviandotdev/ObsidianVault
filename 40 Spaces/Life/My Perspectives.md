@@ -1,8 +1,9 @@
 ---
-modified: 2025-06-23T07:33:18-04:00
+modified: 2025-06-23T07:43:35-04:00
 ---
 ### My Perspectives
 
+[[My unique perspective workflow]]
 - Document and organize your unique perspective, these are ideas that make sense to you 
 
 [[happiness]]
