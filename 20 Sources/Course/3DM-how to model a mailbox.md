@@ -4,7 +4,7 @@ modified: 2025-06-13T08:15:14-04:00
 
 ---
 # How to model a Mailbox
-up::  [[3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
+up::  [[+ 3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
 tags::
 source::
 ## Mailbox

@@ -4,7 +4,7 @@ modified: 2025-06-15T19:13:23-04:00
 
 ---
 # How to model a Head
-up::  [[3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
+up::  [[+ 3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
 tags::
 source::
 ## Head

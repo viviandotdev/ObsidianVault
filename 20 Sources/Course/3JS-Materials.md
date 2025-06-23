@@ -3,7 +3,7 @@ created: 2023-08-30 12:00
 modified: 2025-06-15T20:47:57-04:00
 
 ---
-up::  [[3JS-Three.js Journey]]
+up::  [[0-3JS-Three.js Journey]]
 related:
 ## Materials
 
