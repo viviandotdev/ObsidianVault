@@ -1,10 +1,20 @@
 ---
-modified: 2025-06-23T07:19:46-04:00
+modified: 2025-06-23T07:22:50-04:00
 ---
 ### My Perspectives
 
-[[happiness]]
+My perspectives not in order
+- Love, transcendence, wisdom
+- Authenticity, commitment, curiosity, inspiration
+- Purposefulness, service, growth, intimacy
 
+```dataview
+TABLE WITHOUT ID
+ file.link as "happiness"
+FROM [[happiness]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
 
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
@@ -25,7 +35,6 @@ modified: 2025-06-23T07:19:46-04:00
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
-
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
@@ -48,8 +57,7 @@ modified: 2025-06-23T07:19:46-04:00
 [[relationships]]
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]
 - [[I am even not even close to where I want to be in life to sacrifice that time into something outside of myself]]
-
+- 
 
 [[love]]
-- [[You can tell how much you love yourself based on the partner you choose]]
-- [[People care more about ways to make themselves more lovable instead of focusing on learning how to love]]
+[[You can tell how much you love yourself based on the partner you choose]]

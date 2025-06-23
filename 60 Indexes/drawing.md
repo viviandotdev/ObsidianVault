@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-22T19:25:33-04:00
+modified: 2025-06-23T07:22:00-04:00
 ---
 ## drawing
 
@@ -31,7 +31,6 @@ modified: 2025-06-22T19:25:33-04:00
 	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
 **Perspective**
 
-[[50 Tags/perspective]]
 
 **Aesthetic**
 Value
