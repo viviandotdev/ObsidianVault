@@ -1,16 +1,13 @@
 ---
 created: 2024-02-07 12:46
-modified: Wednesday 7th February 2024 12:46:01
-
+modified: 2025-06-23T07:53:18-04:00
 ---
 up::  [[My Workflows]]
 tags:: [[productivity]]
 
 ## Productivity Tips
-- **Schedule your daily to-do list,** it can be overwhelming to look at long list and feel like you need to get everything done that day
-	- split them up into quick ticks, tasks, projects and schedule weekly
 - Do you first priority task the first thing you do when you wake up.
-- **“Make sure to get the important shit done”**
+- **Make sure to get the important shit done**
 - **Realize how much time it takes you to do specific tasks**
 	- Figure out how long it takes you to lose concentrations over each sector in tip #1 (1 hour and 30 minutes for focus) use the forest app
 - **Mix in light and deep work into your day**
@@ -26,6 +23,7 @@ tags:: [[productivity]]
 - **Time restriction**- set timers and restrict the time it takes for you to do any activity, because of  [[Parkinsons' Law]] without a limit we will take much longer than needed for something
 	- for example I used not set a limit so then i would waste so much time at the gym because i said i could only leave if i finish this plan, however if i say you only have 50 minutes to complete this exercise, then i will try to do them faster to complete it or run faster to get in my miles.
 - [[Protocol to Fight Distractions]]
+- Do not use to-do lists, look at your calendar and block of time for an activity and then within that activity work on specific goal?  (Cal NewPort)
 - **The Recipe Method**
 	- Write down exactly what you need to do down to the detailed steps, so you can turn your brain off and just execute.
 	- Before a focus session write the recipe of exactly what you are going

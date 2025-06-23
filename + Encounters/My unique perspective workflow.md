@@ -1,8 +1,10 @@
 ---
 created: 2025-06-23 07:43
-modified: 2025-06-23T07:49:45-04:00
+modified: 2025-06-23T07:50:48-04:00
 ---
+up:: [[My Perspectives]]
 tags:: [[My Workflows]]
+
 ## My unique perspective workflow
 Your life depends on the quality of your ideas and systems. Document ideas that make sense to you and how it can make sense to others. This is major for original thinking and writing.
 
