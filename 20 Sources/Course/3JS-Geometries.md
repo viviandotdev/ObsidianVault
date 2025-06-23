@@ -3,7 +3,7 @@ created: 2023-08-29 06:59
 modified: Tuesday 29th August 2023 06:59:33
 
 ---
-up::  [[0-3JS-Three.js Journey]]
+up::  [[+ 3JS-Three.js Journey]]
 tags::
 related:
 

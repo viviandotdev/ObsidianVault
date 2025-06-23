@@ -2,7 +2,7 @@
 created: 2023-09-02 07:11
 modified: 2025-06-16T08:37:00-04:00
 ---
-up::  [[0-3JS-Three.js Journey]]
+up::  [[+ 3JS-Three.js Journey]]
 
 ## Debug
 

@@ -9,6 +9,6 @@ up::  [[+ Library]]
 
 [[react]]
 ### Creative Development
-[[0-3JS-Three.js Journey]]
+[[+ 3JS-Three.js Journey]]
 ### Courses
 [[Frontend Courses]]
