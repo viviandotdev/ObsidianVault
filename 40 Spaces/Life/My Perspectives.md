@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-21T13:31:48-04:00
+modified: 2025-06-23T07:12:21-04:00
 ---
 ### My Perspectives
 
@@ -54,5 +54,7 @@ SORT file.name ASC
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]
 - [[I am even not even close to where I want to be in life to sacrifice that time into something outside of myself]]
 
+
 [[love]]
-[[You can tell how much you love yourself based on the partner you choose]]
+- [[You can tell how much you love yourself based on the partner you choose]]
+- [[People care more about ways to make themselves more lovable instead of focusing on learning how to love]]

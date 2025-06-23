@@ -1,9 +1,8 @@
 ---
 created: 2024-06-19 07:58
-modified: 2025-06-14T19:18:28-04:00
-
+modified: 2025-06-23T07:15:12-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 source::
 ## Ohm's Law
 
