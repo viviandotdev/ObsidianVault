@@ -22,7 +22,7 @@ love needs to be learned it is any activity
 	you should not only love when it is convenient and enjoyable for you
 "fall in love"
 
-[[Love is an art that requires active practice, effort and dedication]]
+[[People care more about ways to make themselves more lovable instead of focusing on learning how to love]]
 Love should be active not passive, it needs to be learned like an art such as painting or playing an instrument it takes dedication and effort
 love is not something that happens to you it is something you build and should full fill you
 for example when a artist completes a painting it fulfill them

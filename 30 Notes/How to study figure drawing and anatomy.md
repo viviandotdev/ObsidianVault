@@ -1,9 +1,8 @@
 ---
 created: 2025-06-23 07:03
-modified: 2025-06-23T07:03:47-04:00
+modified: 2025-06-23T07:06:07-04:00
 ---
-up::
-tags::
+tags:: [[drawing]]
 ## How to study figure drawing and anatomy
 
 

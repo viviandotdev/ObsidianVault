@@ -1,12 +1,14 @@
 ---
 created: 2025-06-22 13:14
-modified: 2025-06-22T19:20:03-04:00
+modified: 2025-06-23T07:10:27-04:00
 ---
 type:: #note/concept 
 tags:: [[relationships]] [[love]]
 status:: #🟥
-## Love is an art that requires active practice, effort and dedication
 
+## People care more about ways to make themselves more lovable instead of focusing on learning how to love
+
+Love should be 
 
 
 
