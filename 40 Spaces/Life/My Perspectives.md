@@ -1,16 +1,10 @@
 ---
-modified: 2025-06-23T07:12:21-04:00
+modified: 2025-06-23T07:19:46-04:00
 ---
 ### My Perspectives
 
+[[happiness]]
 
-```dataview
-TABLE WITHOUT ID
- file.link as "happiness"
-FROM [[happiness]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
 
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
@@ -31,6 +25,7 @@ SORT file.name ASC
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
+
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]

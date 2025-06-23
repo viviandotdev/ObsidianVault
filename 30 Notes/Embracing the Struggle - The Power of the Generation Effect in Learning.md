@@ -1,9 +1,8 @@
 ---
 created: 2024-04-22 08:44
-modified: 2025-06-15T18:33:24-04:00
-
+modified: 2025-06-23T07:16:37-04:00
 ---
-type:: #note/atomic-essay
+type:: #output/mini-essay
 tags:: [[learning]]
 ## Embracing the Struggle - The Power of the Generation Effect in Learning
 
@@ -20,7 +19,7 @@ An interesting discovery related to the generation effect is the "hypercorrectio
 
 **How to use this when you're learning**
 1. **Pretesting**: Before you dive into a new topic, look for questions about what you're going to learn. Take a guess at the answers using what you already know. This approach primes your mind, settings the stage for absorbing new information.
-2. **[[Active recall is the process of retrieving information from memory without looking at your notes or other aids.]]**: After you've studied something new, shut your book and see if you can recall what you just learned.](<# Embracing the Struggle: The Power of the Generation Effect in Learning
+2. **[[Active recall is the process of retrieving information from memory without looking at your notes or other aids.]]**: After you've studied something new, shut your book and see if you can recall what you just learned
 
 ****
 
