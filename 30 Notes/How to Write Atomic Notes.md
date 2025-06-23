@@ -3,7 +3,7 @@ created: 2023-07-15 08:56
 modified: 2025-06-22T13:13:22-04:00
 ---
 up::  [[My PKM Workflows]]
-tags:: [[pkm]] [[note-taking]]
+tags:: [[note-taking]]
 ## How to Write Atomic Notes
 
 Aim to have it no shorter than a tweet (180 characters) and no longer than an atomic essay (300-500 words).

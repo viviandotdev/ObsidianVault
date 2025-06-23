@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-22T11:40:00-04:00
+modified: 2025-06-22T20:38:28-04:00
 ---
-type:: #note/perspective
+type:: #note/concept 
 status: #🟨 
 tags::
 

@@ -1,6 +1,7 @@
 ---
-created: 2025-06-22 20:34
-modified: 2025-06-22T19:56:51-04:00
+created: <% tp.file.creation_date() %>
+modified: 2025-06-22T20:36:22-04:00
 ---
-tags::
-## weekly
+type:: #note/weekly
+tags:: 
+## <% tp.file.title %>

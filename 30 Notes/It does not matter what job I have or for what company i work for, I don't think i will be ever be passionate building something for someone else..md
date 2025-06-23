@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-22T13:05:25-04:00
+modified: 2025-06-22T20:38:34-04:00
 ---
-type:: #note/perspective
+type:: #note/concept 
 tags:: [[happiness]] [[life]] [[career]]
 status:: #🟨 
 ## It does not matter what job I have or for what company i work for, I don't think i will be ever be passionate building something for someone else. 

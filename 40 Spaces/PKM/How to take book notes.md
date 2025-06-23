@@ -1,10 +1,9 @@
 ---
 created: 2024-02-07 18:19
-modified: 2025-06-15T18:40:53-04:00
-
+modified: 2025-06-22T20:39:51-04:00
 ---
 up::  [[My Workflows]]
-tags:: [[note-taking]] [[pkm]]
+tags:: [[note-taking]]
 ## How to take book/video/blog notes
 
 **Before Reading**
