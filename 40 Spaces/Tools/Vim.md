@@ -3,7 +3,7 @@ created: 2023-07-11 18:24
 modified: Tuesday 11th July 2023 18:24:35
  Vim
 ---
-up::  [[My Tools]]
+up::  [[Tools]]
 
 ## Vim
 ****

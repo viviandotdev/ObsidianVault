@@ -2,7 +2,7 @@
 modified: 2025-06-15T20:31:26-04:00
 ---
 
-up::  [[My Tools]]
+up::  [[Tools]]
 tags:: [[learning]]
 
 ## Anki

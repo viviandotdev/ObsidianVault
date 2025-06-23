@@ -3,7 +3,7 @@ created: 2024-06-30 20:03
 modified: 2025-06-13T07:23:49-04:00
 
 ---
-up::  [[My Tools]]
+up::  [[Tools]]
 ## Zed
 
 [dotfiles/zed at main · damoonrashidi/dotfiles · GitHub](https://github.com/damoonrashidi/dotfiles/tree/main/zed)

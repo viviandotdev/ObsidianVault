@@ -1,7 +1,7 @@
 ---
 modified: 2025-05-21T07:22:47-04:00
 ---
-up::  [[My Tools]]
+up::  [[Tools]]
 tags:: 
 related: 
 

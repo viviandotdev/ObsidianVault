@@ -2,7 +2,7 @@
 created: 2023-07-11 16:00
 modified: 2025-06-16T08:10:29-04:00
 ---
-up::  [[My PKM]]
+up::  [[PKM]]
 
 ## My PKM Tags
 ![[how to tag notes|900]]

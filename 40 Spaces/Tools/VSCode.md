@@ -3,7 +3,7 @@ created: 2023-07-11 20:18
 modified: Tuesday 11th July 2023 20:18:23
  VSCode
 ---
-up::  [[My Tools]]
+up::  [[Tools]]
 
 # VSCode
 

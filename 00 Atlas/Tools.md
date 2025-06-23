@@ -1,6 +1,6 @@
 ---
 created: 2023-07-13 17:35
-modified: 2025-06-16T09:35:58-04:00
+modified: 2025-06-23T06:42:40-04:00
 ---
 up:: [[Life Map]]
 type:: #map/view 
@@ -8,7 +8,7 @@ type:: #map/view
 **Mac Cleaner Tools**
 [Memory Cleaner - Make your Mac Run Faster | Free Download](https://nektony.com/memory-cleaner)
 
-## My Tools
+## Tools
 
 ``` dataview
 LIST FROM [[#]]

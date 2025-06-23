@@ -3,7 +3,7 @@ created: 2023-09-01 17:01
 modified: 2025-06-13T07:48:59-04:00
 
 ---
-up::  [[My Tools]]
+up::  [[Tools]]
 
 ## Arc
 

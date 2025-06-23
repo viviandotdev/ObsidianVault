@@ -16,7 +16,7 @@ tags::
 [[How I Take Smart Notes- Books]]
 [[Process for reading books and making notes]]
 [[How to build a daily writing habit]]
-[[Writing Workflow]]
+[[My writing workflow]]
 
 **Build Writing Habit**
 **Choose a capstone topic to research and write about**

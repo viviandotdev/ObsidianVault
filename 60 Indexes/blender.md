@@ -2,7 +2,7 @@
 created: 2023-09-01 21:26
 modified: 2025-06-16T08:35:20-04:00
 ---
-up:: [[My Tools]]
+up:: [[Tools]]
 
 ## blender
 

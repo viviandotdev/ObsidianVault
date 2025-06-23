@@ -3,7 +3,7 @@ created: 2023-07-15 08:46
 modified: 2025-06-16T07:13:45-04:00
 
 ---
-up:: [[My Tools]] / [[Arc]]
+up:: [[Tools]] / [[Arc]]
 
 # Violentmonkey
 
