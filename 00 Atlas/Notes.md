@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-16T09:33:40-04:00
 ---
-up:: [[+ Home]] / [[Meta PKM]]
+up:: [[+ Home]] / [[My PKM]]
 type:: #map/view 
 ### Here is a view of  the notes folder
 

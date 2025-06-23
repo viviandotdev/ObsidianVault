@@ -2,7 +2,7 @@
 created: 2023-07-12 09:49
 modified: 2025-06-16T09:30:38-04:00
 ---
-up::  [[Meta PKM]]
+up::  [[My PKM]]
 tags:: [[pkm]]
 
 ## The structure of My PKM
@@ -10,7 +10,7 @@ tags:: [[pkm]]
 - **00 Atlas:**
     - Mailbox: [[+ Inbox]] [[Notebox]] [[Outbox]]
     - [[Bookshelf]]
-    - [[Meta PKM]] (meta notes for managing my PKM system)
+    - [[My PKM]] (meta notes for managing my PKM system)
 - **10 Extras**: stores notes to *support* your other notes.
 	- Excalidraw
 	- Images

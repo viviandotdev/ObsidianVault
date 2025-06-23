@@ -1,6 +1,6 @@
 ---
 created: 2023-07-15 08:56
-modified: 2025-06-22T13:13:22-04:00
+modified: 2025-06-22T20:40:00-04:00
 ---
 up::  [[My PKM Workflows]]
 tags:: [[note-taking]]

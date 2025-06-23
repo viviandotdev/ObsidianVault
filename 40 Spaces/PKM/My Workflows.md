@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-06-22T19:55:20-04:00
+modified: 2025-06-22T20:41:30-04:00
 ---
 ## My Workflows
 
@@ -25,6 +25,7 @@ modified: 2025-06-22T19:55:20-04:00
 [[My writing workflow]]
 [[My obsidian workflow]]
 [[My brainstorming workflow]]
+
 
 **Protocols**
 [[Protocol to Fight Distractions]]
