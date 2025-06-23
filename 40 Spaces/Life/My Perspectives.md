@@ -1,10 +1,9 @@
 ---
-modified: 2025-06-23T07:43:35-04:00
+modified: 2025-06-23T07:49:11-04:00
 ---
 ### My Perspectives
-
 [[My unique perspective workflow]]
-- Document and organize your unique perspective, these are ideas that make sense to you 
+
 
 [[happiness]]
 [[Freedom and flexility over one’s life is the best predictor of wellbeing]]

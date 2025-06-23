@@ -16,6 +16,7 @@ modified: 2025-06-22T20:41:30-04:00
 [[My quarterly review workflow]]
 
 [[My goal setting workflow]]
+[[My obsidian workflow]]
 
 **Inputs workflow**
 [[My reading workflow|My reading workflow]]
@@ -23,9 +24,8 @@ modified: 2025-06-22T20:41:30-04:00
 
 **Outputs workflow**
 [[My writing workflow]]
-[[My obsidian workflow]]
 [[My brainstorming workflow]]
-
+[[My unique perspective workflow]]
 
 **Protocols**
 [[Protocol to Fight Distractions]]
