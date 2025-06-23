@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-23T07:22:50-04:00
+modified: 2025-06-23T07:30:13-04:00
 ---
 ### My Perspectives
 
@@ -12,6 +12,66 @@ My perspectives not in order
 TABLE WITHOUT ID
  file.link as "happiness"
 FROM [[happiness]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "career"
+FROM [[career]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "business"
+FROM [[business]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "learning"
+FROM [[learning]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "success"
+FROM [[success]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "money"
+FROM [[money]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "life"
+FROM [[life]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
+
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "relationships"
+FROM [[relationships]] AND #note/perspective
 WHERE !contains(file.name, "perspective")
 SORT file.name ASC
 ```
