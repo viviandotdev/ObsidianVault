@@ -1,80 +1,15 @@
 ---
-modified: 2025-06-23T07:30:13-04:00
+modified: 2025-06-23T07:33:18-04:00
 ---
 ### My Perspectives
 
-My perspectives not in order
-- Love, transcendence, wisdom
-- Authenticity, commitment, curiosity, inspiration
-- Purposefulness, service, growth, intimacy
+- Document and organize your unique perspective, these are ideas that make sense to you 
 
-```dataview
-TABLE WITHOUT ID
- file.link as "happiness"
-FROM [[happiness]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-
-```dataview
-TABLE WITHOUT ID
- file.link as "career"
-FROM [[career]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-```dataview
-TABLE WITHOUT ID
- file.link as "business"
-FROM [[business]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-```dataview
-TABLE WITHOUT ID
- file.link as "learning"
-FROM [[learning]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-```dataview
-TABLE WITHOUT ID
- file.link as "success"
-FROM [[success]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-
-```dataview
-TABLE WITHOUT ID
- file.link as "money"
-FROM [[money]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-
-```dataview
-TABLE WITHOUT ID
- file.link as "life"
-FROM [[life]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
-
-
-```dataview
-TABLE WITHOUT ID
- file.link as "relationships"
-FROM [[relationships]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
-```
+[[happiness]]
+[[Freedom and flexility over one’s life is the best predictor of wellbeing]]
+[[You are happiest when working towards your goals, not when you have achieved them]]
+[[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative]]
+[[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
 
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
@@ -121,3 +56,11 @@ SORT file.name ASC
 
 [[love]]
 [[You can tell how much you love yourself based on the partner you choose]]
+
+```dataview
+TABLE WITHOUT ID
+ file.link as "happiness"
+FROM [[happiness]] AND #note/perspective
+WHERE !contains(file.name, "perspective")
+SORT file.name ASC
+```
