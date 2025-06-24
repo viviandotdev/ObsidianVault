@@ -2,7 +2,7 @@
 created: 2023-08-29 06:41
 modified: 2025-06-16T08:37:09-04:00
 ---
-source: [[+ 3JS-Three.js Journey]]
+source: [[3JS-Three.js Journey]]
 
 ## three.js.cameras
 

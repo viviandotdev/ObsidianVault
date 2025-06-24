@@ -3,7 +3,7 @@ created: 2024-03-26 19:53
 modified: 2025-06-16T08:33:02-04:00
 ---
 # How to model a Chair
-up::  [[+ 3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
+up::  [[3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
 ## Chair
 
 Parts of a Chair:

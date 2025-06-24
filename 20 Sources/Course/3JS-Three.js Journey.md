@@ -1,7 +1,6 @@
 ---
 created: 2023-08-11 21:02
-modified: 2025-06-16T07:29:56-04:00
-
+modified: 2025-06-23T20:00:38-04:00
 ---
 up:: [[frontend development]]
 type::  #source/course
@@ -14,11 +13,11 @@ id:: TJS
 **Basics**
 5. [[3JS-Transform Objects]]
 7. [[3JS-Cameras]]
-8. [[Fullscreen and resizing]]
+8. [[3JS-Fullscreen and resizing]]
 9. [[3JS-Geometries]]
-10. [[Debug UI|Debug UI]]
+10. [[3JS-Debug UI]]
 11. [[3JS-Textures]]
-12. [[Materials]]
+12. [[3JS-Materials]]
 
 ### Classic Techniques
 20. [[Scroll based animation]]

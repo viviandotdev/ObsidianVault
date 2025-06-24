@@ -2,7 +2,7 @@
 created: 2023-08-29 06:41
 modified: 2025-06-16T08:05:25-04:00
 ---
-up:: [[+ 3JS-Three.js Journey]]
+up:: [[3JS-Three.js Journey]]
 source: [Three.js Journey — Transform objects](https://threejs-journey.com/lessons/transform-objects)
 
 ## Transform Objects

@@ -1,6 +1,6 @@
 ---
 created: 2025-06-22 13:14
-modified: 2025-06-23T07:14:42-04:00
+modified: 2025-06-23T20:02:38-04:00
 ---
 type:: #note/concept 
 tags:: [[relationships]] [[love]]
@@ -10,6 +10,8 @@ status:: #🟥
 
 Love should be active, it is like art it should require focus and dedication, it is something that you should build and be proud of the result.
 
+**Resources**
+[[our conception of love is messed up. - YouTube]]
 
 **Thoughts**
 - People who are single are often cope by saying that they are just working on themselves, 

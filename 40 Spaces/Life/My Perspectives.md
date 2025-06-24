@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-23T07:52:07-04:00
+modified: 2025-06-23T20:03:42-04:00
 ---
 ### My Perspectives
 [[My unique perspective workflow]]
@@ -14,6 +14,7 @@ modified: 2025-06-23T07:52:07-04:00
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
 - [[People are willing to pay if you present valuable information in a neat and organized and pretty way.]]
+- [[Ideas are nothing what truly matters is execution]]
 
 
 [[learning]]

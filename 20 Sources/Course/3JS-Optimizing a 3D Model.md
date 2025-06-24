@@ -2,7 +2,7 @@
 created: 2023-09-21 15:06
 modified: 2025-06-16T08:33:27-04:00
 ---
-up::  [[+ 3JS-Three.js Journey]]
+up::  [[3JS-Three.js Journey]]
 ## Optimizing a 3D Model
 
 1. Removes all the faces you cannot see
