@@ -1,9 +1,9 @@
 ---
 created: 2023-09-01 21:26
-modified: 2025-06-16T08:35:20-04:00
+modified: 2025-06-23T20:30:10-04:00
 ---
 up:: [[Tools]]
-
+tags:: [[3d-modeling]]
 ## blender
 
 
