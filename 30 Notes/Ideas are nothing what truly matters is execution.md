@@ -1,8 +1,8 @@
 ---
 created: 2025-06-23 20:03
-modified: 2025-06-23T20:26:02-04:00
+modified: 2025-06-23T22:04:11-04:00
 ---
-up:: #note/perspective 
+up:: #note/concept 
 tags:: [[business]]
 ## Ideas are nothing what truly matters is execution
 
