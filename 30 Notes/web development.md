@@ -1,17 +1,30 @@
 ---
 created: 2024-04-27 16:12
-modified: 2025-06-16T07:17:21-04:00
-
+modified: 2025-06-24T07:46:00-04:00
 ---
-tags:: [[frontend development]]
 
 # web development
 
 [[How I set up my dev environment]]
+**Frontend tools + libaries**
+- Next.js / [[react]]
+- Apollo-Client
+- Zustand
+- NextAuth
+- Shadcn
+- Tailwind Components
+- TailwindCSS
+
+[The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/#1)
+[[react]]
+### Creative Development
+[[3JS-Three.js Journey]]
+### Courses
+[[Frontend Courses]]
+
 
 **Tools**
 [GitHub - lvwzhen/tools: Tools Online](https://github.com/lvwzhen/tools?tab=readme-ov-file#readme)
-
 [Paste - Toolfolio.io](https://toolfolio.io/blog/endless-clipboard-to-keep-search-and-organize-everything-copied-on-mac-and-iphone)
 [Curated Tools – Minimal Gallery](https://minimal.gallery/tools/)
 
@@ -26,12 +39,6 @@ tags:: [[frontend development]]
 - pnpm
 
 ### Frontend Stack
-- Next.js / [[react]]
-- Apollo-Client
-- Zustand
-- NextAuth
-- Shadcn
-- Tailwind Components
 
 ### Backend Stack
 - GraphQL

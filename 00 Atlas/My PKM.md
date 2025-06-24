@@ -1,10 +1,10 @@
 ---
-modified: 2025-06-24T07:43:16-04:00
+modified: 2025-06-24T07:46:32-04:00
 ---
 up:: [[+ Home]]
 type:: #map/view 
 
-# Meta PKM
+# My PKM
 Here are "best practices" for managing your PKM system. 
 
 **Inspirations**
@@ -13,7 +13,9 @@ Here are "best practices" for managing your PKM system.
 - Linking Your Thinking
 - [Why I create - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/Why+I+create)
 - [GitHub - lyz-code/best-of-digital-gardens: Ranked list of awesome digital gardens / second brains](https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file)
-- 
+
+**Programming**
+[TIL | Things I’ve learned and/or things I want to remember. Notes, links, advice, example code, etc.](https://jessesquires.github.io/TIL/)
 Managing my PKM system
 	- [[My PKM Folders|My PKM Folders]]
 	- [[My PKM Tags|My PKM Tags]]

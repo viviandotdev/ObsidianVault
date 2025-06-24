@@ -2,7 +2,7 @@
 created: 2023-07-13 16:43
 modified: 2025-06-22T19:00:27-04:00
 ---
-up::  [[PKM]]
+up::  [[My PKM]]
 
 ## My PKM Workflows - Global Guidelines
 

@@ -6,7 +6,7 @@ type:: #map/view
 Your launchpad and home base. That's here. That's home.
 
 #### Main
-- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[PKM]] |[[Life Map]]
+- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[My PKM]] |[[Life Map]]
 ### Areas of Interest
 <!--Ongoing responsibilities in your life. Areas of different buckets in your life-->
 
