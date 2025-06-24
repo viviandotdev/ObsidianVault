@@ -11,7 +11,7 @@ tags::
 [[How I learnt Norewegian on my own]]
 
 **language i want to learn**
-- [[chinese]]
+- [[+ Encounters/chinese]]
 - [[japanese]]
 - [[french]]
 

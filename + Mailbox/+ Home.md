@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-24T06:46:43-04:00
+modified: 2025-06-24T07:23:23-04:00
 ---
 type:: #map/view 
 # Home 🌎
@@ -10,22 +10,23 @@ Your launchpad and home base. That's here. That's home.
 ### Areas of Interest
 <!--Ongoing responsibilities in your life. Areas of different buckets in your life-->
 
-**Personal**
+**Life**
 [[My Perspectives]]
 [[My Finances]]
 [[My Fitness]]
 
 
-
-**Leisure**
+**Areas**
+Hobbies
 [[drawing]]
-[[language]]
-[[job-search]]
+[[bouldering]]
+[[calisthenics]]
+[[chess]]
+[[chinese]]
 
-- [[habits]]
-- [[system-design]]
-- [[writing]]
-- 
+
+
+
 
 ### Sources
 - [[Bookshelf]]

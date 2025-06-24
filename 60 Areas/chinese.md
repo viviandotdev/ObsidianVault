@@ -4,7 +4,8 @@ modified: 2025-06-24T06:49:39-04:00
 ---
 up::
 tags::
-## chinese-studies
+## chinese
+
 
 
 ```dataview

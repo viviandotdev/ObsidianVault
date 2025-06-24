@@ -3,7 +3,7 @@ created: 2025-05-13 07:55
 modified: 2025-06-24T06:49:56-04:00
 ---
 type:: #note/list 
-area::  [[chinese-studies]]
+area::  [[60 Areas/chinese]]
 ## Chinese Immersion content
 
 [Refold](https://www.notion.so/d54bfade358b4d0a88b5600acb99582b?pvs=21)
