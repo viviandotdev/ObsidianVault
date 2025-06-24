@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-24T07:25:34-04:00
+modified: 2025-06-24T07:32:53-04:00
 ---
 
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
@@ -15,10 +15,9 @@ modified: 2025-06-24T07:25:34-04:00
 	- Final GPA: 3.5
 - [x] Get a full time job as a software developer
 	- Working at General Motors and Cigna
-	- Currently making about 10,000 a month after taxes (100,000 a year)
+	- Currently making about 4,000 a month after taxes (40,000 a year)
 - [ ] Move out of my parents house
 - [ ] Buy a house
-- [ ] Get a dog
 - [ ] Get a boyfriend
 
 Financial Goals

@@ -3,7 +3,7 @@ created: 2024-06-30 20:37
 modified: 2025-06-15T18:48:23-04:00
 
 ---
-up::  [[Daily Routines]]
+up::  [[My Routines]]
 ## Lex Fridman Daily Routine
 
 - **Mantra Routine** — This is split into four parts: rules, visualise, goals, and principles.

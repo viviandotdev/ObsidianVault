@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-24T07:23:23-04:00
+modified: 2025-06-24T07:31:23-04:00
 ---
 type:: #map/view 
 # Home 🌎
@@ -15,24 +15,25 @@ Your launchpad and home base. That's here. That's home.
 [[My Finances]]
 [[My Fitness]]
 
-
-**Areas**
-Hobbies
+**Hobbies**
 [[drawing]]
+[[chess]]
+
+**Learning**
+[[chinese]]
+[[writing]]
+
+**Fitness**
 [[bouldering]]
 [[calisthenics]]
-[[chess]]
-[[chinese]]
+
+**Career**
+[[job-search]]
+[[programming]]
 
 
 
-
-
-### Sources
-- [[Bookshelf]]
-- [[Courses]]
-
-#### Produce
+#### Outputs
 [[Notes]]
 [[Developer Content]]
 [[Life Optimization Content]]

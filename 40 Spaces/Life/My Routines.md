@@ -1,13 +1,17 @@
 ---
 created: 2024-06-30 20:35
-modified: 2025-06-15T21:36:49-04:00
-
+modified: 2025-06-24T07:31:51-04:00
 ---
 up::  [[My Workflows]]
-## Daily Routines
+## My Routines
 
+**Morning Routines**
+
+**Evening Routine**
+
+
+**Routines Examples**
 [[Lex Fridman Daily Routine]]
-
 [[Dan Koe Daily Rountine]]
 
 ### Links to this page
