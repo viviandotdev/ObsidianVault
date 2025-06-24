@@ -1,19 +1,30 @@
 ---
-modified: 2025-06-16T14:21:12-04:00
+modified: 2025-06-24T06:38:11-04:00
 ---
 type:: #map/view 
 # Home 🌎
 Your launchpad and home base. That's here. That's home.
 
 #### Main
-- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[PKM]] | [[Efforts]] |[[Life Map]]
-
+- [[+ Inbox]] | [[Notebox]] | [[Outbox]] | [[PKM]] |[[Life Map]]
 ### Areas of Interest
+<!--Ongoing responsibilities in your life. Areas of different buckets in your life-->
+
+**Personal**
+[[My Perspectives]]
+[[My Finances]]
+[[My Fitness]]
+
+
+
+**Leisure**
+[[drawing]]
+[[language]]
+
 - [[habits]]
 - [[system-design]]
-- [[drawing]]
 - [[writing]]
-- [[language]]
+- 
 
 ### Sources
 - [[Bookshelf]]
