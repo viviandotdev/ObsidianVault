@@ -1,6 +1,6 @@
 ---
 created: 2025-06-24 06:47
-modified: 2025-06-24T06:48:06-04:00
+modified: 2025-06-24T07:16:29-04:00
 ---
 up::
 tags::
@@ -12,4 +12,9 @@ tags::
 
 **mobile development**
 [[react-native]]
+
+**dsa**
 [[system-design]]
+
+**tools**
+[[git]]
