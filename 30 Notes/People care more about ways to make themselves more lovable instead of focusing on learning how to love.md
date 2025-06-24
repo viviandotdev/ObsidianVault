@@ -1,10 +1,9 @@
 ---
 created: 2025-06-22 13:14
-modified: 2025-06-23T20:18:01-04:00
+modified: 2025-06-23T20:19:40-04:00
 ---
 type:: #note/concept 
 tags:: [[relationships]] [[love]]
-status:: #🟥
 
 ## People care more about ways to make themselves more lovable instead of focusing on learning how to love
 
@@ -13,8 +12,7 @@ Love should be active, it is like art it should require focus and dedication, it
 **Resources**
 [[our conception of love is messed up. - YouTube]]
 
-
-**Common Problems**
+**Common Problems/Personal Experience**
 - I don't think I am good enough of a person to be in a relationship, therefore I must work on my self until I become a good enough person that some one will like
 	- I no longer believe this is makes sense, I cannot just work on my self and hope that someone will like me
 

@@ -1,11 +1,8 @@
 ---
 created: 2025-06-22 19:10
-modified: 2025-06-23T20:10:47-04:00
+modified: 2025-06-23T20:20:00-04:00
 ---
 up:: [[My PKM Workflows]]
-type::
-tags::
-
 ## My brainstorming workflow
 
 Heavily inpsired by Dan Koe's brainstorming process — I can't remember where I first came across this but I came across it again in Kortex > Course
