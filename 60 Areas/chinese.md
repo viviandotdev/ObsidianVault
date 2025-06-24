@@ -1,11 +1,10 @@
 ---
 created: 2025-06-24 06:48
-modified: 2025-06-24T06:49:39-04:00
+modified: 2025-06-24T07:24:24-04:00
 ---
-up::
+up:: [[language]]
 tags::
 ## chinese
-
 
 
 ```dataview

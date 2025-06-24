@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-16T14:23:12-04:00
+modified: 2025-06-24T07:24:44-04:00
 ---
 up:: [[+ Library]]
 tags:: 
@@ -11,10 +11,14 @@ tags::
 [[How I learnt Norewegian on my own]]
 
 **language i want to learn**
-- [[+ Encounters/chinese]]
+- [[chinese]]
 - [[japanese]]
 - [[french]]
 
+
+**tools to learn language**
+[[Refold]]
+[[Abs Player and Yomichan]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
