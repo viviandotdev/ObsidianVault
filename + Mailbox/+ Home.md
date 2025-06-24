@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-24T06:42:45-04:00
+modified: 2025-06-24T06:46:43-04:00
 ---
 type:: #map/view 
 # Home 🌎
@@ -20,6 +20,7 @@ Your launchpad and home base. That's here. That's home.
 **Leisure**
 [[drawing]]
 [[language]]
+[[job-search]]
 
 - [[habits]]
 - [[system-design]]
