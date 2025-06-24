@@ -1,6 +1,6 @@
 ---
 created: 2024-02-07 12:46
-modified: 2025-06-23T07:53:18-04:00
+modified: 2025-06-23T20:26:50-04:00
 ---
 up::  [[My Workflows]]
 tags:: [[productivity]]
@@ -31,3 +31,4 @@ tags:: [[productivity]]
 
 [[The Cult of Done]]
 [4 simple software engineering habits that transformed my productivity](https://read.engineerscodex.com/p/simple-software-engineering-habits)
+[Productivity - Sam Altman](https://blog.samaltman.com/productivity)

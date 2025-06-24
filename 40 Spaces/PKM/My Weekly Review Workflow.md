@@ -1,11 +1,10 @@
 ---
 created: 2025-06-22 13:32
-modified: 2025-06-22T19:45:25-04:00
+modified: 2025-06-23T20:28:13-04:00
 ---
 up::  [[My Workflows]]
-tags:: [[productivity]]
 
-## Weekly Review
+## My weekly review workflow
 
 [Tiago Forte's Weekly Review - YouTube](https://www.youtube.com/playlist?list=PLVNXAaej57W63yyOFiJtdrZR6lpODnKrW)
 
@@ -26,9 +25,6 @@ tags:: [[productivity]]
 
 [The Weekly Review: A Productivity Ritual to Get More Done](https://todoist.com/productivity-methods/weekly-review)
 
-Every Scheduling (2-3 days)
-
-[What I learnt after 3000 days of scheduling - YouTube](https://www.youtube.com/watch?v=2ZS5Ek0PtcI&list=WL&index=2)
 
 1. Prioritizing (1-2 important tasks of the day)
 	- what would my future version of me be the most thankful for if i did it today?
