@@ -1,8 +1,8 @@
 ---
 created: 2025-06-22 19:26
-modified: 2025-06-23T07:05:08-04:00
+modified: 2025-06-23T20:11:24-04:00
 ---
-type:: #note/brainstorm
+type:: #note/how-to 
 tags:: [[drawing]]
 
 ## How to study perspective drawing

@@ -1,8 +1,8 @@
 ---
-modified: 2025-06-22T20:38:13-04:00
+modified: 2025-06-23T20:11:49-04:00
 ---
-type:: #note/brainstorm 
-tags::
+type:: #note/concept 
+tags:: #🟨 
 ## If you want to do something right, do it yourself, because other people don't care enough. 
 
 **Topic**
