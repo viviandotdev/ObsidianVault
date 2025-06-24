@@ -1,6 +1,6 @@
 ---
 created: 2025-06-24 07:06
-modified: 2025-06-24T18:34:34-04:00
+modified: 2025-06-24T18:40:34-04:00
 ---
 ## calisthenics
 
@@ -28,6 +28,10 @@ Handstand 14:06
 Handstand push up 15:15
 
 [Calisthenics Skills](https://www.youtube.com/watch?v=J2JHDavNZB4)
+
+**Siting leg raise**
+- spine mobility
+- compression  strength and quad strength
 
 ```dataview
 LIST
