@@ -1,6 +1,6 @@
 ---
 created: 2025-06-22 13:14
-modified: 2025-06-23T20:02:38-04:00
+modified: 2025-06-23T20:18:01-04:00
 ---
 type:: #note/concept 
 tags:: [[relationships]] [[love]]
@@ -13,9 +13,13 @@ Love should be active, it is like art it should require focus and dedication, it
 **Resources**
 [[our conception of love is messed up. - YouTube]]
 
-**Thoughts**
-- People who are single are often cope by saying that they are just working on themselves, 
-- I think this is flaw in my perspective 
+
+**Common Problems**
+- I don't think I am good enough of a person to be in a relationship, therefore I must work on my self until I become a good enough person that some one will like
+	- I no longer believe this is makes sense, I cannot just work on my self and hope that someone will like me
+
+**Potential Framework, System, or Solution***
+- In order to get into a relationship I need actually learn how to love not work on becoming more lovable
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
