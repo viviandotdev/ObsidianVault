@@ -5,7 +5,7 @@ modified: 2025-06-15T18:39:25-04:00
 ---
 up::  [[Blender]]
 source:: [100 Days of 3D Design. How I taught myself 3D modeling in 100… | by Tiantian Xu | The 100 Day Project | Medium](https://medium.com/the-100-day-project/100-days-of-3d-4b28a514f3ac)
-## Learning Blender
+## How to Learn Blender
 
 **Day 1- 5** Learning
 Get familiar with blender, watch a beginner tutorial course, on interesting projects. Get comfortable with keyboard shortcuts
