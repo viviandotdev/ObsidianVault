@@ -1,9 +1,8 @@
 ---
 created: 2024-05-27 07:00
-modified: Monday 27th May 2024 07:00:33
-
+modified: 2025-06-23T22:15:08-04:00
 ---
-up::
+up:: [[Tools]]
 type::
 source::
 ## pnpm MOC
