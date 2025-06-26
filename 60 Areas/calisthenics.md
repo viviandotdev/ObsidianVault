@@ -1,9 +1,9 @@
 ---
 created: 2025-06-24 07:06
-modified: 2025-06-24T18:40:34-04:00
+modified: 2025-06-26T08:26:35-04:00
 ---
 ## calisthenics
-
+Poses to learn / draw
 Hollow body hang 0:09
 Frog stand 0:49
 Hollow body holds 2:06
