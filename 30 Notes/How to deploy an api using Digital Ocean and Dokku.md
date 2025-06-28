@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-06-23T22:13:39-04:00
+modified: 2025-06-28T07:43:03-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
@@ -19,7 +19,7 @@ tags:: [[programming]] [[devops]]
 2. [[Initialize digital ocean droplet]]
 3. Create dokku app
 ```
-dokku apps:create bookcue-api
+dokku apps:create bookshelf-api
 ```
 8. Install postgres and redis plugin
 ```
@@ -41,7 +41,7 @@ dokku redis:link retwitter-api-redis retwitter-api
 [[How to dockerize backend app]]
 
 ```
-postgres://postgres:594310709d5c947d3bbd4a1736081a74@dokku-postgres-bookcue-api-psql:5432/bookcue_api_psql
+postgres://postgres:0c16c71a537b2ac6dab0b2a67d90db17@dokku-postgres-bookshelf-api-psql:5432/bookshelf_api_psql
 ```
 ### Build the docker file and push to docker hub
 1. On the local machine, creates a Docker image from the set of instructions defined in the `Dockerfile`
