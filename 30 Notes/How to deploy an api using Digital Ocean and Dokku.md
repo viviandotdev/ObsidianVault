@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-06-28T08:00:43-04:00
+modified: 2025-06-28T08:02:38-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
@@ -93,7 +93,11 @@ dokku domains:add bookcue-api api.bookshelfapp.club
 ```
 
 ```
-dokku domains:remove bookcue-api bookcue-api.134.209.64.204.sslip.io
+dokku domains:remove bookshelf-api bookcue-api.134.209.64.204.sslip.io
+```
+
+```
+dokku domains:remove bookshelf-api bookshelf-api.bookshelf
 ```
 
 ![[Screenshot 2024-05-15 at 11.50.52 AM.png]]
@@ -113,11 +117,11 @@ sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
 ```
 
 ```
-dokku letsencrypt:set bookcue-api email linvivian61@gmail.com
+dokku letsencrypt:set bookshelf-api email linvivian61@gmail.com
 ```
 
 ```
-dokku letsencrypt:enable bookcue-api
+dokku letsencrypt:enable bookshelf-api
 ```
 
 
