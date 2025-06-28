@@ -1,14 +1,10 @@
 ---
-modified: 2025-06-24T07:32:53-04:00
+modified: 2025-06-28T09:24:47-04:00
 ---
 
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
-
- 
-- Do a L-Sit
-- Read 100 books in a year
-
+[[2025-Q3-Goals]]
 
 ### Life Goals
 - [x] Graduate form college
@@ -18,11 +14,10 @@ modified: 2025-06-24T07:32:53-04:00
 	- Currently making about 4,000 a month after taxes (40,000 a year)
 - [ ] Move out of my parents house
 - [ ] Buy a house
-- [ ] Get a boyfriend
 
 Financial Goals
 - [ ] Net worth of 1 million
-	- [x] Around 300,000- (End of 2024)
+	- [x] Around 500,000- (End of 2025)
 
 
 ### Professional Goals
