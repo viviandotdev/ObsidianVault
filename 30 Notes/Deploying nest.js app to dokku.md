@@ -1,7 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-06-15T21:36:52-04:00
-
+modified: 2025-06-28T07:56:55-04:00
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 ## Deploying nest.js app to dokku
@@ -134,8 +133,8 @@ https://api.retwitter.co/graphql
 
 ### Deployment Steps
 ```bash
-docker pull vivianlin61/bookcue:3
-docker tag vivianlin61/bookcue:3 dokku/bookcue-api:latest
+docker pull vivianlin61/bookcue:1
+docker tag vivianlin61/bookcue:1 dokku/bookshelf-api:latest
 dokku deploy bookcue-api latest
 ```
 Pull, tag, and deploy the latest image

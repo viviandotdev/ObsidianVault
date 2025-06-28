@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-06-28T07:43:03-04:00
+modified: 2025-06-28T08:00:43-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
@@ -81,15 +81,15 @@ ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/bookcue:$VERSI
 ### Set up DNS
 [Docker DNS Configuration](https://dokku.com/docs~v0.11.6/configuration/domains/)
 ```
-dokku domains:set-global retwittter.co
+dokku domains:set-global bookshelfapp.club
 ```
 
 ```
-dokku domains:report bookcue-api
+dokku domains:report bookshelf-api
 ```
 
 ```
-dokku domains:add bookcue-api api.retwitter.co
+dokku domains:add bookcue-api api.bookshelfapp.club
 ```
 
 ```
