@@ -1,8 +1,8 @@
 ---
 created: 2024-06-30 21:05
-modified: 2025-06-24T06:45:27-04:00
+modified: 2025-06-28T07:47:29-04:00
 ---
-type:: #para/area
+type:: 
 source::
 ## chess
 
