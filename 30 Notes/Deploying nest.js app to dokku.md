@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-06-28T08:30:26-04:00
+modified: 2025-06-28T08:33:38-04:00
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 ## Deploying nest.js app to dokku
@@ -163,12 +163,17 @@ dokku config bookshelf-api
 dokku config:set bookshelf-api NEXT_PUBLIC_APP_URL=https://bookshelf-webapp.vercel.app
 ```
 
-```
-dokku config:set bookshelf-api API_PORT=8080
-```
 
 ```
-dokku config:set bookshelf-api RESEND_API_KEY=re_WbB1162X_D7Gwe8TdgJckyzQzdJrpfjsp
+dokku config:set bookshelf-api \
+  RESEND_API_KEY=re_WbB1162X_D7Gwe8TdgJckyzQzdJrpfjsp \
+  API_PORT=8080 \
+  NEXT_PUBLIC_APP_URL=https://bookshelf-webapp.vercel.app \
+  JWT_ACCESS_SECRET=secret \
+  JWT_REFRESH_SECRET=secret \
+  JWT_ACCESS_EXPIRATION_TIME=15m \
+  JWT_REFRESH_EXPIRATION_TIME=7d
+
 ```
 
 2. **Check port mappings**
