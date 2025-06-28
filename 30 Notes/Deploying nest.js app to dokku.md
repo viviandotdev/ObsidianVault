@@ -1,6 +1,6 @@
 ---
 created: 2024-07-12 10:12
-modified: 2025-06-28T07:56:55-04:00
+modified: 2025-06-28T08:08:01-04:00
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 ## Deploying nest.js app to dokku
@@ -184,8 +184,8 @@ Ports 80 and 443 are the standard ports for HTTP and HTTPS traffic respectively.
 
 **Fix mapping**
 ```'
-dokku ports:add bookcue-api http:80:8080
-dokku ports:add bookcue-api https:443:8080
+dokku ports:add bookshelf-api http:80:8080
+dokku ports:add bookshelf-api https:443:8080
 ```
 **correct mapping with exposed 8080 port**
 ```
@@ -199,7 +199,7 @@ Ports map detected:            http:80:5000 https:443:5000
 
 **redeploy**
 ```
-dokku deploy bookcue-api latest
+dokku deploy bookshelf-api latest
 ```
 **Next steps**
 - use multi build steps, so only the dist file contents is copied over and not the whole app, simplifies the build process
