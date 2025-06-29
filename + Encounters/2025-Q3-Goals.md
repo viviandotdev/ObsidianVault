@@ -1,6 +1,6 @@
 ---
 created: 2025-06-28 09:24
-modified: 2025-06-29T12:04:18-04:00
+modified: 2025-06-29T12:06:02-04:00
 ---
 up::
 tags::
@@ -23,8 +23,12 @@ tags::
 **Tracker**
 - Notion leetcode tracker
 ### Goal 3: Complete System Design 
-
-### Goal: 4 Finish building Counter App
+**Systems**
+- Everyday before your after work spend 50 mins on creating system design questions 
+**Tracker**
+- Notion leetcode tracker
+### Goal 4: 
+### Goal 5: Finish building Counter App
 
 
 
