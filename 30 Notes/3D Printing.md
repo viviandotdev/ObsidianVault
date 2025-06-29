@@ -1,9 +1,9 @@
 ---
-modified: 2025-06-23T20:11:32-04:00
+modified: 2025-06-29T12:12:18-04:00
 status: 
 ---
 type: #note/list 
-tags::
+tags:: [[3d-printing]]
 **3D Modeling Courses before buying a printer**
 
 1. Complete the 30 days with fusion
@@ -37,8 +37,6 @@ Things to build a design
 1. Custom desk drawer, for my desk
 2. Some organizers for the things inside
 3. Bed desk thing](<Certainly! Here's a reorganized and clearer version of your notes on **3D Modeling Courses and Projects before buying a 3D printer**:
-
----
 
 # 3D Modeling Learning Path Before Buying a 3D Printer
 

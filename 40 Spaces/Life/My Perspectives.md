@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-23T20:03:42-04:00
+modified: 2025-06-29T12:13:19-04:00
 ---
 ### My Perspectives
 [[My unique perspective workflow]]
@@ -35,6 +35,7 @@ modified: 2025-06-23T20:03:42-04:00
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
+- [[Money is a required pursuit for life but a pointless pursuit upon death]]
 
 [[life]]
 - [[Life is suffering, but you can choose how you suffer]]
