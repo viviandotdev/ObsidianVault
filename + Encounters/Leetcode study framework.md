@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-28T09:53:57-04:00
+modified: 2025-07-01T18:46:52-04:00
 ---
 
 
@@ -9,7 +9,7 @@ modified: 2025-06-28T09:53:57-04:00
 - make anki flash cards of problems you have solved and understand (small chunks if problem is too long)
 
 
-The memorization stage
+The memorization stage (daily cards)
 - anki flash cards 
 - go through questions
 - retrospective revision
