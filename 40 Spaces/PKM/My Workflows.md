@@ -1,14 +1,19 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-06-23T07:50:34-04:00
+modified: 2025-07-01T18:54:03-04:00
 ---
 ## My Workflows
 
 ### Organizing Life Tasks
 
+[[My journaling workflow]]
+[[My task management workflow]]
 
-[[My todo list workflow]]
+
+
 [[My habit tracking workflow]]
+
+
 
 [[My daily review workflow]]
 [[My weekly review workflow]]
