@@ -1,6 +1,6 @@
 ---
 created: 2024-05-19 19:24
-modified: 2025-07-02T07:21:42-04:00
+modified: 2025-07-02T07:31:45-04:00
 ---
 up::  [[How to start a programming project]]
 tags::  [[backend development]]
@@ -79,9 +79,12 @@ pnpm --filter api exec prisma generate
 
 `autoSchemaFile` out o. 80000f sync (`api/src/schema.gql`)
 
-1. end the server
+1. **end the server**
 2. remove dist folder
-3. start the server agin
+3. re run the build
+4. **start the server agin**
+
+ending and starting the server is what generate the schema file
 
 9bfd9fec-bf64-4ec0-9d0e-688591b7513b
 
