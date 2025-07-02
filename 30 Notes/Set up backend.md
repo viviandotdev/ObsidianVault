@@ -1,7 +1,6 @@
 ---
 created: 2024-05-19 19:24
-modified: 2025-06-15T21:10:15-04:00
-
+modified: 2025-07-02T07:21:42-04:00
 ---
 up::  [[How to start a programming project]]
 tags::  [[backend development]]
@@ -47,7 +46,7 @@ model User {
 generate SQL migration files and run again the database, this create the model User and its properties in your database. **you should run this command when there is change to the prisma models to update your database.**
 
 ```
-pnpm --filter api exec prisma migrate dev
+pnpm --filter api exec prisma migrate deva
 ```
 check the database to see the user model is added
 ```
