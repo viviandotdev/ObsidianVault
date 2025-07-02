@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-01T19:29:18-04:00
+modified: 2025-07-01T21:22:19-04:00
 ---
 up::
 tags::
@@ -8,10 +8,9 @@ tags::
 
 
 References
-
-
 [I tracked my habits for 300 days and it changed my life - YouTube](https://www.youtube.com/watch?v=ZV0EgdBdJ14&list=LL&index=1)
-
 [A notebook to save you from infinite scrolling. - YouTube](https://www.youtube.com/watch?v=OmyfB513E1s&list=PLacX82b_pofztutMWary6SRslMTvYVzsi&index=1)
-
 [The only thing that stopped me from infinite scrolling - YouTube](https://www.youtube.com/watch?v=Sr9yRqOZMYU)
+
+
+[This Simple Goal Tracker Will ACTUALLY Help You Reach Your Goals - YouTube](https://www.youtube.com/watch?v=JJPD9fkLcZs&t=58s)
