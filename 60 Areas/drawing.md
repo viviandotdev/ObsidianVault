@@ -1,9 +1,8 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-06-24T06:48:46-04:00
+modified: 2025-07-04T06:56:59-04:00
 ---
 ## drawing
-
 
 **Learning how to draw**
 [[How to study perspective drawing]]
