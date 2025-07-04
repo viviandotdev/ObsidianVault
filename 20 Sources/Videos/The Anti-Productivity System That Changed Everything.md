@@ -1,14 +1,17 @@
 ---
-modified: 2025-07-04T06:57:49-04:00
+modified: 2025-07-04T07:00:16-04:00
 ---
 tags:: [[productivity]]
 source:: https://www.youtube.com/watch?v=H-v7qXpIvnk&list=LL&index=3
-type:: #source/link
+type:: #source/video 
 
 ![](https://www.youtube.com/watch?v=H-v7qXpIvnk)  
 
 **Common Problems**
-- Common 
+- Common issues is that people spend more time organizing their system rather than actually using it
+- For example a complex notion dashboard takes more time to maintain than to actually use to progress on your goals
+- The people who sell you these templates profit off of making these templates, it is their job to create these templates, but we don't know if they actually use these templates and helped them be successful.]
+- Doing this is just another for a procrastination, that feel productive but really you are not actually doing anything 
 **Personal Experience**
 - you are over complicating your productivity organization system
 - you might be spending more time organizing your system then actually using 
