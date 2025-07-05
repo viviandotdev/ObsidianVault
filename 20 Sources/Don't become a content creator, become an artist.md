@@ -7,7 +7,4 @@ type:: #source/video
 
 Don't become a content creator, become an artist
 
-![](https://www.youtube.com/watch?v=a0Ai5koQ2p8&list=LL&index=6)
-
-
-- 
+![](https://www.youtube.com/watch?v=a0Ai5koQ2p8&list=LL&ind 
