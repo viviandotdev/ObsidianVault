@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-05T16:50:22-04:00
+modified: 2025-07-05T16:52:01-04:00
 ---
 tags:: [[philosophy]]
 source:: https://www.youtube.com/watch?v=AZkjFXQnPdg&list=LL&index=3
