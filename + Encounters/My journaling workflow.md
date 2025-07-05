@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-01T21:22:19-04:00
+modified: 2025-07-05T12:19:25-04:00
 ---
 up::
 tags::
@@ -12,5 +12,5 @@ References
 [A notebook to save you from infinite scrolling. - YouTube](https://www.youtube.com/watch?v=OmyfB513E1s&list=PLacX82b_pofztutMWary6SRslMTvYVzsi&index=1)
 [The only thing that stopped me from infinite scrolling - YouTube](https://www.youtube.com/watch?v=Sr9yRqOZMYU)
 
-
+**Weekly Tracker**
 [This Simple Goal Tracker Will ACTUALLY Help You Reach Your Goals - YouTube](https://www.youtube.com/watch?v=JJPD9fkLcZs&t=58s)
