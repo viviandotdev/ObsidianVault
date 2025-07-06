@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-06T07:57:34-04:00
+modified: 2025-07-06T08:24:23-04:00
 ---
 up::
 tags::
@@ -10,6 +10,7 @@ tags::
 **Tracker**
 
 **Soul-Journal**
+- daily thoughts and how you feel about your life and where it is going, do you feel in control and feel like it is going in the right direction 
 
 
 **Queue-Journal**
