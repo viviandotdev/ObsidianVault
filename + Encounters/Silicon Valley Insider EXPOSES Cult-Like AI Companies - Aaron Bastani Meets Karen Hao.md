@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-06T14:03:56-04:00
+modified: 2025-07-06T14:06:10-04:00
 ---
 type:: #source/video 
 tags:: [[procrastination]] [[productivity]]
@@ -57,7 +57,7 @@ source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani 
 
 - AI data centers require vast energy and water, often relying on fossil fuels and public drinking water.
 - This intensifies climate and public health crises in surrounding communities.
-- - AI actually requires a lot of clean drinking water to cool down the systems therefore, a lot clean water is being used up in even areas where there is already a limited water supply
+- AI actually requires a lot of clean drinking water to cool down the systems therefore, a lot clean water is being used up in even areas where there is already a limited water supply
 
 
 
@@ -80,7 +80,10 @@ source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani 
 
 - AI companies often bypass regulations and local laws to expand infrastructure rapidly.
 - This tactic undermines democratic processes at all levels of governance.
-- A
+- AI is all about rebranding
+- Open AI
+- China vs US approach to AI, quasi religion
+- whereas in china these are business we are building tools?
 #### 📚 Transcript
 <details>
 <summary>Click to expand</summary>
