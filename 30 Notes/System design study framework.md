@@ -1,8 +1,8 @@
 ---
 created: 2025-06-25 07:53
-modified: 2025-07-06T18:35:53-04:00
+modified: 2025-07-06T18:37:45-04:00
 ---
-up::
+up:: [[system-design]]
 tags::
 ## System design study framework
 
@@ -17,4 +17,7 @@ tags::
 - create diagrams and grabbing referencing all the blocks
 - **retrospective revision**
 	- everyday draw out the diagrams referencing the correct blocks for each problem
+	- as you get closed to the interview deadline create the retrospective tables
 	- log your work and progress
+**when should you start doing retrospective studies? **
+- i think while you are going through, as you finish the easy problems, you can start to retrospectively review them

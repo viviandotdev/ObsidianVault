@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-06T08:24:23-04:00
+modified: 2025-07-06T18:37:54-04:00
 ---
 up::
 tags::
@@ -15,6 +15,8 @@ tags::
 
 **Queue-Journal**
 - on my notes app, just a queue of information coming in
+
+
 **References**
 [I tracked my habits for 300 days and it changed my life - YouTube](https://www.youtube.com/watch?v=ZV0EgdBdJ14&list=LL&index=1)
 [A notebook to save you from infinite scrolling. - YouTube](https://www.youtube.com/watch?v=OmyfB513E1s&list=PLacX82b_pofztutMWary6SRslMTvYVzsi&index=1)
