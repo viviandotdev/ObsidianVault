@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 20:53
-modified: 2025-07-04T06:56:59-04:00
+modified: 2025-07-06T13:52:57-04:00
 ---
 ## drawing
 
@@ -61,7 +61,8 @@ Color and Light
 **Exercises**
 [[Anki for Artists]]
 [[Cognitive Drawing]]
-
+[[How to draw box rotations]]
+[[How to draw an ellipse]]
 
 ```dataview
 LIST
