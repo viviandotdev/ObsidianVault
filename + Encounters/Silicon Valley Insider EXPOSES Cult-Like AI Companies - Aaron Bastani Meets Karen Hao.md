@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-06T13:59:20-04:00
+modified: 2025-07-06T14:03:56-04:00
 ---
 type:: #source/video 
 tags:: [[procrastination]] [[productivity]]
@@ -57,6 +57,8 @@ source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani 
 
 - AI data centers require vast energy and water, often relying on fossil fuels and public drinking water.
 - This intensifies climate and public health crises in surrounding communities.
+- - AI actually requires a lot of clean drinking water to cool down the systems therefore, a lot clean water is being used up in even areas where there is already a limited water supply
+
 
 
 #### 📚 Transcript
@@ -65,9 +67,6 @@ source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani 
 <blockquote><b>Karen Hao</b><br/><br/>There are numbers around the energy consumption, which you could then use to kind of try and project carbon emissions. There was a McKinsey report that recently projected that based on the current pace of data center and supercomputer expansion for the development and deployment of AI technologies, We would need to add around half to 1.2 times the amount of energy consumed in the UK annually to the global grid in the next five years. Wow. Yeah. And most of that will be serviced by fossil fuels. This is something that Sam Altman actually even said in front of the Senate a couple of weeks ago. He said it will most probably be natural gas. So he actually picked the nicest fossil fuel. But we're already seeing reports of coal plants having their lives extended. They were meant to be retired, but they're no longer being retired explicitly to power data center development. We're seeing reports of Elon Musk's XAI, the giant supercomputer that he built called Colossus in Memphis, Tennessee. It is being powered with around 35 unlicensed methane gas turbines that are pumping thousands of toxic air pollutants into the air, into that community. So this</blockquote>
 </details>
 
-
-
----
 
 
 ### [14:46] AI Firms Sideline Democracy
@@ -81,65 +80,24 @@ source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani 
 
 - AI companies often bypass regulations and local laws to expand infrastructure rapidly.
 - This tactic undermines democratic processes at all levels of governance.
-
-
+- A
 #### 📚 Transcript
 <details>
 <summary>Click to expand</summary>
 <blockquote><b>Karen Hao</b><br/><br/>Local levels all the way to the international level.</blockquote><br/><blockquote><b>Aaron Bastani</b><br/><br/>It's kind of that orthodoxy of seek permission after you do something is now, I mean, when you start applying...</blockquote><br/><blockquote><b>Karen Hao</b><br/><br/>This is business as usual for those companies. That's part of their expansion strategy.</blockquote><br/><blockquote><b>Aaron Bastani</b><br/><br/>Which we'll talk about. And we're going to talk about the sort of global colonial aspect as well with regards to resource consumption resource use just bring it back to the us again because at the top of this Conversation i want to offer a bit of a primer to people out there who they maybe know what ai is they maybe have used chat gpt what are the major companies we're now talking about in this Space particularly in the united states of america over the last five years? Who</blockquote>
 </details>
+[44:33] **Sam Altman's Leadership**
+- Sam Altman understands human psychology well, which helps him recruit talent and persuade resource holders.
+- Many people don't know what Sam Altman truly believes, he is known for his 1 on 1's where he will say whatever the person want's to hear to get him on their side.
+- Because of this he often says contradictory information to different people. 
+
+
+"he does his best work in one-on meetings when he can say whatever he needs To say to get you to do, believe, achieve whatever it is that he needs you to do."
 
 
 
----
-
-
-### [44:33] Sam Altman's Leadership
-
-
-[🎧 Play snip - 2min️ (43:01 - 44:40)](https://share.snipd.com/snip/088e4985-3fa7-43c1-84db-b35a535cbccf)
-<audio controls> <source src="https://storage.googleapis.com/sideload_processed/8476c8b4-c6fb-443c-b47f-3b747e0e469c%2F8476c8b4-c6fb-443c-b47f-3b747e0e469c.mp3#t=43:01,44:40"> </audio>
-
-
-**Sam Altman's Leadership**
-
-- Karen Hao says Sam Altman understands human psychology well, which helps him recruit talent and persuade resource holders.
-- Altman inspires belief in his vision and people's ability to achieve it, but this also makes him a polarizing figure.
-
-
-#### 📚 Transcript
-<details>
-<summary>Click to expand</summary>
-<blockquote><b>Karen Hao</b><br/><br/>Yeah, I think it really comes down to he really he does understand human psychology very well, which not only is helpful in getting people to join in on his quest. So he's great at acquiring talent. And then he's said himself, like, I'm a visionary leader. I'm not an operational leader. And my best skill is to acquire the best people that then operationalize the thing. So he's good at persuading people into joining his quest. He's good at persuading whoever has access to whatever resource he needs to then give him that resource, whether it's capital, lands, energy, water, laws, you know. Um, and then he is, people have said that he instills a very powerful sense of belief in his vision and in their ability to then do it. He's good.</blockquote><br/><blockquote><b>Aaron Bastani</b><br/><br/>We say in English soccer, we would say good man manager. He can inspire people.</blockquote><br/><blockquote><b>Karen Hao</b><br/><br/>He inspires people to do things that they didn't think that they would be able to do yeah um but yeah but i mean this is this is why there's so much controversy he is such a polarizing figure Because people who in everyone has a very personalized encounter relationship him because he, he often, um, he, he does his best work in one-on meetings when he can say whatever he needs To say to get you to do, believe, achieve whatever it is that he needs you to do.</blockquote>
-</details>
-
-
-
----
-
-
-### [53:27] AI's Hidden Environmental Cost
-
-
-[🎧 Play snip - 1min️ (52:47 - 53:30)](https://share.snipd.com/snip/de747d45-eb00-459a-91cd-c577e21b2e19)
-<audio controls> <source src="https://storage.googleapis.com/sideload_processed/8476c8b4-c6fb-443c-b47f-3b747e0e469c%2F8476c8b4-c6fb-443c-b47f-3b747e0e469c.mp3#t=52:47,53:30"> </audio>
-
-
-**AI's Hidden Environmental Cost**
-
+ [53:27] **AI's Hidden Environmental Cost**
 - Public sustainability reports from Google and Microsoft don't specify AI's environmental impact.
-- 2024, where both Google and Microsoft reported, I think it was a 30% and 50% jump in their carbon emission despite data massaging.
-
-- AI actually requires a lot of clean drinking water to cool down the systems therefore, a lot clean water is being used up in even areas where there is already a limited water supply
+- In 2024, where both Google and Microsoft reported a 30% and 50% jump in their carbon emission despite data massaging.
 
 
-
-#### 📚 Transcript
-<details>
-<summary>Click to expand</summary>
-<blockquote><b>Karen Hao</b><br/><br/>They do not break down how much of those data centers are being used for AI. They also have sustainability reports where they talk about the water and carbon and things like that. But they do not break down how much of that is coming from AI either. And they also massage that data a lot to make it seem better than it actually is. But even with the massaging, there was that story two years ago, or sorry, last year, 2024, where both Google and Microsoft reported, I think it was a 30% and 50% jump in their carbon emissions Because largely driven by the data center development.</blockquote><br/><blockquote><b>Aaron Bastani</b><br/><br/>Yeah. And</blockquote>
-</details>
-
-
-
----
