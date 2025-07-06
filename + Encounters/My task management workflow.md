@@ -1,6 +1,6 @@
 ---
 created: 2025-07-04 16:06
-modified: 2025-07-06T19:23:37-04:00
+modified: 2025-07-06T19:32:49-04:00
 ---
 up::
 tags::
@@ -16,4 +16,4 @@ Philosophy
 - It does not matter how many tasks you have, what matters if you have the time to do them
 - 
 **Weekly planing**
--
+- 
