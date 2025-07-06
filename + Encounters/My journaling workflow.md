@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-06T18:37:54-04:00
+modified: 2025-07-06T19:01:53-04:00
 ---
 up::
 tags::
@@ -8,6 +8,10 @@ tags::
 
 
 **Tracker**
+- Habits Tracker
+	- Track your habits on a grid 
+- Area Trackers
+	- 
 
 **Soul-Journal**
 - daily thoughts and how you feel about your life and where it is going, do you feel in control and feel like it is going in the right direction 
