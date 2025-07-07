@@ -1,8 +1,8 @@
 ---
-modified: 2025-07-06T20:59:33-04:00
+modified: 2025-07-06T21:02:08-04:00
 ---
 
-tags::
+tags:: [[success]] [[motivation]]
 source:: https://www.youtube.com/watch?v=H4sBxsBWPA4&amp;list=LL&amp;index=12
 type:: #source/video
 status:: #🟨 
@@ -13,7 +13,7 @@ status:: #🟨
 #### Ideas
 
 - [[Intrinsic motivation is the result of commitment rather than passion]]
-- Intrinsic vs Extrinsic 
+- [[Intrinsic vs Extrinsic Motivation]]
 ### **Notes**
 **What would I want to exist even if I didn’t**
 The belief that is juice is worth the squeeze is not a result of the juice it is that 
@@ -22,11 +22,11 @@ If you don’t believe the juice is worth squeezing then you would never squeeze
 The belief that life is worth living is not the result is a good life
 **You have to believe that life is worth living before you have any proof.**
 
-Value what the worlds does to you
+**Value what the worlds does to you**
 - experiences and the pleasures of life
 - Feelings, money success life
 - Not the goal
-Value what you do to the world
+**Value what you do to the world** (the better way to think about life)
 - self determination theory, 
 - Intrinsic and extrinsic motivation
 - The value of the thing is the reward of the thing is itself

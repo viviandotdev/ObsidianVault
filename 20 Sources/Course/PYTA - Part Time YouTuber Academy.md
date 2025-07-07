@@ -1,12 +1,11 @@
 ---
 created: 2024-04-18 14:25
-modified: 2025-06-22T06:13:25-04:00
+modified: 2025-07-06T21:04:51-04:00
 ---
 up::  [[writing]]
 status:: completed
 category:: completed
 type:: #source/course
-source::
 ## PYTA - Part Time YouTuber Academy
 
 
