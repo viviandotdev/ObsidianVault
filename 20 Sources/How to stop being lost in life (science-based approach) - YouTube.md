@@ -1,18 +1,16 @@
 ---
-modified: 2025-07-06T20:50:24-04:00
+modified: 2025-07-06T20:55:30-04:00
 ---
 
 tags::
 source:: https://www.youtube.com/watch?v=H4sBxsBWPA4&amp;list=LL&amp;index=12
 type:: #source/video
-
+status:: #🟨 
 ### How to stop being lost in life (science-based approach) - YouTube
 
 ![](https://www.youtube.com/watch?v=H4sBxsBWPA4&amp;list=LL&amp;index=12)
 
 #### Highlights
-
-Cultivating related ness
 
 What would I want to exist even if I didn’t
 The belief that is juice is worth the squeeze is not a result of the juice it is that 
@@ -38,9 +36,10 @@ Intrinsic
     - You are good at or getting better at it
 - Relatedness
     - There is need for it in the world, being relevant for something bigger than yourself
+		Cultivating related ness
 
-
-Arranged marriages have more satisfied 
+Arranged marriages have higher satisfaction rates than love marriages
+- by simply commiting to that person for a long period of time can bring satisfaction
 Pick some thing and 
 Something you are interested in
 You are good at it
