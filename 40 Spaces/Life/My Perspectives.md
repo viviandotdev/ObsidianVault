@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-29T12:13:19-04:00
+modified: 2025-07-06T22:04:36-04:00
 ---
 ### My Perspectives
 [[My unique perspective workflow]]
@@ -32,6 +32,7 @@ modified: 2025-06-29T12:13:19-04:00
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
+- [[Intrinsic motivation is the result of commitment rather than passion]]
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
