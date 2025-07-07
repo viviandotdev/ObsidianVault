@@ -1,43 +1,40 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: 2025-06-22T20:36:22-04:00
+modified: 2025-07-06T21:11:38-04:00
 ---
 type:: #note/weekly
 tags:: 
-## <% tp.file.title %>
+### Weekly Reflections 2025-W2
 
----
-modified: 2025-07-06T21:10:14-04:00
----
-### Weekly Reflections 2025-W27
+**Plan**
+<!--What is your plan for this week ? -->
+**Drawing**
+Focus on torso studies this week, practice cognitive drawing for 25 minutes at least focusing on the torso
+- create notes for things you need to learn,
+	- how to do box rotations
+	- how to draw an ellipse
+	- torso notes, how does a torso look like?
+		- create a not of all the sources you found useful for drawing the torso
+
+**Job Search**
+Right after your first meeting or before starting work, set up an hour block to complete as many leetcode questions as you can
+
+**Writing**
+Use the morning to block to work on your vault, and think about the ideas you have gathered and how will apply them throughout life and into the day
+
+**Programming**
+Complete the reading session feature need to think about 
+
 
 **In My Life** 
 <!--What is going on in your life? -->
-- I've not been feeling great because I am above my maintenance weight, I feel best around 108-112. At the start of this week I was at 119 lbs.
-	- My plan to get back down to 108-112 is to walk ever morning 1-2 hours to get as many steps in as early as possible
-	- **Goal** - **8-10k steps in total**
-- I've started reading this week, i really do like to read it's like watching TV but its kinda better, i feel like now a days tv writing has become bad , books seem to be a little better it's not as cringe, there is no giant corporation behind it is usually just individual authors. 
 
 **Ideas**
 <!-- Capture the ideas or thoughts that spark excitement-->
-[[You need consequences to stop procrastination]]
-[[Intrinsic motivation is the result of commitment rather than passion]]
 
 **Inputs / Sources**
-[[The Anti-Productivity System That Changed Everything]]
-[[Silicon Valley Insider EXPOSES Cult-Like AI Companies - Aaron Bastani Meets Karen Hao]]
-[[How to stop being lost in life (science-based approach) - YouTube]]
 
-
- **Experiments**
+**Experiments**
  <!--What new habits, challenges and tools are you trying out to improve your life? -->
- **productivity**
- - started journaling, the best habit tracker is just a journal
-**nutrition**
-- vegetable only diet (vegetable + a ramen packet) 
-- walking 10k steps (trying to get more consistent doing this this not great)
 
 **Books, Shows and Movies**
-- Tomorrow, and Tomorrow, and Tomorrow
-- The Devils Plan
-- Sinners
