@@ -1,6 +1,6 @@
 ---
 created: 2025-07-06 20:30
-modified: 2025-07-06T20:35:20-04:00
+modified: 2025-07-06T20:36:28-04:00
 ---
 up:: 
 tags:: [[motivation]]
@@ -12,6 +12,7 @@ However what creates motivation is actually commitment, just by simply committin
 Most people are too busy trying to many different things and never reach a point where they 
 
 Your do get happy when you achieve your goal, you get happiness from the seeing progress towards your goal,
+It is the progress towards your goals that makes you happy not achieving the goal itself
 Therefore you are much close to feeling of happiness than you think because 
 Many people think
 - If I lose weight then I will be happy
