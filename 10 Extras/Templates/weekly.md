@@ -5,3 +5,39 @@ modified: 2025-06-22T20:36:22-04:00
 type:: #note/weekly
 tags:: 
 ## <% tp.file.title %>
+
+---
+modified: 2025-07-06T21:10:14-04:00
+---
+### Weekly Reflections 2025-W27
+
+**In My Life** 
+<!--What is going on in your life? -->
+- I've not been feeling great because I am above my maintenance weight, I feel best around 108-112. At the start of this week I was at 119 lbs.
+	- My plan to get back down to 108-112 is to walk ever morning 1-2 hours to get as many steps in as early as possible
+	- **Goal** - **8-10k steps in total**
+- I've started reading this week, i really do like to read it's like watching TV but its kinda better, i feel like now a days tv writing has become bad , books seem to be a little better it's not as cringe, there is no giant corporation behind it is usually just individual authors. 
+
+**Ideas**
+<!-- Capture the ideas or thoughts that spark excitement-->
+[[You need consequences to stop procrastination]]
+[[Intrinsic motivation is the result of commitment rather than passion]]
+
+**Inputs / Sources**
+[[The Anti-Productivity System That Changed Everything]]
+[[Silicon Valley Insider EXPOSES Cult-Like AI Companies - Aaron Bastani Meets Karen Hao]]
+[[How to stop being lost in life (science-based approach) - YouTube]]
+
+
+ **Experiments**
+ <!--What new habits, challenges and tools are you trying out to improve your life? -->
+ **productivity**
+ - started journaling, the best habit tracker is just a journal
+**nutrition**
+- vegetable only diet (vegetable + a ramen packet) 
+- walking 10k steps (trying to get more consistent doing this this not great)
+
+**Books, Shows and Movies**
+- Tomorrow, and Tomorrow, and Tomorrow
+- The Devils Plan
+- Sinners

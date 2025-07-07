@@ -1,9 +1,8 @@
 ---
 created: 2025-07-06 21:02
-modified: 2025-07-06T21:03:37-04:00
+modified: 2025-07-06T21:06:37-04:00
 ---
-up:: [[The 2 Hour Writer]]
-tags::
+up:: [[2HW-The 2 Hour Writer]]
 ## The Three Point Content System
 
 You've outlined a fantastic content generation system! Let's refine the points and structure to make it even clearer and more impactful.
