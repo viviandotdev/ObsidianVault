@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-06T20:55:30-04:00
+modified: 2025-07-06T20:59:33-04:00
 ---
 
 tags::
@@ -10,14 +10,17 @@ status:: #🟨
 
 ![](https://www.youtube.com/watch?v=H4sBxsBWPA4&amp;list=LL&amp;index=12)
 
-#### Highlights
+#### Ideas
 
-What would I want to exist even if I didn’t
+- [[Intrinsic motivation is the result of commitment rather than passion]]
+- Intrinsic vs Extrinsic 
+### **Notes**
+**What would I want to exist even if I didn’t**
 The belief that is juice is worth the squeeze is not a result of the juice it is that 
 The juice is the result of the belief that it is worth the squeeze.
 If you don’t believe the juice is worth squeezing then you would never squeeze and you would never get the juice
 The belief that life is worth living is not the result is a good life
-You have to believe that life is worth living before you have any proof.
+**You have to believe that life is worth living before you have any proof.**
 
 Value what the worlds does to you
 - experiences and the pleasures of life
@@ -29,7 +32,7 @@ Value what you do to the world
 - The value of the thing is the reward of the thing is itself
 - Our generation is mostly extrinsicly motivations it is unfullfiling  and makes you bad at it
 
-Intrinsic
+Intrinsic Motivations comes from 
 - autonomy
     - You are doing it because you want to
 - Competence
@@ -39,7 +42,8 @@ Intrinsic
 		Cultivating related ness
 
 Arranged marriages have higher satisfaction rates than love marriages
-- by simply commiting to that person for a long period of time can bring satisfaction
+- by simply committing to that person for a long period of time can bring satisfaction
+Similar for choosing a career, rather than waiting around for something that you are passionate about it is better to pick something and commit to it for long enough where it can bring you satificaion 
 Pick some thing and 
 Something you are interested in
 You are good at it
