@@ -1,35 +1,11 @@
 ---
 created: <% tp.file.creation_date() %>
-modified: 2025-07-06T21:17:20-04:00
+modified: 2025-07-06T21:45:22-04:00
 ---
 type:: #note/weekly
 tags:: 
 ### Weekly Reflections 2025-W2
 
-**Plan**
-<!--What is your plan for this week ? -->
-**Drawing** *right after work* (hobby)
-will draw right after work? need to focus on something creative
-Focus on torso studies this week, practice cognitive drawing for 25 minutes at least focusing on the torso
-- create notes for things you need to learn,
-	- how to do box rotations
-	- how to draw an ellipse
-	- torso notes, how does a torso look like?
-		- create a not of all the sources you found useful for drawing the torso
-
-**Job Search**
-Right after your first meeting or before starting work, set up an hour block to complete as many leetcode questions as you can
-
-**Writing**
-Use the morning to block to work on your vault, and think about the ideas you have gathered and how will apply them throughout life and into the day
-
-**Programming**
-**after you get tired of drawing and still have time left do some additional programming**
-Complete the reading session feature need to think about 
-
-**Fitness / Nutrition**
-- try to average 8-10k steps a day - should be the first thing you do each day
-- on the tread mill you can listen to ideas and add to them to the queue in tick tick
 **In My Life** 
 <!--What is going on in your life? -->
 
