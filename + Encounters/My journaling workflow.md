@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-06T19:02:56-04:00
+modified: 2025-07-06T20:28:37-04:00
 ---
 up::
 tags::
@@ -12,6 +12,8 @@ tags::
 	- Track your habits on a grid 
 - Area/Goal Trackers
 	- Write down one thing you did for each area on each 
+- Summary Page
+	- Reflect
 
 **Reflections-Journal**
 - daily thoughts and how you feel about your life and where it is going, do you feel in control and feel like it is going in the right direction 

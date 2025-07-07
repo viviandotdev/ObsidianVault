@@ -1,10 +1,10 @@
 ---
-modified: 2025-07-06T14:06:10-04:00
+modified: 2025-07-06T20:29:17-04:00
 ---
 type:: #source/video 
 tags:: [[procrastination]] [[productivity]]
 source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani Meets Karen Hao - YouTube](https://www.youtube.com/watch?v=8enXRDlWguU)
-
+status:: #🟨 
 
 **AI Terminology**
 - Karen Hao explains that AI is a suitcase term, encompassing machine learning. 
