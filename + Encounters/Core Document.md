@@ -1,11 +1,10 @@
 ---
 created: 2025-07-11 19:40
-modified: 2025-07-11T19:42:37-04:00
+modified: 2025-07-11T19:45:23-04:00
 ---
 up::
 tags::
 ## Core Document
-
 
 Note-taking => Obsidan (Confluence)
 	projects
@@ -13,8 +12,9 @@ Note-taking => Obsidan (Confluence)
 Project-managemnt => Notion (Jira)
 	coding projects with backlog and everything is managed here
 Task management => Tick Tick (to do list)
-	small quick projects can go directly into task ma
+	small quick projects can go directly into task management system
 Bookmarks management => Raindrop (resources)
-
+	collect all your resources
+	
 Browser chrome
 
