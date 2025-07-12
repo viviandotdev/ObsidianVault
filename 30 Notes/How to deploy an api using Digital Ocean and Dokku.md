@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-07-12T08:30:01-04:00
+modified: 2025-07-12T08:53:48-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
@@ -67,7 +67,7 @@ docker tag vivianlin61/bookcue:2 dokku/bookcue-api:latest
 ```
 3. Deploy the app
 ```
-dokku deploy bookcue-api latest
+dokku deploy bookshelf-api latest
 ```
 **Deploy Changes Script**
 ``` bash
