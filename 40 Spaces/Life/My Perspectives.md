@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-12T07:45:04-04:00
+modified: 2025-07-12T14:03:34-04:00
 ---
 up:: [[Life Map]]
 ### My Perspectives
@@ -11,6 +11,7 @@ up:: [[Life Map]]
 - [[You are happiest when working towards your goals, not when you have achieved them]]
 - [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative]]
 -  [[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
+- [[Your don't get happy from achieving your goal, you get happiness from the seeing progress towards your goal]]
 
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
