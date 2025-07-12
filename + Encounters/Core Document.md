@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11 19:40
-modified: 2025-07-12T07:09:24-04:00
+modified: 2025-07-12T09:03:44-04:00
 ---
 up::
 tags::
@@ -8,7 +8,7 @@ tags::
 
 Note-taking => Obsidan (Confluence)
 	projects
-		start out as notes ()
+		start out as notes then create project?()
 Project-managemnt => Notion (Jira)
 	coding projects with backlog and everything is managed here
 	 this where you store information about the tickets and stuff 
