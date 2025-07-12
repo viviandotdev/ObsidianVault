@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-12T07:50:54-04:00
+modified: 2025-07-12T08:33:42-04:00
 ---
 up:: [[Life Map]]
 # My Self
@@ -20,7 +20,13 @@ up:: [[Life Map]]
     - [Wealth Dynamics](https://www.wealthdynamics.com/)
     - [Myers Briggs / 16 Personalities](https://www.16personalities.com/free-personality-test) 
 - **Are you right brained or left brained?**
-- 
+- **What are your favorite movies?**
+- **What are your favorite books?**
+- **What are your strengths?**
+- **What are your weaknesses?**
+- what activities do you enjoy?
+- what activities do you not enjoy?
+
 
 ### Why am I introverted?
 - Growing up, I only had one close friend during each main period of my life.
