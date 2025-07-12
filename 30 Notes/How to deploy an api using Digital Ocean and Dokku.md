@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-07-12T08:24:55-04:00
+modified: 2025-07-12T08:30:01-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
@@ -47,19 +47,23 @@ postgres://postgres:0c16c71a537b2ac6dab0b2a67d90db17@dokku-postgres-bookshelf-ap
 1. On the local machine, creates a Docker image from the set of instructions defined in the `Dockerfile`
 ```
 docker buildx create --use
-docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:1 .
+docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:2 .
 ```
 
 ### Dokku Image Tag Deployment
 [Image Tag Deployment - Dokku Documentation](https://dokku.com/docs~v0.8.2/deployment/methods/images/)
 [Why can't i pull the newest image by using the latest tag?](https://cloud.ibm.com/docs/Registry?topic=Registry-troubleshoot-docker-latest)
+`
+```	
+ssh -i ~/.ssh/bookshelf root@178.156.140.183
+```
 1. Pull the latest image from docker hub
 ```
-docker pull vivianlin61/bookcue:1
+docker pull vivianlin61/bookcue:2
 ```
 2. Retag the image to match the created at the start
 ```
-docker tag vivianlin61/bookcue:1 dokku/bookcue-api:latest
+docker tag vivianlin61/bookcue:2 dokku/bookcue-api:latest
 ```
 3. Deploy the app
 ```
