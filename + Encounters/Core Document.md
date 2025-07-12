@@ -6,17 +6,17 @@ up::
 tags::
 ## Core Document
 
-Note-taking => Obsidan (Confluence)
+Note-taking => **Obsidian** (Confluence)
 	projects
 		start out as notes then create project?()
-Project-managemnt => Notion (Jira)
+Project-managemnt => **Notion** (Jira)
 	coding projects with backlog and everything is managed here
 	 this whaere you store information about the tickets and stuff 
 	 view features and stuff
 	 Declare what projects you are doing
-Task management => Tick Tick (to do list)
+Task management => **Tick Tick** (to do list)
 	small quick projects can go directly into task management system
-Bookmarks management => Raindrop (resources)
+Bookmarks management => **Raindrop** (resources find articles, videos and notes to collect and help you complete your projects)
 	collect all your resources and reference them in your projects or notes, keep in raindrop so they can be referenced in multiple places
 	
 Browser  ARC
