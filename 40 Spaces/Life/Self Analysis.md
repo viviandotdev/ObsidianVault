@@ -1,3 +1,7 @@
+---
+modified: 2025-07-12T07:45:39-04:00
+---
+up:: [[Life Map]]
 # Self Analysis
 
 **Table of Contents**
@@ -85,6 +89,5 @@ My sister looked at it and said I could even mess it up if i tried.
 Then my mom throws out the leftovers when I wanted to eat it,
 Like how do you expect anyone to be good if you don't encourage them.
 I've learned to not listen to them when they see things, like they doubt me all the fucking time it actually so annoying. Like how many times do I have to prove them wrong for them to believe in me.
-
 
 Like when I got my job I didn't have anyone to tell, 

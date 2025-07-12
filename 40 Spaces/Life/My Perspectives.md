@@ -1,6 +1,7 @@
 ---
-modified: 2025-07-06T22:04:36-04:00
+modified: 2025-07-12T07:45:04-04:00
 ---
+up:: [[Life Map]]
 ### My Perspectives
 [[My unique perspective workflow]]
 

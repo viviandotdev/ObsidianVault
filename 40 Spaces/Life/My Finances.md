@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-16T09:43:11-04:00
+modified: 2025-07-12T07:44:49-04:00
 ---
-
+up:: [[Life Map]]
 tags::
 current for 3 months
 1800 (individual) -> 36 percent

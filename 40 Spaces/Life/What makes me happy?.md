@@ -1,7 +1,8 @@
 ---
 created: 2025-07-01 18:47
-modified: 2025-07-05T12:18:23-04:00
+modified: 2025-07-12T07:46:04-04:00
 ---
+up:: [[Life Map]]
 type:: #note/list
 tags:: [[happiness]]
 ## What makes me happy?

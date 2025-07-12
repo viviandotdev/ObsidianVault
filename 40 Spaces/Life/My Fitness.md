@@ -1,3 +1,7 @@
+---
+modified: 2025-07-12T07:44:57-04:00
+---
+up:: [[Life Map]]
 
 Workout routine
 [fitness | Anton's site 💙💛](https://podviaznikov.com/fitness)

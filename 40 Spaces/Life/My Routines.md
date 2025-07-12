@@ -1,8 +1,8 @@
 ---
 created: 2024-06-30 20:35
-modified: 2025-06-24T07:31:51-04:00
+modified: 2025-07-12T07:45:14-04:00
 ---
-up::  [[My Workflows]]
+up:: [[Life Map]]
 ## My Routines
 
 **Morning Routines**

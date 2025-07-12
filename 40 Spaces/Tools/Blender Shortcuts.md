@@ -1,7 +1,6 @@
 ---
-modified: 2025-06-15T13:51:07-04:00
+modified: 2025-07-12T07:44:07-04:00
 ---
-
 tags:: [[Blender]]
 
 ## Blender Shortcuts

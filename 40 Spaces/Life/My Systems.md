@@ -1,8 +1,8 @@
 ---
 created: 2024-09-02 07:52
-modified: 2025-06-16T09:44:20-04:00
+modified: 2025-07-12T07:45:22-04:00
 ---
-up::
+up:: [[Life Map]]
 source::
 ## My Systems
 **Goals**-

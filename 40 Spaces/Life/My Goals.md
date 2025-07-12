@@ -1,7 +1,7 @@
 ---
-modified: 2025-06-28T09:24:47-04:00
+modified: 2025-07-12T07:45:01-04:00
 ---
-
+up:: [[Life Map]]
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
 [[2025-Q3-Goals]]
