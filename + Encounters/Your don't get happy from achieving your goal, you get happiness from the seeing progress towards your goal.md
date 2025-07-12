@@ -1,6 +1,6 @@
 ---
 created: 2025-07-12 13:33
-modified: 2025-07-12T13:46:19-04:00
+modified: 2025-07-12T13:52:18-04:00
 ---
 up::
 tags:: [[happiness]]
@@ -17,4 +17,4 @@ Therefore you are much close to feeling of happiness than you think because just
 **Personal Experience**
 - For example when playing minecraft your are **having the most fun when you gather resources and making things**
 - When I maxed out all my gear and built everything is needed I actually feel a little empty
-- 
+- ********
