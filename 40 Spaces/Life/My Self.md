@@ -1,8 +1,8 @@
 ---
-modified: 2025-07-12T07:45:39-04:00
+modified: 2025-07-12T07:50:54-04:00
 ---
 up:: [[Life Map]]
-# Self Analysis
+# My Self
 
 **Table of Contents**
 - [[#Why am I introverted?|Why am I introverted?]]
@@ -13,6 +13,14 @@ up:: [[Life Map]]
 - [[#Which attachment style are you?|Which attachment style are you?]]
 - [[#What do you think is most important: health, time, or money?|What do you think is most important: health, time, or money?]]
 - [[#Why i love to rock climb?|Why i love to rock climb?]]
+-  [[#What makes me happy]]
+- **What is your personality type?**
+	-  [Human Design](https://www.myhumandesign.com/get-your-chart/)
+    - [Enneagram](https://enneagramtest.com/quiz?afid=gdnens)
+    - [Wealth Dynamics](https://www.wealthdynamics.com/)
+    - [Myers Briggs / 16 Personalities](https://www.16personalities.com/free-personality-test) 
+- **Are you right brained or left brained?**
+- 
 
 ### Why am I introverted?
 - Growing up, I only had one close friend during each main period of my life.
@@ -44,8 +52,15 @@ up:: [[Life Map]]
 - I want to build apps not to make a lot of money but because I enjoy it. I'm lucky to have found something I'm good at and enjoy, so why not spend more time doing it?
 - The goal is to continue building apps that I think are cool and that others will use. Salaries and money are byproducts of ambition, not the primary desire.
 - It's not that I don't care; I just don't want to fight. I know how things will be, and I'll end up getting hurt, so I give up and let you win. I'm scared of making you upset and will do anything to prevent that.
-### Why am I so avoidant?
-- Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
+- I usually don't spend much money
+
+
+### Which attachment style are you?
+- I relate to this growing up. As a kid, I was very expressive. I remember dancing in my room and laughing a lot.
+- I often got yelled at for being too loud or expressive. When I cried, I was told to stop crying and expressing myself.
+- I remember watching Disney Channel shows and cackling, but my mom would get mad and yell at me for laughing too loud.
+- I would cry when my mom forced me to wear a dress. We argued about her forcing me to wear things that made me uncomfortable. I couldn't express myself the way I wanted, only in a way that fit how my mom wanted me to represent her.
+- - Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
 - Anxious people overthink and stress about it.
 -  Early separation from parents can affect attachment styles. You might find it challenging to form secure attachments in relationships, potentially leading to issues with trust or intimacy.
 - Avoidant push people away or keep them at a distance to abandon the other person before they can be abandoned.
@@ -64,12 +79,6 @@ up:: [[Life Map]]
 - You're also inconsistent sometimes. Sometimes you seem to like me, but other times, you don't.
 - Emotionally immature parents view children as a source of their self-esteem.
 -  Early childhood experiences play a crucial role in developing emotional regulation skills. You might experience difficulties in managing emotions or heightened sensitivity to stress.
-
-### Which attachment style are you?
-- I relate to this growing up. As a kid, I was very expressive. I remember dancing in my room and laughing a lot.
-- I often got yelled at for being too loud or expressive. When I cried, I was told to stop crying and expressing myself.
-- I remember watching Disney Channel shows and cackling, but my mom would get mad and yell at me for laughing too loud.
-- I would cry when my mom forced me to wear a dress. We argued about her forcing me to wear things that made me uncomfortable. I couldn't express myself the way I wanted, only in a way that fit how my mom wanted me to represent her.
 
 ### What do you think is most important: health, time, or money?
 - I think one of the keys to living a good life is optimizing for health, time, and money.
@@ -91,3 +100,8 @@ Like how do you expect anyone to be good if you don't encourage them.
 I've learned to not listen to them when they see things, like they doubt me all the fucking time it actually so annoying. Like how many times do I have to prove them wrong for them to believe in me.
 
 Like when I got my job I didn't have anyone to tell, 
+### What makes me happy
+- eating sushi 
+- toping out on a difficult bouldering
+- eating good food with friends
+- watching devil's plan
