@@ -1,6 +1,6 @@
 ---
 created: 2023-09-24 07:20
-modified: 2025-06-28T08:02:38-04:00
+modified: 2025-07-12T08:24:55-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
 type: #note/how-to 
@@ -75,7 +75,7 @@ read VERSION
 docker buildx create --use
 docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:$VERSION .
 docker push vivianlin61/bookcue:$VERSION
-ssh -i ~/.ssh/id_rsa root@134.209.38.244 "docker pull vivianlin61/bookcue:$VERSION && docker tag vivianlin61/bookcue:$VERSION dokku/api:$VERSION && dokku deploy api $VERSION"
+ssh -i ~/.ssh/id_ed25519_vps root@178.156.140.183 "docker pull vivianlin61/bookcue:$VERSION && docker tag vivianlin61/bookcue:$VERSION dokku/api:$VERSION && dokku deploy api $VERSION"
 
 ```
 ### Set up DNS
