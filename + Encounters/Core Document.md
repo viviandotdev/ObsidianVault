@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11 19:40
-modified: 2025-07-12T12:57:50-04:00
+modified: 2025-07-12T13:17:32-04:00
 ---
 up::
 tags::
@@ -17,7 +17,7 @@ Project-managemnt => Notion (Jira)
 Task management => Tick Tick (to do list)
 	small quick projects can go directly into task management system
 Bookmarks management => Raindrop (resources)
-	collect all your resources
+	collect all your resources and reference them in your projects or notes, keep in raindrop so they can be referenced in multiple places
 	
-Browser chrome
+Browser  ARC
 
