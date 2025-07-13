@@ -1,6 +1,6 @@
 ---
 created: 2025-07-04 16:06
-modified: 2025-07-12T14:05:00-04:00
+modified: 2025-07-13T07:07:08-04:00
 ---
 up::
 tags::
@@ -13,7 +13,7 @@ tags::
 	- Within that block you will tackle list of items for that activity
 - **You should organize tasks by when you are going to do them not projects**
 - You may have a thousand things to do but you are still constrained by time 
-- It does not matter how many tasks you have, what matters if you have the time to do them
+****- It does not matter how many tasks you have, what matters if you have the time to do them
 
 **Weekly planing**
 - create a weekly plan
