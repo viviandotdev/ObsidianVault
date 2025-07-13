@@ -1,6 +1,6 @@
 ---
 created: 2025-07-06 21:53
-modified: 2025-07-06T21:56:26-04:00
+modified: 2025-07-13T07:25:05-04:00
 ---
 type:: #note/concept
 tags:: [[motivation]]
@@ -28,7 +28,7 @@ Intrinsic Motivations comes from
 
 
 
-Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can
+
 
 
 
