@@ -1,11 +1,10 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-06T20:28:37-04:00
+modified: 2025-07-14T06:11:03-04:00
 ---
 up::
-tags::
+tags::g
 ## My journaling workflow
-
 
 **Tracker-Journal**
 - Habits Tracker
