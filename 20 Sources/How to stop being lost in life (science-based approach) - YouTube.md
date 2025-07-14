@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-13T07:34:40-04:00
+modified: 2025-07-13T23:01:18-04:00
 ---
 
 tags:: [[success]] [[motivation]]
@@ -49,7 +49,7 @@ The belief that life is worth living is not the result is a good life
 
 
 **Commitment and Motivation**
-Intrinsic motivation is the result of commitment rather than passion
+**Intrinsic motivation is the result of commitment rather than passion**
 Arranged marriages have higher satisfaction rates than love marriages
 - by simply committing to that person for a long period of time can bring satisfaction and build passion for the relationship
 Similar for choosing a career, rather than waiting around for something that you are passionate about it is better to pick something and commit to it for long enough where it can bring you satisfaction
@@ -63,4 +63,4 @@ Build that habit over time adding more things
 
 
 Different aims you experience a different reality
-What you’ll I want to exist even if you don’t, filter you consciously experience based on what is relevant to you
+**What you’ll I want to exist even if you don’t, filter you consciously experience based on what is relevant to you**
