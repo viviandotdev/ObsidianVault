@@ -17,8 +17,9 @@ tags::
 **Reflections-Journal**
 - Daily thoughts and how you feel about your life and where it is going, do you feel in control and feel like it is going in the right direction 
 - Daily Plan
+
 **Daily Plan**
-- 
+-
 
 
 **Queue-Journal**
