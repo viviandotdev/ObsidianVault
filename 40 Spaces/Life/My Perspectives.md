@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-14T09:07:34-04:00
+modified: 2025-07-14T09:30:39-04:00
 ---
 up:: [[Life Map]]
 ### My Perspectives
@@ -35,7 +35,7 @@ up:: [[Life Map]]
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
-- Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can
+- [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]

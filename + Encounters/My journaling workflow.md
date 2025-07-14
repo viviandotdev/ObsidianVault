@@ -1,21 +1,24 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-14T06:13:30-04:00
+modified: 2025-07-14T09:27:06-04:00
 ---
 up::
 tags::
 ## My journaling workflow
 
 **Tracker-Journal**
-- Habits Tracker
+- **Habits Tracker**
 	- Track your habits on a grid 
-- Area/Goal Trackers
+- **Area/Goal Trackers**
 	- Write down one thing you did for each area on each 
-- Summary Page
-	- Reflect
+- **Summary Page**
+	- Sum up the data for that month
 
 **Reflections-Journal**
-- daily thoughts and how you feel about your life and where it is going, do you feel in control and feel like it is going in the right direction 
+- Daily thoughts and how you feel about your life and where it is going, do you feel in control and feel like it is going in the right direction 
+- Daily Plan
+**Daily Plan**
+- 
 
 
 **Queue-Journal**
