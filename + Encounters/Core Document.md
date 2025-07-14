@@ -1,6 +1,6 @@
 ---
 created: 2025-07-11 19:40
-modified: 2025-07-12T13:32:34-04:00
+modified: 2025-07-14T09:15:36-04:00
 ---
 up::
 tags::
@@ -11,7 +11,7 @@ Note-taking => **Obsidian** (Confluence)
 		start out as notes then create project?()
 Project-managemnt => **Notion** (Jira)
 	coding projects with backlog and everything is managed here
-	 this whaere you store information about the tickets and stuff 
+	 this where you store information about the tickets and stuff 
 	 view features and stuff
 	 Declare what projects you are doing
 Task management => **Tick Tick** (to do list)
@@ -21,3 +21,5 @@ Bookmarks management => **Raindrop** (resources find articles, videos and notes 
 	
 Browser  ARC
 
+Maintaining the system everyday, you need to spend some time maintaining the system this is light work I think you can do at the end of the day after you finish all your main tasks,
+morning i think should be for drawing, something fun to do before work that you enjoy 

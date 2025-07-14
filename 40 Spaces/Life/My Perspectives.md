@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-12T14:03:34-04:00
+modified: 2025-07-14T09:07:34-04:00
 ---
 up:: [[Life Map]]
 ### My Perspectives
@@ -26,6 +26,7 @@ up:: [[Life Map]]
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 	- [[You must write bad code before you can write good code.]]
 	- [[You must write badly before you can learn to write well]]
+- 
 
 [[success]]
 - [[Being successful creates more success]]
@@ -34,7 +35,7 @@ up:: [[Life Map]]
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
-- [[Intrinsic motivation is the result of commitment rather than passion]]
+- Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
