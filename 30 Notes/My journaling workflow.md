@@ -1,8 +1,8 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-15T07:03:21-04:00
+modified: 2025-07-15T07:21:00-04:00
 ---
-up::
+up:: [[My Workflows]]
 tags::
 ## My journaling workflow
 
@@ -19,7 +19,7 @@ tags::
 - Daily Plan
 
 **Daily Plan**
-- 
+- write out your daily plan for the day
 
 
 **Queue-Journal**
