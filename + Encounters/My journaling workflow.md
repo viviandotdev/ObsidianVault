@@ -1,6 +1,6 @@
 ---
 created: 2025-07-01 18:53
-modified: 2025-07-14T09:31:01-04:00
+modified: 2025-07-15T07:03:21-04:00
 ---
 up::
 tags::
@@ -10,7 +10,7 @@ tags::
 - **Habits Tracker**
 	- Track your habits on a grid 
 - **Area/Goal Trackers**
-	- Write down one thing you did for each area on each 
+	- Write down one thing you did for each area on each day you do it, track what days you do that activity 
 - **Summary Page**
 	- Sum up the data for that month
 
