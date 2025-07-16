@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-22T12:17:49-04:00
 ---
-up:: [[+ Home]] / [[Sources]] 
+[]()up:: [[+ Home]] / [[Sources]] 
 
 ## Articles
 
