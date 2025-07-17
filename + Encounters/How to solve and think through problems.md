@@ -1,12 +1,12 @@
 ---
 created: 2025-07-17 17:44
-modified: 2025-07-17T18:13:37-04:00
+modified: 2025-07-17T18:21:18-04:00
 ---
 up:: [[leetcode]]
 source:: [Dynamic Programming isn't too hard. You just don't know what it is. - YouTube](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=20
 ## How to problem solve with observations
 
-# Observation
+# Observation -> Properties
 [[Observation is the root of problem solving, new problems require to carefully study the properties]]
 **Read and understand the problem statement**
 - Read the problem and try to understand it
@@ -33,4 +33,7 @@ source:: [Dynamic Programming isn't too hard. You just don't know what it is. - 
 - **Replace values with variables**
 	- Working with values allows to study 1 example
 	- Working with variables allows to study an entire class of examples
-- 
+**Build structure from your observations and ideas, and allow the solutions to reveal themselves**
+Instead of guessing, work with generalized examples to figuring what technique you need 
+
+
