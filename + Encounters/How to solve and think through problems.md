@@ -1,11 +1,13 @@
 ---
 created: 2025-07-17 17:44
-modified: 2025-07-17T17:55:13-04:00
+modified: 2025-07-17T18:00:07-04:00
 ---
-up::
-tags::
+up:: [[leetcode]]
+source:: [Dynamic Programming isn't too hard. You just don't know what it is. - YouTube](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=20
 ## How to problem solve with observations
 
+# Observation
+[[Observation is the root of problem solving, new problems require to carefully study the properties]]
 **Read and understand the problem statement**
 - Read the problem and try to understand it
 	- Chunk the problem into bits 
@@ -21,9 +23,14 @@ tags::
 **Identity directions of processing**
 - Does the problem force you to go in a certain direction
 - If any direction is good, which one is simplest or optimal
-### Main Point
-**Problem Solving**
-- Problem solving is not just pattern matching, you have to be able to identitfy the patterns in the first place
-- **Observation** is the root of problem solving, new problems require to carefully study the properties
-- Complex problems will have many properties with too many obserivations, write them down so you don't forge them
-**In any field** problem solving begins with observations, for example doctors problem solve my asking questions and observing their patient, lawyers problem solve also by asking questions and until they get to their solutions. Everything requires problem solving.
+## Simulation
+- **Pick an example and work through it**
+	- Write down the decision/decisions
+	- Pick a starting place based on your observations
+	- Identity the actions that can be made
+	- Identity the consequences of each decisions
+	- Simulate the problem enough to gain structure
+- **Replace values with variables**
+	- Working with values allows to study 1 example
+	- Working with variables allows to study an entire class of examples
+- 
