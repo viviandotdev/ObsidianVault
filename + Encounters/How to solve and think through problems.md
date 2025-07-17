@@ -1,6 +1,6 @@
 ---
 created: 2025-07-17 17:44
-modified: 2025-07-17T18:21:18-04:00
+modified: 2025-07-17T18:25:01-04:00
 ---
 up:: [[leetcode]]
 source:: [Dynamic Programming isn't too hard. You just don't know what it is. - YouTube](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=20
@@ -37,3 +37,5 @@ source:: [Dynamic Programming isn't too hard. You just don't know what it is. - 
 Instead of guessing, work with generalized examples to figuring what technique you need 
 
 
+# Write the Solution
+- Build your solutions from your structured observations and ideas
