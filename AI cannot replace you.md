@@ -1,5 +1,7 @@
+---
+modified: 2025-07-20T19:46:36-04:00
+---
 type:: #note/mini-essay
-
 
 
 
@@ -11,6 +13,7 @@ All AI does is take the enjoyable process away from me.
 
 
 **Resources**
+
 
 https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
 
