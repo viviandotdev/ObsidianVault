@@ -1,11 +1,11 @@
 ---
 modified: 2025-07-20T20:01:08-04:00
 ---
-tags::
+tags:: [[note-taking]] [[writing]]
 source:: https://www.joanwestenberg.com/p/i-deleted-my-second-brain
 type:: #source/article
 
-### I Deleted My Second Brain
+# I Deleted My Second Brain
 
 Why I Erased 10,000 Notes, 7 Years of Ideas, and Every Thought I Tried to Save
 
@@ -13,7 +13,7 @@ When your vault has too many notes it can become a burden to maintain, it feels 
 Maintaining a vault feels like I spend more time organizing instead of thinking.
 Don't capture everything, only capture things that you will use and ideas that  resonate with you.
 Delete notes often and keep your vault clean, remove outdated ideas, do not feel tied to your ideas, important ideas will always come back to you and will you find it again..
-Life is like a spiral if you miss an opportunity it will always back to you eventually
+Life is like a spiral if you miss an opportunity it will always back to you eventually.
 #### Highlights
 
 > [!quote]+ Updated on Mon Jul 07 2025 07:32:57 GMT-0400
@@ -75,3 +75,4 @@ Life is like a spiral if you miss an opportunity it will always back to you even
 > [!check]+ Updated on Mon Jul 07 2025 07:32:57 GMT-0400
 >
 > I don’t want to manage knowledge. I want to live it.
+

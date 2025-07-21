@@ -1,0 +1,230 @@
+---
+created: 2024-07-12 10:12
+modified: 2025-06-28T08:33:38-04:00
+---
+up::  [[How to deploy an api using Digital Ocean and Dokku]]
+## Deploying nest.js app to dokku
+
+Here's the updated markdown with smaller font sizes and only H3 headings:
+
+### Dokku Deployment Guide
+134.209.64.204
+### SSH Access
+```bash
+ssh -i ~/.ssh/id_rsa root@134.209.64.204
+```
+Connect to server via SSH
+
+### Docker Installation
+```bash
+sudo apt update
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+apt-cache policy docker-ce
+sudo apt install docker-ce
+sudo systemctl status docker
+```
+Install Docker on Ubuntu
+
+### Dokku Installation
+```bash
+wget -NP . https://dokku.com/install/v0.34.4/bootstrap.sh
+sudo DOKKU_TAG=v0.34.4 bash bootstrap.sh
+cat ~/.ssh/authorized_keys | dokku ssh-keys:add admin
+```
+Install Dokku and add SSH key
+
+### Domain Configuration
+```bash
+dokku domains:set-global retwitter.co
+dokku domains:add bookcue-api api.retwitter.co
+```
+Set global domain and add app-specific domain
+
+### Remove Domain (if needed)
+```bash
+dokku domains:remove bookcue-api ubuntu-s-1vcpu-1gb-35gb-intel-nyc3-01
+```
+Remove a domain from the app
+
+### SSL Configuration
+```bash
+sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
+dokku letsencrypt:set bookshelf-api email linvivian61@gmail.com
+dokku letsencrypt:enable bookshelf-api
+```
+Install Let's Encrypt plugin and enable SSL
+
+**Create .env.production file** and copy the contents over
+```
+NEXT_PUBLIC_APP_URL=https://bookcue.vercel.app
+BOOKCUE_API_PORT=8080
+JWT_ACCESS_SECRET=secret
+JWT_REFRESH_SECRET=secret
+JWT_ACCESS_EXPIRATION_TIME=15m
+JWT_REFRESH_EXPIRATION_TIME=7d
+RESEND_API_KEY=re_WbB1162X_D7Gwe8TdgJckyzQzdJrpfjsp
+```
+*notes* port is 8080 because the application port we EXPOSE below is 8080
+
+**Create and build a docker image**
+```Dockerfile
+# Use an official Node.js runtime as the base image
+FROM node:20
+
+# Install pnpm globally
+RUN npm install -g pnpm
+
+# Set the working directory
+WORKDIR /app
+
+# Copy the entire application
+COPY . .
+
+# Copy the environment configuration file
+COPY .env.production .env
+
+# Install app-specific dependencies
+RUN pnpm install
+
+# Generate Prisma client
+RUN npx prisma generate
+
+# Build the application
+RUN pnpm run build
+
+# Copy schema.gql to dist/src/config
+RUN mkdir -p dist/src/config && cp dist/schema.gql dist/src/config/schema.gql
+
+# Expose the application port
+EXPOSE 8080
+
+# Set NODE_ENV to production
+ENV NODE_ENV=production
+
+# Use a non-root user for better security
+USER node
+
+# Run the application
+CMD [ "npm", "run", "start:migrate:prod" ]
+```
+
+### Docker Build (for multi-platform)
+```bash
+docker buildx create --use
+docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:1 .
+```
+Build Docker image for AMD64 platform
+
+
+**Create app,
+```bash
+dokku apps:create bookcue-api
+```
+
+
+**endpoint**
+```
+https://api.retwitter.co/graphql
+```
+
+
+
+### Deployment Steps
+```bash
+docker pull vivianlin61/bookcue:1
+docker tag vivianlin61/bookcue:1 dokku/bookshelf-api:latest
+dokku deploy bookcue-api latest
+```
+Pull, tag, and deploy the latest image
+
+
+**Health check query, does not work because of CORS**
+**just login on the app to see if it works**
+```graphql
+query {
+  healthCheck {
+    status
+    message
+    timestamp
+  }
+}
+```
+[Fetching Title#9rho](https://bookshelf-webapp.vercel.app/)
+### Known Issues
+1. .env variables not loading
+**view env varialbes**
+```
+dokku config bookshelf-api
+```
+**set env variables**
+```
+dokku config:set bookshelf-api NEXT_PUBLIC_APP_URL=https://bookshelf-webapp.vercel.app
+```
+
+
+```
+dokku config:set bookshelf-api \
+  RESEND_API_KEY=re_WbB1162X_D7Gwe8TdgJckyzQzdJrpfjsp \
+  API_PORT=8080 \
+  NEXT_PUBLIC_APP_URL=https://bookshelf-webapp.vercel.app \
+  JWT_ACCESS_SECRET=secret \
+  JWT_REFRESH_SECRET=secret \
+  JWT_ACCESS_EXPIRATION_TIME=15m \
+  JWT_REFRESH_EXPIRATION_TIME=7d
+
+```
+
+2. **Check port mappings**
+[Proxy Management - Dokku Documentation](https://dokku.com/docs/networking/proxy-management/#__tabbed_4_1)
+```
+ dokku ports:report bookshelf-api
+```
+**Default mapping**
+```
+=====> bookcue-api ports information
+       Ports map:
+       Ports map detected:            http:80:5000 https:443:5000
+```
+http:80:5000
+HTTP traffic coming to port 80 on your host (the server where Dokku is running) is being forwarded to port 5000 in your application container.
+**When someone accesses your application via HTTP (usually by just typing your domain name in a browser), they're hitting port 80, and Dokku is forwarding that to your application running on port 5000.**
+
+We need to update this to make it point to the port the application is actually running on.
+
+Ports 80 and 443 are the standard ports for HTTP and HTTPS traffic respectively.
+
+**Fix mapping**
+```'
+dokku ports:add bookshelf-api http:80:8080
+dokku ports:add bookshelf-api https:443:8080
+```
+**correct mapping with exposed 8080 port**
+```
+Ports map:                     http:80:8080 https:443:8080
+Ports map detected:            http:80:5000 https:443:5000
+```
+
+- Generated types from db:generate
+- Schema file (generated when you start the app development) needs to be copied to build
+
+
+**redeploy**
+```
+dokku deploy bookshelf-api latest
+```
+**Next steps**
+- use multi build steps, so only the dist file contents is copied over and not the whole app, simplifies the build process
+
+
+### Links to this page
+These notes point directly to this note. But this note doesn't point back.
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+and -#map
+
+SORT file.link asc
+```
