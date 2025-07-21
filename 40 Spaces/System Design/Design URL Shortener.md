@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01 14:41
-modified: 2025-06-29T12:21:17-04:00
+modified: 2025-07-20T20:10:54-04:00
 ---
 tags:: [[system-design]]
 
@@ -43,7 +43,6 @@ tags:: [[system-design]]
 Given our URL shortening service's non-relational nature and need to handle significant data and traffic, NoSQL databases like MongoDB or Cassandra are ideal due to their seamless horizontal scalability.
 
 **Database Schema**
-#question what database does dub use?
 ![[URL Shortener- Database Schema.svg]]
 ### Schema Code
 ```

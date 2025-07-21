@@ -1,8 +1,8 @@
 ---
 created: 2024-04-22 08:44
-modified: 2025-06-23T07:16:37-04:00
+modified: 2025-07-20T20:10:47-04:00
 ---
-type:: #output/mini-essay
+type:: #note/mini-essay
 tags:: [[learning]]
 ## Embracing the Struggle - The Power of the Generation Effect in Learning
 
