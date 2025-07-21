@@ -1,7 +1,5 @@
 ---
-description: Guidelines for writing Next.js apps with tRPC
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
-modified: 2025-07-15T15:16:40-04:00
+modified: 2025-07-20T21:08:45-04:00
 ---
 
 ## Overview
