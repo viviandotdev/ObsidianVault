@@ -1,12 +1,7 @@
 ---
-raindrop_id: 1226993566
-raindrop_highlights:
-  686ba75520ac08b6538570e9: 46df1f0ff38d623022dcf9e9d0d7cb3c
-  686ba7772ca8c310a2176aa1: 82f4986a4c9710816bc67d4f2c3525e5
-
+modified: 2025-07-20T20:01:25-04:00
 ---
-
-tags::
+tags:: [[ai]]
 source:: https://www.philschmid.de/context-engineering
 type:: #source/article
 
