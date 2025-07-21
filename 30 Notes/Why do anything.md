@@ -1,4 +1,8 @@
+---
+modified: 2025-07-20T20:12:19-04:00
+---
 type:: #note/mini-essay
+status:: #🟥 
 
 **Why do anything**
 - do things because you can not for any other reason

@@ -1,11 +1,9 @@
 ---
-modified: 2025-07-20T20:01:25-04:00
+modified: 2025-07-20T20:13:14-04:00
 ---
 tags:: [[ai]]
 source:: https://www.philschmid.de/context-engineering
 type:: #source/article
-
-### The New Skill in AI is Not Prompting, It&#39;s Context Engineering
 
 Context Engineering is the new skill in AI. It is about providing the right information and tools, in the right format, at the right time.
 

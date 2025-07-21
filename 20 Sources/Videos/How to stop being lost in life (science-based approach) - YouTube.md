@@ -1,11 +1,10 @@
 ---
-modified: 2025-07-13T23:01:18-04:00
+modified: 2025-07-20T20:12:52-04:00
 ---
 
 tags:: [[success]] [[motivation]]
 source:: https://www.youtube.com/watch?v=H4sBxsBWPA4&amp;list=LL&amp;index=12
 type:: #source/video
-status:: #🟨 
 ### How to stop being lost in life (science-based approach) - YouTube
 
 ![](https://www.youtube.com/watch?v=H4sBxsBWPA4&amp;list=LL&amp;index=12)

@@ -1,20 +1,10 @@
 ---
-raindrop_id: 1226799618
-raindrop_highlights:
-  686b9e451d9cf1295d1e7839: ffcbfae4bd9987ffad905db16908a010
-  686b9e4f2af8e71fc42efaa3: 59deaeadfc3f81315ec6d0f6ca80ede0
-  686b9e7d9c2d5d3017411c71: 0d2a1c4b363de99540922cdb5be6436c
-  686b9e81c94476cf13431528: fdf873017a4e583eb9db0242c218b88b
-
+modified: 2025-07-20T20:13:30-04:00
 ---
-
 tags::
 source:: https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542
 type:: #source/article
 
-### I Spent 90 Days Rebuilding My Brain. Here&#39;s What I Learned.
-
-No Hacks. No Apps. Just Rules, Paper, and Silence.
 
 #### Highlights
 
