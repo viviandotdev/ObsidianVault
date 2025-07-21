@@ -1,12 +1,10 @@
 ---
 created: 2023-09-23 10:07
-modified: 2025-06-15T20:37:50-04:00
-
+modified: 2025-07-20T20:54:12-04:00
 ---
 type:: #source/podcast
 tags:: [[procrastination]] [[productivity]]
 source:: [Procrastination Expert: How To Get Over The Procrastination Trap - Professor Fuschia M. Sirois](https://share.snipd.com/episode/bad274cc-4918-407c-95e6-45f947114755)
-## Procrastination Expert: How To Get Over The Procrastination Trap - Professor Fuschia M. Sirois
 
 1. Procrastination is often fueled by a mix of excitement and fear surrounding a task, and those who procrastinate are more sensitive to negative emotions.
 2. Procrastination is not just about poor self-control; it is often a result of impulsivity and difficulty managing emotions.
