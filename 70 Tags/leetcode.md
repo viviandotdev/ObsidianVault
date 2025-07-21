@@ -1,10 +1,10 @@
 ---
 created: 2025-03-23 20:22
-modified: 2025-07-17T17:44:05-04:00
+modified: 2025-07-21T09:09:22-04:00
 ---
 ## leetcode
 
-[[How to solve and think through problems]]
+[[How to solve and think through leetcode problems]]
 [How to solve coding problems](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=19)
 
 [LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!) - YouTube](https://www.youtube.com/watch?v=RYT08CaYq6A)
@@ -14,6 +14,7 @@ modified: 2025-07-17T17:44:05-04:00
 
 **Patterns**
 [[Two Pointers]]
+
 
 
 ```dataview

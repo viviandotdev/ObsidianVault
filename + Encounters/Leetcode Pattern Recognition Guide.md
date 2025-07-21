@@ -4,8 +4,7 @@ modified: 2025-07-21T09:08:16-04:00
 ---
 type:: #source/video 
 tags:: [[leetcode]]
-source:: [YouTube](https://www.youtube.com/watch?v=LAnEeffb5zI&list=LL&index=1)
-
+source:: [How to Instantly Recognize Leetcode Patterns (500 problems later)](https://www.youtube.com/watch?v=LAnEeffb5zI&list=LL&index=1
 ## Leetcode Pattern Recognition Guide
 
 ### Step 1: Check The Constraints
