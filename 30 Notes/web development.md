@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27 16:12
-modified: 2025-06-24T07:46:00-04:00
+modified: 2025-07-21T18:47:37-04:00
 ---
 
 # web development
@@ -39,6 +39,12 @@ modified: 2025-06-24T07:46:00-04:00
 - pnpm
 
 ### Frontend Stack
+
+
+[Toools.design – An archive of 1,500+ Design Resources](https://www.toools.design/)
+[Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/)
+[GitHub - Saas-Starter-Kit/Saas-Kit-prisma: 🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)
+
 
 ### Backend Stack
 - GraphQL

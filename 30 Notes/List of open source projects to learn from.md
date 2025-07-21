@@ -1,9 +1,8 @@
 ---
 created: 2024-05-19 18:54
-modified: 2025-06-15T18:48:51-04:00
-
+modified: 2025-07-21T18:47:32-04:00
 ---
-tags:: [[open source]]
+tags:: [[open source]] [[web development]]
 ## List of open source projects to learn from
 
 
@@ -40,7 +39,3 @@ tags:: [[open source]]
 - [Civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [GitHub - heyxyz/hey: Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿](https://github.com/heyxyz/hey) **graphql-react-apollo**
 
-**Resources **
-[Toools.design – An archive of 1,500+ Design Resources](https://www.toools.design/)
-[Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/)
-[GitHub - Saas-Starter-Kit/Saas-Kit-prisma: 🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)
