@@ -1,5 +1,5 @@
 ---
-modified: 2025-06-24T07:15:47-04:00
+modified: 2025-07-22T19:13:42-04:00
 ---
 up:: [[programming]]
 tags:: 
@@ -15,9 +15,6 @@ related:
 3. [Medicine Reminder App by mendsalbert](https://github.com/mendsalbert/medicine-reminder-app)
 	1. [Video 3](https://www.youtube.com/watch?v=fcpZeYeINDw)
 
----
-
-Let me know if you want me to add descriptions or categorize them differently!>)
 **notjustdev**
 [GitHub - nextArtDev/not-just](https://github.com/nextArtDev/not-just)
 
@@ -29,13 +26,17 @@ Let me know if you want me to add descriptions or categorize them differently!>)
 **i will do the hinge clone first, i think it is most comprehensize app with the most relavant features for a mobile app**
 **setting up supbabase and react query**
 once this is completed start creating with the template, read through the template
-**glue stack tutorial?**
-[Building an Ecommerce App with React Native, Expo and Gluestack - YouTube](https://www.youtube.com/watch?v=FBXUPJ9_Xl0)
-**good app design simliar logic to the app i'm trying to build**
+
+**good app design similiar logic to the app i'm trying to build**
 [Medicine Reminder App by mendsalbert](https://github.com/mendsalbert/medicine-reminder-app)
-	1. [Video 3](https://www.youtube.com/watch?v=fcpZeYeINDw)
 
-[Gadgets Selling App: React Native Expo, Stripe, Supabase & NextJs - YouTube](https://www.youtube.com/watch?v=26opRFPU0a8&t=409s)
-
-**no code hard to build**
+**Build threads app**
 [Build a Threads Clone with React Native, Expo & Gluestack | Full Tutorial - YouTube](https://www.youtube.com/playlist?list=PLJeCS8DwkVT_UcuAIhx9dg1kc3UzcKevl)
+[ship-fast-mobile](https://github.com/viviandotdev/ship-mobile-fast)
+
+**good app example**
+[habits-together](https://github1s.com/habits-together/app/blob/HEAD/babel.config.js)
+
+
+**UI Libraries**
+[react-native-reusables](https://github.com/mrzachnugent/react-native-reusables)
