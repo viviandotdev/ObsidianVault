@@ -14,7 +14,7 @@ related:
 	1. [Video 2](https://www.youtube.com/watch?v=fX89gDDDp5M)
 3. [Medicine Reminder App by mendsalbert](https://github.com/mendsalbert/medicine-reminder-app)
 	1. [Video 3](https://www.youtube.com/watch?v=fcpZeYeINDw)
-
+4. [Fitness App](https://github.com/gervais-amoah/Fitness)
 **notjustdev**
 [GitHub - nextArtDev/not-just](https://github.com/nextArtDev/not-just)
 
