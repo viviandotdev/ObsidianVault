@@ -1,11 +1,11 @@
 ---
 created: 2025-07-23 07:28
-modified: 2025-07-23T07:28:38-04:00
+modified: 2025-07-23T07:30:28-04:00
 ---
-up::
-tags::
-
-#Using Environment Variables in Expo with EAS Build
+up:: [[expo]]
+tags:: [[eas-build]]
+source:: [Solution for Using Environment Variables in Expo with EAS Build : r/expo](https://www.reddit.com/r/expo/comments/1feh09e/solution_for_using_environment_variables_in_expo/)
+# Using Environment Variables in Expo with EAS Build
 
 ## Key References:
 
