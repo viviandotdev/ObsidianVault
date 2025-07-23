@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-22T19:13:42-04:00
+modified: 2025-07-22T20:35:38-04:00
 ---
 up:: [[programming]]
 tags:: 
@@ -40,3 +40,6 @@ once this is completed start creating with the template, read through the templa
 
 **UI Libraries**
 [react-native-reusables](https://github.com/mrzachnugent/react-native-reusables)
+
+**Supbase**
+[Mobile Frameworks Connection](https://supabase.com/dashboard/project/ttszcmojbdtylwpqxnqt/database/schemas?showConnect=true)
