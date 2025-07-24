@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-22T20:35:38-04:00
+modified: 2025-07-24T12:51:34-04:00
 ---
 up:: [[programming]]
 tags:: 
@@ -38,8 +38,17 @@ once this is completed start creating with the template, read through the templa
 [habits-together](https://github1s.com/habits-together/app/blob/HEAD/babel.config.js)
 
 
-**UI Libraries**
-[react-native-reusables](https://github.com/mrzachnugent/react-native-reusables)
 
 **Supbase**
 [Mobile Frameworks Connection](https://supabase.com/dashboard/project/ttszcmojbdtylwpqxnqt/database/schemas?showConnect=true)
+
+# links
+```dataview
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+
+SORT file.link asc
+```
+
+
