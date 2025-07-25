@@ -1,18 +1,23 @@
 ---
-modified: 2025-06-23T22:15:25-04:00
+modified: 2025-07-25T12:08:40-04:00
 ---
 tags:: [[leetcode]]
 
 [Two Pointers in 7 minutes | LeetCode Pattern - YouTube](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45&index=1)
-Iterate through an array or list looking for pairs of elements that meet a specific criteria
 
-**Conditions**- Sorted arrays or lists where you need to find pairs that satisfy a specific condition
-Sorted think of binary search
-Linear data structures -> arrays, strings and linked lists
-O(n^2) to O(n)
-
-Words-
-substring, contiguous, subarray
+**Properties of Two Pointers Problem**
+- **Medium `n` ($10^3$ to $10^6$)
+- **Input Format
+	- Sorted Array
+	- String (Palindromes)
+	- Linked list (fast/slow)
+- **Output Format**
+	- Modified Array/String (in-place operations)
+- **Keywords**
+	- Palindrome
+	- Sorted array
+	- Target sum
+	- Remove duplicates
 
 
 **Two pointers- same direction**
