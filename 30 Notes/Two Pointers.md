@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-25T13:09:40-04:00
+modified: 2025-07-25T13:12:09-04:00
 ---
 tags:: [[leetcode]]
 
@@ -24,38 +24,6 @@ tags:: [[leetcode]]
 - What do the left and right pointer represent?
 - How do you process the current elements ?
 - On what condition do you update the pointers?
-
-**Two pointers- same direction**
-[[remove-duplicates-from-sorted-array]]
-```python
-def two_pointers_same(arr):
-    slow, fast = 0, 0
-    while fast < len(arr):
-        # Process current elements
-        current = process(arr[slow], arr[fast])
-        
-        # Update pointers based on condition
-        if condition(arr[slow], arr[fast]):
-            slow += 1
-        
-        # Fast pointer always moves forward
-        fast += 1
-
-```
-
-**Two pointers- opposite direction**
-[[two-sum-ii-input-array-is-sorted]]
-```python
-def two_pointers_opposite(arr):
-    left, right = 0, len(arr) - 1
-    while left < right:
-        # Process current elements
-        current = process(arr[left], arr[right])
-        
-        # Update pointers based on condition
-        if condition(arr[left], arr[right]):
-            left += 1
-        else:
-            right -= 1
-
-```
+- How are the pointers being updated?
+	- left pointer or right pointer
+	- in which direction are the pointers being updated?
