@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-25T12:08:40-04:00
+modified: 2025-07-25T13:09:40-04:00
 ---
 tags:: [[leetcode]]
 
@@ -19,6 +19,11 @@ tags:: [[leetcode]]
 	- Target sum
 	- Remove duplicates
 
+
+**Decisions**
+- What do the left and right pointer represent?
+- How do you process the current elements ?
+- On what condition do you update the pointers?
 
 **Two pointers- same direction**
 [[remove-duplicates-from-sorted-array]]
