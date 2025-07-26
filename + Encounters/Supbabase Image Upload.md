@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-26T17:37:08-04:00
+modified: 2025-07-26T18:57:58-04:00
 ---
 1. Create a new bucket
 2. Select policies ![[Pasted image 20250726173555.png]]
