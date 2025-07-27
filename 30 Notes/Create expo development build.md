@@ -1,5 +1,5 @@
 ---
-modified: 2025-07-24T12:50:39-04:00
+modified: 2025-07-27T08:24:48-04:00
 ---
 tags:: [[expo]]
 
@@ -41,3 +41,4 @@ eas build --platform ios --profile development
 
 
 
+Each time you add a new expo library you will need to rebuild 
