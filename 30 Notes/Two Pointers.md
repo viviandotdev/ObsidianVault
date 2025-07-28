@@ -1,9 +1,7 @@
 ---
-modified: 2025-07-25T13:12:09-04:00
+modified: 2025-07-28T11:01:12-04:00
 ---
 tags:: [[leetcode]]
-
-[Two Pointers in 7 minutes | LeetCode Pattern - YouTube](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45&index=1)
 
 **Properties of Two Pointers Problem**
 - **Medium `n` ($10^3$ to $10^6$)
@@ -27,3 +25,4 @@ tags:: [[leetcode]]
 - How are the pointers being updated?
 	- left pointer or right pointer
 	- in which direction are the pointers being updated?
+
