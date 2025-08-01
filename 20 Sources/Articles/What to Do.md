@@ -1,22 +1,13 @@
 ---
-raindrop_id: 1027002857
-raindrop_highlights:
-  68120b9b167478870a32b7a8: 61d4b3f564daa8ee5b087b0619e24714
-  68120baaa8790a7f8185cdb4: dce08bf99f0f62039bc74b2b180a3d46
-  68120bc7a8790a7f8185d23e: 69f2eb3e6ebd050a8c416aea29b171b5
-  68120c40595ee5971447c716: 111bceb7f4a9ddee2b4263435f0c3f14
-  68120c5f38e83545c59cb427: 0f9bbd864d45a55e92e8552a4fcc9441
-
+modified: 2025-08-01T11:31:44-04:00
 ---
-
 tags::
 source:: https://paulgraham.com/do.html
 type:: #source/link
 
 ### What to Do
 
-
-
+Follow your curiosity and try to make good new things
 #### Highlights
 
 > [!quote]+ Updated on Wed Apr 30 2025 07:41:19 GMT-0400
