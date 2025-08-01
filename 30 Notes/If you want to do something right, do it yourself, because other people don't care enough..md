@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T17:58:24-04:00
+modified: 2025-08-01T18:21:24-04:00
 ---
 up:: [[My Perspectives]]
 type:: #note/concept 
