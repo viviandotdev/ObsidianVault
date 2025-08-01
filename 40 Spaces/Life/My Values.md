@@ -1,6 +1,6 @@
 ---
 created: 2024-11-12 14:12
-modified: 2025-08-01T18:58:22-04:00
+modified: 2025-08-01T19:39:53-04:00
 ---
 up:: [[Life Map]]
 ## Values and Beliefs
@@ -12,7 +12,7 @@ up:: [[Life Map]]
 [[relationships]]
 - [[I only believe in peer relationships.]]
 - [[I don’t believe in anger anymore.]]
-- [[I believe in honesty and being my true self. ]]I want to put my self in environments where I can be honest with my self. I want to be able to be myself and can act without filtering my actions or words. I don’t want to be around people that I can’t be fully honest with 
+- [[I believe in honesty and being my true self. ]]
 - [[I think it is better to assume the better of people then to assume the worst of people.]]
 
 [[life]]
