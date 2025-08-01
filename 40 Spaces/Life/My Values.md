@@ -1,6 +1,6 @@
 ---
 created: 2024-11-12 14:12
-modified: 2025-08-01T18:39:50-04:00
+modified: 2025-08-01T18:43:52-04:00
 ---
 up:: [[Life Map]]
 ## Values and Beliefs
@@ -25,6 +25,7 @@ up:: [[Life Map]]
 One of the best ways to test other people's temper is to test their patience over small things. If they get upset over the littlest things then that is gives you a clue into the way they will react over larger issues.
 
 
+[LIVE BY YOUR VALUES — Almanack of Naval Ravikant](https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values)
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
