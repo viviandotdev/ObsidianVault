@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T19:48:01-04:00
+modified: 2025-08-01T19:54:16-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -8,16 +8,11 @@ tags:: #map/view
 This is a place to track your various *outputs*. 
 
 **Topics of interest you want to read, learn and think about**
-
 - [[ai]]
 - [[self-improvement]]
-	- [[success]], [[productivity]] and how to live a good life
-		- what to work on?
-		- how to work on it?
-	- [[The Pathless Path by Paul Millerd]]
-	- 
-	- The Courage to be Disliked
-		- Integral psychology
+	- [[success]]
+	- [[productivity]] 
+	- Integral psychology
 		- spiral dynamics
 		- the 9 stages of ego development
 - [[health]]
@@ -29,8 +24,8 @@ This is a place to track your various *outputs*.
 	- [[money]]
 
 **Job Search**
-[[leetcode]]
-[[system-design]]
+- [[leetcode]]
+- [[system-design]]
 
 
 ```dataview

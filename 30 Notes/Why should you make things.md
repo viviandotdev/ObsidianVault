@@ -1,7 +1,8 @@
 ---
-modified: 2025-08-01T19:50:12-04:00
+modified: 2025-08-01T19:52:52-04:00
 ---
 type:: #note/mini-essay
+tags:: [[self-improvement]]
 status:: #🟩 
 
 **Why should you make things**
