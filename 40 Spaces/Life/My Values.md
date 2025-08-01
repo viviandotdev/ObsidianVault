@@ -1,13 +1,13 @@
 ---
 created: 2024-11-12 14:12
-modified: 2025-08-01T18:22:17-04:00
+modified: 2025-08-01T18:39:50-04:00
 ---
 up:: [[Life Map]]
 ## Values and Beliefs
 
 
-- I don’t believe in anger anymore.
-	- I don't believe in getting angry, i think anger shows a lack of control over your own emotions. Often getting angry hurts another individual emotionally or physically which is not some thing i want to do. I’ve always been the one who has been hurt my other people’s anger, I know how much pain and how much sucks to receive someone else’s anger so I know that I would never want to make someone feel that way which is why I don’t get angry
+- [[I don’t believe in anger anymore.]]
+
 - I don’t believe in any short-term thinking or dealing.
 - I believe in honesty and being my true self. I want to put my self in environments where I can be honest with my self. I want to be able to be myself and can act without filtering my actions or words. I don’t want to be around people that I can’t be fully honest with 
 - I think it is better to assume the better of people then to assume the worst of people.

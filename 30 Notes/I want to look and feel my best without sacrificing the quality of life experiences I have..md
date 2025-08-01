@@ -1,9 +1,9 @@
 ---
 created: 2025-08-01 18:22
-modified: 2025-08-01T18:34:12-04:00
+modified: 2025-08-01T18:38:09-04:00
 ---
 up:: [[My Values]]
-tags::
+tags:: [[health]] [[fitness]]
 ## I want to look and feel my best without sacrificing the quality of life experiences I have.
 
 <!--
@@ -14,6 +14,6 @@ Define the behaviors that align with this value. These actions will guide you ba
 	- Order of eating
 		- protein -> vegetables -> carbs
 - I don't really have a strict diet, I just eat what ever I want whenever I want
-- Natuarlly when I feel heavy or sluggish my appetite will decrease and I will exercise more to bring down to my baseline weight
+- Naturally when I feel heavy or sluggish my appetite will decrease and I will exercise more to bring down to my baseline weight
 
 <!--Other insights -->
