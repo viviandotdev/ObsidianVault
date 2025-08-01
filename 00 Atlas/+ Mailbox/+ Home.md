@@ -13,7 +13,7 @@ Your launchpad and home base.
 **Life**
 [[My Perspectives]]
 [[My Finances]]
-[[My Fitness]]
+[[My Health]]
 
 **Hobbies**
 [[drawing]]

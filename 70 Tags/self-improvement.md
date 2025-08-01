@@ -1,14 +1,18 @@
 ---
 created: 2025-08-01 12:46
-modified: 2025-08-01T12:46:55-04:00
+modified: 2025-08-01T12:47:37-04:00
 ---
 ## self-improvement
 
 [[success]]
 
-[[ha]]
+[[habits]]
+
+[[happiness]]
 
 [[productivity]]
+
+[[goals]]
 
 ```dataview
 LIST

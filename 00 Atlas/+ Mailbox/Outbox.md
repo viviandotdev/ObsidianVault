@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T12:46:33-04:00
+modified: 2025-08-01T12:49:19-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -19,10 +19,10 @@ This is a place to track your various *outputs*.
 		- Integral psychology
 		- spiral dynamics
 		- the 9 stages of ego development
-- Health and fitness (applied to climbing) understanding how the human body works and what is good for it and how it functions
+- [[health]]
+	- [[nutrition]]
 	- [[fasting]] 
 	- [[calisthenics]]
-	- [[nutrition]]
 	- [[bouldering]]
 - [[capitalism]] (understanding how the world works and the game i am playing)
 	- [[money]]
