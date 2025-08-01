@@ -1,11 +1,11 @@
 ---
 created: 2025-08-01 11:28
-modified: 2025-08-01T11:30:15-04:00
+modified: 2025-08-01T17:30:29-04:00
 ---
 type:: #note/mini-essay 
 tags:: [[ai]]
 status:: #🟩 
-## AI cannot replace you
+## AI Won't Replace Humans 
 
 - AI takes away that decision making process, **with a single prompt it is making hundreds or thousands of decisions for you**, however by doing that it is not creating anything interesting or new since it is **just gathering the average** 
 	- These are the decisions that you want to make that makes the creation feel like it’s yours, **what’s the point of creating something if you’re not even the one creating** and just outsourcing to artificial intelligence.
