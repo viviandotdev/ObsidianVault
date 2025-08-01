@@ -1,6 +1,6 @@
 ---
 created: 2023-09-07 16:28
-modified: 2025-06-16T14:20:41-04:00
+modified: 2025-08-01T11:08:43-04:00
 ---
 up:: [[+ Library]]
 
@@ -77,10 +77,6 @@ gather list of high prioiryty questioms , do the time table on them
 
 each time you study add the date and confidence
 
-
-| Design Blach LCah |     |     |
-| ----------------- | --- | --- |
-|                   |     |     |
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
