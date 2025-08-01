@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T11:31:44-04:00
+modified: 2025-08-01T11:32:28-04:00
 ---
 tags::
 source:: https://paulgraham.com/do.html
@@ -7,7 +7,7 @@ type:: #source/link
 
 ### What to Do
 
-Follow your curiosity and try to make good new things
+Follow your curiosity and make good new things
 #### Highlights
 
 > [!quote]+ Updated on Wed Apr 30 2025 07:41:19 GMT-0400

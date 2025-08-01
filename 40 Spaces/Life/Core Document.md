@@ -1,9 +1,9 @@
 ---
 created: 2025-07-11 19:40
-modified: 2025-08-01T10:25:09-04:00
+modified: 2025-08-01T11:33:20-04:00
 ---
-up::
-tags::
+up:: [[Life Map]]
+tags:: [[productivity]]
 ## Core Document
 
 Note-taking => **Obsidian** (Confluence)
@@ -24,3 +24,6 @@ Browser  ARC
 Maintaining the system everyday, you need to spend some time maintaining the system this is light work I think you can do at the end of the day after you finish all your main tasks,
 morning i think should be for d**rawing, something fun to do before work that you enjoy** 
 drawing is a creative hobby
+
+**Sources**
+Cal newport core document
