@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T12:37:48-04:00
+modified: 2025-08-01T12:46:33-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -8,14 +8,17 @@ tags:: #map/view
 This is a place to track your various *outputs*. 
 
 **Topics of interest you want to read, learn and think about**
-- Integral psychology
-	- spiral dynamics
-	- the 9 stages of ego development
+
 - [[ai]]
-- [[philosophy]]
+- [[self-improvement]]
 	- [[success]], [[productivity]] and how to live a good life
 		- what to work on?
 		- how to work on it?
+	- the pathless path
+	- the courage to be disliked
+		- Integral psychology
+		- spiral dynamics
+		- the 9 stages of ego development
 - Health and fitness (applied to climbing) understanding how the human body works and what is good for it and how it functions
 	- [[fasting]] 
 	- [[calisthenics]]
