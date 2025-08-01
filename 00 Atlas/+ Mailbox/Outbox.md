@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T12:55:04-04:00
+modified: 2025-08-01T17:35:46-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -14,8 +14,8 @@ This is a place to track your various *outputs*.
 	- [[success]], [[productivity]] and how to live a good life
 		- what to work on?
 		- how to work on it?
-	- the pathless path
-	- the courage to be disliked
+	- The Pathless Path
+	- The Courage to be Disliked
 		- Integral psychology
 		- spiral dynamics
 		- the 9 stages of ego development
