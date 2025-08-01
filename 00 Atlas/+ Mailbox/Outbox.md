@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T12:10:17-04:00
+modified: 2025-08-01T12:37:48-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -12,8 +12,6 @@ This is a place to track your various *outputs*.
 	- spiral dynamics
 	- the 9 stages of ego development
 - [[ai]]
-	- what are the pros of ai
-	- what are the cons of ai and how it affects society
 - [[philosophy]]
 	- [[success]], [[productivity]] and how to live a good life
 		- what to work on?

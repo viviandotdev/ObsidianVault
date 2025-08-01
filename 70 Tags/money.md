@@ -1,7 +1,6 @@
 ---
 created: 2025-06-15 07:07
-modified: 2025-06-15T13:01:20-04:00
-
+modified: 2025-08-01T12:39:28-04:00
 ---
 ## money
 
@@ -9,6 +8,7 @@ modified: 2025-06-15T13:01:20-04:00
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Outbox")
 SORT file.link asc
 ```

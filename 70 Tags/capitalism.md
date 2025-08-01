@@ -1,6 +1,6 @@
 ---
 created: 2025-06-15 13:52
-modified: 2025-08-01T12:06:48-04:00
+modified: 2025-08-01T12:40:00-04:00
 ---
 ## capitalism
 **how does capitalism even work?**
@@ -21,10 +21,14 @@ modified: 2025-08-01T12:06:48-04:00
 
 **what are stock buybacks and how did they make CEOs rich?**
 [How American CEOs got so rich - YouTube](https://www.youtube.com/watch?v=ylLTMYt24lA)
+
+
+
+### Links
 ```dataview
 LIST
 FROM [[#]]
 and !outgoing([[#]])
-
+WHERE !contains(file.name, "Outbox")
 SORT file.link asc
 ```
