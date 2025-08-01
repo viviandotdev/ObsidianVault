@@ -1,12 +1,12 @@
 ---
-modified: 2025-08-01T11:31:16-04:00
+modified: 2025-08-01T19:50:12-04:00
 ---
 type:: #note/mini-essay
-status:: #🟨 
+status:: #🟩 
 
 **Why should you make things**
-- [[Make things that you would like to see exist]]
-- [[Make things to prove to yourself that you can, don’t do it for the users, or money, do it because you can]]
+- Make things that you would like to see exist
+- Make things to prove to yourself that you can, don’t do it for the users, or money, do it because you can
 - Making good new things is proof of thinking
 	- When making new things there are thousands of decisions that need to made to create a good product
 	- If you make all the "correct" decisions you will make something good
@@ -15,4 +15,4 @@ status:: #🟨
 - Make something wonderful so you can put it back in the stream of humanity
 
 [[20 Sources/Articles/What to Do|What to Do]]
-Make Something Wonderful (Steve Jobs)
+[[Make Something Wonderful (Steve Jobs)]]
