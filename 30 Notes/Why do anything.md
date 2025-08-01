@@ -1,6 +1,7 @@
 ---
-modified: 2025-07-20T20:12:19-04:00
+modified: 2025-08-01T11:04:13-04:00
 ---
+tags:: [[success]] 
 type:: #note/mini-essay
 status:: #🟥 
 
@@ -15,8 +16,8 @@ status:: #🟥
 - When making new things there are thousands of decisions that need to made to create a good product
 - If you make all the "correct" decisions you will make something good
 
-**Intrinsic motivation**
-[[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
+
+[[Make things to prove to myself that I can, don't do it for the users, or money, do it because you can]]
 
 
 

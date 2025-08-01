@@ -1,9 +1,10 @@
 ---
 created: 2024-04-22 08:44
-modified: 2025-07-20T20:10:47-04:00
+modified: 2025-08-01T11:01:24-04:00
 ---
 type:: #note/mini-essay
 tags:: [[learning]]
+status:: #🟩
 ## Embracing the Struggle - The Power of the Generation Effect in Learning
 
 The "Generation Effect" suggests that **struggling to generate answers on your own, even if incorrect, enhances subsequent learning.**
