@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-08-01T17:54:59-04:00
+modified: 2025-08-01T17:57:34-04:00
 ---
 ## My Workflows
 
@@ -31,6 +31,8 @@ modified: 2025-08-01T17:54:59-04:00
 [[My writing workflow]]
 [[My brainstorming workflow]]
 [[My unique perspective template]]
+[[How to Write Atomic Notes]]
+[[How to Write an Atomic Essay]]
 
 **Protocols**
 [[Protocol to Fight Distractions]]

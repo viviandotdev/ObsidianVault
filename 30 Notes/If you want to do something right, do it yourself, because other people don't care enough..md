@@ -1,8 +1,8 @@
 ---
-modified: 2025-06-23T20:11:49-04:00
+modified: 2025-08-01T17:58:24-04:00
 ---
+up:: [[My Perspectives]]
 type:: #note/concept 
-tags:: #🟨 
 ## If you want to do something right, do it yourself, because other people don't care enough. 
 
 **Topic**
@@ -10,9 +10,8 @@ tags:: #🟨
 
 **References**
 <!-- What quotes, books, or external content are relevant to this topic? Where did you find this information? -->
-
 Which is to say: If you want to do something right, do it yourself; because other people just don’t care enough.”- Naval Ravikant
-[Principal-Agent Problem explained | Medium](https://medium.com/@DenisBischof/if-you-want-it-done-go-if-not-send-principal-agent-problem-9efab5fd6360
+[Principal-Agent Problem explained | Medium](https://medium.com/@DenisBischof/if-you-want-it-done-go-if-not-send-principal-agent-problem-9efab5fd6360)
 
 **Braindump, Summary, & Reference Notes**
 <!-- What thoughts, summaries, and existing notes come to mind regarding this topic? -->

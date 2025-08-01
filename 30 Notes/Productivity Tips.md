@@ -1,8 +1,7 @@
 ---
 created: 2024-02-07 12:46
-modified: 2025-08-01T11:11:48-04:00
+modified: 2025-08-01T17:57:40-04:00
 ---
-up::  [[My Workflows]]
 tags:: [[productivity]]
 
 ## Productivity Tips
