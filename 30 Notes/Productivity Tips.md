@@ -1,6 +1,6 @@
 ---
 created: 2024-02-07 12:46
-modified: 2025-06-23T20:26:50-04:00
+modified: 2025-08-01T11:11:48-04:00
 ---
 up::  [[My Workflows]]
 tags:: [[productivity]]
@@ -17,6 +17,7 @@ tags:: [[productivity]]
 	- I try to prioritize in a way that generates momentum.  The more I get done, the better I feel, and then the more I get done.  I like to **start and end each day with something I can really make progress on.**
 	- When overwhelmed by a task make list.
 	- list yearly, monthly, weekly and daily goals
+	-  Lists are very focusing, if you are not in the mood of a something you can always find something exciting from that list
 	- break projects down into lists
 		- write these lists down on paper, re transcribe them to think about them
 - **Leave work slightly unfinished for easier flow the next day**
