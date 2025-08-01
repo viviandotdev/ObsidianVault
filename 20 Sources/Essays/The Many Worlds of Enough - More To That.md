@@ -1,6 +1,6 @@
 ---
 raindrop_id: 777297582
-modified: 2025-08-01T17:41:10-04:00
+modified: 2025-08-01T17:43:59-04:00
 ---
 
 tags::
@@ -10,13 +10,13 @@ type:: #source/article
 ### The Many Worlds of Enough - More To That
 
 Enough is elusive because when you reach it, you're no longer the person that once desired it.
-[[Self actualization]]
+
 	
 #### Highlights
 
 > [!quote]+ Updated on Tue Nov 12 2024 17:35:37 GMT-0500
 >
-> Ambition is largely driven by self-actualization, or the desire to become a more capable person. And when this happens, it’s only natural that good outcomes arise. You’ll witness bumps in your reputation, be offered higher salaries, and so on. But these things happen as a byproduct of your ambition, and not because these outcomes were your primary desires.
+> Ambition is largely driven by [[Self actualization]], or the desire to become a more capable person. And when this happens, it’s only natural that good outcomes arise. You’ll witness bumps in your reputation, be offered higher salaries, and so on. But these things happen as a byproduct of your ambition, and not because these outcomes were your primary desires.
 
 > [!quote]+ Updated on Tue Nov 12 2024 17:35:37 GMT-0500
 >
