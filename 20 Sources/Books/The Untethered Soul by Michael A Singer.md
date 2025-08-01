@@ -1,9 +1,8 @@
 ---
 title: The Untethered Soul
 author: Michael A. Singer
-status: currently-reading
 created: 2024-02-27 07:27
-modified: 2025-06-16T08:42:59-04:00
+modified: 2025-08-01T17:38:44-04:00
 ---
 up:: [[Bookshelf]]
 tags:: [[philosophy]] [[spirituality]] 

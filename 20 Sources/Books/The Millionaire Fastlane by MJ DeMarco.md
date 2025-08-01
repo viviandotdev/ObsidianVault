@@ -1,9 +1,8 @@
 ---
 title: The Millionaire Fastlane
 author: MJ DeMarco
-status: reviewing
 created: 2024-04-26 06:49
-modified: 2025-06-23T20:06:38-04:00
+modified: 2025-08-01T17:38:41-04:00
 ---
 up:: [[Bookshelf]]
 tags:: [[success]] [[money]]

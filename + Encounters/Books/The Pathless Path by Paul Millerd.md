@@ -1,15 +1,16 @@
 ---
 title: The Pathless Path
 author: Paul Millerd
-status: 🟨
 created: 2025-08-01 17:36
-modified: 2025-08-01T17:37:02-04:00
+modified: 2025-08-01T17:39:42-04:00
+status: 🟨
 ---
 up:: [[Bookshelf]]
 tags::
 type:: #source/book
 # The Pathless Path
 by [[Paul Millerd]]
+
 
 **Motive**:
 <!-- What motivated you to read this book? -->

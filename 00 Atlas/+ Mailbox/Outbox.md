@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T17:35:46-04:00
+modified: 2025-08-01T17:37:38-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -13,7 +13,7 @@ This is a place to track your various *outputs*.
 - [[self-improvement]]
 	- [[success]], [[productivity]] and how to live a good life
 		- what to work on?
-		- how to work on it?
+		- how to work on it?[[Amusing Ourselves to Death by Neil Postman]]
 	- The Pathless Path
 	- The Courage to be Disliked
 		- Integral psychology

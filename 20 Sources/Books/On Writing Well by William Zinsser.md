@@ -1,9 +1,8 @@
 ---
 title: On Writing Well
 author: William Zinsser
-status: currently-reading
 created: 2024-02-28 17:50
-modified: 2025-06-15T20:29:07-04:00
+modified: 2025-08-01T17:38:22-04:00
 ---
 up:: [[Bookshelf]]
 tags:: [[writing]]

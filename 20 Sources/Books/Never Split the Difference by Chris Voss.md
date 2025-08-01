@@ -1,11 +1,10 @@
 ---
 created: 2023-11-27 13:07
-modified: 2025-06-15T18:28:21-04:00
+modified: 2025-08-01T17:38:18-04:00
 title: Never Split the Difference
 author: Chris Voss
 ---
 up::  [[Bookshelf]]
-status:: summarized
 tags::  [[communication]] [[relationships]]
 type:: #source/book
 

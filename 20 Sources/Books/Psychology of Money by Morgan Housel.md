@@ -1,11 +1,10 @@
 ---
 created: 2024-01-15 11:39
-modified: 2025-06-15T20:38:03-04:00
+modified: 2025-08-01T17:38:29-04:00
 title: Psychology of Money
 author: Morgan Housel
 ---
 up::  [[Bookshelf]]
-status:: summarized
 tags:: [[#psychology]] [[My Finances]] 
 type:: #source/book
 highlights:: [[Psychology of Money Highlights]]

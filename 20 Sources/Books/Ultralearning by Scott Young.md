@@ -1,12 +1,10 @@
 ---
 created: 2024-02-07 13:06
-modified: Wednesday 7th February 2024 13:06:46
-
+modified: 2025-08-01T17:39:22-04:00
 title: Ultralearning
 author: Scott Young
 ---
 up::  [[Bookshelf]]
-status:: summarized
 tags:: [[learning]] [[productivity]]
 type:: #source/book
 
@@ -66,7 +64,6 @@ Principles allow you to solve problems, even those you may have never encountere
         - convince yourself to spend only 5 minutes on the task before you can stop and do something else.
             - use the pomodoro technique- to practice increasing lengths of focus.
     - **Failing to sustain focus**
-
         - flow- state of mind of being "in the zone". you stop being distracted by your own thoughts and your mind is completely absorbed by the task.
         - 50 min - 1 hour then a break in between
             - Distractions
@@ -94,9 +91,7 @@ Principles allow you to solve problems, even those you may have never encountere
 
     - when have the ability to transfer what you learn in a classroom in a another context such are real-life.
         - we expect high-school student who take college level courses to do better in college. however this was found to be not the case.
-
     **How to learn Directly**
-
     1. Project Based Learning
         1. organize your learning around producing something.
         2. in class you can spend a lot of time taking notes but not achieving your goal.
@@ -114,33 +109,19 @@ Principles allow you to solve problems, even those you may have never encountere
 drills- simplify the skills enough so you can focus your cognitive resources on a single aspect.
 
 direct-then drill- first practice the skill directly by figuring out how the skill will be used and try to match that situation as close as possible. then analyze the skill and isolate the components that are difficult to improve
-
     **Tactics for Designing Drills**
-
     Time Slicing- isolate a slice of time for a longer sequence of actions
-
     musicians will identify the hardest part of a piece and practice it perfectly before integrating it back into the entire song.
-
     Cognitive Components-
-
     drill only once component when in practice others will be applied at the same time.
-
     in Chinese learning tones, practice pronouncing pairs of words with different tones and recording himself. he could practice producing different tones without the distraction of remembering what the words mean or how to form grammatically correct sentences.
-
     The Copycat-
-
     do the work of others.
-
     when drawing not only did he draw from photos he also drew from other drawings other people had done. this helped him focus on simplifying decisions on how to frame a scene and which details to include.
-
-    Magnifying Class Method
-
+    **Magnifying Class Method**
     spend more time on the component of a skill you wouldn't otherwise
-
     to improve research ability spend more time doing researching than you previously would have
-
-    Prerequisite chaining
-
+    **Prerequisite chaining**
     when a skill is too hard it may be cause you don't have all the prerequisites for it. go back and learn the foundational topics and repeat to fill your gaps.
 
 ### Retrieval: Test to Learn

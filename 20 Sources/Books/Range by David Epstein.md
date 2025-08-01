@@ -1,11 +1,10 @@
 ---
 created: 2024-01-16 10:47
-modified: 2025-06-16T08:40:04-04:00
+modified: 2025-08-01T17:38:31-04:00
 title: Range
 author: David Epstein
 ---
 up::  [[Bookshelf]]
-status:: summarized
 tags:: [[learning]]
 type:: #source/book
 

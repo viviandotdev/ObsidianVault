@@ -1,7 +1,6 @@
 ---
 created: 2023-11-07 20:07
-modified: 2025-06-15T20:33:33-04:00
-
+modified: 2025-08-01T17:38:25-04:00
 title: Playing well with others
 author: Eric Barker
 ---

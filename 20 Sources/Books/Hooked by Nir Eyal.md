@@ -1,11 +1,10 @@
 ---
-title: Hooked: How to Build Habit-Forming Products
+title: Hooked- How to Build Habit-Forming Products
 subtitle: How to Build Habit-Forming Products
 author: Nir Eyal
-modified: 2025-06-22T06:13:10-04:00
+modified: 2025-08-01T17:38:12-04:00
 ---
 up::  [[Bookshelf]]
-status:: summarized
 type:: #source/book 
 tags:: [[#habits]] [[#psychology]]
 dates:: December 25, 2013

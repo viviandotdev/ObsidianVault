@@ -1,11 +1,9 @@
 ---
 title: Atomic Habits
 author: James Clear
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+modified: 2025-08-01T17:37:47-04:00
 ---
 up::  [[Bookshelf]]
-status:: summarized
 tags:: [[#psychology]] [[#habits]]
 type:: #source/book
 # Atomic Habits Summary (by James Clear)

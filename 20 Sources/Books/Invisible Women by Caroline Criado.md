@@ -1,12 +1,11 @@
 ---
 created: 2024-01-06 20:17
-modified: 2025-06-16T08:41:14-04:00
+modified: 2025-08-01T17:38:17-04:00
 title: Invisible Women
 author: Caroline Criado Perez
 ---
 up::  [[Bookshelf]]
 tags:: [[politics]]
-status:: summarized
 type:: #source/book
 
 ##  Invisible Women
