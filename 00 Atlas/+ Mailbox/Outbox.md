@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T12:49:19-04:00
+modified: 2025-08-01T12:55:04-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -24,7 +24,7 @@ This is a place to track your various *outputs*.
 	- [[fasting]] 
 	- [[calisthenics]]
 	- [[bouldering]]
-- [[capitalism]] (understanding how the world works and the game i am playing)
+- [[capitalism]]
 	- [[money]]
 
 **Job Search**

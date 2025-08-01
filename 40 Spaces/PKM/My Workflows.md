@@ -30,7 +30,7 @@ modified: 2025-07-01T18:54:03-04:00
 **Outputs workflow**
 [[My writing workflow]]
 [[My brainstorming workflow]]
-[[My unique perspective workflow]]
+[[My unique perspective template]]
 
 **Protocols**
 [[Protocol to Fight Distractions]]

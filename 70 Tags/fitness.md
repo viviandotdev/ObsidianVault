@@ -48,6 +48,7 @@ Workout routine
 [Foundational Fitness Protocol - Huberman Lab - Huberman Lab](https://www.hubermanlab.com/newsletter/foundational-fitness-protocol)
 [Fitness Protcol](https://cdn.prod.website-files.com/64416928859cbdd1716d79ce/650e450994ef9ab775e16acf_Neural_Network_Newsletter_Foundational_Fitness_Protocol.pdf)
 
+[Mover's Odyssey - YouTube](https://www.youtube.com/@moversodyssey/videos)
 ```dataview
 LIST
 FROM [[#]]

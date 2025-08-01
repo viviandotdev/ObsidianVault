@@ -1,9 +1,9 @@
 ---
-modified: 2025-07-14T09:30:39-04:00
+modified: 2025-08-01T12:55:34-04:00
 ---
 up:: [[Life Map]]
 ### My Perspectives
-[[My unique perspective workflow]]
+[[My unique perspective template]]
 
 
 [[happiness]]
@@ -22,7 +22,6 @@ up:: [[Life Map]]
 [[learning]]
 - [[Learning how to learning is the ultimate skill that will give you the power to do what you love]]
 - [[Learning is one of the most pleasurable experiences in life]]
-- [[When you learn something new, learn it as if you are going to explain it someone in the next 48 hours]]
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 	- [[You must write bad code before you can write good code.]]
 	- [[You must write badly before you can learn to write well]]

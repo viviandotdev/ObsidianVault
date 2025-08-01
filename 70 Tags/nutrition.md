@@ -1,10 +1,17 @@
 ---
 created: 2025-08-01 12:50
-modified: 2025-08-01T12:51:51-04:00
+modified: 2025-08-01T12:53:32-04:00
 ---
 up:: [[My Health]]
 ## nutrition
+**My Diet**
+- 2 Eggs
 
+**Lunch**
+- I like to skip lunch sometimes and go climbing instead
+
+**Dinner**
+- I will have a bigger dinner if I skip lunch
 
 Slow Carb Diet
 
