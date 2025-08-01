@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23 17:11
-modified: 2025-07-01T18:54:03-04:00
+modified: 2025-08-01T17:54:59-04:00
 ---
 ## My Workflows
 
@@ -25,7 +25,7 @@ modified: 2025-07-01T18:54:03-04:00
 
 **Inputs workflow**
 [[My reading workflow|My reading workflow]]
-
+[[How to take book notes]]
 
 **Outputs workflow**
 [[My writing workflow]]
@@ -37,7 +37,10 @@ modified: 2025-07-01T18:54:03-04:00
 ### Productivity System
 [Ultimate Brain.](https://thomasfrank.notion.site/Ultimate-Brain-Creator-s-Companion-Hub-536903bad2f44dfab9eb87f2bf459d5a)
 
-
+### Process
+[[How I use AI]]
+[[How to start a programming project]]
+[[Software Developer Workflow]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview

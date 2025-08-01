@@ -1,8 +1,8 @@
 ---
 created: 2024-05-10 20:55
-modified: 2025-06-15T18:40:26-04:00
+modified: 2025-08-01T17:54:08-04:00
 ---
-status:: #🟨
+up:: [[My Workflows]]
 ## How to start a programming project
 
 **Pre Development**

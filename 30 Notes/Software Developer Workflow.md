@@ -1,7 +1,6 @@
 ---
 created: 2024-02-07 08:25
-modified: 2025-06-15T21:01:32-04:00
-
+modified: 2025-08-01T17:55:08-04:00
 ---
 up::  [[My Workflows]]
 tags:: [[productivity]] [[coding]]
@@ -14,7 +13,7 @@ source::
 2. Break the story into subtasks
 3. Pull from develop
 4. Create new branch (Git Kraken)
-5. feature, chore (code cleanup), bug or defect/JIRA-ID/3-word summary
+5. Feature, chore (code cleanup), bug or defect/JIRA-ID/3-word summary
 6. Start at repo layer and move to the view
 7. one commit per file?
 8. create bulleted list

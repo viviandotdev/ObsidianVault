@@ -1,5 +1,5 @@
 ---
-modified: 2025-08-01T17:37:38-04:00
+modified: 2025-08-01T17:53:10-04:00
 ---
 up:: [[+ Home]]
 tags:: #map/view 
@@ -30,6 +30,8 @@ This is a place to track your various *outputs*.
 **Job Search**
 [[leetcode]]
 [[system-design]]
+
+
 ```dataview
 TABLE WITHOUT ID
  file.link as Outputs,
