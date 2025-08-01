@@ -1,13 +1,11 @@
 ---
 created: 2024-11-12 14:12
-modified: 2025-08-01T19:39:53-04:00
+modified: 2025-08-01T19:43:14-04:00
 ---
 up:: [[Life Map]]
 ## Values and Beliefs
+Values are the principles and beliefs that guide our actions, decisions, and overall outlook on life
 
-
-- 
-- [[I don’t believe in any short-term thinking or dealing.]]
 
 [[relationships]]
 - [[I only believe in peer relationships.]]
@@ -18,7 +16,7 @@ up:: [[Life Map]]
 [[life]]
 - [[I value freedom and flexibility over my time more than money]]
 - [[I want to look and feel my best without sacrificing the quality of life experiences I have.]]
-
+- [[I don’t believe in any short-term thinking or dealing.]]
 
 
 
@@ -32,6 +30,6 @@ LIST
 FROM [[#]]
 and !outgoing([[#]])
 and -#map
-
+WHERE !contains(file.name, "values")
 SORT file.link asc
 ```
