@@ -1,9 +1,9 @@
 ---
 created: 2025-08-01 20:01
-modified: 2025-08-01T21:25:05-04:00
+modified: 2025-08-01T21:25:49-04:00
 ---
 up:: [[My Values]]
-tags::
+tags:: [[autonomy]]
 ## I value being able to produce original thought instead of being told what to think
 
 <!--
