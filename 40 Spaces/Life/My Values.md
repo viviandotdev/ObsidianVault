@@ -1,6 +1,6 @@
 ---
 created: 2024-11-12 14:12
-modified: 2025-08-01T19:43:14-04:00
+modified: 2025-08-01T20:01:36-04:00
 ---
 up:: [[Life Map]]
 ## Values and Beliefs
@@ -17,6 +17,7 @@ Values are the principles and beliefs that guide our actions, decisions, and ove
 - [[I value freedom and flexibility over my time more than money]]
 - [[I want to look and feel my best without sacrificing the quality of life experiences I have.]]
 - [[I don’t believe in any short-term thinking or dealing.]]
+- [[I value being able to produce original thought instead of being told what to think]]
 
 
 
