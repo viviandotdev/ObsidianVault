@@ -46,6 +46,10 @@ system should not be predictable.
 
 ### Data Model
 Given our URL shortening service's non-relational nature and need to handle significant data and traffic, NoSQL databases like MongoDB or Cassandra are ideal due to their seamless horizontal scalability.
+In a URL shortener, the core entities are very straightforward:
+**Original URL**: The original long URL that the user wants to shorten.
+**Short URL**: The shortened URL that the user receives and can share.
+**User**: Represents the user who created the shortened URL.
 
 **Database Schema**
 ![[URL Shortener- Database Schema.svg]]
