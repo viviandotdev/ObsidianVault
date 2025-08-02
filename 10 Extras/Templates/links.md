@@ -1,6 +1,3 @@
----
-modified: 2025-08-01T21:35:15-04:00
----
 ### Notes
 ```dataview
 LIST

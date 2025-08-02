@@ -4,7 +4,7 @@ author: Eric Barker
 modified: 2025-08-01T17:37:53-04:00
 ---
 up:: [[Bookshelf]]
-tags:: [[success]]
+tags:: [[success]] [[happiness]]
 type:: #source/book
 
 # Barking Up the Wrong Tree

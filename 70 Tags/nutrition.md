@@ -1,6 +1,6 @@
 ---
 created: 2025-08-01 12:50
-modified: 2025-08-01T12:53:32-04:00
+modified: 2025-08-01T21:35:45-04:00
 ---
 up:: [[My Health]]
 ## nutrition
@@ -20,12 +20,28 @@ Slow Carb Diet
 [[Slow Carb Diet]]
 
 - eating more protein, try to drink protein before a meal
-- exercise everyday even if it is just a walk
+- exercis
 
+### Notes
 ```dataview
 LIST
-FROM [[#]]
+FROM "30 Notes" AND [[#]]
 and !outgoing([[#]])
 WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
+SORT file.link asc
+```
+
+### Sources
+```dataview
+LIST
+FROM "20 Sources" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
 SORT file.link asc
 ```
