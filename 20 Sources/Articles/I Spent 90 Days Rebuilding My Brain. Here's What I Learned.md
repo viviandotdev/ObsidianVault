@@ -10,6 +10,9 @@ type:: #source/article
 Writing is the thinking, you need to write to output your thoughts and ideas.
 You need to be able generate your ideas and opinions without relying on external sources
 Having original thought is satisfynig
+- Your brain needs to boredom
+- Satisfaction of original thought, this what you should chase, this is why I build my brain and ideas
+
 #### Highlights
 
 > [!quote]+ Updated on Mon Jul 07 2025 06:16:33 GMT-0400

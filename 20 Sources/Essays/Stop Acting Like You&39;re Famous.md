@@ -17,6 +17,10 @@ Find something you enjoy doing and do it because you enjoy
 I want to make apps because I enjoy it, I like the process of make technology do what I want to do.
 I want all of the decisions I make to be mine
 
+
+**Stop acting like your famous no one gives a shit** about what you do just make it and put it out there
+No one cares what you did, you don’t have to worry about being famous 
+Why are you scared of the criticism when there is literally no one to give you the criticism
 #### Highlights
 
 > [!quote]+ Updated on Sat Apr 27 2024 08:34:29 GMT-0400
