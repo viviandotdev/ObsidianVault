@@ -13,8 +13,9 @@ Your launchpad and home base.
 - [[self-improvement]]
 	- [[success]]
 	- [[productivity]] 
+	- [[developmental psychology]]
 	- Integral psychology
-		- spiral dynamics
+		- [[spiral dynamics]]
 		- the 9 stages of ego development
 - [[health]]
 	- [[nutrition]]
