@@ -16,6 +16,9 @@ tags:: [[system-design]]
 **Non-Functional Requirements**
 **Availability**: The system should be reliable and available 99.99% of the time (availability > consistency)
 	**why is availability more important for URL shortener?**
+		- low avaibility creates a broken user experience, whe nthe system is unavailable, users cannot be redirected and breaks every single link that uses the service
+	**why consistency is not as important**
+		- low consistency means that newly created URL might not be immediately redirectable from all servers simultaneously. A brief inconsistenly where a new URL is not available on every node immediatly is a minor inconvenience in comparison to every URL not working
 		
 **Scalability**: The system needs to be horizontally scalable to support 1B shortened URLs and 100M DAU
 **Latency**: The redirection should occur with minimal delay (< 100ms)
