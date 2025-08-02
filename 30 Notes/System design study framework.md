@@ -19,5 +19,5 @@ tags::
 	- everyday draw out the diagrams referencing the correct blocks for each problem
 	- as you get closed to the interview deadline create the retrospective tables
 	- log your work and progress
-**when should you start doing retrospective studies? **
+**when should you start doing retrospective studies?**
 - i think while you are going through, as you finish the easy problems, you can start to retrospectively review them
