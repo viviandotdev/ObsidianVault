@@ -6,13 +6,16 @@ raindrop_highlights:
 
 ---
 
-tags::
+tags:: [[success]] 
 source:: https://ajkprojects.com/stopactinglikeyourefamous?utm_source=tldrnewsletter
 type:: #source/article
 
-### Stop Acting Like You&#39;re Famous
+### Stop Acting Like You're Famous
 
-
+Save the money-making schemes for work, 
+Find something you enjoy doing and do it because you enjoy
+I want to make apps because I enjoy it, I like the process of make technology do what I want to do.
+I want all of the decisions I make to be mine
 
 #### Highlights
 
