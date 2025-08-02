@@ -4,6 +4,7 @@ modified: 2025-08-01T12:40:00-04:00
 ---
 ## capitalism
 **how does capitalism even work?**
+
 **what is wrong with capitalism?**
 
 **why did capitalism work?**
@@ -13,8 +14,7 @@ modified: 2025-08-01T12:40:00-04:00
 **how will capitalism collapse?**
 
 **capitalism and consumerism**
-	consumerism is what fuels capitalism
-- [Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube](https://www.youtube.com/watch?v=4pG-8XLLaE0)
+[[Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube]]
 
 **how did wealth inequality happen**
 [How the US Is Destroying Young People’s Future | Scott Galloway | TED - YouTube](https://www.youtube.com/watch?v=qEJ4hkpQW8E)
@@ -23,12 +23,26 @@ modified: 2025-08-01T12:40:00-04:00
 [How American CEOs got so rich - YouTube](https://www.youtube.com/watch?v=ylLTMYt24lA)
 
 
-
-### Links
+### Notes
 ```dataview
 LIST
-FROM [[#]]
+FROM "30 Notes" AND [[#]]
 and !outgoing([[#]])
 WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
+SORT file.link asc
+```
+
+### Sources
+```dataview
+LIST
+FROM "20 Sources" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
 SORT file.link asc
 ```

@@ -1,11 +1,10 @@
-tags::
+tags:: [[capitalism]]
 source:: https://www.youtube.com/watch?v=4pG-8XLLaE0
 type:: #source/link
 
 ### Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube
 
-
-
+consumerism is what fuels capitalism
 worked 
 elite do not want equality
 you want difference, you want power
