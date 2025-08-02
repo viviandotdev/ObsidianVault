@@ -1,7 +1,21 @@
 ---
-modified: 2025-08-01T20:10:04-04:00
+modified: 2025-08-01T20:12:39-04:00
 ---
 
+### Topics of Interest
+ <!--what would you want to learn more about? What topics are you curious about?-->
+- [[ai]]
+- [[self-improvement]]
+	- [[success]]
+	- [[productivity]] 
+	- Integral psychology
+		- spiral dynamics
+		- the 9 stages of ego development
+- [[health]]
+	- [[nutrition]]
+	- [[fasting]] 
+	- [[calisthenics]]
+	- [[bouldering]]
+- [[capitalism]]
+	- [[money]]
 
-go through all the 65 princilpes from the actualized thing
-	mark the ones you have completed and the onces you need to work on

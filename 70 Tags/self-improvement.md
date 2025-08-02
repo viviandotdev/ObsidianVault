@@ -21,3 +21,6 @@ and !outgoing([[#]])
 WHERE !contains(file.name, "Outbox")
 SORT file.link asc
 ```
+
+go through all the 65 princilpes from the actualized thing
+	mark the ones you have completed and the onces you need to work on
