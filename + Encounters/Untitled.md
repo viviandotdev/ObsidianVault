@@ -17,4 +17,5 @@ Invsiible constraints are what matters
 Contraints, force you think about what is possbile from here
 Instead of how to get there
 Contraints are adaptive
-Sets a goal of be
+Sets a goal  -> of becomming a best selling author
+set a Constraints -> write every day never write what bores me
