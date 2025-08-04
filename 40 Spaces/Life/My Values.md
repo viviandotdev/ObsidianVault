@@ -18,8 +18,9 @@ Values are the principles and beliefs that guide our actions, decisions, and ove
 - [[I want to look and feel my best without sacrificing the quality of life experiences I have.]]
 - [[I don’t believe in any short-term thinking or dealing.]]
 - [[I value being able to produce original thought instead of being told what to think]]
-
-
+- [[I think it is better to assume the better of people then to assume the worst of people.]]
+- [[The way you feel should never depend on others]]
+- 
 
 
 
