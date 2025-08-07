@@ -21,6 +21,8 @@ source:: [Dynamic Programming isn't too hard. You just don't know what it is. - 
 **Identity directions of processing**
 - Does the problem force you to go in a certain direction
 - If any direction is good, which one is simplest or optimal
+
+4HuXBgw0eP77
 ## Simulation
 - **Pick an example and work through it**
 	- Write down the decision/decisions
