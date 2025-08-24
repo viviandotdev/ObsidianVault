@@ -11,6 +11,12 @@ type:: #source/book
 # The Courage to be Disliked
 by [[Ichiro Kishimi, Fumitake Koga]]
 
+The courage to be disliked
+-  idea about anger, people commonly think that anger is something that you can’t control it’s an emotions that pops out of no where and you need to express your self to let it out
+- Anger is fabricated, it is created to fulfill a goal of yours
+- For example when you get anger and shout at a waitress your goal is to make the waitress fail small, it is a tool we use to achieve a goal
+
+
 **Motive**:
 <!-- What motivated you to read this book? -->
 
