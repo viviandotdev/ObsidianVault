@@ -63,7 +63,7 @@ up:: [[Life Map]]
 
 
 ### [[Which attachment style are you?]]
-
+[[avoidant attachment]]
 
 **[[emotional detachment]]**
 

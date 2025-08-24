@@ -22,4 +22,4 @@ tags::
 - **Control over Chaos**
 
 **Related**
-[[avoidant vs anxious attachment]]
+[[avoidant attachment]]
