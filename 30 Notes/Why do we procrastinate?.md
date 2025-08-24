@@ -10,3 +10,6 @@ related:: [[How to overcome procrastination?]]
 The root of why we procrastinate it our lack of control over our **emotions**.
 **Uncertainly and lack of clarity about a task can trigger emotions like anxiety and stress**.
 If you're impulsive and don't know how to manage these emotions, you will often be more easily distracted by your phone to get a quick emotional fix. **Digital distractions facilitate procrastination, they do not cause it.** To overcome procrastination, need to find a way to overcome those emotions.
+Fear of criticism, we don't do the things we want to because we fear the [[constant criticism in a relationship can prevent growth|criticism]] that might come along if we tried.
+
+
