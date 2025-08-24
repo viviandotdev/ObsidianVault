@@ -10,7 +10,6 @@ up:: [[Life Map]]
 - [[#Why I quit social media|Why I quit social media]]
 - [[#How do you value money?|How do you value money?]]
 - [[#Which attachment style are you?|Which attachment style are you?]]
-	- 
 - [[#What do you think is most important: health, time, or money?|What do you think is most important: health, time, or money?]]
 - [[#Why i love to rock climb?|Why i love to rock climb?]]
 -  [[#What makes me happy]]
@@ -63,9 +62,7 @@ up:: [[Life Map]]
 
 
 ### [[Which attachment style are you?]]
-[[avoidant attachment]]
 
-**[[emotional detachment]]**
 
 
 - - Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
