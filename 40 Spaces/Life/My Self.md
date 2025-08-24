@@ -84,15 +84,7 @@ You have a strong sense that a part of your brain or emotional self is missing. 
 **A Desire to Reconnect**
 Despite these challenges, you express a desire to "remake those connections." This shows an awareness that these issues can be addressed. However, you are unsure how to begin this process, which highlights a feeling of being lost or uncertain about the path forward. Your fear of losing relationships is also a strong indicator that you want to form secure connections, even if you don't know how to do so yet.
 
-**Emotional Detachment**
-- I’m very emotionally detached , I don’t get excited about anything or anyone
-- Crowds are too stimulating and solitude is peaceful
-- I will do anything help my friends,
-- I am very rational and kind and it seems like I don’t care, but I do understand the emotion, but I try not to feel them too much
-- It’s easy to drift away from people I care about not because I don’t love them, but because everything is temporary 
-- I keep my distance, neither cold or clingy very measured
-- **Choosing peace over passion**
-- **Control over Chaos**
+**[[emotional detachment]]**
 
 
 - I would cry when my mom forced me to wear a dress. We argued about her forcing me to wear things that made me uncomfortable. I couldn't express myself the way I wanted, only in a way that fit how my mom wanted me to represent her.

@@ -23,4 +23,4 @@ Grow I received constant criticism within my family
 
 Constant criticism will not help you grow or change
 Real growth comes from self corrections that form
-Someone constantly watching over you and commenting on your every move 
+Rather than someone constantly watching over you and commenting and correcting  your every move 

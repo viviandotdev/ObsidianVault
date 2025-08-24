@@ -1,0 +1,20 @@
+---
+created: 2025-08-24 13:01
+modified: 2025-08-01T18:24:06-04:00
+---
+up::
+type:: #note/concept 
+tags::
+## emotional detachment
+
+
+
+- I’m  emotionally detached , I don’t get excited about anything or anyone
+- Crowds are too stimulating and solitude is peaceful
+- I will do anything help my friends,
+- I am very rational and kind and it seems like I don’t care, but I do understand the emotion, but I try not to feel them too much
+- It’s easy to drift away from people I care about not because I don’t love them, but because everything is temporary 
+- I keep my distance, neither cold or clingy very measured
+- **Choosing peace over passion**
+- **Control over Chaos**
+- I don't feel emotionally attached to my parents, I know that I love them and 
