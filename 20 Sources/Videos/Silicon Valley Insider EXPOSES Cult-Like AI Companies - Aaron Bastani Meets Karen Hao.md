@@ -6,6 +6,9 @@ tags:: [[procrastination]] [[productivity]]
 source:: [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani Meets Karen Hao - YouTube](https://www.youtube.com/watch?v=8enXRDlWguU)
 status:: #🟨 
 
+### Top Quotes
+- **Technology is a product of human choices**
+
 **AI Terminology**
 - Karen Hao explains that AI is a suitcase term, encompassing machine learning. 
 - Machine learning is essentially data driven AI, we feed the system a large amount of labeled data and it will learn from the labeled data.
@@ -72,36 +75,9 @@ status:: #🟨
 
 ### [14:46] AI Firms Sideline Democracy
 
-
-[🎧 Play snip - 1min️ (14:08 - 14:46)](https://share.snipd.com/snip/73a0bcae-c3dd-48d4-8cf1-2c183c88a132)
-<audio controls> <source src="https://storage.googleapis.com/sideload_processed/8476c8b4-c6fb-443c-b47f-3b747e0e469c%2F8476c8b4-c6fb-443c-b47f-3b747e0e469c.mp3#t=14:08,14:46"> </audio>
-
-
 **AI Firms Sideline Democracy**
-
 - AI companies often bypass regulations and local laws to expand infrastructure rapidly.
 - This tactic undermines democratic processes at all levels of governance.
 - AI is all about rebranding
-- Open AI
-- China vs US approach to AI, quasi religion
-- whereas in china these are business we are building tools?
-#### 📚 Transcript
-<details>
-<summary>Click to expand</summary>
-<blockquote><b>Karen Hao</b><br/><br/>Local levels all the way to the international level.</blockquote><br/><blockquote><b>Aaron Bastani</b><br/><br/>It's kind of that orthodoxy of seek permission after you do something is now, I mean, when you start applying...</blockquote><br/><blockquote><b>Karen Hao</b><br/><br/>This is business as usual for those companies. That's part of their expansion strategy.</blockquote><br/><blockquote><b>Aaron Bastani</b><br/><br/>Which we'll talk about. And we're going to talk about the sort of global colonial aspect as well with regards to resource consumption resource use just bring it back to the us again because at the top of this Conversation i want to offer a bit of a primer to people out there who they maybe know what ai is they maybe have used chat gpt what are the major companies we're now talking about in this Space particularly in the united states of america over the last five years? Who</blockquote>
-</details>
-[44:33] **Sam Altman's Leadership**
-- Sam Altman understands human psychology well, which helps him recruit talent and persuade resource holders.
-- Many people don't know what Sam Altman truly believes, he is known for his 1 on 1's where he will say whatever the person want's to hear to get him on their side.
-- Because of this he often says contradictory information to different people. 
-
-
-"he does his best work in one-on meetings when he can say whatever he needs To say to get you to do, believe, achieve whatever it is that he needs you to do."
-
-
-
- [53:27] **AI's Hidden Environmental Cost**
-- Public sustainability reports from Google and Microsoft don't specify AI's environmental impact.
-- In 2024, where both Google and Microsoft reported a 30% and 50% jump in their carbon emission despite data massaging.
-
-
+- Open AI China vs US approach to AI, quasi religion
+- Whereas in china these are business we are building tools?
