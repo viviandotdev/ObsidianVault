@@ -16,6 +16,7 @@ status:: #🟩
 - Make something wonderful so you can put it back in the stream of humanity
 - I'm the only person in the world with my unique experiences, so **if there is something within you that you are capable of producing it deserves to be created because you are the only person who can and will ever create it**
 - The value in art is not how many people see it, **the value comes from how many people couldn't have created what you can**.
+- **Make something so you can put it back into the pool of human experience**
 
 
 [[20 Sources/Articles/What to Do|What to Do]]
