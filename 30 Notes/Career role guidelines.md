@@ -2,9 +2,9 @@
 created: 2025-08-24 07:42
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
-type:: #note
-tags::
+up:: 
+type:: #note/list 
+tags:: [[career]] 
 ## Career role guidelines
 
 - **Keep a “wins” document and rotate it yearly/quarterly based on performance reviews. Use this to track things you’d put on your internal resume.**
@@ -23,6 +23,7 @@ tags::
 
 - Keep a personal scratchpad. A piece of paper you can have on your desk for things to attend to outside of work when you have a minute. “Oh, I need to reschedule a dentist appointment”. Important, but I tend to remember this right when I’m in the middle of something.
 
+### Sources p
 https://grahamhelton.com/notes/role_guidelines
 
 
