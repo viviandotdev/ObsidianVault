@@ -16,6 +16,19 @@ The courage to be disliked
 - Anger is fabricated, it is created to fulfill a goal of yours
 - For example when you get anger and shout at a waitress your goal is to make the waitress fail small, it is a tool we use to achieve a goal
 
+Anger is just a way of communication
+It is took to help you reach goal
+Communication is possible without using angler
+We can convey our thoughts and intentions and be accepted without the need of anger 
+There are more effective communication tools than anger
+Language of logic
+Do not convince your self you are right
+In order to be right the other party must be wrong
+I don’t believe in being right
+What is Life tasks Adler psychology 
+Self reliant
+And can fit into society
+
 
 **Motive**:
 <!-- What motivated you to read this book? -->

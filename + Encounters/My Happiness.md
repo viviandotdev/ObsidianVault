@@ -1,0 +1,19 @@
+---
+created: 2025-08-24 17:42
+modified: 2025-08-01T18:24:06-04:00
+---
+up:: [[Life Map]]
+tags:: [[happiness]]
+## My Happiness
+
+**list of things that make you happy**
+- coding in a flow state, i like designing and building satisfying software interfaces
+- autonomy over my time
+- learning new things
+- thinking about myself and how I can improve
+- low risk toleranc
+
+
+**list of things that makes you un happpy**
+- large crowds and groups
+- 
