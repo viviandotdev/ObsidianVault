@@ -7,7 +7,11 @@ type:: #note/concept
 tags::
 ## avoidant vs anxious attachment
 
-
+avoidant attachment
+- values independence
+- discomfort with emotional intimacy
+- view emotional expression as weakness
+- self sufficient and independence 
 - Avoidant attachment style
 	- push people away and keep them at a distance
 	- it is makes it easier to cut them off or cope better if they abandon them 
