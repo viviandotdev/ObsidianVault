@@ -7,6 +7,8 @@ type:: #note/concept
 tags::
 ## emotional detachment
 
+**what caused my emotional detachment**
+- every time I cried or displayed emotion, I was punished and yelled at for crying. This is why I learned to avoid my emotions and choose to suppress them. Running away from emotions makes relationships more difficult.
 
 
 - I’m  emotionally detached , I don’t get excited about anything or anyone

@@ -101,11 +101,12 @@ Despite these challenges, you express a desire to "remake those connections." Th
 - Even now, their differences of opinion about money aren't healthy. Mom makes me talk to Dad instead of talking to him herself.
 - I grew up in a home where nothing was ever talked about, and everything was ignored or swept under the rug. As an adult, I learned not to express my emotions. When I did, I was dismissed, told to stop being dramatic, or even punished.
 - For example, every time I cried or displayed emotion, I was punished and yelled at for crying. This is why I learned to avoid my emotions and choose to suppress them. Running away from emotions makes relationships more difficult.
-- Emotional abandonment and inconsistency in feeling validated and loved. My dad never showed up for me. He wasn't there for birthdays, piano performances, or awards. He rarely came home for dinner.
-- Inconsistent parenting: **Some days, they love and care for you; other days, they criticize you**. Parents who criticize create children who no longer share their hopes and dreams because they'll be knocked down.
-- Hitting your kids falls under inconsistent parenting. As a child, you may not understand how someone who loves you could want to hurt you. It's confusing for a kid.
+- **Emotional abandonment** and **inconsistency** in feeling validated and loved. My dad never showed up for me. He wasn't there for birthdays, piano performances, or awards. He rarely came home for dinner.
+- Inconsistent parenting: **Some days, they love and care for you; other days, they criticize you**
+- Parents who criticize create children who no longer share their hopes and dreams because they'll be knocked down.
+- **Hitting your kids falls under inconsistent parenting.** As a child, you may not understand how someone who loves you could want to hurt you. It's confusing for a kid.
 - You're also inconsistent sometimes. Sometimes you seem to like me, but other times, you don't.
-- Emotionally immature parents view children as a source of their self-esteem.
+- **Emotionally immature parents view children as a source of their self-esteem.**
 -  Early childhood experiences play a crucial role in developing emotional regulation skills. You might experience difficulties in managing emotions or heightened sensitivity to stress.
 
 ### What do you think is most important: health, time, or money?
