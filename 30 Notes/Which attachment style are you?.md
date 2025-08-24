@@ -16,6 +16,8 @@ related:: [[avoidant attachment]] [[emotional detachment]]
 	You've highlighted several instances of inconsistent and emotionally unresponsive parenting. You mentioned feeling emotionally abandoned, especially by your dad, **who was often absent for important events.** The inconsistency of being loved one moment and criticized the next was confusing and created an environment where you felt it was unsafe to share your hopes and dreams. This also extended to your physical needs, such as your freezing room in the winter, which were ignored.
 - **Early Separation From My Parents**
 	You believe your attachment issues stem from being raised by your aunts instead of your parents during crucial early years. You feel this period is essential for brain development and forming deep connections, and you **believe you missed out on that "wiring."
+ [[Emotionally immature parents view children as a source of their self-esteem]]
+
 
 **What are the long term of effects of this?**
  * Difficulty managing emotions or feeling a heightened sensitivity to stress.

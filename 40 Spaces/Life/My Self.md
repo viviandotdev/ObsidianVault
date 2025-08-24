@@ -65,26 +65,6 @@ up:: [[Life Map]]
 
 
 
-- - Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
-- Anxious people overthink and stress about it.
--  Early separation from parents can affect attachment styles. You might find it challenging to form secure attachments in relationships, potentially leading to issues with trust or intimacy.
-- Avoidant push people away or keep them at a distance to abandon the other person before they can be abandoned.
-- I think this subconsciously comes from my childhood. I was "abandoned" by my parents immediately after birth, which is crucial for forming secure relationships. I still don't feel close to my parents or anyone.
-- I expressed my wants and needs and was immediately shut down, realizing I had to figure everything out myself because they wouldn't help me.
-- My sister and mom were dismissive. For example, every winter, my room was freezing, and I would wake up shivering. I told my dad and sister, but I was ignored.
-- Maybe that's why I feel no pain; I blocked it out to cope. It's easier to suffer if you don't feel pain.
-- My parents were focused on themselves and didn't attune to my emotions, making it hard to be vulnerable.
-- I didn't see adults clearly communicate, work through issues, or respect each other's differences of opinion. Mom and Dad didn't communicate well or respect each other's differences.
-- Even now, their differences of opinion about money aren't healthy. Mom makes me talk to Dad instead of talking to him herself.
-- I grew up in a home where nothing was ever talked about, and everything was ignored or swept under the rug. As an adult, I learned not to express my emotions. When I did, I was dismissed, told to stop being dramatic, or even punished.
-- For example, every time I cried or displayed emotion, I was punished and yelled at for crying. This is why I learned to avoid my emotions and choose to suppress them. Running away from emotions makes relationships more difficult.
-- **Emotional abandonment** and **inconsistency** in feeling validated and loved. My dad never showed up for me. He wasn't there for birthdays, piano performances, or awards. He rarely came home for dinner.
-- Inconsistent parenting: **Some days, they love and care for you; other days, they criticize you**
-- Parents who criticize create children who no longer share their hopes and dreams because they'll be knocked down.
-- **Hitting your kids falls under inconsistent parenting.** As a child, you may not understand how someone who loves you could want to hurt you. It's confusing for a kid.
-- You're also inconsistent sometimes. Sometimes you seem to like me, but other times, you don't.
-- **Emotionally immature parents view children as a source of their self-esteem.**
--  Early childhood experiences play a crucial role in developing emotional regulation skills. You might experience difficulties in managing emotions or heightened sensitivity to stress.
 
 ### What do you think is most important: health, time, or money?
 - I think one of the keys to living a good life is optimizing for health, time, and money.
