@@ -9,7 +9,8 @@ tags::
 
 **what caused my emotional detachment**
 - every time I cried or displayed emotion, **I was punished and yelled at for crying.** This is why **I learned to avoid my emotions and choose to suppress them**. Running away from emotions makes relationships more difficult.
-- **fear of abandonment** - 
+- **fear of abandonment** comes from-
+	- early separation from parents, when I was born I was immediately separated from my parents and was sent to china to live with my aunt, 
 
 **how is emotional detachment portrayed?**
 -  I don’t get excited about anything or anyone, I am nonchalant about everything
