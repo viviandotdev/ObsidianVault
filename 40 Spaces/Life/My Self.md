@@ -87,7 +87,6 @@ Despite these challenges, you express a desire to "remake those connections." Th
 **[[emotional detachment]]**
 
 
-- I would cry when my mom forced me to wear a dress. We argued about her forcing me to wear things that made me uncomfortable. I couldn't express myself the way I wanted, only in a way that fit how my mom wanted me to represent her.
 - - Avoidant people fear being abandoned. I think everyone fears this, but we cope differently.
 - Anxious people overthink and stress about it.
 -  Early separation from parents can affect attachment styles. You might find it challenging to form secure attachments in relationships, potentially leading to issues with trust or intimacy.
