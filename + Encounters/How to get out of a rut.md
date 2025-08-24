@@ -8,9 +8,9 @@ tags:: [[self-improvement]]
 ## How to get out of a rut
 
 - Clean up your consumption what goes in is what comes out, if you are consuming junk all you can think about and know is junk so you won’t have any interesting ideas, that is only way to keep your self unhappy
-- Weight loss protoco
+- Weight loss 
 	- 10,000 steps
 	- Slow Carb Diet
 	- 2 hour climbing 4-5 times a week
-	- Calesthinics during your days off
+	- Calisthenics during your days off
 

@@ -5,9 +5,9 @@ modified: 2025-08-01T18:24:06-04:00
 up::
 type:: #note/question
 tags:: [[relationships]]
+related:: [[avoidant attachment]]
 ## Which attachment style are you?
 
-[[avoidant attachment]]
 
 **How as the way you have been raised affected your attachment style?**
 - **Suppression of Emotion**
