@@ -7,7 +7,7 @@ type:: #note/concept
 tags::
 ## avoidant vs anxious attachment
 
-avoidant attachment
+avoidant attachment we fear abandonment, so to protect ourselves we choose to keep people at a distance  
 - values independence
 - discomfort with emotional intimacy
 - view emotional expression as weakness
