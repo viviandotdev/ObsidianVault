@@ -66,10 +66,10 @@ up:: [[Life Map]]
 You describe a childhood where expressing emotions, whether joy or sadness, was often met with punishment or dismissal. Examples include being yelled at for laughing loudly or crying, which taught you to suppress your feelings. This led to a belief that emotions were a source of trouble, and you learned to avoid them to cope. **This suppression seems to have made it difficult to be vulnerable and communicate openly in relationships as an adult.**  I couldn't express myself the way I wanted, only in a way that fit how my mom wanted me to represent her.
 **Inconsistent and Unresponsive Parenting**
 You've highlighted several instances of inconsistent and emotionally unresponsive parenting. You mentioned feeling emotionally abandoned, especially by your dad, **who was often absent for important events.** The inconsistency of being loved one moment and criticized the next was confusing and created an environment where you felt it was unsafe to share your hopes and dreams. This also extended to your physical needs, such as your freezing room in the winter, which were ignored.
-Attachment and Relationships
+**Attachment and Relationships**
 These early experiences appear to have shaped your attachment style. You related your feelings of being "abandoned" immediately after birth to your struggles with forming close, secure relationships and your difficulty trusting others. You identified with an avoidant attachment style, noting how you might push people away to prevent being abandoned yourself. This also connects to your observations about your parents' poor communication and lack of respect for each other's opinions, which didn't provide a healthy model for you to learn from.
 
-Long-Term Effects
+**Long-Term Effects**
  * Difficulty managing emotions or feeling a heightened sensitivity to stress.
  * A sense of emotional numbness, where you feel no pain, which you believe is a coping mechanism.
  * A feeling of not being close to your parents or anyone else.
