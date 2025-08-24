@@ -4,7 +4,7 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 up::
 type:: #note/concept 
-tags::
+tags:: [[communication]]
 ## constant criticism in a relationship can prevent growth
 
 My sister is always constantly correcting the smallest things that I do
