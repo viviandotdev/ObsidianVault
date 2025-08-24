@@ -35,6 +35,7 @@ up:: [[Life Map]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 - [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
+- [[Doing it slowly and wrong is better than just doing nothing.]]
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
@@ -47,7 +48,8 @@ up:: [[Life Map]]
 - [[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
 - [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative ]]
 - [[Life gets harder when you try to make it easy]]
-
+- [[You can do things tired or when you don’t want to]]
+- 
 [[confidence]]
 - [[Past progress is proof of future potential]]
 
