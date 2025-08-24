@@ -10,3 +10,9 @@ tags:: [[relationships]]
 **what is love to you?**
 Love is caring about someone despite their flaws, I don’t think it is a special feeling
 You love your family members and will consistently choose them despite the flaws. It makes it very difficult to let go of family members.
+
+**do you care more to be loved or loved?**
+
+
+I don't like all the expectation of being in a relationship, 
+I don't like the idea of someone liking me because o

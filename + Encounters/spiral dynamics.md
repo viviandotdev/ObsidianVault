@@ -7,7 +7,6 @@ type:: #note/concept
 tags::
 ## spiral dynamics
 
-
 Spiral Dynamics is a model of [[developmental psychology]], that posits a discrete and linear series of "stages of development" that individuals, organizations, and societies progress through, within dynamic and non-linear processes. Evolution of human consciousness.
 Stages of human development,
 society takes place in the human mind
