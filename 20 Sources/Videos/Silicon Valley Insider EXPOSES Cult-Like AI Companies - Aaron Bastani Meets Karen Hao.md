@@ -9,10 +9,9 @@ status:: #🟨
 **AI Terminology**
 - Karen Hao explains that AI is a suitcase term, encompassing machine learning. 
 - Machine learning is essentially data driven AI, we feed the system a large amount of labeled data and it will learn from the labeled data.
-- **Deep learning** is a subset of machine learning, specifically **using** neural networks.
-- A neural network is the underlying technology in deep learning, 
+- **Deep learning** is a subset of machine learning, specifically **using** multilayerd neural networks.
+- A neural network is the underlying technology in deep learning, that is inspired by human brains to process and learn from vast amount of data 
 
-**Deep learning** is a subset of machine learning that uses artificial neural networks inspired by the human brain to process vast amounts of data and make intelligent decisions.
 #### 📚 Transcript
 <details>
 <summary>Click to expand</summary>
