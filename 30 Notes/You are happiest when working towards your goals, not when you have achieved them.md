@@ -1,6 +1,7 @@
 ---
 modified: 2025-06-22T20:39:34-04:00
 ---
+up:: [[My Perspectives]]
 type:: #note/concept 
 tags:: [[happiness]] [[life]]
 

@@ -2,7 +2,7 @@
 created: 2025-07-12 13:33
 modified: 2025-07-12T14:02:43-04:00
 ---
-up::
+up:: [[My Perspectives]]
 tags:: [[happiness]]
 ## Your don't get happy from achieving your goal, you get happiness from the seeing progress towards your goal
 

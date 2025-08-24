@@ -1,6 +1,7 @@
 ---
 modified: 2025-06-22T20:38:28-04:00
 ---
+up
 type:: #note/concept 
 status: #🟨 
 tags::

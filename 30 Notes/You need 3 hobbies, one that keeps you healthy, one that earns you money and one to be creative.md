@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-23T07:15:39-04:00
 ---
-type:: #note/concept 
+type:: #note/concept #note/perspective 
 tags:: [[happiness]]
 ## You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative 
 
