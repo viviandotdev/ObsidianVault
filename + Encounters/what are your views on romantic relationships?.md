@@ -14,5 +14,7 @@ You love your family members and will consistently choose them despite the flaws
 **do you care more to be loved or loved?**
 
 
-I don't like all the expectation of being in a relationship, 
-I don't like the idea of someone liking me because they are physically attracted to me, I want to be liked for the way that they make me feel not 
+**why i don't want a relationship**
+- I don't like all the expectation of being in a relationship, 
+- I don't like the idea of someone liking me because they are physically attracted to me, I want to be liked for the way we make each other feel.
+	- They should make me feel secure and calm
