@@ -15,4 +15,4 @@ You love your family members and will consistently choose them despite the flaws
 
 
 I don't like all the expectation of being in a relationship, 
-I don't like the idea of someone liking me because o
+I don't like the idea of someone liking me because they are physically attracted to me, I want to be liked for the way that they make me feel not 
