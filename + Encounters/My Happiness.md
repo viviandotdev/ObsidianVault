@@ -11,9 +11,9 @@ tags:: [[happiness]]
 - autonomy over my time
 - learning new things
 - thinking about myself and how I can improve
-- low risk toleranc
-
+- 
+- low risk tolerance
 
 **list of things that makes you un happpy**
 - large crowds and groups
-- 
+- meditation,  it is too boring and feels not productive for me
