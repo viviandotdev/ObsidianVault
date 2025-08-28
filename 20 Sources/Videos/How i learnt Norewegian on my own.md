@@ -29,5 +29,11 @@ How do kids learn language?
 	- watch with English titles
 	- watch again with target language subtitles
 	Repeat this for specific scenes not the whole movie at once.
-12. Learn sentences and stories by heart
+11. Learn sentences and stories by heart
+	- She read and listened to the Norwegian story until she knew it by heart, spending 1-2 weeks on a story.
+		- To work on listening and writing she would listen to the recording without reading and then try to write all the words that she heard.
+
+12. Speak to yourself in the target language
+	1. You can speak to yourself about your day, about a movie you saw or a book you want to read, or pick a picture and try to describe it, imagining the story behind it and telling the story.
+
 13. Write your own stories
