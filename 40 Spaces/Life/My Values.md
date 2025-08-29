@@ -20,7 +20,7 @@ Values are the principles and beliefs that guide our actions, decisions, and ove
 - [[I value being able to produce original thought instead of being told what to think]]
 - [[I think it is better to assume the better of people then to assume the worst of people.]]
 - [[The way you feel should never depend on others]]
-- 
+- [[I believe in doing things for other while expecting nothing in return]]
 
 
 

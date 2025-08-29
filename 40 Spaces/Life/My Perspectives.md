@@ -25,6 +25,7 @@ up:: [[Life Map]]
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 	- [[You must write bad code before you can write good code.]]
 	- [[You must write badly before you can learn to write well]]
+	- [[Doing it slowly and wrong is better than just doing nothing.]]
 - 
 
 [[success]]
@@ -35,7 +36,7 @@ up:: [[Life Map]]
 - [[if you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 - [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
-- [[Doing it slowly and wrong is better than just doing nothing.]]
+- 
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
