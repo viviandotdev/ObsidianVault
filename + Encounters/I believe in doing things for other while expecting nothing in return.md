@@ -15,8 +15,7 @@ Define the behaviors that align with this value. These actions will guide you ba
 - Less expectations, less disappointment.
 
 **There are no expectations within  friendships**
-I do things for my friends not because it’s expected it’s because I want to. 
-Within friendship there are no such expectations like I do
+Within friendship there are no such expectations, I do things for my friends not because it’s expected it’s because I want to. 
 
 **Relationships have too much expectations**
 Within a relationship there’s a lot of expectation for both parties. 
@@ -26,7 +25,5 @@ Within a relationship there’s a lot of expectation for both parties.
 
 **Family Expectations**
 Within a family there are also expectations
-- you're obligated to give them money when they ask
+- you're obligated to give them money when they ask for it
 	
-	I choose NI have to even with family. I feel like they’re all of these expectations within the family, especially with money if my family asked me for money expected to give it I mean, of course I want to get to them, but it’s that expectation that makes me feel like I don’t want Like I don’t want to do it, but it feels like I’m forced to do it you know and I don’t like that feeling of being something I like the feeling of choice expectations are like something I feel like I have to do and I don’t like doing things I have to do I like doing things that I want to do
-Also, relationships are likely to survive. At least one party is able to compromise when both parties give up and are willing compromise relationship. 
