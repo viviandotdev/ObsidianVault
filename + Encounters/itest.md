@@ -1,7 +1,30 @@
+super simple
+just for tracking exercises
 
-
+- home screen
+	- initially empty
+	- view exercises 
+	- **exercise card**
+- exercise card
+	- view the exercise, 
+- add exercise button
+	- view the **exercise library**
+- exercise library
+	- view recent exercises
+	- view favorite exercises
+	- select exercise grouped by 
+		- push
+		- pull
+		- core
+		- legs
+		
+do not over complicate
+	just include exercises from the beginner calesthincs videos
+	
 App idea, put all the calesnthics data into an app to easily learn skills,
 turn this excel sheet into an app
+
+
 
 Basically workout tacked for claesthincs
 Exercise Library
