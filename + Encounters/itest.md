@@ -10,8 +10,10 @@ if you want to get better at things you nee to track your progress
 **Handstands**
 
 Push up Progression
+horizontal push
 - Archer push ups
 - Plance
+vertical push
 Pull ups Progression
 - Front Lever 
 - Back Lever
