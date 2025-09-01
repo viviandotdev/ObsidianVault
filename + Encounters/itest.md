@@ -24,6 +24,8 @@ Pull ups Progression
 
 
 **Core** progressions
+- L sit
+- V-sit
 - Dragon Flag
 
 
