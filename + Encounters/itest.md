@@ -6,29 +6,30 @@ turn this excel sheet into an app
 Basically workout tacked for claesthincs
 Exercise Library
 Strength progressions
-
+if you want to get better at things you nee to track your progress 
+**Handstands**
 
 Push up Progression
-	plance
+- Archer push ups
+- Plance
 Pull ups Progression
-	Front Lever 
-	Back Lever
-	Muscle up
+- Front Lever 
+- Back Lever
+- Muscle up
 
-Legs Progression
-
-Handstand progressions
-
-
-Core progressions
+**Legs Progression**
+- Pistol squat
 
 
-Planche Progressions
+**Core** progressions
+- Dragon Flag
+
+
 
 Mobility progressions
 - Bridges
 - 
-Dragon Flag
+
 
 What do you want to actually build?
 - Simple rep counter?
