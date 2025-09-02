@@ -1,5 +1,9 @@
 super simple
 just for tracking exercises
+then add tracking skills
+
+
+
 
 - home screen
 	- initially empty
@@ -17,7 +21,15 @@ just for tracking exercises
 		- pull
 		- core
 		- legs
-		
+
+**create a database schema**
+Database
+Day -> each day will have exercises
+	Exercise
+Exercise
+	Exercise library
+
+Template has Exercise
 do not over complicate
 	just include exercises from the beginner calesthincs videos
 	
