@@ -78,7 +78,6 @@
   * [chatwoot/chatwoot-mobile-app: Mobile app for Chatwoot - React Native](https://github.com/chatwoot/chatwoot-mobile-app)
   * [ecency/ecency-mobile: Ecency Mobile - reimagined social blogging, contribute and get rewarded (for Android and iOS)](https://github.com/ecency/ecency-mobile)
   * [artsy/eigen: The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.](https://github.com/artsy/eigen)
-  * [simonoppowa/OpenNutriTracker: 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.](https://github.com/simonoppowa/OpenNutriTracker?tab=readme-ov-file)
   * [laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
   * [Expensify/App: Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.](https://github.com/Expensify/App?tab=readme-ov-file)
   * [basarsubasi/simplefitnessapp: Repository for FOSS fitness tracking app Simple.](https://github.com/basarsubasi/simplefitnessapp)
