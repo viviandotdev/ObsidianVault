@@ -3,8 +3,8 @@ created: 2025-09-09 08:04
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
-type:: #note/protcol
-tags::
+type:: #note/protocol
+tags:: [[procrastination]]
 ## Protocol to Overcome Procrastination - Action-Oriented Prioritization
 
 **Core Principle:**
@@ -35,7 +35,3 @@ Remove the "deciding" and replace it with "doing." Break the stalemate by commit
 *   **Reduces Decision Fatigue:** By cycling through, you're not making a *big* decision about what to do *all day*; you're just making a *small* decision about the next 15-25 minutes.
 *   **Discover Your Flow:** It allows you to "taste test" your tasks and see which one genuinely captures your interest and energy in the moment, leading to more productive deep work.
 *   **Builds Consistency:** Even if you only do 15-25 minutes on several things, you've still made progress, which builds confidence and habits.
-
----
-
-This framework is excellent for anyone struggling with getting started on a diverse set of personal or professional goals. It prioritizes *action* over perfect planning, and that's often the key to unlocking productivity.
