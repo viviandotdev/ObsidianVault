@@ -8,6 +8,8 @@ tags::
 ## How do banks create money?
 
 **Entities**
-- Cen
+- Central banks
+	- Ferderal reserve
+- Commercial banks
 - Banks primarily create money by making loans. When a bank approves a loan, it creates new money by crediting the borrower's bank account, 
 - Money creation, or money issuance, is the process by which the money supply of a country or economic region is increased. In most modern economies, both central banks and commercial banks create money. 
