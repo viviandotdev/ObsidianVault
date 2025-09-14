@@ -12,4 +12,4 @@ tags::
 
  Capitalism is an economic system where individuals and firms have considerable freedom to decide what to produce and how to produce.
 
-[[How do banks create moey]]
+[[How do banks create money?]]
