@@ -3,6 +3,8 @@ created: 2025-06-15 13:52
 modified: 2025-08-01T12:40:00-04:00
 ---
 ## capitalism
+[[economics]]
+
 **how does capitalism even work?**
 
 **what is wrong with capitalism?**
@@ -13,6 +15,7 @@ modified: 2025-08-01T12:40:00-04:00
 
 **how will capitalism collapse?**
 
+how does communism work?
 **capitalism and consumerism**
 [[Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube]]
 
