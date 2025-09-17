@@ -15,7 +15,6 @@ modified: 2025-08-01T20:12:39-04:00
 	- [[nutrition]]
 	- [[fasting]] 
 	- [[calisthenics]]
-	- [[bouldering]]
 - [[capitalism]]
 	- [[money]]
 

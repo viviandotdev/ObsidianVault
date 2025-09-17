@@ -2,8 +2,11 @@
 created: 2025-06-15 13:52
 modified: 2025-08-01T12:40:00-04:00
 ---
+up:: [[economics]]
 ## capitalism
-[[economics]]
+
+
+
 
 **how does capitalism even work?**
 
