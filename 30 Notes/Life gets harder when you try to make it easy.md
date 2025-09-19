@@ -4,7 +4,7 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[My Perspectives]]
 type:: #note/atomic
-tags:: [[life]] [[self]]
+tags:: [[life]] [[self-improvement]]
 ## Life gets harder when you try to make it easy
 
 * Mastering your craft is hard, but having no skills is harder.

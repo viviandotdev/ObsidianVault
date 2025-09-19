@@ -8,16 +8,14 @@ tags:: [[relationships]]
 
 <!--
 Define the behaviors that align with this value. These actions will guide you back, when you fall off track. Be sure to include the “why” behind each. -->
-
-
-**Relationships work when both parties are willing to do things for each other without expecting anything in return.**
-- prevents resentment and disappointment
+**[[relationships]] work when both parties are willing to do things for each other without expecting anything in return.**
+- Prevents resentment and disappointment
 - Less expectations, less disappointment.
 
-**There are no expectations within  friendships**
-Within friendship there are no such expectations, I do things for my friends not because it’s expected it’s because I want to. 
+**There are no expectations within  [[friendships]]**
+Within [[friendships]] there are no such expectations, I do things for my friends not because it’s expected it’s because I want to. 
 
-**Relationships have too much expectations**
+**[[relationships]] have too much expectations**
 Within a relationship there’s a lot of expectation for both parties. 
 - you’re supposed to tell everyone your in a relationship, it’s like you have to announce to everyone
 	- I don't like this attention

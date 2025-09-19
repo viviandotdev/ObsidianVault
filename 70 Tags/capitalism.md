@@ -6,8 +6,6 @@ up:: [[economics]]
 ## capitalism
 
 
-
-
 **how does [[capitalism]] even work?**
 
 **what is wrong with [[capitalism]]?**

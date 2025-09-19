@@ -7,6 +7,5 @@ type:: #output #🟥
 tags:: [[economics]] [[money]]
 ## how the bank create money out of thin air?
 
-
 - Banks create money out of thin air?
 -  
