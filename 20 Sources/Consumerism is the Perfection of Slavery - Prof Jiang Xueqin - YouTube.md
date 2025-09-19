@@ -11,10 +11,12 @@ Communism -> **worker is the heart** and center of society
 workers create value
 
 workers were taken care of very well
-
-80's Revolt of the Eliete
+**CEOs made**
+**1 million dollars 20x the average worker**
+80's Revolt of the Elite
 after this reagan revolution, free market capitalism,
 started by the elite
+
 
 
 
@@ -27,5 +29,5 @@ reagan in the 80's allowed the elite to have power
 worker -> consuer. 
 
 CEOs make before Reagan make
-**1 million dollars 20x the average worker**
+
 **200 million 200x to 300x the average worked**
