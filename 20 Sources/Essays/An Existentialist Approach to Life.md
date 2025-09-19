@@ -14,7 +14,7 @@ type:: #source/article
 ### An Existentialist Approach to Life
 
 [[Existentialism]] - individuals create their own meaning and purpose in life without pre-determined. meaning
-This is different from the view that 
+This is different from the view that you are born with a purpose?
 On Getting the Life You Want
 
 #### Highlights
