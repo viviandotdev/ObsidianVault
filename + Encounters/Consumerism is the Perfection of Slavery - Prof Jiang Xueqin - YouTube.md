@@ -26,6 +26,10 @@ when you see some one you don't of if you like them you think how much money the
 go to school -> get job -> make money
 go to school -> learn 
 
+Perfection of slavery
+as a consumer you don't know you are being a slave, you like this so you don't rebel
+whereas if you are a slave you will actually rebel
+
 
 
 today CEO
