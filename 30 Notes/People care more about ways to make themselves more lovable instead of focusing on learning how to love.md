@@ -2,7 +2,7 @@
 created: 2025-06-22 13:14
 modified: 2025-06-23T20:19:40-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[relationships]] [[love]]
 
 ## People care more about ways to make themselves more lovable instead of focusing on learning how to love

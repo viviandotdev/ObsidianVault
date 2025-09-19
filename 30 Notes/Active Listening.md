@@ -2,7 +2,7 @@
 created: 2023-12-11 08:31
 modified: 2025-06-22T19:17:54-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[communication]]
 
 ## Active Listening

@@ -2,7 +2,7 @@
 created: 2023-09-03 12:39
 modified: 2025-06-22T19:18:00-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[learning]]
 
 ### Active Recall

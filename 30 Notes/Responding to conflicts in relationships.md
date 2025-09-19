@@ -2,7 +2,7 @@
 created: 2023-11-03 11:32
 modified: 2025-06-23T07:15:24-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[relationships]]
 ## Responding to conflicts in relationships
 

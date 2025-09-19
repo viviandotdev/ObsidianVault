@@ -2,11 +2,11 @@
 modified: 2025-06-22T20:38:28-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/concept 
-status: #🟨 
+type:: #note/atomic
+status: #🟨
 tags::
 
-## Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. 
+## Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control.
 
 
 **Topic**
@@ -24,7 +24,7 @@ By investing time and energy into building something admirable, you become a per
 **Common Goals, Problems, & Advice**
 <!-- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them? -->
 - Society is structured around finding relationships, we live in a capitalistic society where everything is revolved around getting into a relationship,
-- 
+-
 
 **Personal Experience**
 <!-- What personal experiences, stories, or problems have you faced that relate to this topic? -->

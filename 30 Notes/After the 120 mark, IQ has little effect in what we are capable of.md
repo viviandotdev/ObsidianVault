@@ -2,7 +2,7 @@
 created: 2023-11-03 13:35
 modified: 2025-06-22T19:18:02-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[intelligence]]
 
 ## IQ has little effect in what we are capable of

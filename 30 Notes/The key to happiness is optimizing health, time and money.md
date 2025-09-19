@@ -2,7 +2,7 @@
 created: 2024-11-11 10:26
 modified: 2025-06-23T07:15:43-04:00
 ---
-type: #note/concept 
+type: #note/atomic
 tags:: [[happiness]]
 ## The key to happiness is optimizing health, time and money
 
@@ -13,7 +13,7 @@ By the time people realize they have enough money, they’ve lost their time and
 
 Ranked
 - Health
-- Time 
+- Time
 - Money
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.

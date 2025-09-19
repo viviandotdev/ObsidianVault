@@ -2,7 +2,7 @@
 created: 2025-07-17 18:13
 modified: 2025-07-17T18:18:16-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[life]]
 ## Self experimentation
 

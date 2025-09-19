@@ -2,8 +2,8 @@
 created: 2025-07-17 17:57
 modified: 2025-07-17T17:57:59-04:00
 ---
-up:: 
-type:: #note/concept 
+up::
+type:: #note/atomic
 ## Observation is the root of problem solving, new problems require to carefully study the properties
 
 
@@ -11,4 +11,3 @@ type:: #note/concept
 - Problem solving is not just pattern matching, you have to be able to identify the patterns in the first place
 - Complex problems will have many properties with too many observations, write them down so you don't forge them
 **In any field** problem solving begins with observations, for example doctors problem solve my asking questions and observing their patient, lawyers problem solve also by asking questions and until they get to their solutions. Everything requires problem solving.
-

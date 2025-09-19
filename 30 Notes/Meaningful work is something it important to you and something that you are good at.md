@@ -3,7 +3,7 @@ created: 2023-10-24 05:37
 modified: 2025-06-15T18:52:01-04:00
 
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[happiness]]
 
 ## Meaningful work is something it important to you and something that you are good at

@@ -2,7 +2,7 @@
 created: 2023-09-02 15:45
 modified: 2025-06-22T19:17:38-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[learning]]
 ### 12 Favorite problems
 

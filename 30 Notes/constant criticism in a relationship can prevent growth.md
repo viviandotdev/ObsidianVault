@@ -3,14 +3,14 @@ created: 2025-08-24 12:34
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[communication]]
 related:: [[The Four Horsemen]]
 ## constant criticism in a relationship can prevent growth
 
 My sister is always constantly correcting the smallest things that I do. **Attacking a person's character rather than addressing the specific behavior**
 	**Complaint-**"I'm upset that you didn't take out the trash,"
-	**Criticism**- "You're so lazy and inconsiderate." 
+	**Criticism**- "You're so lazy and inconsiderate."
 
 For example she is always correcting for the smallest things like
 - Leaving the light one
@@ -26,4 +26,4 @@ Grow I received constant criticism within my family
 
 Constant criticism will not help you grow or change
 Real growth comes from self corrections that form
-Rather than someone constantly watching over you and commenting and correcting  your every move 
+Rather than someone constantly watching over you and commenting and correcting  your every move

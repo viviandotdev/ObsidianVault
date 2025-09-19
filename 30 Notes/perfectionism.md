@@ -2,7 +2,7 @@
 created: 2025-08-01 21:50
 modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[productivity]]
 ## perfectionism
 

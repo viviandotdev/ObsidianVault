@@ -3,7 +3,7 @@ created: 2025-08-24 15:54
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
-type:: #note/concept 
+type:: #note/atomic
 tags:: [[communication]] [[relationships]]
 ## The Four Horsemen
 
