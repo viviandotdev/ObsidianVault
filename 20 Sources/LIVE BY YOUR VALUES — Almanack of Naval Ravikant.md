@@ -11,7 +11,7 @@ type:: #source/article
 
 ### LIVE BY YOUR VALUES — Almanack of Naval Ravikant
 
-What are your core values?    I’ve never fully enumerated them, but a few examples:   Honesty is a core, core, core value. By honesty, I mean I want to be able to just be me. I never want to be in an environment or around people where I have to watch what I say. If I disconnect what I’m thinking fro
+What are your core [[values]]?    I’ve never fully enumerated them, but a few examples:   Honesty is a core, core, core value. By honesty, I mean I want to be able to just be me. I never want to be in an environment or around people where I have to watch what I say. If I disconnect what I’m thinking fro
 
 #### Highlights
 

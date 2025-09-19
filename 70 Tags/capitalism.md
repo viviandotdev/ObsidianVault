@@ -8,17 +8,19 @@ up:: [[economics]]
 
 
 
-**how does capitalism even work?**
+**how does [[capitalism]] even work?**
 
-**what is wrong with capitalism?**
+**what is wrong with [[capitalism]]?**
 
-**why did capitalism work?**
+**why did [[capitalism]] work?**
 
-**what stage of capitalism are we currently in?**
+**what stage of [[capitalism]] are we currently in?**
 
-**how will capitalism collapse?**
+**how will [[capitalism]] collapse?**
 
-how does communism work?
+how does [[communism]] work?
+
+
 **capitalism and consumerism**
 [[Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube]]
 
