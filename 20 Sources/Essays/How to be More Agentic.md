@@ -13,7 +13,7 @@ tags::
 source:: https://usefulfictions.substack.com/p/how-to-be-more-agentic?utm_source=www.homescreen.news&amp;utm_medium=newsletter&amp;utm_campaign=don-t-trust-them
 type:: #source/article
 
-### How to be More Agentic
+### How to be More [[20 Sources/Articles/How to be more agentic|How to be more agentic]]
 
 On a supposedly difficult thing
 
@@ -21,7 +21,7 @@ On a supposedly difficult thing
 
 > [!quote]+ Updated on Tue Jan 16 2024 13:22:01 GMT-0500
 >
-> . Someone recently asked me how one might go about learning charisma, and the answer was really boring: by reading a few books, watching many hours of charismatic people interacting with others, and adopting a few of their habits. This is surely a plan of action most people could come up with if they didn’t have the notion that charisma is innate lodged in their heads.
+> Someone recently asked me how one might go about learning charisma, and the answer was really boring: by reading a few books, watching many hours of charismatic people interacting with others, and adopting a few of their habits. This is surely a plan of action most people could come up with if they didn’t have the notion that charisma is innate lodged in their heads.
 
 > [!quote]+ Updated on Tue Jan 16 2024 13:22:01 GMT-0500
 >
@@ -29,7 +29,7 @@ On a supposedly difficult thing
 
 > [!quote]+ Updated on Tue Jan 16 2024 13:22:01 GMT-0500
 >
-> , especially when learning new skill sets, requires you to cross a moat of low status, a period of time where you are actually bad at the thing or fail to know things that are obvious to other people.
+> especially when learning new skill sets, requires you to cross a moat of low status, a period of time where you are actually bad at the thing or fail to know things that are obvious to other people.
 
 > [!quote]+ Updated on Tue Jan 16 2024 13:22:01 GMT-0500
 >

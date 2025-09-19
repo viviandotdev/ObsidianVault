@@ -64,7 +64,6 @@ type:: #source/link
 ### How to Do Great Work
 
 
-
 #### Highlights
 
 > [!quote]+ Updated on Sun Jun 09 2024 19:08:49 GMT-0400

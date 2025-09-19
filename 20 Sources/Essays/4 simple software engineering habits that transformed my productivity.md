@@ -11,7 +11,7 @@ type:: #source/article
 
 ### 4 simple software engineering habits that transformed my productivity
 
-A breakdown of 4 simple software engineering and coding habits that improved my productivity. These include keyboard shortcuts, learning to say no, reaching flow state faster, and keeping a big book of commands handy.
+A breakdown of 4 simple software engineering and coding [[habits]] that improved my [[productivity]]. These include keyboard shortcuts, [[learning]] to say no, reaching [[flow state]] faster, and keeping a big book of commands handy.
 
 #### Highlights
 

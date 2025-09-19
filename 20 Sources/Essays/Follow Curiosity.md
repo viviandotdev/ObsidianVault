@@ -17,15 +17,15 @@ tags::
 source:: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
 type:: #source/article
 
-### Follow Curiosity
+### Follow [[curosity]]
 
-Suddenly, ambition becomes the driver, or money, or doing something that sounds cool. And then things start to go downhill.
+Suddenly, [[ambition]] becomes the driver, or money, or doing something that sounds cool. And then things start to go downhill.
 
 #### Highlights
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
-> . In other words, ambition and doing something that sounds cool had become the driver for him.
+> In other words, ambition and doing something that sounds cool had become the driver for him.
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
@@ -33,7 +33,7 @@ Suddenly, ambition becomes the driver, or money, or doing something that sounds 
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
-> f you don’t know which path to choose, just choose the one that’s most exciting. Just keep following that, and that will lead you to the right place. Excitement is the engine and the rudder, I think, is a really powerful idea.
+> If you don’t know which path to choose, just choose the one that’s most exciting. Just keep following that, and that will lead you to the right place. Excitement is the engine and the rudder, I think, is a really powerful idea.
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
@@ -51,7 +51,7 @@ Suddenly, ambition becomes the driver, or money, or doing something that sounds 
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
-> ow hard to is to write an article because you saw that it’s a great SEO opportunity versus writing something because you just want to figure something our for yourself.
+> How hard to is to write an article because you saw that it’s a great SEO opportunity versus writing something because you just want to figure something our for yourself.
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
