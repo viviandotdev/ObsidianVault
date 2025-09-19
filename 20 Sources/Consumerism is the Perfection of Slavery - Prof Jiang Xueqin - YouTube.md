@@ -6,7 +6,7 @@ type:: #source/link
 
 Marx was right
 after world war 2 everyone adopted [[communism]]?
-#q when was world war 2?
+#q when was world war 2? 50-70
 Communism -> **worker is the heart** and center of society
 workers create value
 
@@ -15,10 +15,21 @@ workers were taken care of very well
 **1 million dollars 20x the average worker**
 80's Revolt of the Elite
 after this reagan revolution, free market capitalism,
-started by the elite
+started by the elite, 
+**workers become consumers**
+
+consumerism create competition for prestiege
+create individualism and optimiztaion of you
+economic logic -> to understand the world
+when you see some one you don't of if you like them you think how much money they make
+
+go to school -> get job -> make money
+go to school -> learn 
 
 
 
+today CEO
+**200 million 200x to 300x the average worked**
 
 **money does not create value**
 [[consumerism]] is what fuels [[capitalism]]
@@ -29,5 +40,3 @@ reagan in the 80's allowed the elite to have power
 worker -> consuer. 
 
 CEOs make before Reagan make
-
-**200 million 200x to 300x the average worked**
