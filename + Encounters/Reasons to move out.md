@@ -10,4 +10,6 @@ tags:: [[family]] [[relationships]]
 
 - I don't think my values align with my family
  - We differ significantly on core ways to live life
- - Eastern and western values a
+ - [[Eastern vs. western values]] are also fundamentally different
+ - Growing up in America has created these differences
+ - 
