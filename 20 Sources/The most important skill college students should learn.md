@@ -1,12 +1,11 @@
-tags:: 
+tags:: [[leadership]] [[communication]]
 source:: https://www.youtube.com/watch?v=BbqR_6Qgplw
 type:: #source/video 
 
 # (1) The most important skill college students should learn - YouTube
 
 ### Summary
-**Learn how to reason**
-
+**"Reasoning" as the primary form of persuasion**
 The speaker discusses a story about captain remained calm in a critical situation and was able to resolve it calmly with reason
 Be knowledgeable and able to explain the answers to questions in a way that the person asking can understand 
 
@@ -21,4 +20,7 @@ He explains why after the landing they needed to stay on the plane for 2 more ho
 Because of the bursted engine there was kersone everywhere and that would not have been healthy for all the passengers to breathe in. In additional the tires of the plane were scorching hot which would have been dangerous
 Also letting people out through the slide would cause chaos and people would get lost and separated easily 
 
-The captain calmly delivered explainations and reasons for each of his decisions. His demanor and ability to reason for each of the decisions help everyone stay calm and execute on their tasks
+As a leader you should not be ordering people to do something.
+Explain to them why they need to do that thing and they will do it without you even asking 
+
+The captain calmly delivered explanations and reasons for each of his decisions. His demeanor and ability to reason for each of the decisions help everyone stay calm and execute on their tasks
