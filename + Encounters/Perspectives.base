@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("40 Spaces/Life/My Perspectives")
+        - file.name != "+ Home"
+        - file.name != "Life Map"
+        - file.name != "My unique perspective template"
+    order:
+      - file.name
+      - file.tags
+      - file.links
