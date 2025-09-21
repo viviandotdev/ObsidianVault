@@ -6,4 +6,8 @@ type:: #source/videoa
 
   
 ### Summary
-She felt very behind her classmates as se
+She felt very behind her classmates as senior in college and did not know what to do with her life.
+A mentor helps her find a job in corporate marketing
+After getting the job she feels immense anxiety and experiences an panic attack, therefore she declines the offer
+She is 50 years old and believes she has lived an interesting life, but it is not successful by the standards of society
+

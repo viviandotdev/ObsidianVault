@@ -12,6 +12,7 @@ up:: [[Life Map]]
 - [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative]]
 -  [[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
 - [[Your don't get happy from achieving your goal, you get happiness from the seeing progress towards your goal]]
+- 
 
 [[business]]
 - [[Opportunity is everywhere,  all you need is to make something better]]
@@ -41,6 +42,9 @@ up:: [[Life Map]]
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
 - [[Money is a required pursuit for life but a pointless pursuit upon death]]
+
+[[creativity]]
+- [[I don't believe in consuming just to consume, I want to consume to create]]
 
 [[life]]
 - [[Life is suffering, but you can choose how you suffer]]
