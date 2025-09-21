@@ -24,7 +24,6 @@ Values are the principles and beliefs that guide our actions, decisions, and ove
 
 
 
-[LIVE BY YOUR VALUES — Almanack of Naval Ravikant](https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values)
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
