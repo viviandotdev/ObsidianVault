@@ -30,4 +30,7 @@ tags:: [[70 Tags/values|values]] [[culture]]
 
 
 **I terms of values I am a mix between eastern and western values**
-For relationships, I values equality in relationships, I prefer peer relationships where I don't see you as better than me we are all human 
+equality vs hierarchy
+- For relationships, I values equality in relationships, I prefer peer relationships, I don't like interacting people who don't see me as a peer
+collectivism vs individualism
+- I think this is more difficult for me to decide, I think at my core I am more individual, I think for my own happiness and peace
