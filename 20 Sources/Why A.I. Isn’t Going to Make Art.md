@@ -2,13 +2,15 @@
 raindrop_id: 1260239193
 modified: 2025-08-01T17:40:15-04:00
 ---
-tags::
+tags:: [[ai]] [[creativity]]
 source:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
 type:: #source/article
 
 ### Why A.I. Isn’t Going to Make Art
 
 To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.
+
+
 
 #### Highlights
 

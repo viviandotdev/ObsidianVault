@@ -23,3 +23,8 @@ As a leader you should not be ordering people to do something.
 **Explain to them why they need to do that thing and they will do it without you even asking** 
 
 The captain calmly delivered explanations and reasons for each of his decisions. His demeanor and ability to reason for each of the decisions help everyone stay calm and execute on their tasks
+
+**Action**
+Don't just tell people to do things.
+Give them a reason to
+State facts that will make sense to them
