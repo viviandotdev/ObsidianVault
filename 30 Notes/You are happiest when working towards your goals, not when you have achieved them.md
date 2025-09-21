@@ -2,7 +2,7 @@
 modified: 2025-06-22T20:39:34-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/atomic
+type:: #note/perspective 
 tags:: [[happiness]] [[life]]
 
 ## You are happiest when working towards your goals, not when you have achieved them
