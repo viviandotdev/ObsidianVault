@@ -17,6 +17,11 @@ type:: #source/article
 
 Why having more free time can be better than becoming rich.
 
+Free time is more valuable than becoming rich because
+[[Freedom and flexility over one’s life is the best predictor of wellbeing]]
+
+
+
 #### Highlights
 
 > [!quote]+ Updated on Sun Aug 04 2024 07:15:18 GMT-0400

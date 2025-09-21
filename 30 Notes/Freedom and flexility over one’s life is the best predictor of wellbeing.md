@@ -16,6 +16,6 @@ The greatest intrinsic value of [[money]] is that it gives you more **time** and
 **Personal Thought**
 - I am willing to take a lower paying job if it offers me more freedom and flexibility
 - There is no number that I can put on my flexibility over my time this is something important to me and is more important than my career.
-- **[[time]] is the most valuable resource in the world and too many people waste it.**
+- **[[Time]] is the most valuable resource in the world and too many people waste it.**
 - **Time is the great equalizer, regardless of status or wealth everyone is faced with the same finite lifespan and inevitable mortality.**
 - I think this is why people are so unhappy when they have no flexibility over their own time, we subconsciously know that we are wasting our life away and it is eating them alive
