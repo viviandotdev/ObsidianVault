@@ -8,7 +8,7 @@ type:: #source/article
 
 ### Why A.I. Isn’t Going to Make Art
 
-To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.
+**To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.**
 
 
 
