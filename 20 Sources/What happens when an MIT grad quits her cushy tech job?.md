@@ -20,4 +20,4 @@ Her values did not align with the values of working for a company
 "Creating is an act of love" for her and it felt wrong to be making something that she didn't even believe in
 She **deeply values creative freedom** and working at a company contradicts that value which is what lead to her being so unhappy 
 
-However not everyone values creative freedom in the same way she does which is why some people are able to put up with the corporate life style to fund their vacations so that they could mamke memories w
+However not everyone values creative freedom in the same way she does which is why some people are able to put up with the corporate life style to fund their vacations so that they could mamke memories with their fried
