@@ -5,7 +5,7 @@ raindrop_highlights:
 
 ---
 
-tags::
+tags:: [[70 Tags/values|values]]
 source:: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
 type:: #source/article
 

@@ -3,6 +3,7 @@ created: 2024-11-12 14:12
 modified: 2025-08-01T20:01:36-04:00
 ---
 up:: [[Life Map]]
+tags:: [[70 Tags/values|values]]
 ## Values and Beliefs
 Values are the principles and beliefs that guide our actions, decisions, and overall outlook on life
 
