@@ -26,7 +26,6 @@ However not everyone values creative freedom in the same way she does which is w
 
 She realizes she does not really care for vacations, they are actually kind of stressful for her
 
-Money will buy her happiness
-Money is not free
-It is transactional exchange
+Making [[money]] is not free
+It is transactional exchange, she felt she had to give up a part of herself to make money
 If you give up too much of yourself, you will feel less 
