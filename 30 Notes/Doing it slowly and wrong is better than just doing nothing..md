@@ -12,3 +12,5 @@ I think my fear is that I am not taking the more efficient path or using the rig
 
 If you do it wrong at least to lear from it and make progress,
 When you do nothing you gain nothing from it
+
+running slowly is better than not running at all
