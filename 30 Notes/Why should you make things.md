@@ -1,9 +1,8 @@
 ---
 modified: 2025-08-01T19:52:52-04:00
 ---
-type:: #note/mini-essay
+type:: #note/list
 tags:: [[self-improvement]]
-status:: #🟩 
 
 **Why should you make things**
 - Make things that you would like to see exist

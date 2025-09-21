@@ -2,7 +2,7 @@
 created: 2025-08-01 11:28
 modified: 2025-08-01T17:30:29-04:00
 ---
-type:: #note/mini-essay 
+type:: #output/mini-essay 
 tags:: [[ai]]
 status:: #🟩 
 ## AI Won't Replace Humans 
