@@ -15,4 +15,4 @@ She is not rich and does not have a house
 But these are the trade offs she chose to make by following her curiosity instead of building a career
 When you buy a house you become chained to a mortgage and therefore that mortgage will **chain you to a job** 
 She was able to travel to multiple countries and try multiple different jobs
-She felt more freedom, 
+She felt more freedom, to change and grow and chasing a career will not allow her to do that.
