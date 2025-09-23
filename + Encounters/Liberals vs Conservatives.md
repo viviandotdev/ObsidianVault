@@ -13,7 +13,7 @@
 | **Criminals/Homeless**   | social and economic victims                                                             | choose to be criminals, no work ethic                                                    |
 | **Equality vs Freedom**  | Equality is a level playing field, it is more important the freedom                     | Freedom is the chance to achieve or fail and equality is opportunity, value freedom more |
 | **Immigration**          | protect minorities                                                                      | immigration control                                                                      |
-| Economy                  | regulate economy, tax and spend                                                         | deregulated economy, don't tax and spend                                                 |
+| Economy                  | ==regulate economy, tax and spend==                                                     | deregulated economy, don't tax and spend                                                 |
 
 
 **Differences**
