@@ -2,7 +2,6 @@
 created: 2025-09-21 14:39
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
 type:: #output/mini-essay 
 tags:: [[70 Tags/values|values]] [[culture]]
 ## Eastern vs. western values

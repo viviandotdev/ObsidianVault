@@ -2,11 +2,9 @@
 created: 2025-09-21 15:34
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
-type:: #note
+type:: #output/mini-essay 
 tags::
 ## Why is romantic relationships more valued in society than friendships
-
 
 Why is romantic relationships more valued in society than friendships
 Indoctrination, we need
@@ -20,5 +18,3 @@ Friendship do not produce workers, we don’t need to support our friends, they 
 
 If you don’t fall in love -> you don’t have a family -> if you don’t have a family you are not motivated to work -> if you are not motivated to work then there is not labor force to support the economy 
 
-We need romanic relationship to 
-Society overvalues pressure to get married, 
