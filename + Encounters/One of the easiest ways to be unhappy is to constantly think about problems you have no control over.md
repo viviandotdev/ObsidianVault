@@ -16,3 +16,5 @@ tags:: [[happiness]]
 	- Becoming healthier
 	- Learning more, becoming more curious about topics and learning about them
 	- Becoming a better programmer
+	- Becoming a better friend
+	- Becoming a better person who makes good decisions and helps out the people around them
