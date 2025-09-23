@@ -10,4 +10,5 @@ tags:: [[happiness]]
 
 - being over 120 pounds
 - not exercising 
-- not being able to focus?
+- not being able to focus
+- thinking about things i cannot control
