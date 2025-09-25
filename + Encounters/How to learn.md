@@ -1,0 +1,1 @@
+[jeremynixon.github.io/thinking/2018/12/22/how-to-learn.html](https://jeremynixon.github.io/thinking/2018/12/22/how-to-learn.html)
