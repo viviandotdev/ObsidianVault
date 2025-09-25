@@ -10,6 +10,33 @@ modified: 2025-06-26T08:26:35-04:00
 
 
 
+Anime style drawings of calisthenics workouts?
+Funnel to your app with a subscription?
+
+https://www.hybridcalisthenics.com/
+
+https://www.moversodyssey.com/
+
+https://yellowdude.co/
+
+Skill trees
+https://wedocalisthenics.com/#skill-trees
+
+Calisthenics skills
+https://dieringe.com/blog/calisthenics-skills
+
+Yoga poses compendium
+https://www.pocketyoga.com/pose/?sort=category
+
+Calisthenics workouts
+https://darebee.com/collections/advanced-calisthenics-workouts.html
+
+Simple calesthincs exercise library
+https://www.app.simple-calisthenics.com/content/exercises
+
+Calistree
+https://calistree.com/
+
 **Building a routine**
 [Calisthenics for Complete Beginners (Tips, Exercise Form, Programming) - YouTube](https://www.youtube.com/watch?v=1mlN0yuxoLE)
 
