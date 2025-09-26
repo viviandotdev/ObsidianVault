@@ -2,6 +2,7 @@
 created: 2025-06-24 07:06
 modified: 2025-06-26T08:26:35-04:00
 ---
+type:: #area
 ## calisthenics
 
 **progression charts**

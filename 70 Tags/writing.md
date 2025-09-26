@@ -4,7 +4,7 @@ modified: 2025-06-13T07:00:59-04:00
 
 ---
 up::  [[+ Library]]
-tags::
+type:: #area 
 
 ## Writing
 
