@@ -10,7 +10,7 @@ type:: #area
 **People**
 [[Paul Graham]]
 [[Joan Westenberg]]
-
+[[Lawrence Yeo]]
 
 
 **Articles**
