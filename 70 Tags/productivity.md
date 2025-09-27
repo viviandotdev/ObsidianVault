@@ -6,7 +6,22 @@ tags::
 ### productivity
 
 
+**People**
+- [[Sam Altman]]
+- [[Tim Ferris]]
+- [[Cal Newport]]
+- [[Thomas Frank]]
+- [[Ali Aabal]]
+- [[Dan Koe]]
+- [[Reysu]]
+- [[James Scholz]]
+- [[James Clear]]
 
+**Books**
+- [[Getting Things Done]]
+- [[Deep work]]
+- [[Ultralearning by Scott Young]]
+- [[Atomic Habits by James Clear]]
 ### Notes
 ```dataview
 LIST
@@ -20,20 +35,20 @@ SORT file.link asc
 ```
 
 
-
+**Books**
 ```dataview
 LIST
-FROM "20 Sources" AND [[#]]
+FROM "20 Sources" AND [[#]]AND #source/book 
 and !outgoing([[#]])
 WHERE !contains(file.name, "Outbox")
 WHERE !contains(file.name, "+ Home")
 WHERE !contains(file.name, "Queue")
-WHERE 
 
 SORT file.link asc
 ```
 
-### Sources
+
+
 ```dataview
 LIST
 FROM "20 Sources" AND [[#]]
@@ -43,4 +58,5 @@ WHERE !contains(file.name, "+ Home")
 WHERE !contains(file.name, "Queue")
 
 SORT file.link asc
+
 ```
