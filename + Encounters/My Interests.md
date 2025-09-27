@@ -10,7 +10,9 @@ tags::
 
 *Write out 20 interests that you have some form of interest in. If you had an entire month to yourself, what would you want to learn more about? This can be broad or specific. If you have experience with the interest, be specific with certain parts you want to learn. If you are new to the interest, go broad and put emphasis on the basics and principles.*
 
-1. 
+1. [[psychology]]
+2. [[economics]]
+3. [[web development]]
 
 # Interest Evaluation
 
