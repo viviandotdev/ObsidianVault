@@ -3,23 +3,21 @@ created: 2024-01-12 10:41
 modified: 2025-06-13T07:00:59-04:00
 
 ---
-up::  [[+ Library]]
 type:: #area 
 
 ## Writing
 
+**People**
+[[Paul Graham]]
+[[Joan Westenberg]]
+
+
+
+**Articles**
 [[How to Write - by Ryan Peterman]]
 
-### Note Taking
-[[QEC Note-Taking]]
-[[How to take book notes]]
-[[How I Take Smart Notes- Books]]
-[[Process for reading books and making notes]]
-[[How to build a daily writing habit]]
-[[My writing workflow]]
 
-**Build Writing Habit**
-**Choose a capstone topic to research and write about**
+[[note-taking]]
 
 
 ### Links to this page
