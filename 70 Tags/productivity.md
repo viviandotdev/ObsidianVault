@@ -19,6 +19,20 @@ WHERE !contains(file.name, "Queue")
 SORT file.link asc
 ```
 
+
+
+```dataview
+LIST
+FROM "20 Sources" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+WHERE 
+
+SORT file.link asc
+```
+
 ### Sources
 ```dataview
 LIST
