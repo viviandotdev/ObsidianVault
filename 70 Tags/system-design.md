@@ -2,7 +2,7 @@
 created: 2023-09-07 16:28
 modified: 2025-08-01T11:08:43-04:00
 ---
-up:: [[+ Library]]
+up:: [[programming]]
 ### Resources
 [System Design Interview - YouTube](https://www.youtube.com/@SystemDesignInterview)
 [The System Design Newsletter | Neo Kim | Substack](https://newsletter.systemdesign.one/)
@@ -12,7 +12,7 @@ up:: [[+ Library]]
 [System Design Interviews Course - Exponent](https://www.tryexponent.com/courses/system-design-interviews)
 [Grokking the System Design Interview | Video Course by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
-****
+**Quesitons**
 [SWE Quiz](https://www.swequiz.com/)
 [[Scalability Patterns]]
 
