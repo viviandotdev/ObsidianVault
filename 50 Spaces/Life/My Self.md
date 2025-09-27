@@ -5,7 +5,7 @@ up:: [[Life Map]]
 # My Self
 
 **Table of Contents**
-- [[#Why am I introverted?|Why am I introverted?]]
+- [[Why am I introverted?|Why am I introverted?]]
 - [[#Why don't i feel lonely?|Why don't i feel lonely?]]
 - [[#Why I quit social media|Why I quit social media]]
 - [[#How do you value money?|How do you value money?]]
@@ -29,7 +29,7 @@ up:: [[Life Map]]
 
 
 [[Why am I introverted]]
-### Why don't i feel lonely?
+### Why don't I feel lonely?
 - I have felt more lonely around other people than when I'm alone.
 - The most lonely period of my life was high school.
 - I never get bored because I have so many questions, books I want to read, and things I want to build and learn. I get confused when people say they are bored.
