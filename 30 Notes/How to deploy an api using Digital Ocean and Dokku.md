@@ -13,8 +13,6 @@ tags:: [[programming]] [[devops]]
 **most important update this**
 **next steps, decrease the build size**
 [Deploying a Typescript Server to Digital Ocean with Dokku - Part 11 - YouTube](https://www.youtube.com/watch?v=AdHwBKKQHZ4&list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s&index=13)
-## How to deploy an api using Digital Ocean and Dokku
-
 1. [[Set up a custom domain name for your web application]]
 2. [[Initialize digital ocean droplet]]
 3. Create dokku app

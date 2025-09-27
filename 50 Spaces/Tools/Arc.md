@@ -5,8 +5,6 @@ modified: 2025-06-13T07:48:59-04:00
 ---
 up::  [[Tools]]
 
-## Arc
-
 Arc is a freeware web browser developed by The Browser Company.
 
 

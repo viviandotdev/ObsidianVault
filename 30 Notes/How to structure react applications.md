@@ -4,8 +4,6 @@ modified: 2025-06-22T06:13:19-04:00
 ---
 up::  [[frontend development]]
 tags:: [[react]]
-## How to structure react applications
-
 ### Project Structure
 Well structured applications are more productive to work on because they are easy to navigate, modify and scale.
 Place most of the application code under`src` directory. This separates the application code from the project configuration files such as `package.json`, `next.config.js` and `tsconfig.js` which should remain the root of the project.

@@ -5,8 +5,6 @@ modified: 2025-06-15T13:50:57-04:00
 ---
 tags:: [[learning]]
 
-## Be strategic with what information you learn at what stage of the learning process
-
 Be strategic with what information you learn at what stage of the learning process
 	- Early (structure) how?
 		- Create anchor points of relevancy

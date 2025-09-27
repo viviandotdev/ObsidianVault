@@ -5,8 +5,6 @@ modified: 2025-06-15T18:45:40-04:00
 ---
 tags:: [[social-media]]
 
-## In 1984, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure.
-
 Orwell was worried about a world where freedom is taken away by force, where books might be banned, and truth is hidden from us. He feared a world where we are controlled by making us afraid.
 
  **He imagined a world where no one needed to force us to give up our freedom because we would happily do it ourselves, all for the sake of comfort and fun.**

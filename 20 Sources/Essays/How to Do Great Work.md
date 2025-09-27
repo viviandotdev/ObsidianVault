@@ -61,8 +61,6 @@ tags::
 source:: https://paulgraham.com/greatwork.html
 type:: #source/link
 
-### How to Do Great Work
-
 
 #### Highlights
 

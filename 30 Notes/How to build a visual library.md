@@ -4,8 +4,6 @@ modified: 2025-06-15T18:36:09-04:00
 
 ---
 up::  [[drawing]]
-## How to build a visual library
-
 Choose a scene from a movie you really like and study the objects of the scene for a month
 Choose an object a day and study them from all angles
 

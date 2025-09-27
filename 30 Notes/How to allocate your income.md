@@ -5,8 +5,6 @@ modified: 2025-06-15T18:35:48-04:00
 ---
 up::
 tags:: [[money]] [[My Finances]]
-## How to allocate your income
-
 - **50% to 60% for your fixed costs:** As we went over earlier, fixed costs are your essentials.
 - **10% for your investments:** These include your 401(k), IRA, online brokerage account, and any other investments you have.
 - **5% to 10% for your savings goals:** Your emergency fund, a down payment on a home, and other items you want to save toward are part of this category.

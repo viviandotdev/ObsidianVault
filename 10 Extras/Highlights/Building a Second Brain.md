@@ -1,4 +1,3 @@
-## Building a Second Brain
 - Author: Tiago Forte
 ## Highlights
 By training ourselves to notice when something resonates with us, we can improve not only our ability to take better notes, but also our understanding of ourselves and what makes us tick. It is a way of turning up the volume on our intuition so we can hear the wisdom it offers us.

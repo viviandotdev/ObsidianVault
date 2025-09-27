@@ -8,7 +8,6 @@ raindrop_highlights:
 source:: https://postanly.substack.com/p/an-existentialist-approach-to-life?utm_source=post-email-title&amp;publication_id=11353&amp;post_id=146462378&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 type:: #source/article
 
-### An Existentialist Approach to Life
 On Getting the Life You Want
 
 [[Existentialism]] - individuals create their own meaning and purpose in life without pre-determined. meaning

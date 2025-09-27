@@ -5,8 +5,6 @@ modified: 2025-06-23T22:04:11-04:00
 up:: [[My Perspectives]]
 type:: #note/atomic
 tags:: [[business]]
-## Ideas are nothing what truly matters is execution
-
 **Brain dump**
 - most people think they need a special idea to be successful
 - however the success does not come from the idea

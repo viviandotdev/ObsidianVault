@@ -3,8 +3,6 @@ created: 2024-04-27 16:12
 modified: 2025-07-21T18:47:37-04:00
 ---
 
-# web development
-
 [[How I set up my dev environment]]
 **Frontend tools + libaries**
 - Next.js / [[react]]

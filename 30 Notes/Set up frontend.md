@@ -6,8 +6,6 @@ modified: 2025-06-15T21:10:08-04:00
 up::  [[How to start a programming project]]
 tags:: [[frontend development]]
 source::
-## Set up frontend
-
 
 **Set up frontend** ([Next.js Typescript Starter](https://github.com/jpedroschmitz/typescript-nextjs-starter?tab=readme-ov-file))
 ```

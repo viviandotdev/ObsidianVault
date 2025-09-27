@@ -9,8 +9,6 @@ tags:: [[70 Tags/values|values]]
 source:: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
 type:: #source/article
 
-### LIVE BY YOUR VALUES — Almanack of Naval Ravikant
-
 What are your core [[10 Extras/Templates/values]]?    I’ve never fully enumerated them, but a few examples:   Honesty is a core, core, core value. By honesty, I mean I want to be able to just be me. I never want to be in an environment or around people where I have to watch what I say. If I disconnect what I’m thinking fro
 
 

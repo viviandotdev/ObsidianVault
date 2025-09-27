@@ -6,8 +6,6 @@ modified: 2025-06-16T07:04:50-04:00
 up::  [[Never Split the Difference by Chris Voss|Never Split the Difference by Chris Voss]]
 tags:: [[communication]]
 
-## How to create calibrated questions
-
 ### How to create calibrated questions
 1. avoid verbs like "can", "is", "are", "do" or. "does", these are closed -ended questions that can be answered with a simple "yes" or "no"
 2. start with "**what", "how"** and sometimes "why"

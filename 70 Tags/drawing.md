@@ -3,8 +3,6 @@ created: 2023-09-01 20:53
 modified: 2025-07-06T13:52:57-04:00
 ---
 type:: #area
-## drawing
-
 **Learning how to draw**
 [[How to study perspective drawing]]
 [[How to study dynamic sketching]]

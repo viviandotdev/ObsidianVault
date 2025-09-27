@@ -5,8 +5,6 @@ modified: 2025-03-23T00:07:03-04:00
 ---
 
 up: [[Tools]]
-## rembg
-
 background remover
 
 ```

@@ -4,8 +4,6 @@ modified: 2025-08-01T19:40:44-04:00
 ---
 up:: [[My Values]]
 tags:: [[relationships]]
-## I believe in doing things for other while expecting nothing in return
-
 <!--
 Define the behaviors that align with this value. These actions will guide you back, when you fall off track. Be sure to include the “why” behind each. -->
 **[[relationships]] work when both parties are willing to do things for each other without expecting anything in return.**

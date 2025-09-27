@@ -4,8 +4,6 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 type:: #note/atomic
 tags:: [[productivity]]
-## perfectionism
-
 It is tendency to set extremely high standards for oneself and others, often accompanied by critical self-evaluations and concerns about how others perceive them
 **Problems with this mindset**
 Due to this mindset we often spend too much time working on a project and modifying small things that no one will notice anyways

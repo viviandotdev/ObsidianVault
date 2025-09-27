@@ -4,8 +4,6 @@ modified: 2025-06-23T07:31:04-04:00
 type:: #note/atomic
 tags:: [[life]] [[career]]
 status:: #🟨
-## It does not matter what job I have or for what company i work for, I don't think i will be ever be passionate building something for someone else.
-
 Your job is not meant to be the only thing you have, you should have other interests that full fill you
 
 - do not tie your entire identity to your work

@@ -4,8 +4,6 @@ modified: 2025-06-28T07:47:29-04:00
 ---
 type:: #area
 source::
-## chess
-
 
 
 

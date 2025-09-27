@@ -21,8 +21,6 @@ tags::
 source:: https://moretothat.com/the-labor-of-inspiration/
 type:: #source/article
 
-### The Labor of Inspiration - More To That
-
 There&#39;s both magic and dedication within the anatomy of inspiration.
 
 #### Highlights

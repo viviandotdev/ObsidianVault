@@ -7,8 +7,6 @@ up::
 tags:: [[database]] [[prisma]]
 Related: [[Database Relationships]]
 
-## One to One Relationship
-
 ### Example
 The `bookIsbn` relation scalar is a direct representation of the foreign key in the underlying database. This one-to-one relation expresses the following:
 

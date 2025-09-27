@@ -4,8 +4,6 @@ modified: 2025-08-01T11:39:38-04:00
 ---
 type:: #note/atomic
 tags:: [[relationships]]
-### 4 Horseman in Predicting divorce
-
 **Criticism**
 	Complaining is healthy in a marriage but  criticism is not.
 	Criticism is attacking someone’s personality whereas complaining is just saying what happened.

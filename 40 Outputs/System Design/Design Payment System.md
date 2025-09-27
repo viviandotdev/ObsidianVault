@@ -3,9 +3,9 @@ created: 2024-04-10 15:27
 modified: Wednesday 10th April 2024 15:27:44
 ---
 tags::  [[system-design]]
-
 source::
-## Design a Payment System
+
+
 Try to do most of this without looking at the summarized information,
 Watch a high level summary on youtube on what you need to know .
 with notebook in hand only write down information that is insightful, just absorb the information at the high level,

@@ -4,8 +4,6 @@ modified: 2025-06-15T18:53:13-04:00
 
 ---
 source:: [[happiness]]
-## You can buy more happiness for another person than for yourself
-
 **Why people have kids**
 
 You can often bring more happiness to others than to yourself through spending.

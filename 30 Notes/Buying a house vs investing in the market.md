@@ -4,8 +4,6 @@ modified: 2025-06-15T13:51:15-04:00
 
 ---
 tags:: [[money]]
-## Buying a house vs investing in the market
-
 **Investing in the S&P 500 historically has better returns. Considering numbers like inflation, opportunity cost, and other expenses is crucial when buying a house.**
 We get the idea we should buy a house because **ownership** is valued in America.
 - Owning a house means you are successful

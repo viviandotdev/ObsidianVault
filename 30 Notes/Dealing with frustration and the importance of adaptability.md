@@ -5,8 +5,6 @@ modified: 2025-06-15T18:26:58-04:00
 ---
 tags:: [[happiness]]
 
-## Dealing with frustration and the importance of adaptability
-
 1. Frustration arises from having high standards and expectations.
 2. Question the need for things to be a certain way. Just accept things for the way they are. Not everything needs to be exactly like the way you want it to be
 3. Being adaptable leads to peace.

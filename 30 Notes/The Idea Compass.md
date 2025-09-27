@@ -7,7 +7,6 @@ up:: [[My PKM Workflows]]
 tags:: [[note-taking]]
 related: [[How to Write Atomic Notes]]
 
-## The Idea Compass
 The idea compass is a list of questions that helps you link your atomic notes
 1. Where does X come from?
 2. What is similar to X?

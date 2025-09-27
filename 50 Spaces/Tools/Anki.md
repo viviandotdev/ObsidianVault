@@ -5,8 +5,6 @@ modified: 2025-06-15T20:31:26-04:00
 up::  [[Tools]]
 tags:: [[learning]]
 
-## Anki
-
 Anki is a spaced repetition tool to help you remember. 
 
 

@@ -4,8 +4,6 @@ modified: 2025-07-15T08:32:48-04:00
 tags:: [[cooking]]
 source:: https://www.youtube.com/watch?v=gAxFmZXGcKY
 type:: #source/video
-### an EASY guide to SEASONING CARBON STEEL pans (2 METHODS) - YouTube
-
 ![](https://www.youtube.com/watch?v=gAxFmZXGcKY)
 
 - wipe the pan dry with a paper town before you oil it

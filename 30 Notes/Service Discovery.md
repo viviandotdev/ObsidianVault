@@ -5,8 +5,6 @@ modified: 2025-06-16T08:03:39-04:00
 
 tags:  [[system-design]]
 
-## Service Discovery
-
 **Service discovery: Mechanism used in distributed systems to locate and communicate with services and resources**
 
 **Server side discovery:** The client makes a call to a discovery service registry and the discovery service makes the request to the correct service on the client's behalf

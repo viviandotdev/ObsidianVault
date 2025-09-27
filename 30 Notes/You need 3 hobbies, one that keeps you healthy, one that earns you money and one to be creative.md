@@ -3,8 +3,6 @@ modified: 2025-06-23T07:15:39-04:00
 ---
 type:: #note/atomic #note/perspective
 tags:: [[happiness]]
-## You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative
-
 
 - Society wants us to specialize into one thing, however that is not always the best way to do things,
 

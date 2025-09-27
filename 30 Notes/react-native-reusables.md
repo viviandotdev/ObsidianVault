@@ -4,8 +4,6 @@ modified: 2025-07-24T12:51:21-04:00
 ---
 up:: [[react-native]]
 tags::
-## react-native-reusables
-
 
 [react-native-reusables](https://github.com/mrzachnugent/react-native-reusables)
 

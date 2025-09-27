@@ -12,8 +12,6 @@ tags::
 source:: https://moretothat.com/the-staircase-of-the-self/
 type:: #source/article
 
-### The Staircase of the Self - More To That
-
 Knowing yourself is much harder than it sounds.
 
 #### Highlights

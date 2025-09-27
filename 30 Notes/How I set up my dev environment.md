@@ -3,8 +3,6 @@ created: 2024-04-27 16:18
 modified: 2025-06-16T07:05:44-04:00
 ---
 up::  [[Tools]]
-## How I set up my dev environment
-
 **Table of Contents**
 - [[#How I set up my dev environment|How I set up my dev environment]]
 - [[#OS Settings|OS Settings]]

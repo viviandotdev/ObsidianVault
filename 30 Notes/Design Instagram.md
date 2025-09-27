@@ -5,8 +5,6 @@ modified: 2025-06-15T18:27:14-04:00
 ---
 tags::  [[system-design]]
 
-## Design Instagram
-
 **Functional Requirements**
 1. Users can follow other users
 2. Users can view a feed of content from the people they follow

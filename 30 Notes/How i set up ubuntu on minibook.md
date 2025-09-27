@@ -6,8 +6,6 @@ up:: [[CHUWI MiniBook X]]
 type:: #note/how-to 
 tags:: [[linux]]
 status:: #🟥
-## How i set up ubuntu on minibook
-
 I swapped esc with caps recently on ubuntu. Steps i followed:
 ```
 sudo vim /etc/default/keyboard (open up this file)

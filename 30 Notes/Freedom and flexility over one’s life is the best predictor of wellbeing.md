@@ -5,7 +5,6 @@ modified: 2025-06-23T07:39:44-04:00
 up::  [[My Perspectives]]
 type: #note/perspective 
 tags:: [[happiness]]
-## Freedom and flexility over one’s life is the best predictor of wellbeing
 I value freedom and flexibility over my time more that money, when making decisions I consider the time cost as well
 **Freedom and flexility over one’s life is the best predictor of wellbeing** - Morgan Housel
 

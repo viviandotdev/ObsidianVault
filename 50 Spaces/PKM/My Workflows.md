@@ -2,8 +2,6 @@
 created: 2023-07-23 17:11
 modified: 2025-08-01T17:57:34-04:00
 ---
-## My Workflows
-
 ### Organizing Life Tasks
 
 [[My journaling workflow]]

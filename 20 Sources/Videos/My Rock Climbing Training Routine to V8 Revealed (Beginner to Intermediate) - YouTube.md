@@ -9,8 +9,6 @@ tags:: [[bouldering]]
 source:: https://www.youtube.com/watch?v=IHHEKcfVIsg
 type:: #source/video 
 
-### My Rock Climbing Training Routine to V8 Revealed (Beginner to Intermediate) - YouTube
-
 
 
 **Schedule (example):** 

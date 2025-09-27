@@ -6,8 +6,6 @@ modified: 2025-06-15T06:57:35-04:00
 tags:: [[neural-networks]]
 source:: [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
-### The spelled-out intro to neural networks and back propagation
-
 ### What is the difference between gradient and derivative?
 The **derivative** focuses on the rate of change of a **function** with respect to a **single** variable, the **gradient** encompasses the rate of change of a **multivariable function** with respect to **all of its variables simultaneously.**
 **The gradient gives us some power because we know how to influence the final outcome, this will extremely useful for training knowledge**

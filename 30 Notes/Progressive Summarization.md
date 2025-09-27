@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up:: [[My reading workflow]]
 type:: #note/protocol 
 tags::
-## Progressive Summarization
-
 **Layer 1** is the starting point of Progressive Summarization, like the bedrock on which everything else is built:
 
 **Layer 2** is the first round of true summarization, in which I **bold only the best parts** of the passages I’ve imported. Again, I have no explicit criteria. I look for keywords, key phrases, and key sentences that I feel represent the core or essence of the idea being discussed.

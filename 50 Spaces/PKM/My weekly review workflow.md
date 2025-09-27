@@ -4,8 +4,6 @@ modified: 2025-06-23T20:28:13-04:00
 ---
 up::  [[My Workflows]]
 
-## My weekly review workflow
-
 [Tiago Forte's Weekly Review - YouTube](https://www.youtube.com/playlist?list=PLVNXAaej57W63yyOFiJtdrZR6lpODnKrW)
 
 - Do laundry

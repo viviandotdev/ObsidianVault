@@ -4,8 +4,6 @@ modified: 2025-06-16T07:12:47-04:00
 ---
 up::  [[Tools]]
 
-## Obsidian
-
 ### Plugins
 - [[Obsidian Dataview Plugin|DataView Plugin]]
 - [[Obsidian Templater Plugin|Templater Plugin]]

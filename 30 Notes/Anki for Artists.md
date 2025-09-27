@@ -5,8 +5,6 @@ modified: 2025-06-23T20:11:13-04:00
 type:: #note/how-to 
 tags:: [[learning]] [[drawing]]
 
-## Anki for Artists
-
 [A Case Study in Artistic Training | Muddy Colors](https://www.muddycolors.com/2020/06/a-case-study-in-artistic-training-methods/)
 [Anki for Artists Part 1](https://www.youtube.com/watch?v=J_j3BunQ6AQ)
 [Anki for Artists - pt.2 - best practices and limitations - YouTube](https://www.youtube.com/watch?v=4MF5LWwTPTk)

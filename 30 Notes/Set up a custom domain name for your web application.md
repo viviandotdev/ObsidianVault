@@ -6,7 +6,6 @@ up::  [[How to deploy an api using Digital Ocean and Dokku]]
 type:: #note/how-to
 tags:: [[dns]]
 
-## Set up a custom domain name for your web application
 **Do this first to make sure it propagates**
 
 1. Purchase a domain at

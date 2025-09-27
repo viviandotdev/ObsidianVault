@@ -3,8 +3,6 @@ created: 2025-06-15 18:31
 modified: 2025-06-23T22:15:27-04:00
 ---
 tags:: [[docker]] 
-## useful docker commands
-
 Remove image
 ```
 docker image rm image-id -- force

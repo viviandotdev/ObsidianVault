@@ -6,8 +6,6 @@ up::  [[writing]]
 status:: completed
 category:: completed
 type:: #source/course
-## PYTA - Part Time YouTuber Academy
-
 
 **Linked References to this Note**
 These notes point directly to this note. But this note doesn't point back.

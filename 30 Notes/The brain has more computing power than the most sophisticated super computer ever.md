@@ -4,8 +4,6 @@ modified: 2025-06-15T18:58:28-04:00
 
 ---
 tags:: [[brain]]
-## The brain has more computing power than the most sophisticated super computer ever
-
 **Storage**-
 	**Computer-** The most powerful supercomputer  has a storage capacity of (1 petabyte = 1,000 terabytes).
 	 **Brain -** has a storage capacity of 2.5 million gigabytes or 2.5 petabytes

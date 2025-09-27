@@ -4,7 +4,6 @@ modified: 2025-07-12T07:45:22-04:00
 ---
 up:: [[Life Map]]
 source::
-## My Systems
 **Goals**-
 
 

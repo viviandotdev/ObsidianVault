@@ -5,8 +5,6 @@ tags:: [[self-improvement]] [[motivation]]
 source:: https://paulgraham.com/do.html
 type:: #source/link
 
-### What to Do
-
 Follow your curiosity and **make good new things**
 #### Highlights
 

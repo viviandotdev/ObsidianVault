@@ -6,8 +6,6 @@ modified: 2025-06-15T18:57:01-04:00
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
 tags:: [[love]]
 
-## The irrationality of love is exceedingly rational.
-
 Irrational loyalty signals to the person that you are no longer acting out of **selfishness.** They are trying to prove that they will do anything for you instead of themselves.
 
 Practical and sensible is unromantic.

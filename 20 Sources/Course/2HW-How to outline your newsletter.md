@@ -3,8 +3,6 @@ created: 2025-07-06 21:05
 modified: 2025-07-06T21:08:46-04:00
 ---
 up:: [[2HW-The 2 Hour Writer]]
-## 2HW-How to outline your newsletter
-
 ### **Step 1: Ideation & Content Generation**
 
 Begin by gathering potential topics and angles for your newsletter.

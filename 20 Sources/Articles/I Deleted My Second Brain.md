@@ -5,8 +5,6 @@ tags:: [[note-taking]] [[writing]]
 source:: https://www.joanwestenberg.com/p/i-deleted-my-second-brain
 type:: #source/article
 
-# I Deleted My Second Brain
-
 Why I Erased 10,000 Notes, 7 Years of Ideas, and Every Thought I Tried to Save
 
 When your vault has too many notes it can become a burden to maintain, it feels like you brain is a mess and feel disorganized. 

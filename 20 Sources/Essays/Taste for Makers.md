@@ -10,8 +10,6 @@ tags::
 source:: https://paulgraham.com/taste.html
 type:: #source/link
 
-### Taste for Makers
-
 
 
 #### Highlights

@@ -3,8 +3,6 @@ created: 2024-05-19 18:54
 modified: 2025-07-21T18:47:32-04:00
 ---
 tags:: [[open source]] [[web development]]
-## List of open source projects to learn from
-
 
 [OSS Gallery](https://oss.gallery/)
 [Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)

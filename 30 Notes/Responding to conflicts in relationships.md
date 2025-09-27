@@ -4,8 +4,6 @@ modified: 2025-06-23T07:15:24-04:00
 ---
 type:: #note/atomic
 tags:: [[relationships]]
-## Responding to conflicts in relationships
-
 - Don’t show them evidence that conflicts with what they believe.
 	- During conflicts, the area of the brain associated with logic shutdown and the regions associated with aggression light up. The brain is no longer processing what's being said it is just trying to win.
 - Explaining is just veiled dominance, you are not trying to educate, dupe down you’re still trying to win. All the other side hears when you explain is “Here’s why I am right, and you are wrong”.

@@ -7,8 +7,6 @@ up::  [[system-design]]
 tags::
 source:
 
-## Design A Web Crawler
-
 ### What is it?
 A robot often used by search engines to discover new or updated content to the web by collecting a few pages and recursively following the links on those pages to collect new content.
 1. Given a set of URLs download the web pages addressed by the URLs.

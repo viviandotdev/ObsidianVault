@@ -5,8 +5,6 @@ tags:: [[philosophy]]
 source:: https://www.youtube.com/watch?v=AZkjFXQnPdg&list=LL&index=3
 type:: #source/video 
 
-# just exist bro
-
 ![](https://www.youtube.com/watch?v=AZkjFXQnPdg&list=LL&index=3)  
 
 - all you need to do to live

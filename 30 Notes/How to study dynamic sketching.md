@@ -4,8 +4,6 @@ modified: 2025-06-23T22:13:10-04:00
 ---
 up::
 tags:: [[drawing]]
-## How to study dynamic sketching
-
 
 [Dynamic Sketching Study Guide - YouTube](https://www.youtube.com/watch?v=t6Jc3hjxcLM)
 

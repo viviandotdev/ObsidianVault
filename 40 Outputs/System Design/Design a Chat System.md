@@ -6,7 +6,6 @@ modified: 2025-06-15T13:20:32-04:00
 tags:: [[system-design]]
 type:: #output
 source::
-## Design a Chat System
 - finish the API list
 - show the path for the direct and then the group message flow visually
 -

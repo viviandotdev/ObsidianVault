@@ -5,8 +5,6 @@ modified: 2025-06-23T22:15:08-04:00
 up:: [[Tools]]
 type::
 source::
-## pnpm MOC
-
 ``
 ```
  pnpm i --r

@@ -3,8 +3,6 @@ created: 2023-09-24 06:21
 modified: 2025-06-22T13:23:21-04:00
 ---
 tags:: [[docker]]
-## docker 
-
 What is docker?
 Is a platform designed to help developers build, test and deploy containerized applications
 

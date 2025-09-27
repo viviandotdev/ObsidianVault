@@ -5,7 +5,6 @@ modified: Tuesday 11th July 2023 18:24:35
 ---
 up::  [[Tools]]
 
-## Vim
 ****
 [vi - How can I do a 'change word' in Vim using the current paste buffer? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/88714/how-can-i-do-a-change-word-in-vim-using-the-current-paste-buffer)
 viwp

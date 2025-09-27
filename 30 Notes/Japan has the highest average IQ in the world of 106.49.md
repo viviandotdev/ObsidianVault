@@ -4,8 +4,6 @@ modified: 2025-06-23T07:15:08-04:00
 ---
 type:: #note/atomic
 tags::  [[intelligence]]
-## Japan has the highest average IQ in the world of 106.49
-
 Japan is known for its technological advancements and intellectual achievements. According to a recent report by researchers Richard Lynn and David Becker, Japan has an average IQ of 106.49, the highest in the world
 
 One factor that contributes to this is the Japanese diet which contains a lot of cold water fish such as tuna and salmon. Tuna and Salmon have been found to contains high amount of [[Docosahexaenoic acid]] (DHA), in addition Japan consumes about half the amount of [[Linoleic acid]] as Americans

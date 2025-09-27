@@ -5,8 +5,6 @@ tags:: [[memory]] [[learning]]
 source:: https://www.youtube.com/watch?v=-46Vyiwat_Y
 type:: #source/video
 
-### How I ranked 1st at Cambridge University - The Essay Memorisation Framework
-
 ![How I ranked 1st at Cambridge University - The Essay Memorisation Framework - YouTube](https://www.youtube.com/watch?v=-46Vyiwat_Y)
 
 

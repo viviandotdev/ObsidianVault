@@ -1,4 +1,3 @@
-## Sensitive
 - Author: Jenn Granneman
 
 ## Highlights

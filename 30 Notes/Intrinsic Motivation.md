@@ -5,8 +5,6 @@ modified: 2025-07-13T07:32:17-04:00
 type:: #note/atomic
 tags:: [[motivation]]
 
-## Intrinsic Motivation
-
 **The drive to engage in an activity because it is inherently enjoyable rather than for the external rewards or pressure**
 [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
 

@@ -4,7 +4,6 @@ modified: 2025-06-15T18:49:30-04:00
 ---
 tags:: [[system-design]]
 
-## Load Balancer
 Technologies: (NetScaler, NGINX, AWS ELB)
 
 **Evenly distributes events across partitioner service machines.** The load balancer receives the data from the API Gateway and distributes it across **multiple instances of the same service**. The load balancer ensures that the incoming data is evenly distributed to maintain a balanced workload across the partitioner service instances.

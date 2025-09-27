@@ -6,8 +6,6 @@ type:: #source/video
 tags:: [[fasting]]
 source:: [WIL's Fast to Last](https://www.skool.com/joseph-e-what-ive-learned-3051/about)
 
-## How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol
-
 **Transform Body Composition and Increase Lifespan with Fasting**
 
 - **Science of Reducing Hunger:** Learn how to decrease overall hunger long-term to burn fat, keep it off, and maintain high mental clarity and energy levels.

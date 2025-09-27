@@ -7,8 +7,6 @@ modified: 2025-08-01T17:38:03-04:00
 up:: [[Bookshelf]]
 tags:: [[flow]]
 type:: #source/book
-# Flow by Mihaly Csikszentmihalyi
-
 ### Summary/High Level Thoughts
 
 This book discusses “flow” and how it can be achieved to help use live a happier and more meaningful work and life.

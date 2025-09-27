@@ -5,7 +5,6 @@ modified: 2025-06-22T19:46:01-04:00
 up::  [[My Workflows]]
 tags:: [[reading]]
 source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)
-## My reading workflow
 ## Capture
 **books** - read on kindle
 **articles**- read from raindrop.io

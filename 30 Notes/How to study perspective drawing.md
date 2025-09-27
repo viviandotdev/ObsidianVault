@@ -5,8 +5,6 @@ modified: 2025-07-12T12:53:16-04:00
 type:: #note/how-to 
 tags:: [[drawing]]
 
-## How to study perspective drawing
-
 [Perspective Drawing Study Guide for How to Draw and Framed Perspective 1 - YouTube](https://www.youtube.com/watch?v=pGgYGP3szuk)
 [Perspective for Concept Art - Horizon Line, Multiple Vanishing Points, 3D Underlay, and more! - YouTube](https://www.youtube.com/watch?v=NRV6K_bCpV4)
 

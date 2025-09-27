@@ -5,8 +5,6 @@ modified: 2025-06-15T14:06:21-04:00
 ---
 tags:: [[success]]
 
-## Success is not the result of any single quality, it’s about the alignment between who you are and where you choose to be.
-
 **Alignment and Success**
 Success is not the result of any single quality, it’s about the alignment between who you are and where you choose to be.
 

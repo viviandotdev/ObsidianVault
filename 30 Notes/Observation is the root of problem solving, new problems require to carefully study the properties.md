@@ -4,8 +4,6 @@ modified: 2025-07-17T17:57:59-04:00
 ---
 up::
 type:: #note/atomic
-## Observation is the root of problem solving, new problems require to carefully study the properties
-
 
 **Problem Solving**
 - Problem solving is not just pattern matching, you have to be able to identify the patterns in the first place

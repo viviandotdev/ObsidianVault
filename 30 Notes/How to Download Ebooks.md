@@ -6,8 +6,6 @@ modified: 2025-06-16T07:02:44-04:00
 up::  [[Kindle]]
 tags:: [[reading]]
 
-## How to Download Ebooks
-
 1. For books that cannot convert, download the .mobi version then convert to epub to process in [BR for You.](https://bionic-reading.com/)
 2. use anna's archive to download books
 3. Bionic reading process each book

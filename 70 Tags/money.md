@@ -3,8 +3,6 @@ created: 2025-06-15 07:07
 modified: 2025-08-01T12:55:15-04:00
 ---
 up:: [[economics]]
-## money
-
 
 ```dataview
 LIST

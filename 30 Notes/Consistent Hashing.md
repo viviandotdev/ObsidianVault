@@ -5,8 +5,6 @@ modified: 2025-06-15T13:19:27-04:00
 ---
 tags:: [[system-design]]
 
-## Consistent Hashing
-
 **What is consistent hashing?**
 Consistent hashing, is a useful strategy for a [[Design Distributed Cache |distributed caching system]]. It allows us to distribute data across a cluster is such a way that we **minimize the amount of data that needs to be moved or remapped when nodes are added or removed.**
 **Use case**

@@ -4,8 +4,6 @@ modified: 2025-06-15T18:48:32-04:00
 
 ---
 source:: [[intelligence]]
-## Linoleic acid
-
 Linoleic acid is an essential (this means that humans cannot produce it, it is obtained through diet) fatty acid
  - [[Linoleic acid]] makes you dumb; it hogs up space in the brain cells so DHA cannot get in. It shoves out DHA and other fats that are good for your brain.
 - Vegetable oil reduces DHA because it has so much linoleic acid.

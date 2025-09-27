@@ -4,7 +4,6 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 up::
 tags::
-## procrastination
 **[[Why do we procrastinate?]]**
 - [[constant criticism in a relationship can prevent growth]]
 - [[The DUST Model]]

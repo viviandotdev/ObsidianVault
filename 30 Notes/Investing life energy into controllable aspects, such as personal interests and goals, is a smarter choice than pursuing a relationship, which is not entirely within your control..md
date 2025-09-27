@@ -6,8 +6,6 @@ type:: #note/atomic
 status: #🟨
 tags::
 
-## Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control.
-
 
 **Topic**
 <!-- What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic. -->

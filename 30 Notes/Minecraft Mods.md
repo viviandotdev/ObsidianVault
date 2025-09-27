@@ -5,7 +5,6 @@ modified: 2025-06-15T18:52:17-04:00
 ---
 tags:: [[minecraft]]
 
-## Minecraft Mods
 ### Technical Mods
 
 - **AutoTag**: [CurseForge - AutoTag](https://www.curseforge.com/minecraft/mc-mods/autotag)

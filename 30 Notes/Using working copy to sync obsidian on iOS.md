@@ -4,8 +4,6 @@ modified: 2025-07-12T13:31:31-04:00
 ---
 up:: [[Obsidian]]
 tags::
-## Using working copy to sync obsidian on iOS
-
 **Working Copy**
 -  mobile github client
 1. Open **obsidian** app and create vault (do not sync with iCloud)

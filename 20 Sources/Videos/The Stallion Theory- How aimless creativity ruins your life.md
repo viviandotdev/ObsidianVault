@@ -7,8 +7,6 @@ type:: #source/video
 tags:: [[creativity]]
 source:: [The Stallion Theory: How aimless creativity ruins your life - YouTube](https://www.youtube.com/watch?v=z8f5MRDiSGY)
 
-## The Stallion Theory- How aimless creativity ruins your life
-
 Creativity is often thought of something that happens natural and lacks structure. The phrase burst of creativity implies that creativity can happen an anywhere at any time and cannot be forced. However using **structure and constraints can actually enhance creativity**. Constraints create focus and direction and deadlines can establish boundaries to make sure that things actually get done.
 In order to more productive and produce more we need to seek **focus** not freedom.
 

@@ -5,8 +5,6 @@ modified: 2025-06-16T07:34:54-04:00
 tags:: [[learning]] [[memory]]
 type:: #source/video 
 source::[I Hate Memorising, so I Created a System to Remember Everything - YouTube](https://www.youtube.com/watch?v=PjyMdQptGYI&list=WL&index=12)
-## I Hate Memorising, so I Created a System to Remember Everything
-
 The way we are taught new things is through **over processed materials** such as lecture slides or even text books some times, where the author are already structured the information in a certain way. However we have no idea why this information is structured this way so we just memorize it as fact.
 
 The process of learning is through **connecting the information** to concept and things you already know and building up from there.

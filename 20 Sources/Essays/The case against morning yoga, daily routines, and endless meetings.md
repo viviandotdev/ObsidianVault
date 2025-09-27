@@ -12,8 +12,6 @@ tags::
 source:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
 type:: #source/article
 
-### The case against morning yoga, daily routines, and endless meetings
-
 How to maximize 10x work and avoid thoughtless daily 1x work routines
 
 #### Highlights

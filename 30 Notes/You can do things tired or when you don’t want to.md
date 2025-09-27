@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up:: [[My Perspectives]]
 type:: #note/atomic
 tags:: [[self-improvement]]
-## You can do things tired or when you don’t want to
-
 You’re body is still capable of doing it you don’t need that much rest
 Even when you don't want to do something you can do it tired,
 For example you show up to work everyday because you have to,

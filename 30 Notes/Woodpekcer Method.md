@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up:: [[chess]]
 type:: #note/how-to 
 tags::
-## Woodpekcer Method
-
 Woodpecker method
 1. Solve as many exercises from the book as you can in four weeks.
 2. Take a short break (the authors recommend between 1 day and 1 week).

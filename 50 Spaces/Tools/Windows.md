@@ -7,8 +7,6 @@ up::  [[Tools]]
 tags::
 related:
 
-## Windows
-
 [The 10 Best Windows Productivity Apps in 2022 - YouTube](https://www.youtube.com/watch?v=BQKfAxFgi-E)
 
 ### Windows Apps

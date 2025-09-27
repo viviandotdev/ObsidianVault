@@ -2,8 +2,6 @@
 created: 2025-06-15 13:47
 modified: 2025-08-01T21:34:37-04:00
 ---
-## success
-
 **People**
 Morgan Housel
 Lawrence Yeo

@@ -4,8 +4,6 @@ modified: 2025-07-13T23:02:01-04:00
 ---
 up::
 tags::
-## My task management workflow
-
 **Tool - Tick Tick**
 
 **Philosophy**

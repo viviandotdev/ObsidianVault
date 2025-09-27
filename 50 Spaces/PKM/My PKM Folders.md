@@ -4,7 +4,8 @@ modified: 2025-06-23T06:55:28-04:00
 ---
 up::  [[My PKM]]
 
-## The structure of My PKM
+### Folder Strucutre
+
 + + **Encounters**: inbox for new notes
 - **00 Atlas:**
     - Mailbox: [[+ Inbox]] [[Notebox]] [[Outbox]]

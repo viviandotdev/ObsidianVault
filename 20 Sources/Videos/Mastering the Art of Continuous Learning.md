@@ -5,8 +5,6 @@ modified: 2025-06-16T07:35:33-04:00
 tags::  [[learning]]
 type:: #source/video
 source::[Mastering the Art of Continuous Learning - YouTube](https://www.youtube.com/watch?v=s8BQ5Suab6Y)
-## Mastering the Art of Continuous Learning
-
 ### Framework Learning
 1. Theory (Learning, reading)
 2. Action (Building, Implementation)

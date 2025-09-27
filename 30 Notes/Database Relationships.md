@@ -5,8 +5,6 @@ modified: 2025-06-15T18:26:11-04:00
 ---
 tags:: [[database]] [[prisma]]
 
-## Database Relationships
-
 Database relationships are associations between tables in a relational database. These relationships define how data in one table is related to data in another table. There are three primary types of database relationships: one-to-one, one-to-many (or many-to-one), and many-to-many.
 
 1. [[One to One Relationship]]:

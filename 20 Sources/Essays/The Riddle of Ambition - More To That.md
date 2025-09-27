@@ -10,8 +10,6 @@ tags::
 source:: https://moretothat.com/the-riddle-of-ambition/
 type:: #source/article
 
-### The Riddle of Ambition - More To That
-
 Focus on the challenge, and not its byproducts.
 
 #### Highlights

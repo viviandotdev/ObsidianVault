@@ -5,8 +5,6 @@ modified: 2025-06-15T18:35:13-04:00
 ---
 tags:: [[git]]
 
-## git.reflog
-
 **Undo with:** `git reflog` and `git reset`
 
 `git reflog` shows a list of times when `HEAD` changed

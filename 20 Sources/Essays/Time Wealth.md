@@ -13,8 +13,6 @@ tags::
 source:: https://www.coryzue.com/writing/time-wealth/
 type:: #source/article
 
-### Time Wealth
-
 Why having more free time can be better than becoming rich.
 
 Free time is more valuable than becoming rich because

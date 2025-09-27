@@ -5,8 +5,6 @@ modified: 2025-06-16T07:02:53-04:00
 ---
 up::  [[Tools]]
 
-## Kindle
-
 Kindle, **any of the portable wireless electronic reading devices (e-readers) produced by the American company Amazon.com**.
 
 1. Go to goodreads find 3 books

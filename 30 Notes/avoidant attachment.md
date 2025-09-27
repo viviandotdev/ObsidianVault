@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up::
 type:: #note/atomic
 tags:: [[relationships]]
-## avoidant attachment
-
 avoidant attachment we fear abandonment, so to protect ourselves we choose to keep people at a distance
 - values independence
 - discomfort with emotional intimacy

@@ -6,8 +6,6 @@ modified: 2025-06-16T07:24:27-04:00
 type:: #source/article
 tags:: [[note-taking]]
 source:: [How I take smart digital notes—Part 3: Videos and podcasts | Ramses' Blog](https://ramses.blog/how-take-notes-part-3/)
-## How I Take Smart Notes- Videos
-
 1. **Indexing:** Create a list of all the topics you will need to learn, **Layout a basic organizational structure of the content you will be watching or listening.**
 	- For podcasts read the show notes, and time stamps
 	- For videos/lecture, read the outline, ask AI to create bullet points

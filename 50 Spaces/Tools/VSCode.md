@@ -5,8 +5,6 @@ modified: Tuesday 11th July 2023 20:18:23
 ---
 up::  [[Tools]]
 
-# VSCode
-
 ## Keyboard Shortcuts
 ### Markdown
 | Key             | Description       |

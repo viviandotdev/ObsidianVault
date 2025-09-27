@@ -6,8 +6,6 @@ modified: 2025-06-15T18:35:25-04:00
 up::  [[My Goals]]
 tags: [[goals]]
 
-## Goal Setting
-
 **Why should you set goals?**
 Setting goals is about being intentional about your idea feature. When you don't set a goal you will. eventually get there but it will just take much longer.
 

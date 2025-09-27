@@ -7,8 +7,6 @@ tags:: [[system-design]]
 type:: #source/video
 source: [System Design Interview – Step By Step Guide - YouTube](https://www.youtube.com/watch?v=bUHFg8CZFws)
 
-# Design a Video View Counter
-
 ### Table of Contents
 - [[#Requirements Classification|Requirements Classification]]
 	Functional Requirements

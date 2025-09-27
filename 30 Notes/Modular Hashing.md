@@ -5,8 +5,6 @@ modified: 2025-06-16T07:09:36-04:00
 ---
 tags:: [[system-design]]
 related:: [[Consistent Hashing]]
-## Modular Hashing
-
 ![[Screenshot 2023-07-21 at 10.22.11 AM.png|700]]
 
 Modulo hashing, also known as simple hashing or standard hashing, uses a modulo operation to assign keys to nodes. Here's how it works:

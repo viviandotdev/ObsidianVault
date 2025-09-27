@@ -5,8 +5,6 @@ modified: 2025-06-23T07:15:20-04:00
 type:: #note/atomic
 tags:: [[brain]]
 source::
-## Prefrontal cortex
-
 ![[Pasted image 20241007205241.png]]
 
 

@@ -4,8 +4,6 @@ modified: 2025-06-15T18:48:23-04:00
 
 ---
 up::  [[My Routines]]
-## Lex Fridman Daily Routine
-
 - **Mantra Routine** — This is split into four parts: rules, visualise, goals, and principles.
 	- Exercise Every Single Day
 	- Accept today may be the last day on earth

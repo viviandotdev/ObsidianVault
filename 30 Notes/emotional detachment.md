@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up::
 type:: #note/atomic
 tags::
-## emotional detachment
-
 **what caused my emotional detachment**
 - every time I cried or displayed emotion, **I was punished and yelled at for crying.** This is why **I learned to avoid my emotions and choose to suppress them**. Running away from emotions makes relationships more difficult.
 - **fear of abandonment** comes from-

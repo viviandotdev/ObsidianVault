@@ -4,8 +4,6 @@ modified: 2025-06-24T07:16:29-04:00
 ---
 up::
 tags:: #area 
-## programming
-
 [[web development]]
 [[frontend development]]
 [[backend development]]

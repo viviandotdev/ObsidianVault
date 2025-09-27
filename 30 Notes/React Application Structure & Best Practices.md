@@ -3,8 +3,6 @@ modified: 2025-06-13T08:39:27-04:00
 ---
 
 tags:: [[react]]
-# React Application Structure & Best Practices
-
 ## 1. Folder Structure Overview
 
 ### Modules

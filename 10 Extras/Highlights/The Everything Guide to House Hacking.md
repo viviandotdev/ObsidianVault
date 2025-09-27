@@ -1,4 +1,3 @@
-## The Everything Guide to House Hacking
 - Author: Robert Leonard
 
 ## Highlights

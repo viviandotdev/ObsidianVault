@@ -6,8 +6,6 @@ modified: Tuesday 16th January 2024 12:57:12
 up::  [[system-design]]
 tags::
 
-## Design a News Feed System
-
 [Designing INSTAGRAM: System Design of News Feed - YouTube](https://www.youtube.com/watch?v=QmX2NPkJTKg)
 
 **News Feed System**

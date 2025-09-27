@@ -1,5 +1,3 @@
-# Range
-
 ## by David J. Epstein
 
 ---

@@ -14,8 +14,6 @@ tags::
 source:: https://www.gurwinder.blog/p/the-perils-of-audience-capture
 type:: #source/article
 
-### The Perils of Audience Capture
-
 How influencers become brainwashed by their audiences
 
 #### Highlights

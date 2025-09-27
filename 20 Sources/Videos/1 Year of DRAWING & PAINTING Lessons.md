@@ -4,8 +4,6 @@ modified: 2025-06-16T08:12:25-04:00
 type:: #source/video 
 tags:: [[drawing]]
 source:: [https://www.youtube.com/watch?v=LqV0WZPVehw](https://www.youtube.com/watch?v=LqV0WZPVehw)
-# 1 Year of DRAWING & PAINTING Lessons
-
 - Self Taught is not efficient
     - expect mistakes,
     - no one to tell you what is efficient

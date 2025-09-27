@@ -4,8 +4,6 @@ modified: 2025-06-15T18:25:52-04:00
 
 ---
 tags:: [[habits]]
-## Dan Koe Daily Rountine
-
 4 blocks separated by walking or meals
 60 - 90 minutes blocks
 

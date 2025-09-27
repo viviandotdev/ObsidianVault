@@ -5,8 +5,6 @@ modified: 2025-06-23T06:41:41-04:00
 up:: [[My PKM Workflows]]
 up::  [[writing]]
 
-## My writing workflow
-
 **Content Production System**
 PYTA for systems to ideas and scripting
 	learn the systems

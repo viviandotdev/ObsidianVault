@@ -4,8 +4,6 @@ modified: 2025-06-15T18:42:39-04:00
 
 ---
 tags:: [[react]] [[css]]
-## How to vertically align a svg icon
-
 ### Example
 
 ```jsx

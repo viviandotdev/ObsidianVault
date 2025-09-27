@@ -6,8 +6,6 @@ modified: 2025-06-16T07:26:19-04:00
 tags:: [[buddhism]]
 type:: #source/video
 source:: [How to deal with setbacks - YouTube](https://www.youtube.com/watch?v=7HyxkxDum8o)
-## How to deal with setbacks
-
 With our thoughts we create the world.
 This is a **Buddha** concept where, anything that happens to you is not negative or positive but you have the power to choose how you want to frame the situation.
 [[Our reality is influenced as much by our thoughts as it is by what actually happened.]]

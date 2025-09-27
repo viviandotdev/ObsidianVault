@@ -1,4 +1,3 @@
-# Never Split the Difference
 ## by Chris Voss
 
 

@@ -6,8 +6,6 @@ modified: Thursday 10th August 2023 17:23:34
 up::  [[system-design]]
 tags:: [[system-design]]
 sources::
-## Design Distributed Message Queue
-
 **Benefits of message queue**
 	**Decoupled**- The sender and receiver of message operate independently. This flexibility haves it easier to scale individual components and add new ones without. affecting the overall system.
 	**Increased Availability**: If a system fails the other parts can continue to interact with the queue

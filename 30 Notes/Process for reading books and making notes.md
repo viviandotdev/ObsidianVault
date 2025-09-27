@@ -6,8 +6,6 @@ modified: Monday 26th February 2024 20:33:29
 up::  [[writing]]
 tags::
 source::[A Process for Reading Books and Making Notes in Obsidian - MarkMcElroy.com](https://markmcelroy.com/a-process-for-reading-books-and-making-notes-in-obsidian/)
-## Process for reading books and making notes
-
 **before reading create**
 application / source note
 _motive field_

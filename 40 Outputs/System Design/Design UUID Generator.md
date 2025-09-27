@@ -6,8 +6,6 @@ modified: 2025-06-15T13:21:18-04:00
 up::  [[system-design]]
 tags:: [[system-design]]
 
-## Design Unique ID Generator
-
 What is UUID Generator?
 Generates unique Ids,
 

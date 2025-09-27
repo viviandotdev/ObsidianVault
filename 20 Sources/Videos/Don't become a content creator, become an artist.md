@@ -5,8 +5,6 @@ tags:: [[content-creation]]
 source:: https://www.youtube.com/watch?v=orPJxYsEZx0&list=LL&index=12
 type:: #source/video
 
-# Don't become a content creator, become an artist
-
 ![](https://www.youtube.com/watch?v=orPJxYsEZx0&list=LL&index=12_)
 
 1. Clean up your consumption. 

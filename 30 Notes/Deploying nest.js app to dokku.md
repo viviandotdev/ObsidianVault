@@ -3,8 +3,6 @@ created: 2024-07-12 10:12
 modified: 2025-06-28T08:33:38-04:00
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
-## Deploying nest.js app to dokku
-
 Here's the updated markdown with smaller font sizes and only H3 headings:
 
 ### Dokku Deployment Guide

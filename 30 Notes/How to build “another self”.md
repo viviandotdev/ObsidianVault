@@ -5,8 +5,6 @@ modified: 2025-06-15T18:35:56-04:00
 ---
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
 tags:: [[relationships]]
-## How to build “another self”
-
 (Time + Vulnerability)
 **Vulnerability**
 Make the time, vulnerably share your thoughts, and raise the stakes. If all goes well, they do the same. This gets us away from transactional relationships.

@@ -6,8 +6,6 @@ modified: Wednesday 7th February 2024 13:24:28
 up::
 tags::
 
-## Ego is the Enemy
-
 
 ## Quotes
 

@@ -1,4 +1,3 @@
-### Barking up the Wrong Tree
 Author: Eric Barker
 ## Highlights
 School has clear rules. Life often doesn’t. When there’s no clear path to follow, academic high achievers break down.

@@ -5,7 +5,6 @@ modified: 2025-06-15T18:58:49-04:00
 ---
 up::  [[buddhism]]
 
-## Suffering (dukkha)
 The second mark of existence is
 Don't accept the bad things that happen to do, accept that bad things will happen to you.
 Suffering is inevitable, so we should be aware and know that it will come so that when it actually comes it won't be so bad.

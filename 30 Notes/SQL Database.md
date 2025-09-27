@@ -6,8 +6,6 @@ modified: 2025-06-15T18:58:58-04:00
 tags:: [[system-design]]
 related: [[No SQL Database]]
 
-## SQL Database
-
 **Examples:** SQL, PostgresSQL
 **Data Model:**
 	Relational data model, data in stored in tables which relationships between tables defined using keys

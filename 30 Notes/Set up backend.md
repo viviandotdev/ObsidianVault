@@ -5,8 +5,6 @@ modified: 2025-07-02T07:44:08-04:00
 up::  [[How to start a programming project]]
 tags::  [[backend development]]
 source::
-## Set up backend
-
 
 **Set up the backend**
 ```

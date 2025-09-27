@@ -2,7 +2,6 @@
 modified: 2025-08-01T12:55:34-04:00
 ---
 up:: [[Life Map]]
-### My Perspectives
 [[My unique perspective template]]
 
 

@@ -6,8 +6,6 @@ modified: Monday 7th August 2023 18:39:37
 up::  [[system-design]]
 tags:: [[system-design]]
 related:
-## Design Notification Service
-
 [System Design Interview - Notification Service - YouTube](https://www.youtube.com/watch?v=bBTPZ9NdSk8)
 [Messaging Pattern: Publish-Subscribe - A. Rothuis](https://www.arothuis.nl/posts/messaging-pub-sub/)
 Create a system that sends a message in reaction to a certain event

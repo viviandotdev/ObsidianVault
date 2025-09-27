@@ -22,8 +22,6 @@ tags::
 source:: https://paulgraham.com/wealth.html
 type:: #source/link
 
-### How to Make Wealth
-
 
 
 #### Highlights

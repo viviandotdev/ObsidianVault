@@ -1,4 +1,3 @@
-## No-Nonsense Buddhism for Beginners
 - Author: Noah Rasheta
 ## Highlights
 From the Buddhist perspective, our perception of the reality of any situation (in this case, a car cutting us off) is influenced as much by ideas as it is by what actually happened. In this scenario, we might think, “This jerk cut me off!” But the idea that the other driver is a selfish, mean person who cut us off intentionally is a fictional narrative we created in our own mind. How do we know this person is a jerk? What if he or she just got devastating news and was distracted because of it? What if he or she was having a medical emergency? Would any of those scenarios alter the feelings you experienced in this scenario? Probably so. The reality of the situation is that a car cut you off, and that’s all you know. Everything else is uncertain; we don’t know who the driver is, why he or she behaved that way, or what is going on in that car.

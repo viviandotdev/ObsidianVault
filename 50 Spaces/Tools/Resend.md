@@ -3,8 +3,6 @@ created: 2024-06-07 11:42
 modified: 2025-06-15T18:39:59-04:00
 
 ---
-## Resend
-
 [[How to send emails using Resend]]
 
 **Email designs**

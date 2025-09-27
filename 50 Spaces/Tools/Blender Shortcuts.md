@@ -3,8 +3,6 @@ modified: 2025-07-12T07:44:07-04:00
 ---
 tags:: [[Blender]]
 
-## Blender Shortcuts
-
 ### Shortcuts
 **Layouts:**
 

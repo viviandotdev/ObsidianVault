@@ -15,8 +15,6 @@ tags::
 source:: https://moretothat.com/travel-is-no-cure-for-the-mind/
 type:: #source/article
 
-### Travel Is No Cure for the Mind - More To That
-
 Who you are in a venue matters far more than the venue itself.
 
 #### Highlights

@@ -4,7 +4,6 @@ modified: 2025-08-01T17:57:40-04:00
 ---
 tags:: [[productivity]]
 
-## Productivity Tips
 - Do you first priority task the first thing you do when you wake up.
 - **Make sure to get the important shit done**
 - **Realize how much time it takes you to do specific tasks**

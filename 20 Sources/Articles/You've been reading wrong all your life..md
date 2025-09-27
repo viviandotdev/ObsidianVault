@@ -5,8 +5,6 @@ modified: 2025-06-16T08:07:22-04:00
 type:: #source/article 
 tags:: [[reading]]
 source:: [You've been reading wrong all your life. - YouTube](https://www.youtube.com/watch?v=DpIrzA2ohcg&t=1s)
-## You've been reading wrong all your life.
-
 Blueprint, read the summary, to build the skeleton to get the main idea of each section.
 Read, the book looking for the most important ideas
 Don't read everything, many books have a lot of fluff and repeating ideas.

@@ -4,8 +4,6 @@ modified: 2025-06-15T18:48:42-04:00
 
 ---
 status #🟨
-## Life Optimization Coal Mine
-
 - [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 - [Andy Matuschak](https://andymatuschak.org/)
   - [Books](https://andymatuschak.org/books/)

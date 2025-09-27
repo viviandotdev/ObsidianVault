@@ -5,8 +5,6 @@ modified: 2025-06-15T18:32:35-04:00
 ---
 tags::  [[drawing]]
 
-## Drawing Advice
-
 I had a cousin who drew beautiful anime like pictures for me everytime I visited her. I would at first trace her pictures, then I just started copying them to the best of my abilities. Then I started **copying other pictures online that I liked and eventually I got the hang of drawing bodies, proportions, faces etc**. of course, I did practice and took art in elementary school like everyone else, but to put it blatantly, I began by copying others that I was inspired by. If you’re feeling stuck, maybe you can give it a try?
 
 

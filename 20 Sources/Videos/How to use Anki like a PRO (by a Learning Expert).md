@@ -6,8 +6,6 @@ modified: 2025-06-15T18:41:32-04:00
 type:: #source/video
 tags:: [[learning]] [[Anki]]
 source::[How to use Anki like a PRO (by a Learning Expert) - YouTube](https://www.youtube.com/watch?v=eauQac_23R0&list=WL&index=1)
-## How to use Anki like a PRO (by a Learning Expert)
-
 Dedicated Long study session **3-4 hours**
 1. **Targeted Review**
 	1. Mark the ones that correct and incorrect 3 times in a row

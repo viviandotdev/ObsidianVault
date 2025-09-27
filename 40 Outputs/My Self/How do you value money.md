@@ -2,8 +2,6 @@ up:: [[My Self]]
 type:: #output/reflection
 tags:: [[money]] [[values]]
 
-# How do you value money?
-
 - I want to spend as little time thinking about money as possible.
 - I want to build apps not to make a lot of money but because I enjoy it. I'm lucky to have found something I'm good at and enjoy, so why not spend more time doing it?
 - The goal is to continue building apps that I think are cool and that others will use. Salaries and money are byproducts of ambition, not the primary desire.

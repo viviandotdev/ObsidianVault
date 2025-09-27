@@ -5,8 +5,6 @@ modified: 2025-06-15T18:51:35-04:00
 ---
 tags:: [[prisma]] [[database]]
 
-## Many to many relationship
-
 Create and connect
 ### Schema
 ```ts

@@ -6,7 +6,6 @@ modified: 2025-06-16T07:20:16-04:00
 type:: #note/list
 tags:: [[frontend development]]
 
-## Frontend Courses
 ### JavaScript
 [Advanced Asynchronous JavaScript](https://frontendmasters.com/courses/advanced-async-js/)
 [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)

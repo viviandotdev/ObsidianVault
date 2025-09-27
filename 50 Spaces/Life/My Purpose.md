@@ -4,8 +4,6 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 up::
 tags::
-## My Purpose
-
 
 
 *Your purpose revolved around a BIG problem you would like to solve in this world. You may never solve it, but that's the point. That is how you build something incredible. “Aim for the stars and land on the moon.”*

@@ -4,8 +4,6 @@ modified: 2025-06-15T18:27:18-04:00
 
 ---
 up::  [[Tools]]
-## Design Tools
-
 [[Figma]]
 
 **Tools**

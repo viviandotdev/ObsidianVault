@@ -4,8 +4,6 @@ modified: 2025-06-15T18:41:09-04:00
 
 ---
 tags:: [[aws]] [[s3]]
-## How to upload images to S3 bucket with a presignedURL
-
 ![[2024-05-12.excalidraw]]
 
 **(client-side) User sends request to server to get pre-signedUrl**

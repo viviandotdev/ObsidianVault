@@ -4,8 +4,6 @@ modified: 2025-06-15T18:27:13-04:00
 
 ---
 tags:: [[system-design]]
-## Design a Unique ID Generator
-
 ### Functional Requirements
 
 - `generateId()` return a 64 bit unit ID

@@ -5,7 +5,6 @@ modified: 2025-06-15T18:24:15-04:00
 ---
 up::
 tags:: [[drawing]] [[memory]]
-## Cognitive Drawing
 Go through iterations repeating drawing from memory and then not from memory.
 
 **Attempt 1**- Look at image briefly, then try to draw from memory

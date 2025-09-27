@@ -7,8 +7,6 @@ up::  [[language]]
 tags:: [[language]]
 related:
 
-## Refold
-
 [Roadmap | Refold](https://refold.la/roadmap/)
 [Crowdsource Collection Links - Google Docs](https://docs.google.com/document/d/1FQu-GM55HbZkcrHOfRQT2kmLvWEW_nM1sViLaAY-C7g/edit#heading=h.9qzykpawdzoz)
 

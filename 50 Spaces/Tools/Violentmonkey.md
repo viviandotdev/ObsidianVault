@@ -5,8 +5,6 @@ modified: 2025-06-16T07:13:45-04:00
 ---
 up:: [[Tools]] / [[Arc]]
 
-# Violentmonkey
-
 An open source userscript manager that supports a lot of browsers
 
 **What are user scripts?**

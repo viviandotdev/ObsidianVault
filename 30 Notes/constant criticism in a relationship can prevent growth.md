@@ -6,8 +6,6 @@ up::
 type:: #note/atomic
 tags:: [[communication]]
 related:: [[The Four Horsemen]]
-## constant criticism in a relationship can prevent growth
-
 My sister is always constantly correcting the smallest things that I do. **Attacking a person's character rather than addressing the specific behavior**
 	**Complaint-**"I'm upset that you didn't take out the trash,"
 	**Criticism**- "You're so lazy and inconsiderate."

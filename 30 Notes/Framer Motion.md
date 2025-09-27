@@ -4,8 +4,6 @@ modified: 2025-06-15T18:34:57-04:00
 
 ---
 up::  [[react]]
-## Framer Motion
-
 How does framer motion work?
 How does animate presence work?
 What are layout animations?

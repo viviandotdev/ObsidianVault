@@ -4,8 +4,6 @@ modified: 2025-07-06T18:37:45-04:00
 ---
 up:: [[system-design]]
 tags::
-## System design study framework
-
 **The creation stage** (spend 1 hour a day in this stage starting with your problems list)
 - choose system design problems to memorize
 - plan the problems

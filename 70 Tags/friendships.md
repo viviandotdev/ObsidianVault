@@ -2,8 +2,6 @@
 created: 2025-08-24 14:43
 modified: 2025-08-01T21:35:00-04:00
 ---
-## friendships
-
 [[what is a perfect friend?]]
 
 **quotes**

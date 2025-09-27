@@ -5,8 +5,6 @@ modified: 2025-06-15T21:37:02-04:00
 ---
 up::  [[drawing]]
 type:: #note/list
-## Figure Drawing-Design and Invention
-
 [Gesture Drawing tutorials - YouTube](https://www.youtube.com/playlist?list=PLQOGKNmiKFwVNYwIlrUIlmGFT2QlB9hVz)
 
 # Gesture Drawing Tutorials Playlist

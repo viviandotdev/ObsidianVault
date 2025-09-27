@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up:: 
 type:: #note/list 
 tags:: [[career]] 
-## Career role guidelines
-
 - **Keep a “wins” document and rotate it yearly/quarterly based on performance reviews. Use this to track things you’d put on your internal resume.**
 - Reach out to people in the company to network and learn about their team. Do maybe 1 per month. **Ask for recurring 1:1s with people who you can learn from**. Depending on the team I think a 1:1 with everyone on your team at least monthly is a huge benefit.
 	- I think I fear taking up people's team or setting up useless meetings with no clear goal,

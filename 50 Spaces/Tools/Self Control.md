@@ -6,8 +6,6 @@ modified: Sunday 26th May 2024 13:51:46
 up::  [[Tools]]
 type::
 source::
-## Self Control
-
 Free mac app that helps you avoid distracting websites
 [SelfControl](https://selfcontrolapp.com/)
 

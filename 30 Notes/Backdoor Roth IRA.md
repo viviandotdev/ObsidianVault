@@ -5,7 +5,6 @@ modified: 2025-06-29T12:11:50-04:00
 up::  [[My Finances]]
 related:
 
-## Backdoor Roth IRA
 **Modified adjusted gross income of $144,000 or above for individuals**
 1. Log In to [Vanguard](https://investor.vanguard.com/my-account/log-on)
 2. Transfer $6000 of funds into traditional IRA

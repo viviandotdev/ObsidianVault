@@ -7,8 +7,6 @@ up::  [[Tools]]
 tags::
 related:
 Journal App
-## Figma
-
 ### Hot Keys
 | Key                   | Description                  |
 | --------------------- | ---------------------------- |

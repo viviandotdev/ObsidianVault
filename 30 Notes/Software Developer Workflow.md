@@ -5,8 +5,6 @@ modified: 2025-08-01T17:55:08-04:00
 up::  [[My Workflows]]
 tags:: [[productivity]] [[coding]]
 source::
-## Software Developer Workflow
-
 [https://www.youtube.com/playlist?list=PLvLBrJpVwC7qoGgSqx-WGQG_x8VmCMwIa](https://www.youtube.com/playlist?list=PLvLBrJpVwC7qoGgSqx-WGQG_x8VmCMwIa)
 
 1. Pick story and move to in progress

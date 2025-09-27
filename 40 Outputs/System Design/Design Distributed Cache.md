@@ -7,8 +7,6 @@ up::  [[system-design]]
 tags:: [[system-design]]
 source:: [System Design Interview - Distributed Cache - YouTube](https://www.youtube.com/watch?v=iuqZvajTOyA)
 
-# Design Distributed Cache
-
 
 ### What is a Distributed Cache?
 

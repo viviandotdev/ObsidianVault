@@ -6,8 +6,6 @@ modified: 2025-06-15T18:52:01-04:00
 type:: #note/atomic
 tags:: [[happiness]]
 
-## Meaningful work is something it important to you and something that you are good at
-
 The most motivating thing is to find work that is meaningful. When we feel like the work we do is futile and pointless, our happiness and motivation plummets. This is why many people hate their office jobs and will often check out or try to do this work.
 Meaningful work means doing something that is
 - important to you.

@@ -6,8 +6,6 @@ modified: Monday 18th September 2023 09:50:13
 up::  [[Tools]]
 tags:: [[language]]
 
-## Abs Player and Yomichan
-
 ### Abs Player
 asbplayer is a browser-based media player and Chrome extension for subtitle sentence mining, hosted at [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/). Use asbplayer to combine subtitles and media extracted from streaming or local video sources to create media-rich Anki flashcards.
 [asbplayer](https://killergerbah.github.io/asbplayer/)

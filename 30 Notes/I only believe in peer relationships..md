@@ -4,7 +4,6 @@ modified: 2025-08-01T19:40:39-04:00
 ---
 up:: [[My Values]]
 tags::
-## I only believe in peer relationships.
  I don’t want to be above anybody, and I don’t want to be below anybody.
 
 

@@ -10,8 +10,6 @@ tags::
 source:: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
 type:: #source/article
 
-### The day I became a millionaire
-
 I grew up lower-middle class on the outskirts of Copenhagen. Anywhere outside of Scandinavia, the socioeconomic label would probably have been ‘poor’, but Danish safety nets and support systems did…
 
 #### Highlights

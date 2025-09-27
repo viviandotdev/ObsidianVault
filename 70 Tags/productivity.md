@@ -3,8 +3,6 @@ modified: 2025-08-01T21:36:12-04:00
 ---
 tags::
 
-### productivity
-
 ### **People**
 Writers/Authors
 - [[Sam Altman]]

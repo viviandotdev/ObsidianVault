@@ -4,8 +4,6 @@ modified: 2025-06-15T18:24:51-04:00
 ---
 up::  [[system-design]]
 
-## Consistency Patterns
-
 **Consistency:**
 	Discuss the appropriate consistency model for your distributed system.
 		**Strong consistency**: Strong consistency ensures that all read and write operations reflect the most recent write.

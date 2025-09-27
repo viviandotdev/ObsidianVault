@@ -1,8 +1,6 @@
 tags::
 source:: https://www.youtube.com/watch?v=BMJKBiTC1Ao
 type:: #source/video
-# Real Life "SKYNET"
-
 
 Plantar is making software that integrates Ai in to defense 
 Agent misalignments?

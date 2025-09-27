@@ -5,8 +5,6 @@ modified: 2025-06-15T18:50:01-04:00
 ---
 tags:: [[relationships]] [[love]]
 
-## Love is actually misdiagnosed as major depressive episodes by mental health professionals
-
 Symptoms of love sick
 - Trouble sleeping
 - Can’t focus

@@ -4,8 +4,6 @@ modified: 2025-06-13T07:23:49-04:00
 
 ---
 up::  [[Tools]]
-## Zen
-
 [dotfiles/zed at main · damoonrashidi/dotfiles · GitHub](https://github.com/damoonrashidi/dotfiles/tree/main/zed)
 
 **firefox pin and un pin brwoser tab**

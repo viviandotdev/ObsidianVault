@@ -4,8 +4,6 @@ modified: 2025-06-15T18:53:03-04:00
 up::  [[My Perspectives]]
 note:: #note/perspective 
 tags:: [[happiness]]
-## You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind 
-
 
 **Topic**
 *What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.*

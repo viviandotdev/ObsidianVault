@@ -4,8 +4,6 @@ modified: 2025-06-15T18:54:00-04:00
 
 ---
 tags:: [[goals]]
-## Why do you need goals?
-
 You need to pick something on the horizon and go towards it or else you will just walk in circles
 
 There is this study were they put people in a forest with any direction and told then to walk in a straight line and they literally ended up walking in circles unless given a external reference point.

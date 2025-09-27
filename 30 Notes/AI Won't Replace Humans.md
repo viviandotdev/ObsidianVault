@@ -5,8 +5,6 @@ modified: 2025-08-01T17:30:29-04:00
 type:: #output/mini-essay 
 tags:: [[ai]]
 status:: #🟩 
-## AI Won't Replace Humans 
-
 - AI takes away that decision making process, **with a single prompt it is making hundreds or thousands of decisions for you**, however by doing that it is not creating anything interesting or new since it is **just gathering the average** 
 	- These are the decisions that you want to make that makes the creation feel like it’s yours, **what’s the point of creating something if you’re not even the one creating** and just outsourcing to artificial intelligence.
 - AI requires an extreme amount resources for it operate at its best, **this means that if we want to efficiently use AI we want to conserve its resources for the most complex tasks that will improve humanity** 

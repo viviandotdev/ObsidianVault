@@ -5,8 +5,6 @@ modified: 2025-08-01T18:24:06-04:00
 up::
 type:: #note/atomic
 tags:: [[communication]] [[relationships]]
-## The Four Horsemen
-
 
 4 Primary Predictors or divorce, these are negative communication patterns that often leads to the end of a relationship
 negative [[communication]] patterns

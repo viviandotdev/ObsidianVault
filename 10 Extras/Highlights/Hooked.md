@@ -2,7 +2,6 @@
 title: Hooked
 author: Nir Eyal
 ---
-## Hooked
 - Author: Nir Eyal
 ## Highlights
 Fogg posits that there are three ingredients required to initiate any and all behaviors: (1) the user must have sufficient motivation; (2) the user must have the ability to complete the desired action; and (3) a trigger must be present to activate the behavior.

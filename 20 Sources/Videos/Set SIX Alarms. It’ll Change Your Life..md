@@ -6,8 +6,6 @@ modified: 2025-06-15T20:52:10-04:00
 type:: #source/video
 tags:: [[habits]]
 source:: [Set SIX Alarms. It’ll Change Your Life. - YouTube](https://www.youtube.com/watch?v=hApnn1vnWi0)
-## Set SIX Alarms. It’ll Change Your Life.
-
 **Summary Note**
 [[Temporal Landmarks]]
 Important dates / times that differentiates your current from your past self.

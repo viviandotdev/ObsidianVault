@@ -2,8 +2,6 @@
 modified: 2025-07-12T08:33:42-04:00
 ---
 up:: [[Life Map]]
-# My Self
-
 **Table of Contents**
 
 

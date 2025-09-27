@@ -4,8 +4,6 @@ modified: 2025-06-15T18:59:58-04:00
 
 ---
 up::  [[serotonin]]
-## SERT Gene
-
 This is known as the sensitive gene and studies have shown that people of East Asian decent were much more likely to carry this short gene variant.
 
 This gene plays in important role in the regulation of of the neurotransmitter serotonin, which influences mood and emotional states.

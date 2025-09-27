@@ -7,8 +7,6 @@ up::
 tags:: [[system-design]]
 related: [[SQL Database]]
 
-## No SQL Database
-
 **Examples:** Cassandra: column, MongoDB: document based
 Preferred for application dealing with large amounts of unstructured or rapidly changing data, like user generated social media posts, text documents
 

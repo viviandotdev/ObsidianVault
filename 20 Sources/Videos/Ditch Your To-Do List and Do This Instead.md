@@ -7,8 +7,6 @@ up::  [[To-Do Lists]]
 type:: #source/video
 tags:: [[productivity]]
 
-## Ditch Your To-Do List and Do This Instead
-
 "The calendar is the to-do list."
 
 That's a very interesting point. It makes me think of how, when I was in college, I never felt particularly stressed about getting all of my work done, even though I didn't have an elaborate time-management system in place. However, once I entered the workforce, I began to feel much more stressed about getting all of my work done, even though it's not a particularly large amount of work. I always chalked this difference up to the fact that the stakes are higher in the workplace than they are in the classroom. If I forget to do an assignment, I get an average grade. If I forget to do my work, I get fired.

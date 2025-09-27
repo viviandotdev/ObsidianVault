@@ -5,8 +5,6 @@ modified: 2025-06-16T07:09:22-04:00
 ---
 tags:: [[relationships]] [[friendships]]
 
-## Making friends
-
 Listen to other: The brain gets more pleasure from talking about yourself than it does from food or money. If you want people to like you, let others talk as much as possible around you. Ask questions that start with “what” or “how” because they are difficult to answer with just a simple yes or no.
 
 Giver: Share your interests and knowledge. Look for opportunities to do something for the other person such as offering an introduction to someone that person might not know but would be interested in knowing.

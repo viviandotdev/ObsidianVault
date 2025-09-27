@@ -5,8 +5,6 @@ modified: 2025-08-01T21:35:00-04:00
 up::
 tags::
 
-# values
-
 **what are values?**
 They are principles and beliefs that guide our actions, decisions.
 Similar to morals, they help you decide what is right your wrong and what your beliefs are

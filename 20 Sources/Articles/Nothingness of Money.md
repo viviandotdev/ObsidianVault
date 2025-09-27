@@ -5,8 +5,6 @@ modified: 2025-06-22T12:15:52-04:00
 type:: #source/article
 tags:: [[money]]
 source::[The Nothingness of Money](https://moretothat.com/the-nothingness-of-money/)
-## Nothingness of Money
-
 Rich people need it. Poor people have it. If you eat it you die. And when you die, you take it with you. What is it?
 
 This nothingness of money is only understood at the brief section of life where this pursuit fade and all you think about are the memories with the people you care about.

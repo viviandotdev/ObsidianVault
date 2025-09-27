@@ -3,7 +3,6 @@ created: 2024-03-07 08:44
 modified: 2025-06-24T07:24:49-04:00
 ---
 up:: [[chinese]]
-## Chinese Marilyn Monroe Method
 [Mnemonics for Pronouncing Chinese Characters (the Marilyn Method)](https://countryoftheblind.blogspot.com/2012/01/mnemonics-for-pronouncing-chinese.html)
 [Hanzi-Movie-Method-Set-Mnemonics](https://www.mandarinblueprint.com/wp-content/uploads/2023/01/Hanzi-Movie-Method-Set-Mnemonics.pdf)
 

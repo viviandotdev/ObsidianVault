@@ -6,8 +6,6 @@ modified: Sunday 14th April 2024 18:16:05
 up::  [[drawing]]
 tags::
 source::
-## Digital (Procreate)
-
 
 
 

@@ -4,8 +4,6 @@ modified: 2025-06-23T22:14:16-04:00
 ---
 tags:: [[productivity]] [[procrastination]]
 related:: [[Why do we procrastinate?]]
-### How to overcome procrastination?
-
 **Clarity**
 	**Get clarity on uncertain tasks and breaking them down into smaller pieces.**
 	If a task is too big and isn't structured well, give it **some structure.**

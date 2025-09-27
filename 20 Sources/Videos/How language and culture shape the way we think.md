@@ -6,8 +6,6 @@ modified: 2025-06-16T07:24:41-04:00
 tags:: [[language]]
 type:: #source/video
 source:: [Eastern and Western Design: How culture rewires the brain](https://www.youtube.com/watch?v=8UAsN9wvePE&list=WL&index=23)
-## How language and culture shape the way we think
-
 How language and culture shape the way we think
 Context vs Subject
 Americans look for the subject (focal point)

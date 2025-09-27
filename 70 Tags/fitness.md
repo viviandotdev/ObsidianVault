@@ -3,8 +3,6 @@ created: 2025-08-01 12:51
 modified: 2025-08-01T12:52:01-04:00
 ---
 up::[[My Health]]
-## fitness
-
 
 
 **Goals** -This one is _simple_:

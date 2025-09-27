@@ -5,8 +5,6 @@ modified: 2025-06-23T20:19:40-04:00
 type:: #note/atomic
 tags:: [[relationships]] [[love]]
 
-## People care more about ways to make themselves more lovable instead of focusing on learning how to love
-
 Love should be active, it is like art it should require focus and dedication, it is something that you should build and be proud of the result.
 
 **Resources**

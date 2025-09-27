@@ -7,8 +7,6 @@ up:: [[My Perspectives]]
 status:: #🟨
 tags:: [[learning]]
 
-## Learning is one of the most pleasurable experiences in life
-
 
 
 **Sources**

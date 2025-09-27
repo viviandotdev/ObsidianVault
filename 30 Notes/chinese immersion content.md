@@ -4,8 +4,6 @@ modified: 2025-06-24T07:23:35-04:00
 ---
 type:: #note/list 
 area::  [[chinese]]
-## Chinese Immersion content
-
 [Refold](https://www.notion.so/d54bfade358b4d0a88b5600acb99582b?pvs=21)
 [Mega Immersion](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/zk0WUTaY)
 [Anime](https://docs.google.com/spreadsheets/d/15ePAgVgzODjoxxaxjTETXiPNlS7Kl6VqzroUJl2HNIU/edit#gid=0)

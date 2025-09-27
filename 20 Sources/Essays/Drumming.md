@@ -11,8 +11,6 @@ tags::
 source:: https://craigmod.com/essays/drumming/
 type:: #source/article
 
-### Drumming
-
 Returning to drumming after a fourteen-year break
 
 #### Highlights

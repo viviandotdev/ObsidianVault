@@ -6,8 +6,6 @@ tags:: [[relationships]]
 source:: https://www.youtube.com/watch?v=jcbEiZQ9B7o&amp;list=PLNQtoYU3DWmHv9GBhbFPoFYIlTV5jB_-_&amp;index=2
 type:: #source/video 
 
-### our conception of love is messed up. - YouTube
-
 passive vs **active love**
 	what are the differences?
 we are conditioned to believe love is out there waiting for you

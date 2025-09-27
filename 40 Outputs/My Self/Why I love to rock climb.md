@@ -2,7 +2,6 @@ up:: [[My Self]]
 type:: #output/reflection
 tags:: #bouldering #psychology #self-improvement #relationships #fitness
 
-# Why I love to rock climb?
 
 If the person that's supposed love me the most doesn't even believe in me or encourage me to do well how can I supposed to believe in myself.
 I had such low self-esteem, I doubted my self so much and the people who were supposed to love me the most did not make it any easier.

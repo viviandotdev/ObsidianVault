@@ -4,8 +4,6 @@ modified: 2025-08-01T11:33:20-04:00
 ---
 up:: [[Life Map]]
 tags:: [[productivity]]
-## Core Document
-
 Note-taking => **Obsidian** (Confluence)
 	projects
 		start out as notes then create project?()

@@ -6,8 +6,6 @@ modified: 2025-06-15T18:58:10-04:00
 type:: #source/video
 tags:: [[productivity]]
 source:: [How To Get Started: The Cult of Done - YouTube](https://www.youtube.com/watch?v=bJQj1uKtnus)
-## The Cult of Done
-
 Just do things for the sake of getting things done. The more things you get done the more you want to get done. Objects that are motion stay in motion and objects that are still stay still.
 The 3 States of being are **not knowing, action and completion.**
 Even you don't know what you are doing pretending you know what you are doing is the almost the same thing knowing what you are doing which is action.

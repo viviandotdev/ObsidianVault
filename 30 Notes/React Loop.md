@@ -5,7 +5,6 @@ modified: 2025-06-15T19:01:21-04:00
 ---
 up::  [[JOR-Joy of React]]
 source:: [Render and Commit – React](https://react.dev/learn/render-and-commit)
-## React Loop
 ![[Screenshot 2024-06-08 at 6.34.58 PM.png]]
 The React loop consists of three stages: Trigger, Render, and Commit. Each stage represents a step in the process of rendering and updating a component in the React framework.
 

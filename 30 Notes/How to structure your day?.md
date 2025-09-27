@@ -6,8 +6,6 @@ modified: 2025-06-15T18:40:39-04:00
 up::
 tags:: [[productivity]]
 source::
-## How to structure your day?
-
 Break down you day into 4 parts (90 minutes on each)
 **building**-()
 **publishing**-(writing, how to sharing your work)

@@ -3,8 +3,6 @@ created: 2025-06-22 19:10
 modified: 2025-08-01T12:58:11-04:00
 ---
 up:: [[My PKM Workflows]]
-## My brainstorming workflow
-
 
 **Checklist**
 - [ ] Fill out topic

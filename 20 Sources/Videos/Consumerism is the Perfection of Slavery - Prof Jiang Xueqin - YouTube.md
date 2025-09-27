@@ -2,8 +2,6 @@ tags:: [[capitalism]]
 source:: https://www.youtube.com/watch?v=4pG-8XLLaE0
 type:: #source/video 
 
-### Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube
-
 Marx was right in that communism would happen first in the US and Europe because it was more industrialized than China or the Soviet Union
 
 ### Worker 1950s-1970s

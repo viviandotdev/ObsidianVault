@@ -6,8 +6,6 @@ modified: 2025-06-15T20:35:06-04:00
 tags:: [[mindfulness]]
 type:: #source/article
 source::[Travel Is No Cure for the Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
-## Travel Is No Cure for the Mind
-
 The Box of Daily Experience, is are the mundane everyday tasks that make up our life.
 
 We think that with travel we can escape our repetitive lives and experience new and exciting things.

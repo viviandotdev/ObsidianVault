@@ -12,8 +12,6 @@ tags::
 source:: https://moretothat.com/the-nothingness-of-money/
 type:: #source/article
 
-### The Nothingness of Money - More To That
-
 It&#39;s the great everything and the great nothing.
 
 #### Highlights

@@ -6,8 +6,6 @@ modified: 2025-06-16T07:12:51-04:00
 up::  [[Tools]]
 related:
 
-## Raindrop
-
 All-in-one bookmark manager
 
 ### Capture Flow

@@ -5,8 +5,6 @@ modified: 2025-06-15T18:26:54-04:00
 ---
 tags:: [[system-design]]
 
-## Database Sharding
-
 What is database sharding?
 Spliting a single dataset into partitions of shards. This allows larger datasets to be split into smaller chunks to be storead across multiple data-nodes
 

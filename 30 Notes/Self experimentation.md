@@ -4,8 +4,6 @@ modified: 2025-07-17T18:18:16-04:00
 ---
 type:: #note/atomic
 tags:: [[life]]
-## Self experimentation
-
 Life is about change and **figuring out how you can change for the better,**
 
 One way to change is through self-experimentation, where you discover what works for you and what doesn't

@@ -2,8 +2,6 @@ tags:: [[career]] [[creativity]]
 source:: https://www.youtube.com/watch?v=R81sWWfSA6M
 type:: #source/video 
 
-# What happens when an MIT grad quits her cushy tech job?
-
 ### Summary
 **what it was like working at a start up as a product designer**
 She felt miserable working her corporate job where she felt like she was dying

@@ -2,8 +2,6 @@
 created: 2025-03-23 20:22
 modified: 2025-07-21T09:09:22-04:00
 ---
-## leetcode
-
 [[How to solve and think through leetcode problems]]
 [How to solve coding problems](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=19)
 

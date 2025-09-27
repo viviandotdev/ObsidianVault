@@ -7,8 +7,6 @@ up::  [[How to start a programming project]]
 tags:: [[aws]]
 type:: #note/how-to
 source:: [[TWC-Twitter Clone Course]]
-## How to deploy backend using AWS EC2
-
 **Launch a EC2 instance**
 1. Go to [Instances](https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:)
 2. Select **Launch Instance**

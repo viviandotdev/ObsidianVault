@@ -7,8 +7,6 @@ up::  [[Tools]]
 tags::
 related: [[To-Do Lists]]
 
-## Tick Tick
-
 ### Hot Keys
 | Key             | Description       |
 | --------------- | ----------------- |

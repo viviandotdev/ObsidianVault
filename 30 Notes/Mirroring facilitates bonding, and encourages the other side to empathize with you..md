@@ -4,8 +4,6 @@ modified: 2025-06-15T18:52:37-04:00
 
 ---
 tags:: [[communication]]
-## Mirroring facilitates bonding, and encourages the other side to empathize with you.
-
 **What is Mirroring**
  - Mirror facilitates bonding, and encourages the other side to **empathize** with you. This **keeps people talking** and buys you time to regroup and encourages them to **reveal** their strategy.
 

@@ -4,8 +4,6 @@ modified: 2025-06-22T19:18:33-04:00
 ---
 up:: [[My PKM Workflows]] 
 tags:: [[Anki]]
-## Anki General Workflow
-
 **things you want to remember**
 - Add the things you want to remember sporadically
 

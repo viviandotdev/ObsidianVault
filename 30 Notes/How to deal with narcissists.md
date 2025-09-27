@@ -6,8 +6,6 @@ modified: Thursday 7th December 2023 16:23:58
 up::  [[Playing well with Others by Eric Barker|Playing well with Others by Eric Barker]]
 tags:: [[#psychology]]
 
-## How to deal with narcissists
-
 1. Emphasize similarity: this capitalizes on narcissist weakness (self-love). If someone else is like them, how can they hurt that other person?
 2. emphasize vulnerability
 	- voice the important of the relationship and reveal your feelings. Showing anger will backfire but showing disappointments is effective.

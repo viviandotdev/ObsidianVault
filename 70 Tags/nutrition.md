@@ -3,7 +3,6 @@ created: 2025-08-01 12:50
 modified: 2025-08-01T21:35:45-04:00
 ---
 up:: [[My Health]]
-## nutrition
 **My Diet**
 - 2 Eggs
 

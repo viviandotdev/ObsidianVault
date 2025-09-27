@@ -16,8 +16,6 @@ tags::
 source:: https://paulgraham.com/selfindulgence.html
 type:: #source/link
 
-### How to Lose Time and Money
-
 
 
 #### Highlights

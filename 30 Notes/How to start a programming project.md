@@ -3,8 +3,6 @@ created: 2024-05-10 20:55
 modified: 2025-08-01T17:54:08-04:00
 ---
 up:: [[My Workflows]]
-## How to start a programming project
-
 **Pre Development**
 **How to start and plan the project**
 

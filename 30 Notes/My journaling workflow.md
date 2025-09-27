@@ -4,8 +4,6 @@ modified: 2025-07-15T07:21:00-04:00
 ---
 up:: [[My Workflows]]
 tags::
-## My journaling workflow
-
 **Tracker-Journal**
 - **Habits Tracker**
 	- Track your habits on a grid 

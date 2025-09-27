@@ -6,8 +6,6 @@ type:: #source/article
 tags:: [[writing]]
 source:: [Write Simply](https://www.paulgraham.com/simply.html) [Write Like You Talk](https://www.paulgraham.com/talk.html)
 
-## Write Simply
-
 - Write using ordinary words and simple sentences, use [[Hemingway Editor](https://hemingwayapp.com/)] to achieve grade 6 readability.
 - Writing simply is more considerate and help reach a larger audience.
 - A simple trick to get more people to read what you write is write in spoken language.
