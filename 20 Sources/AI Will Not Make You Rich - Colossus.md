@@ -6,7 +6,7 @@ raindrop_highlights:
 
 tags::
 source:: https://joincolossus.com/article/ai-will-not-make-you-rich/
-type:: #source/link
+type:: #source/article
 
 ### AI Will Not Make You Rich - Colossus
 

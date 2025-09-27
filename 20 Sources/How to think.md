@@ -7,7 +7,7 @@ raindrop_highlights:
 
 tags::
 source:: https://jeremynixon.github.io/thinking/2015/06/23/how-to-think.html
-type:: #source/link
+type:: #source/article
 
 ### How to think
 

@@ -13,7 +13,7 @@ raindrop_highlights:
 
 tags::
 source:: https://sive.rs/being
-type:: #source/link
+type:: #source/article
 
 ### It’s about being, not having | Derek Sivers
 

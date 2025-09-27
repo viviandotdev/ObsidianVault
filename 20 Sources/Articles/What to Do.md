@@ -3,7 +3,7 @@ modified: 2025-08-01T19:51:22-04:00
 ---
 tags:: [[self-improvement]] [[motivation]]
 source:: https://paulgraham.com/do.html
-type:: #source/link
+type:: #source/article
 
 Follow your curiosity and **make good new things**
 #### Highlights
@@ -27,5 +27,5 @@ Follow your curiosity and **make good new things**
 > [!quote]+ Updated on Wed Apr 30 2025 07:42:33 GMT-0400
 >
 > Newton was driven by curiosity and ambition, not by any practical effect his work might have, and yet the practical effect of his work has been enormous. And this seems the rule rather than the exception. So if you think you can make something amazing, you should probably just go ahead and do it.
-> > Be driven by curiosity and ambition, success will follow as a byproduct, 
+> > Be driven by curiosity and ambition, success will follow as a byproduct,
 You don’t need to worry about the practical impact of the things you create just create them if they are interesting to you and solve your own problems

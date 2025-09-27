@@ -14,7 +14,7 @@ raindrop_highlights:
 
 tags::
 source:: https://paulgraham.com/selfindulgence.html
-type:: #source/link
+type:: #source/article
 
 
 
