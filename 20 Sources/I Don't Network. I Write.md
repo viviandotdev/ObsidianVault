@@ -9,8 +9,6 @@ tags::
 source:: https://www.joanwestenberg.com/p/i-don-t-network-i-write
 type:: #source/article
 
-### I Don&#39;t Network. I Write.
-
 A Good Essay Outlasts A Thousand Handshakes.
 
 #### Highlights

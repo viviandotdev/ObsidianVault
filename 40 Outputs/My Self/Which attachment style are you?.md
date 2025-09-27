@@ -6,7 +6,6 @@ up::
 type:: #note/question
 tags:: [[relationships]]
 related:: [[avoidant attachment]] [[emotional detachment]]
-## Which attachment style are you?
 
 
 **How as the way you have been raised affected your attachment style?**

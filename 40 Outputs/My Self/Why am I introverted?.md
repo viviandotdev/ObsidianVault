@@ -5,7 +5,8 @@ modified: 2025-08-01T18:24:06-04:00
 up:: [[My Self]]
 type:: #output/reflection 
 tags::
-## Why am I introverted
+
+
 - Growing up, I only had one close friend during each main period of my life.
   - When I was really young, I think that was my sister
   - In elementary school, I had one friend from K-2nd grade, but she moved to Massachusetts.
