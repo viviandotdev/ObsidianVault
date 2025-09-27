@@ -1,6 +1,6 @@
 up:: [[My Self]]
 type:: #output/reflection
-tags:: #money #values #programming #self-improvement
+tags:: [[money]] [[values]]
 
 # How do you value money?
 
