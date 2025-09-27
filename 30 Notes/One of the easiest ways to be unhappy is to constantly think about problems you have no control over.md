@@ -5,6 +5,7 @@ modified: 2025-08-01T18:24:06-04:00
 up:: [[My Perspectives]]
 type:: #note/perspective 
 tags:: [[happiness]]
+
 **Personal Experience**
 - Politics is not something that is worth my time because it makes me think about problems that I cannot control
 - Like the impact that I can make with my decision is not enough to make me feel that all the research into developing that opinion seems worth it.
