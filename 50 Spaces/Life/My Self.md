@@ -2,15 +2,11 @@
 modified: 2025-07-12T08:33:42-04:00
 ---
 up:: [[Life Map]]
-**Table of Contents**
-
 
 
 [[My Personality]]
-[[what is your MBTI personality type?]]
 
-[[My Happiness|What makes me happy]]
-
+[[My Happiness]]
 
 [[My Vision]]
 
@@ -18,7 +14,9 @@ up:: [[Life Map]]
 [[My Interests]]
 
 
-**My **
+[[My Values]]
+
+
 ### Notes
 ```dataview
 LIST

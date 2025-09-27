@@ -7,6 +7,7 @@ tags:: [[70 Tags/values|values]]
 
 Values are the principles and beliefs that guide our actions, decisions, and overall outlook on life
 
+[[money]]
 
 [[relationships]]
 - [[I only believe in peer relationships.]]

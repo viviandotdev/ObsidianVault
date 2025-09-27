@@ -3,6 +3,7 @@ created: 2025-09-27 08:23
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
+status:: #🟥 
 tags::
 
 ***Work is a necessary part of modern life. It would be foolish to not pursue something that you are passionate about. Why would you want to spend 40-70% of your life doing something you hate?***
