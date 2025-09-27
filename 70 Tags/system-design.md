@@ -8,72 +8,36 @@ up:: [[+ Library]]
 [The System Design Newsletter | Neo Kim | Substack](https://newsletter.systemdesign.one/)
 [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 [System Design Interview: An Insider's Guide](https://drive.google.com/drive/folders/1cxhxtyVJb4Xz2NZ2n56bQO35_RleCnpR)
-[SWE Quiz](https://www.swequiz.com/)
 [System Design in a Hurry | Hello Interview System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 [System Design Interviews Course - Exponent](https://www.tryexponent.com/courses/system-design-interviews)
 [Grokking the System Design Interview | Video Course by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
+****
+[SWE Quiz](https://www.swequiz.com/)
 [[Scalability Patterns]]
 
 
-
-### Reliability
-1. Fault Tolerance
-2. Monitoring and alerting
-3. Retires
-4. Timeouts
-5. Data backup
-4. Periodic stability
-5. Monitoring and alerting
-6. Recovery planning
-### Availability
-1. Data replication
-2. Minimize system down time
-3. Disaster recovery
-3. Performance through expert programming and encrypting
-4. Optimize data structures
-### Performance
-2. Batching (system design for interview)
-3. Compression
-4. **Caching** strategies
-	Deduplication cache
-	Metadata cache
-	[[LRU cache Algorithm]]
+### Considerations for Designing Large Scale Distributed Systems
+ref:: [Systems design - Wikipedia](https://en.wikipedia.org/wiki/Systems_design)
+1. Functional and non-functional requirements
+2. Capacity estimation
+3. Usage of relational and/or NoSQL databases
+4. Vertical scaling, horizontal scaling, sharding
+5. Load balancing
+6. Primary-secondary replication
+7. Cache and CDN
+8. Stateless and Stateful servers
+9. Datacenter georouting
+10. Message Queue, Publish-Subscribe Architecture
+11. Performance Metrics Monitoring and Logging
+12. Build, test, configure deploy automation
+13. Finding single point of failure
+14. API Rate Limiting
+15. Service Level Agreement
 
 
-Costing and Estimation
-1. Evaluate lost service subscription fees
-2. Plan for future hardware costs
-3. Eventuality computation
-
-Documentation
-1. Clearer technical
-2. User manual documentation
-3. External API design
-
-Migration Plan
-1. Technical stack and compatibility
-2. Scalability integration
-3. Data migration serially
-
-Security
-1. Cybersecurity Framework
-2. Secure architecture
-3. Protection system
-4. Service agreements
-
-
-### Communication between systems
-1. Service Discovery
 [[Common System Design Problems]]
 
-
-grokking interview
-system design Alex book
-and exponenet
-gather list of high prioiryty questioms , do the time table on them
-
-each time you study add the date and confidence
 
 
 ### Links to this page
