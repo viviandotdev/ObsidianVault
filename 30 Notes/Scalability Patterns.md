@@ -4,10 +4,17 @@ modified: 2025-06-22T06:13:28-04:00
 ---
 tags::  [[system-design]]
 
-
 ## Design Patterns that Improve Scalability
-
-### Scalability Patterns
+- Horizontal vs vertical scaling
+- [[Load Balancer]]
+- Data Partitioning
+- 1. Architecture & Authorization
+   a. Data encryption
+   b. Maintenance cycle
+2. UI/UX
+   a. Device management
+   b. Testing unit architecture, documentation
+3. Scalable cloud integration and system tests
 
 **Scalability:**
 	How will you handle anticipated growth rate in terms of users, data volume and transactions?
@@ -21,4 +28,4 @@ tags::  [[system-design]]
 		**[[MapReduce]]** -  targets batch jobs where disk I/O is the major bottleneck. It use a distributed file system so that disk I/O can be done in parallel.
 
 [Scalability Patterns and Anti-Patterns for Technical Design](https://www.linkedin.com/advice/0/what-some-common-scalability-patterns-anti-patterns)
-[8 Commonly Used Scalable System Design Patterns - High Scalability -](http://highscalability.com/blog/2010/12/1/8-commonly-used-scalable-system-design-patterns.html)![[Screenshot 2023-10-15 at 2.51.19 PM.png]]
+[8 Commonly Used Scalable System Design Patterns - High Scalability -](http://highscalability.com/blog/2010/12/1/8-commonly-used-scalable-system-design-patterns.html)![[Screenshot 2023-10-15 at 2.51.19 PM.png]

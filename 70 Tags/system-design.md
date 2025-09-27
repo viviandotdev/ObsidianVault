@@ -3,22 +3,20 @@ created: 2023-09-07 16:28
 modified: 2025-08-01T11:08:43-04:00
 ---
 up:: [[+ Library]]
-
-## system design
-**Go through the roadmap questions**
+### Resources
+[System Design Interview - YouTube](https://www.youtube.com/@SystemDesignInterview)
+[The System Design Newsletter | Neo Kim | Substack](https://newsletter.systemdesign.one/)
+[ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
+[System Design Interview: An Insider's Guide](https://drive.google.com/drive/folders/1cxhxtyVJb4Xz2NZ2n56bQO35_RleCnpR)
 [SWE Quiz](https://www.swequiz.com/)
-### Scalability
-- Horizontal vs vertical scaling
-- Load-balancing
-	 [[Load Balancer]]
-- Data Partitioning
-- 1. Architecture & Authorization
-   a. Data encryption
-   b. Maintenance cycle
-2. UI/UX
-   a. Device management
-   b. Testing unit architecture, documentation
-3. Scalable cloud integration and system tests
+[System Design in a Hurry | Hello Interview System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+[System Design Interviews Course - Exponent](https://www.tryexponent.com/courses/system-design-interviews)
+[Grokking the System Design Interview | Video Course by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview)
+
+[[Scalability Patterns]]
+
+
+
 ### Reliability
 1. Fault Tolerance
 2. Monitoring and alerting
@@ -88,7 +86,3 @@ and -#map
 SORT file.link asc
 ```
 
-### Resources
-[System Design Interview - YouTube](https://www.youtube.com/@SystemDesignInterview)
-[ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
-[System Design Interview: An Insider's Guide](https://drive.google.com/drive/folders/1cxhxtyVJb4Xz2NZ2n56bQO35_RleCnpR)
