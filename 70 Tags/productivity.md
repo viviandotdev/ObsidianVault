@@ -5,7 +5,6 @@ tags::
 
 ### productivity
 
-
 ### **People**
 Writers/Authors
 - [[Sam Altman]]
