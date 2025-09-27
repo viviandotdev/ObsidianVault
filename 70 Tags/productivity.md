@@ -6,16 +6,21 @@ tags::
 ### productivity
 
 
-**People**
+### **People**
+Writers/Authors
 - [[Sam Altman]]
 - [[Tim Ferris]]
 - [[Cal Newport]]
+- [[James Clear]]
 - [[Thomas Frank]]
+- [[Paul Graham]]
+
+**Youtubers**
 - [[Ali Aabal]]
 - [[Dan Koe]]
 - [[Reysu]]
 - [[James Scholz]]
-- [[James Clear]]
+
 
 **Books**
 - [[Getting Things Done]]
