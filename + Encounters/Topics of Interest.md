@@ -4,7 +4,11 @@ modified: 2025-08-01T20:12:39-04:00
 
 ### Topics of Interest
  <!--what would you want to learn more about? What topics are you curious about?-->
-- [[ai]]
+ Ideas that spark dopamine and excitement in you
+[[Science and Technology Content]]
+[[technology]]
+[[ai]]
+
 - [[self-improvement]]
 	- [[success]]
 	- [[productivity]] 
