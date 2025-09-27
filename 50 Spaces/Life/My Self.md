@@ -8,8 +8,19 @@ up:: [[Life Map]]
 
 
 
-**personality**
+[[My Personality]]
+[[what is your MBTI personality type?]]
+
 [[My Happiness|What makes me happy]]
+
+
+[[My Vision]]
+
+
+[[My Interests]]
+
+
+**My **
 ### Notes
 ```dataview
 LIST
