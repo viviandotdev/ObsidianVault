@@ -8,7 +8,7 @@ modified: 2025-06-15T21:03:14-04:00
 up:: [[Bookshelf]]
 tags::
 type:: #source/book
-# {{Title}}
+
 by [[{{author}}]]
 
 **Motive**:

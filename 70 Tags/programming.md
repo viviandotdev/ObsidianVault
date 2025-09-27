@@ -4,14 +4,16 @@ modified: 2025-06-24T07:16:29-04:00
 ---
 up::
 tags:: #area 
+
+
+
 [[web development]]
-[[frontend development]]
-[[backend development]]
 
-**mobile development**
-[[react-native]]
+[[mobile-development]]
 
-**dsa**
+
+****
+[[leetcode]]
 [[system-design]]
 
 **tools**

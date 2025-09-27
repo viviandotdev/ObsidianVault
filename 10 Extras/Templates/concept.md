@@ -5,9 +5,6 @@ modified: 2025-06-22T19:16:10-04:00
 type:: #note/atomic
 tags::
 
-## <% tp.file.title %>
-
-
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.

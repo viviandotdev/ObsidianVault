@@ -4,8 +4,6 @@ modified: 2025-06-16T08:31:32-04:00
 ---
 up:: [[system-design]]
 source::
-## <% tp.file.title %>
-
 
 **Functional Requirements**
 

@@ -1,7 +1,9 @@
 ---
-created: <% tp.file.creation_date() %>
+created: 2025-09-27 12:13
 modified: 2025-08-01T21:35:00-04:00
 ---
+
+[[react-native]]
 
 ### Notes
 ```dataview
