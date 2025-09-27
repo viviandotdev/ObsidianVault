@@ -28,7 +28,6 @@ up:: [[Life Map]]
 - what activities do you not enjoy?
 
 
-[[Why am I introverted]]
 ### Why don't I feel lonely?
 - I have felt more lonely around other people than when I'm alone.
 - The most lonely period of my life was high school.
