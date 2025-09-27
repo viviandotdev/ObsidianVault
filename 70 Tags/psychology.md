@@ -4,8 +4,6 @@ modified: 2025-06-15T13:29:51-04:00
 ---
 
 
-[[]]
-[[Actualized.org]]
 
 ```dataview
 LIST

@@ -6,7 +6,7 @@ created: 2025-08-01 19:48
 modified: 2025-08-01T19:48:34-04:00
 ---
 up:: [[Bookshelf]]
-tags:: 
+tags:: [[philosophy]] [[psychology]]
 type:: #source/book
 # The Courage to be Disliked
 by [[Ichiro Kishimi, Fumitake Koga]]
