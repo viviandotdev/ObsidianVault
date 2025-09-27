@@ -11,9 +11,7 @@ modified: 2025-08-01T20:12:39-04:00
 - [[self-improvement]]
 	- [[success]]
 	- [[productivity]] 
-	- Integral psychology
-		- spiral dynamics
-		- the 9 stages of ego development
+	- [[psychology]]
 - [[health]]
 	- [[nutrition]]
 	- [[fasting]] 
