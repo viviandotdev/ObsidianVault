@@ -1,14 +1,3 @@
----
-raindrop_id: 827681944
-raindrop_highlights:
-  66af629b517c462afa4d7ce9: 1a1fcf72db9ece10ad41f081ec8e7e7d
-  66af62a75e502d3e23a48028: b9f006837bc76d80e268075d35123a0a
-  66af62af8fbeefa5979159e5: f970b55fa2fbe848558921f5ebda7236
-  66af62ba25c4e5518544f5e4: fe71c2cb2b3236340a191363c422fe47
-  66af62c659e41d080009397d: 1c3377c733254e3f5198d759b254bbbb
-
----
-
 tags::
 source:: https://www.coryzue.com/writing/time-wealth/
 type:: #source/article

@@ -5,6 +5,8 @@ modified: 2025-06-16T07:35:55-04:00
 tags:: [[psychology]]
 type:: #source/article 
 source:: [Of narrow specialists vs. superficial generalists](https://www.icopilots.com/of-narrow-specialists-vs-superficial-generalists/#:~:text=I%20do%20immersive%20deep%20dives,any%20of%20the%20rabbit%20holes.)
+
+
 Narrow specialists are people who know lots and lots about a specific subject but less and less about other things. These people are pendants.
 Dilettante or a dabbler are amateurs in a wide range of areas.
 

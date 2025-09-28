@@ -1,8 +1,3 @@
----
-raindrop_id: 777297582
-modified: 2025-08-01T17:43:59-04:00
----
-
 tags::
 source:: https://moretothat.com/the-many-worlds-of-enough/
 type:: #source/article
