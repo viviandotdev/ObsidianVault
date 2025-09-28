@@ -1,8 +1,7 @@
 ---
 modified: 2025-06-23T07:31:04-04:00
 ---
-type:: #note/atomic
-
+type:: #note/perspective 
 tags:: [[life]] [[career]]
 
 
