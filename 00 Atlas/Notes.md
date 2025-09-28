@@ -5,6 +5,14 @@ up:: [[+ Home]]
 type:: #map/view 
 ### Here is a view of  the notes folder
 
+```dataview
+TABLE tags, type as "Type"
+FROM "30 Notes" and -#x/index and -#x/readme
+WHERE type = null OR type = ""
+SORT file.name ASC
+
+```
+
 ``` dataview
 table tags, type as "Type"
 FROM "30 Notes" and -#x/index and -#x/readme

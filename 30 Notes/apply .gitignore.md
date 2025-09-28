@@ -2,6 +2,7 @@
 modified: 2025-07-23T09:48:03-04:00
 ---
 tags::[[git]]
+type:: #note/dev
 source::[Just a moment...](https://stackoverflow.com/questions/19663093/apply-gitignore-on-an-existing-repository-already-tracking-large-number-of-file)
 
 # apply .gitignore 
