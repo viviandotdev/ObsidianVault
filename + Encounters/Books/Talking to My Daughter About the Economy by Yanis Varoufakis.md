@@ -26,13 +26,12 @@ by [[Yanis Varoufakis]]
 <!-- No more than a couple paragraphs summarizing this BOOK -->
 
 
-**Outline**
+**Ideas**
 <!-- Atomic Notes Permanent notes from this books -->
+[[Commercial banks create money out of 'nothing']]
 
 
-**Personal Revelations**
-<!-- Connections and insights to your own life -->
 
 
-**Future Plans**
+**Actions**
 <!-- How to convert this new knowledge into actions into your own life -->
