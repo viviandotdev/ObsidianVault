@@ -2,8 +2,10 @@
 modified: 2025-06-23T07:31:04-04:00
 ---
 type:: #note/atomic
+
 tags:: [[life]] [[career]]
-status:: #🟨
+
+
 Your job is not meant to be the only thing you have, you should have other interests that full fill you
 
 - do not tie your entire identity to your work
