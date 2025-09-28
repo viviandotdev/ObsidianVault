@@ -14,7 +14,7 @@ Your launchpad and home base.
 	- [[success]]
 	- [[productivity]] 
 	- [[developmental psychology]]
-		- [[spiral dynamics]]
+		- [[Spiral Dynamics]]
 		- [[ego development]]
 - [[health]]
 	- [[nutrition]]

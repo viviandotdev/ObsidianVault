@@ -4,6 +4,20 @@ modified: 2025-08-01T11:39:38-04:00
 ---
 type:: #note/atomic
 tags:: [[relationships]]
+
+
+4 Primary Predictors or divorce, these are negative communication patterns that often leads to the end of a relationship
+negative [[communication]] patterns
+
+
+contempt
+	assuming moral superiority over them
+defensiveness
+	response to criticism, inability to take responsibility and understand the partner's perspective
+stonewalling
+	response of contempt, withdraws from the interaction and shuts down
+
+
 **Criticism**
 	Complaining is healthy in a marriage but  criticism is not.
 	Criticism is attacking someone’s personality whereas complaining is just saying what happened.

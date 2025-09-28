@@ -63,7 +63,7 @@ you are being followed by these users
 
 
 #### System Components
-[[API Gateway is an abstraction layer between the front end and backend microservices that routes the request sent from the client to the correct backend service.]]- Centralized gateway that redirects client requests to the correct backend services/
+[[API Gateway]]- Centralized gateway that redirects client requests to the correct backend services/
 ## Publish Posts
 1. User makes a request to the endpoint **/publish**
 2. The request
