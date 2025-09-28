@@ -18,5 +18,5 @@ tags:: [[self-improvement]]
 - **Make something so you can put it back into the pool of human experience**
 
 
-[[20 Sources/Articles/What to Do|What to Do]]
+[[What to Do|What to Do]]
 [[Make Something Wonderful (Steve Jobs)]]

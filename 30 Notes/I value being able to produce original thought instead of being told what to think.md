@@ -11,5 +11,5 @@ Define the behaviors that align with this value. These actions will guide you ba
 - You know what you are curious about and interested in, you don't need as algorithm to tell you that
 - Search for topics that interest you rather than letting the algorithm tell you want is interesting
 
-[[20 Sources/Articles/I Spent 90 Days Rebuilding My Brain. Here's What I Learned|I Spent 90 Days Rebuilding My Brain. Here's What I Learned]]
+[[I Spent 90 Days Rebuilding My Brain. Here's What I Learned|I Spent 90 Days Rebuilding My Brain. Here's What I Learned]]
 - Satisfaction of original thought, this what you should chase, this is why I build my brain and ideas
