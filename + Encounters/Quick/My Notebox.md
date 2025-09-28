@@ -5,8 +5,11 @@ up:: [[+ Home]]
 tags:: #map/view 
 
 # The Notebox 🗃
-**Prompts**
-
+-**process your sources**
+- add links to the source
+- create ideas from the source
+- like a source 
+- create action notes from the source
 
 
 ```dataview 
