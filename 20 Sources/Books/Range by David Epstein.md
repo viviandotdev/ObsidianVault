@@ -47,7 +47,7 @@ In all areas breadth training predict breadth transfer. The learner is able to a
 **Generation Effect**, struggling to generate answers even if it is the wrong one helps you learn. Students sacrifice  current performance for future benefit.
 **Hypercorrection Effect**, the more confident the student is about their wrong answer the better they are able to remember it when the correct answer is learned.
 
-[[Active recall is the process of retrieving information from memory without looking at your notes or other aids.]]
+[[Active recall]]
 Struggling to retrieve information helps the brain learn and remember better **even if the retrieval is unsuccessful or incorrect**. The process of strengthing the ability to search and find that information helps people remember better.
 #### Spaced Repetition
 It is important to space out your retrieval, want longer and longer before reviewing the same material again.

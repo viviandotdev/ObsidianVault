@@ -3,7 +3,7 @@ created: 2025-07-01 18:49
 modified: 2025-07-01T18:52:07-04:00
 ---
 type:: #note/atomic 
-tags:: [[happiness]] [[capitalism]]
+tags:: [[happiness]] [[capitalism]] [[consumerism]]
 
 - Capitalism distorts our idea of happiness because it benefits from our constant search for the next thing. 
 - **Capitalistic systems thrive when we are perpetually dissatisfied, driving us to consume more.**

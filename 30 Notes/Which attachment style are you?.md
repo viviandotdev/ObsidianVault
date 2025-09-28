@@ -5,7 +5,7 @@ modified: 2025-08-01T18:24:06-04:00
 up:: [[My Journal]]
 type:: #note/personal
 tags:: [[relationships]]
-related:: [[avoidant attachment]] [[emotional detachment]]
+related:: [[Avoidant Attachment]] [[Emotional Detachment]]
 
 
 **How as the way you have been raised affected your attachment style?**

@@ -2,8 +2,9 @@
 created: 2023-09-02 15:45
 modified: 2025-06-22T19:17:38-04:00
 ---
-type:: #note/atomic
+type:: #note/action 
 tags:: [[learning]]
+
 A simple technique for seeing the world through the lens of open-ended questions, which he called his “favorite problems.”
 
 You can create a list of your own favorite problems – a concrete set of questions you rely on both to **filter** the information you consume and to connect the dots between challenges and potential solutions.

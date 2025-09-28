@@ -20,4 +20,4 @@ tags::
 - **Control over Chaos**
 
 **Related**
-[[avoidant attachment]]
+[[Avoidant Attachment]]

@@ -22,7 +22,7 @@ source:: [How I take smart digital notes—Part 3: Videos and podcasts | Ramses'
 	- Create permanent notes, taking the most atomic ideas and thoughts and rewording them into your own idea
 	- Create a mind map of the main concepts, grouping similar concepts together
 **Tips for reviewing and remembering what you learn**
-    1. [[Active recall is the process of retrieving information from memory without looking at your notes or other aids.]]: **On a blank sheet of paper**, recall everything you know about the topic / concept you are trying to learn.
+    1. [[Active recall]]: **On a blank sheet of paper**, recall everything you know about the topic / concept you are trying to learn.
     2. **Spaced Repetition:** Create Anki cards on the information to need to remember to be recalled later
     3. Create Mind Maps to connect concepts/ideas and relate them to the big picture
     4. Create cards that explain the concept in the way you are teaching it to someone.
