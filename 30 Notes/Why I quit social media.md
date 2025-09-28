@@ -1,3 +1,4 @@
+up:: [[My Journal]]
 type:: #note/personal
 
 [[I don't believe in consuming just to consume, I want to consume to create]]

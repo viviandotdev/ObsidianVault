@@ -12,8 +12,8 @@ These are the dials that determine where I go.
 
 - My Direction & Drivers
 
-**Reflection**
-	01 - [[My Values]] | [[My Perspectives]] | [[My Interests]] | [[My Purpose]]  | [[My Vision]] | [[My Happiness]] | [[My Health]]
+**Personal Documents**
+	01 - [[My Values]] | [[My Perspectives]] | [[My Interests]] | [[My Purpose]] | [[My Vision]] | [[My Happiness]] | [[My Health]] | My Personality
 **Action**
 	02 - [[Tools]] | [[My Workflows]] | [[My Finances]] | [[My Goals]] | [[My Systems]] |  [[My Routines]]
 	03 - [[My Experiences]] |  [[Life Reflections]]
