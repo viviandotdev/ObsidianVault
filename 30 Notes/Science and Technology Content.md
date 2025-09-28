@@ -13,7 +13,7 @@ simply.explained
 
 explained simply
 
-ai bubblel
+ai bubble
 things explained
 how does ___ work?
 **how/why does capitalism work?**
@@ -42,9 +42,5 @@ how does ___ work?
 [https://www.youtube.com/@kurzgesagt/videos](https://www.youtube.com/@kurzgesagt/videos)
 [Cal Newport Latest Articles | The New Yorker](https://www.newyorker.com/contributors/cal-newport)
 
-**Write**
-[https://www.youtube.com/watch?v=a7EPjeyHvj0](https://www.youtube.com/watch?v=a7EPjeyHvj0)
-[https://www.youtube.com/watch?v=jWIdQfcQKTc&list=PLVNXAaej57W5TVg9-4vzH_oqwT8aAGnOL&index=4](https://www.youtube.com/watch?v=jWIdQfcQKTc&list=PLVNXAaej57W5TVg9-4vzH_oqwT8aAGnOL&index=4)
-[https://www.youtube.com/watch?v=LcYcj7oFglQ](https://www.youtube.com/watch?v=LcYcj7oFglQ)
 
 **Sources**

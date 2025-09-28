@@ -4,6 +4,8 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 type:: #output/mini-essay 
 tags::
+
+
 Why is romantic relationships more valued in society than friendships
 Indoctrination, we need
 We go to school to get indoctrinated,i don’t feel lonely because I have good friends or I like spending time with myself

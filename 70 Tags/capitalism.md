@@ -26,6 +26,8 @@ how does [[communism]] work?
 **what are stock buybacks and how did they make CEOs rich?**
 [How American CEOs got so rich - YouTube](https://www.youtube.com/watch?v=ylLTMYt24lA)
 
+**why does capitalism work?**
+[Capitalism Onchained - Not Boring by Packy McCormick](https://www.notboring.co/p/capitalism-onchained?publication_id=10025&post_id=136958177&isFreemail=true&r=f9r78)
 
 ### Notes
 ```dataview
