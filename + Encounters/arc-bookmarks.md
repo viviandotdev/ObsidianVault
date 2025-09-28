@@ -3,14 +3,6 @@
 ## ui-animations
 
 
-### tutorials
-
-  * [animations.dev-course/src at main · DanielSintimbrean/animations.dev-course](https://github.com/DanielSintimbrean/animations.dev-course/tree/main/src)
-  * [candidosales/animations: Animation lab - React / Framer Motion / Svelte / Svelte Motion / AnimeJS](https://github.com/candidosales/animations)
-  * [Page Buddy](https://pagebuddy.app/edit)
-
------
-
 ## mobile
 
   * [sellflow/sellflow: A beautiful, customizable open-source mobile app template for your Shopify storefront\!](https://github.com/sellflow/sellflow)
@@ -19,16 +11,6 @@
   * [suyalcinkaya/onur.dev: ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.](https://github.com/suyalcinkaya/onur.dev)
   * [Digital Business Card](https://notjust.notion.site/Digital-Business-Card-90979ca03e904b4c9f4c50580295095c)
 
-### workout
-
-  * [Peak: Fitness Widgets on the App Store](https://apps.apple.com/us/app/peak-fitness-widgets/id6443923491?ct=https%3A%2F%2Findieappcatalog.com)
-  * [Gym Tracker simple workout log on the App Store](https://apps.apple.com/us/app/gym-tracker-simple-workout-log/id1506898151?ct=https%3A%2F%2Findieappcatalog.com)
-  * [Liiift - Workout Tracker on the App Store](https://apps.apple.com/us/app/liiift-workout-tracker/id6477523615?ct=https%3A%2F%2Findieappcatalog.com)
-  * [Gym Diary Workout Log Tracker on the App Store](https://apps.apple.com/us/app/gym-diary-workout-log-tracker/id1328908841?ct=https%3A%2F%2Findieappcatalog.com)
-  * [Exercise Log - WorkoutWise on the App Store](https://apps.apple.com/us/app/exercise-log-workoutwise/id1662348638?platform=iphone)
-  * [viviandotdev/threads](https://github.com/viviandotdev/threads)
-  * [MEGA](https://mega.nz/folder/QnhRQCzC#ioVuRwvq2QdN6Dt2RuHLkA)
-  * [Build a Threads Clone with React Native, Expo & Gluestack | Full Tutorial - YouTube](https://www.youtube.com/playlist?list=PLJeCS8DwkVT_UcuAIhx9dg1kc3UzcKevl)
 
 ### apps
 
@@ -191,25 +173,6 @@
   * [Perspective Drawing 15 - Dividing Ellipses in Perspective - YouTube](https://www.youtube.com/watch?v=5V9VzZvQ7GY)
   * [Steve Huston Draws From Life | creating Figurative Art Tutorial | Patreon](https://www.patreon.com/c/eneasnaiene/about)
 
-### steve
-
-  * [2024-05-02 Simple Ways To Draw Great Legs | Patreon](https://www.patreon.com/posts/2024-05-02-ways-104020213)
-  * [2024-01-25 - Looking At The A Few Of The Wonderful Lessons Michelangelo Can Teach Us | Patreon](https://www.patreon.com/posts/2024-01-25-at-of-98415459)
-  * [Finding The Corners In The Hips Part 2 | Patreon](https://www.patreon.com/posts/finding-corners-123334672)
-  * [2024-10-24 Demo On Drawing Beautiful Hands Part 1 | Patreon](https://www.patreon.com/posts/2024-10-24-demo-115357848)
-  * [2025-01-02 - Drawing The Stomach In 4 Different Ways | Patreon](https://www.patreon.com/posts/2025-01-02-in-4-125081216)
-  * [2023-12-28 Analyzing The Masters: Rubens | Patreon](https://www.patreon.com/posts/2023-12-28-95599951)
-  * [Finding The Corners In The Hips Part 1 | Patreon](https://www.patreon.com/posts/finding-corners-123332263)
-  * [2024-10-31 - A Demo On Drawing Beautiful Hands Part 2 | Patreon](https://www.google.com/search?q=https://www.patreon.com/posts/2024-10-31-a-demo-115357181)
-  * [2024-10-17 The Only Perspective A Figurative Artist Needs Part 2 | Patreon](https://www.patreon.com/posts/2024-10-17-only-114270023)
-  * [2024-02-15 - How The Masters Draw Contrapposto | Patreon](https://www.patreon.com/posts/2024-02-15-how-100054112)
-  * [2024-01-08 - Choosing The Best Connective Strategies For Constructing Your Figures | Patreon](https://www.patreon.com/posts/2024-01-08-best-104026560)
-  * [2024-10-10 - The Only Perspective A Figurative Artist Needs Part 1 | Patreon](https://www.patreon.com/posts/2024-10-10-only-113816507)
-  * [2025-02-13 - A Demo In Drawing Great Hands | Patreon](https://www.patreon.com/posts/2025-02-13-demo-122293275)
-  * [2024-02-01 -- How The Masters Draw Deep Perspective | Patreon](https://www.patreon.com/posts/2024-02-01-how-98548292)
-  * [The Simplest Way To Draw Great Arms On the Body | Patreon](https://www.patreon.com/posts/simplest-way-to-102279868)
-  * [2024-04-25 - Simple Ways To Construct A Leg | Patreon](https://www.patreon.com/posts/2024-04-25-ways-103363683)
-  * [The BEST Way To Draw Vehicles In PERSPECTIVE - PART 2 - YouTube](https://www.youtube.com/watch?v=JhLb-TVYLtg)
 
 ### resources
 
