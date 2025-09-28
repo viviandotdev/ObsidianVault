@@ -3,6 +3,20 @@
 [[stocisim]]
 
 **Books**
+
+
+Plato. Symposium.
+Russell. Sceptical Essays.
+Russell. The Scientific Outlook.
+Popper. The Poverty of Historicism.
+
+Lakoff. Metaphors we live by.
+Lakoff. Women, Fire and Dangerous Things.
+Ari Heljakka. Model Zero.
+
+
+
+
 [[The Courage to be Disliked by Ichiro Kishimi Fumitake Koga]]
 [[The Untethered Soul by Michael A Singer]]
 [[Be Water by Shannon Lee]]
