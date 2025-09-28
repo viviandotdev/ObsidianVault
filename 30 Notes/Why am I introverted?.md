@@ -2,10 +2,7 @@
 created: 2025-09-27 07:25
 modified: 2025-08-01T18:24:06-04:00
 ---
-up:: [[My Self]]
-type:: #output/reflection 
-tags::
-
+type:: #note/personal
 
 - Growing up, I only had one close friend during each main period of my life.
   - When I was really young, I think that was my sister
