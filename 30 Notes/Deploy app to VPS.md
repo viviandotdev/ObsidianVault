@@ -4,7 +4,7 @@ modified: 2025-02-05T20:02:16-05:00
 [[How to start a programming project]]
 
 **Digital Ocean**
-[[Initialize digital ocean droplet]]
+[[How to initialize digital ocean droplet]]
 
 [[How to deploy an api using Digital Ocean and Dokku]]
 

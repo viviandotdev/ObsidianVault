@@ -14,7 +14,7 @@ tags:: [[programming]] [[devops]]
 **next steps, decrease the build size**
 [Deploying a Typescript Server to Digital Ocean with Dokku - Part 11 - YouTube](https://www.youtube.com/watch?v=AdHwBKKQHZ4&list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s&index=13)
 1. [[Set up a custom domain name for your web application]]
-2. [[Initialize digital ocean droplet]]
+2. [[How to initialize digital ocean droplet]]
 3. Create dokku app
 ```
 dokku apps:create bookshelf-api

@@ -2,7 +2,6 @@
 created: 2025-08-24 07:42
 modified: 2025-08-01T18:24:06-04:00
 ---
-up:: 
 type:: #note/list 
 tags:: [[career]] 
 - **Keep a “wins” document and rotate it yearly/quarterly based on performance reviews. Use this to track things you’d put on your internal resume.**

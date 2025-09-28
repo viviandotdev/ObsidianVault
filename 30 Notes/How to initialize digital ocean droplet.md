@@ -2,6 +2,7 @@
 created: 2024-05-16 17:39
 modified: 2025-06-28T07:36:42-04:00
 ---
+note:: #note/how-to 
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
 
 1. Create [digital ocean](https://cloud.digitalocean.com/projects/30a9541f-c92b-4411-9533-7b51e0c2d737/resources?i=2a9ec8) droplet

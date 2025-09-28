@@ -3,7 +3,9 @@ created: 2025-07-12 13:33
 modified: 2025-07-12T14:02:43-04:00
 ---
 up:: [[My Perspectives]]
+type:: #note/atomic
 tags:: [[happiness]]
+
 **Idea**
 It is the progress towards your goals that makes you happy not achieving the goal itself
 Therefore you are much close to feeling of happiness than you think because just the act of seeing progress is enough to make you happy
