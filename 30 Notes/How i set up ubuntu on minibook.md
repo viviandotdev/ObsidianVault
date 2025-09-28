@@ -5,7 +5,7 @@ modified: 2025-07-06T21:46:51-04:00
 up:: [[CHUWI MiniBook X]]
 type:: #note/how-to 
 tags:: [[linux]]
-status:: #🟥
+
 I swapped esc with caps recently on ubuntu. Steps i followed:
 ```
 sudo vim /etc/default/keyboard (open up this file)

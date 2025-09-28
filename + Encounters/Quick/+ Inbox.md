@@ -10,7 +10,7 @@ TABLE WITHOUT ID
  file.link as "Encounters and new notes",
  (date(today) - file.cday).day as "Days alive"
 
-FROM "+ Encounters" and -#readme
+FROM "30 Notes" and -#readme and #🟥 
 
 SORT file.cday asc
 
