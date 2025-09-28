@@ -24,4 +24,4 @@ Your job is not meant to be the only thing you have, you should have other inter
 
 **References**
 [If you’re sick of your job, you need to watch this - YouTube](https://www.youtube.com/watch?v=Zl0EfP33v0k&t=1280s)
-[[identity diversification]]
+[[Identity Diversification]]

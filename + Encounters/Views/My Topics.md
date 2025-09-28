@@ -1,8 +1,7 @@
 
-### Topics
 ```dataview
 LIST
-FROM "60 Content Maps" AND [[#]] AND #map/content 
+FROM "60 Content Maps" AND #map/content 
 and !outgoing([[#]])
 WHERE !contains(file.name, "Outbox")
 WHERE !contains(file.name, "+ Home")

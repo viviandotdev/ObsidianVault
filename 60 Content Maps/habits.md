@@ -55,27 +55,26 @@ type:: #map/content
 [[Natural Selection]], [[Selfish Gene]], [[Survival of the Fittest]]
 [[Flywheel Effect]],
 
-## Other Miscellaneous
- - [[Words I've used to describe important habits]]
-
-
-[[Changing a habit is really about replacing a routine]]
-
----
-
-Finish the walkthrough: [[The 3 Phases of MOCs, a coda]]
-
----
-## LYT Vision
-Activate "LYT Vision" to resurface thoughts in context. When you twirl this open, it's like you are putting on night vision goggles: you see things hidden in the shadows.
-
-The main contextual queries I prefer are "unrequited" & "unmentioned" notes.
-
-### Unrequited notes, by link
-These notes point directly to this note. But this note doesn't point back.
+### Notes
 ```dataview
-table file.mtime.year + "-" + file.mtime.month + "-" + file.mtime.day as Modified
-from [[Habits MOC]]
-and !outgoing([[Habits MOC]])
-sort file.mtime desc
+LIST
+FROM "30 Notes" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
+SORT file.link asc
+```
+
+### Sources
+```dataview
+LIST
+FROM "20 Sources" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
+SORT file.link asc
 ```
