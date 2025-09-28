@@ -140,10 +140,3 @@ tags::
 ❓ Did you find another interest that plays well into the one you chose? Do you feel excited to go down that rabbit hole?
 
 </aside>
-
-- 
-
-<aside>
-🔑 We will continue this in [Life’s Work](https://www.notion.so/Life-s-Work-2426adbe0e26811dbaecd2a82aea7485?pvs=21) to dissect the domain you plan on mastering.
-
-</aside>
