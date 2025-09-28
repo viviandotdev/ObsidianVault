@@ -4,9 +4,7 @@ modified: 2025-06-15T18:48:42-04:00
 
 ---
 status #🟨
-- [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
-- [Andy Matuschak](https://andymatuschak.org/)
-  - [Books](https://andymatuschak.org/books/)
+-
 
 ### Interactive Blogs with Cool Animations (Vercel)
 
@@ -18,34 +16,11 @@ status #🟨
 > People don't like to read, so I can just turn the books into a well-formatted book. People like visuals, present the information that is not just a string of text. People love comics and picture, present information with comics, why i want want to draw.
 
 
-### Productivity Tools for Everyday Life (Life Optimization)
 
-- better.me
-- better.person
-- BetterChess
-- BetterArt
-- better life
-- better health
-- Better Coder
-- Build
-- BetterBrain
-- BetterNotes
-- BetterMe
-- BetterPerson
-- better living
-- simplelife
-- better design?
-- better code
-- workinprogress
-- livesimply
-- hackyourbrain
-- lifeguide *
-- life explained
 
 ### Youtube Channels
 
 - [Julia Saxena on Twitter](https://twitter.com/julia_saxena/status/1373253118297772032)
-- [Movers Odyssey on YouTube](https://www.youtube.com/@moversodyssey)
 - [Ldeming.com](https://www.ldeming.com/)
 - [Dan Koe Talks on YouTube](https://www.youtube.com/@DanKoeTalks)
 - [Ruri Ohama on YouTube](https://www.youtube.com/@ruriohama/videos)

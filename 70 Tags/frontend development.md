@@ -1,14 +1,3 @@
----
-created: 2024-05-19 19:55
-modified: 2025-06-15T18:30:23-04:00
-
----
-tags:: [[content-creation]]
-## Development Coal Mine
-Inventory of potential websites, social media feeds, youtube channels and any other places on the web to mine for. content ideas that are relevant to your channel or blog.
-
-[Magic UI](https://magicui.design/)
-
 **Blogs**
 [Josh W Comeau](https://www.joshwcomeau.com/)
 [Teaching you the craft of frontend – Frontend.FYI](https://www.frontend.fyi/)
@@ -21,6 +10,9 @@ tao of react content
 joy of react course
 [Codrops | Keeping web professionals inspired & up-to-date since 2009](https://tympanus.net/codrops/)
 
+Libaries
+magicui
+
 **Youtube**
 [Juxtopposed - YouTube](https://www.youtube.com/@juxtopposed)
 [Hyperplexed - YouTube](https://www.youtube.com/@Hyperplexed/videos)
@@ -32,23 +24,3 @@ joy of react course
 [Tom Is Loading - YouTube](https://www.youtube.com/@tomisloading/videos)
 [Huy NG - YouTube](https://www.youtube.com/@huyngxyz/videos)
 
-
-**Tech Productivity**
-[https://github.com/jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
-[bigboxSWE - YouTube](https://www.youtube.com/@bigboxSWE)
-
-**Sources**
-
-**Names**
-**better.code**
-betterdesign.ui
-develop
-ui
-code
-flow
-flowcode
-codedrops
-simple.web
-simple
-clean.ui
-cleanui.design

@@ -15,3 +15,7 @@ tags:: #map/area
 
 **tools**
 [[git]]
+
+
+
+[https://github.com/jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
