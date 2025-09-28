@@ -7,7 +7,6 @@ source::
 **Goals**-
 
 
-
 **Build, Publish, Maintain: + Learn**
 - Build: Long-term projects like writing books or building products.
 - Publish: Publishing content on social media.
