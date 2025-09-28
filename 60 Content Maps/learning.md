@@ -5,6 +5,12 @@ modified: 2025-06-15T13:00:02-04:00
 type:: #map/content
 
 
+[Make it Stick](https://www.goodreads.com/book/show/18770267-make-it-stick?ac=1&from_search=true&qid=IlxhvzAcBS&rank=1)
+
+[UltraLearning](https://www.goodreads.com/book/show/44770129-ultralearning)
+
+[Uncommon Sense Teaching](https://www.goodreads.com/book/show/55835996-uncommon-sense-teaching?from_search=true&from_srp=true&qid=uSal5vOg8Y&rank=1)
+
  [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 - [Andy Matuschak](https://andymatuschak.org/)
 

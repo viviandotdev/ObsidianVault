@@ -54,11 +54,7 @@ status #🟨
 	
 **Books/Resources**
 
-[Make it Stick](https://www.goodreads.com/book/show/18770267-make-it-stick?ac=1&from_search=true&qid=IlxhvzAcBS&rank=1)
 
-[UltraLearning](https://www.goodreads.com/book/show/44770129-ultralearning)
-
-[Uncommon Sense Teaching](https://www.goodreads.com/book/show/55835996-uncommon-sense-teaching?from_search=true&from_srp=true&qid=uSal5vOg8Y&rank=1)
 
 [https://supermemo.guru/wiki/SuperMemo_Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 
@@ -76,7 +72,6 @@ Learning how to Learn by Barbara Oakley
 
 [https://www.youtube.com/@benjaminkeep/videos](https://www.youtube.com/@benjaminkeep/videos)
 
-[https://twitter.com/julia_saxena/status/1373253118297772032](https://twitter.com/julia_saxena/status/1373253118297772032)
 
 [https://www.youtube.com/watch?v=Lt54CX9DmS4](https://www.youtube.com/watch?v=Lt54CX9DmS4)
 
