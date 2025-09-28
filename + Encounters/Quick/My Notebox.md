@@ -6,7 +6,6 @@ tags:: #map/view
 
 # The Notebox 🗃
 
-
 ```dataview 
 TABLE WITHOUT ID
  file.link as "Notes 🟥 ",

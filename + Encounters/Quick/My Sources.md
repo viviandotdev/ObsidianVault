@@ -1,9 +1,7 @@
 
-
-
 ```dataview
 TABLE WITHOUT ID
-	status as Status,
+	type as Type,
 	rows.file.link as Article
 FROM  "20 Sources"
 WHERE !contains(file.path, "Templates") AND length(split(file.path, "/")) = 2
