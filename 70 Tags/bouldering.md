@@ -2,7 +2,7 @@
 created: 2025-06-24 07:06
 modified: 2025-06-24T07:29:35-04:00
 ---
-type:: #area
+type:: #map/area
 [[My Rock Climbing Training Routine to V8 Revealed (Beginner to Intermediate) - YouTube]]
 
 ```dataview

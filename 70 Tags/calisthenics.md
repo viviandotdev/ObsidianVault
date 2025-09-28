@@ -2,7 +2,7 @@
 created: 2025-06-24 07:06
 modified: 2025-06-26T08:26:35-04:00
 ---
-type:: #area
+type:: #map/area
 
 **progression charts**
 [Overcoming Gravity 2nd Edition Exercise Charts - Google Sheets](https://docs.google.com/spreadsheets/d/19l4tVfdTJLheLMwZBYqcw1oeEBPRh8mxngqrCz2YnVg/edit?gid=2032740838#gid=2032740838)

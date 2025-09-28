@@ -2,7 +2,7 @@
 modified: 2025-06-24T07:24:44-04:00
 ---
 up:: [[+ Library]]
-tags:: #area 
+tags:: #map/area 
 
 **how to learn a language**
 [[How to learn a language]]
