@@ -13,6 +13,8 @@ type:: #area
 
 **Articles**
 [[How to Write - by Ryan Peterman]]
+[Writing is thinking — The Refined Mind](https://tannenbaum.netlify.app/writing-is-thinking)
+
 
 **Videos**
 [Obsidian Tutorial: How to use Obsidian to Write Articles and Scripts](https://www.youtube.com/watch?v=a7EPjeyHvj0)

@@ -11,7 +11,9 @@ I'm amazed at how many people don't zoom out and consider how to live a good lif
 These are the dials that determine where I go.
 
 - My Direction & Drivers
-	01 - [[My Values]] | [[My Perspectives]] | [[My Self]] 
+- **Reflection**
+	01 - [[My Values]] | [[My Perspectives]] | [[My Interests]] | [[My Purpose]]  | [[My Vision]] 
+**Action**
 	02 - [[Tools]] | [[My Workflows]] | [[My Finances]] | [[My Goals]] | [[My Systems]] |  [[My Routines]]
 	03 - [[My Experiences]] |  [[Life Reflections]]
 	04 - [[My Manifesto]] | [[My Career]]

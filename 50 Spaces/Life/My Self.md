@@ -10,6 +10,7 @@ up:: [[Life Map]]
 
 [[My Vision]]
 
+[[My Purpose]]
 
 [[My Interests]]
 

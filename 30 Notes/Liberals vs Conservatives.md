@@ -1,5 +1,5 @@
 
-type:: #note/ist
+type:: #note/list
 tags:: [[politics]]
 
 
@@ -14,17 +14,6 @@ tags:: [[politics]]
 | **Immigration**          | protect minorities                                                                      | immigration control                                                               |
 | Economy                  | ==regulate economy, tax and spend==                                                     | deregulated economy, don't tax and spend                                          |
 
-
-**Differences**
-**Liberals**
-
-
-
-
-**Conservative**
-
-
-**Personal Experience**
 
 
 **Resources**

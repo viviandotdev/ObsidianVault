@@ -4,6 +4,7 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 type:: #output/mini-essay 
 tags:: [[70 Tags/values|values]] [[culture]]
+
 | Topic                             | Eastern Values                                                                              | Western Values                                                                                                                              |
 | --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Relationships**                 | Hierarchy, respecting your elders                                                           | ==Equality, peer relationships==                                                                                                            |
