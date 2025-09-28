@@ -2,16 +2,12 @@
 created: 2025-06-23 07:05
 modified: 2025-06-23T22:13:10-04:00
 ---
-up::
 tags:: [[drawing]]
 
 [Dynamic Sketching Study Guide - YouTube](https://www.youtube.com/watch?v=t6Jc3hjxcLM)
 
 
-
-
 **Dynamic Sketch course guide**
-
 1. Drawing boxes in perspective 
 	- try drawing objects in different points of view,
 	- then try to draw them from memory, in different directions
