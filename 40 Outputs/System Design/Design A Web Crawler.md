@@ -3,9 +3,8 @@ created: 2023-09-04 15:04
 modified: Monday 4th September 2023 15:04:30
 
 ---
-up::  [[system-design]]
-tags::
-source:
+up:: [[01 System Design Problems]]
+tags:: [[system-design]]
 
 ### What is it?
 A robot often used by search engines to discover new or updated content to the web by collecting a few pages and recursively following the links on those pages to collect new content.

@@ -3,9 +3,8 @@ created: 2023-11-16 15:25
 modified: Thursday 16th November 2023 15:25:39
 
 ---
-up::  [[system-design]]
+up:: [[01 System Design Problems]]
 tags:: [[system-design]]
-
 ### Requirements
 **What is a rate limiter**?
 A rate limiter is a system limits the number of user requests allowed to be sent over a specified period.

@@ -3,9 +3,9 @@ created: 2023-08-07 17:43
 modified: Monday 7th August 2023 18:39:37
 
 ---
-up::  [[system-design]]
+up:: [[01 System Design Problems]]
 tags:: [[system-design]]
-related:
+
 [System Design Interview - Notification Service - YouTube](https://www.youtube.com/watch?v=bBTPZ9NdSk8)
 [Messaging Pattern: Publish-Subscribe - A. Rothuis](https://www.arothuis.nl/posts/messaging-pub-sub/)
 Create a system that sends a message in reaction to a certain event

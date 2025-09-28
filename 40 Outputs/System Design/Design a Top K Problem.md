@@ -2,9 +2,8 @@
 modified: 2025-03-30T11:45:04-04:00
 ---
 
-up::  [[system-design]]
-source::
-
+up:: [[01 System Design Problems]]
+tags:: [[system-design]]
 
 # Top K Problem
 

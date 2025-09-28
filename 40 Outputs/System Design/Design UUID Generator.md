@@ -3,7 +3,7 @@ created: 2023-12-13 06:57
 modified: 2025-06-15T13:21:18-04:00
 
 ---
-up::  [[system-design]]
+up:: [[01 System Design Problems]]
 tags:: [[system-design]]
 
 What is UUID Generator?
