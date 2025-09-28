@@ -176,21 +176,3 @@
 
 ### resources
 
-  * [Geek – L'Affiche Technique](https://laffichetechnique.com/collections/geek)
-  * [Steve Huston Lectures - YouTube](https://www.youtube.com/playlist?list=PLC64188974DFF3A52)
-  * [Art Anatomy for Beginners | New Masters Academy](https://www.nma.art/v3/course-catalog/courses/604040)
-  * [Resources for studying Art - HackMD](https://artstudies.neocities.org/#How-to-learn-to-draw-for-beginners)
-  * [Perspective Drawing Series (1994)](https://app.gumroad.com/d/d3a1ebb44d7b16f917b634a796485469)
-  * [Fundamentals of perspective](https://gumroad.com/d/a93e14d48de36a246589d76e2a5aed06)
-  * [torso drawings](https://design.penpot.app/challenge.html?redirect=)
-  * [How To Draw A Car In Two Points Perspective (Fiat Panda 750CL) - Narrated Tutorial - YouTube](https://www.youtube.com/watch?v=hwM7S6kYpFQ)
-  * [New Masters Academy | The Best Way to Learn Art Online](https://www.nma.art/v3/)
-  * [Practice Drawing This - Drawing Demonstrations](https://practicedrawingthis.com/cgi-bin/demos.cgi)
-  * [Dynamic Sketching - Peter Han - YouTube](https://www.youtube.com/playlist?list=PLqR-aNpyEIVd91GCwsyOS3oRn6eoRhyio)
-  * [Perspective Drawing 14 - Drawing Ellipses - YouTube](https://www.youtube.com/watch?v=jYdcOJBcFeY)
-
-### courses
-
-  * [Drawabox.com | Part One: The Basics | Lesson 2: Contour Lines, Texture and Construction | Thinking in 3D](https://drawabox.com/lesson/2)
-  * [Bridgman Bootcamp 2020, Session 1 of 12 - YouTube](https://www.youtube.com/watch?v=HrPi92DnMis&list=PLf3dvAURflO-mJ-fbhWMBxs1pwX7zuhik&index=1&t=3579s)
-  * [Week 3: The Torso | New Masters Academy](https://www.nma.art/videolessons/the-torso-simplified/?course=604040)

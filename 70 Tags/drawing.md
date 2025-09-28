@@ -18,6 +18,26 @@ type:: #area
 [[DAB-Draw a Box]]
 [[Figure Drawing-Design and Invention]]
 
+
+
+
+* [Steve Huston Lectures - YouTube](https://www.youtube.com/playlist?list=PLC64188974DFF3A52)
+* [Art Anatomy for Beginners | New Masters Academy](https://www.nma.art/v3/course-catalog/courses/604040)
+* [Resources for studying Art - HackMD](https://artstudies.neocities.org/#How-to-learn-to-draw-for-beginners)
+* [Perspective Drawing Series (1994)](https://app.gumroad.com/d/d3a1ebb44d7b16f917b634a796485469)
+* [Fundamentals of perspective](https://gumroad.com/d/a93e14d48de36a246589d76e2a5aed06)
+
+  * [New Masters Academy | The Best Way to Learn Art Online](https://www.nma.art/v3/)
+  * [Practice Drawing This - Drawing Demonstrations](https://practicedrawingthis.com/cgi-bin/demos.cgi)
+  * [Dynamic Sketching - Peter Han - YouTube](https://www.youtube.com/playlist?list=PLqR-aNpyEIVd91GCwsyOS3oRn6eoRhyio)
+
+
+
+
+  * [Drawabox.com | Part One: The Basics | Lesson 2: Contour Lines, Texture and Construction | Thinking in 3D](https://drawabox.com/lesson/2)
+  * [Bridgman Bootcamp 2020, Session 1 of 12 - YouTube](https://www.youtube.com/watch?v=HrPi92DnMis&list=PLf3dvAURflO-mJ-fbhWMBxs1pwX7zuhik&index=1&t=3579s)
+  * [Week 3: The Torso | New Masters Academy](https://www.nma.art/videolessons/the-torso-simplified/?course=604040)
+* 
 **Structure Logic**
 **Drawing Form**
 - 3d forms, shapes and volumes
@@ -27,35 +47,10 @@ type:: #area
 	Cognitive Drawing
 	Drawing Form and Pose
 	Beginner's Guide to Sketching: Robots, Vehicles & Sci-fi Concepts
-**Perspective**
-
-
-**Aesthetic**
-Value
-Composition
-- Elements of composition
-- Composition theory
-- Compositional schemes
-**Resources**
-	 Framed Ink by Marcos Mateo-Mestre, Mitchell Albala landscape painting
 
 **Technique
 [[Digital (Procreate)]]
 
-
-The combindation of the above (technique, aesthetic and structure/logic) is creativity. Combing all those skills create a story or design of someting
-**Creative**
-Design
-Story
-Expression
-
-
-Color and Light
--  Color Theory
-- Light Sources
-**Resources**
--  Color and Light by James Gurney,
--  Color and Light by 3DTotal Publishing
 
 **Exercises**
 [[Anki for Artists]]

@@ -4,7 +4,6 @@ modified: 2025-08-01T12:40:00-04:00
 ---
 up:: [[economics]]
 
-**how does [[capitalism]] even work?**
 
 **what is wrong with [[capitalism]]?**
 
