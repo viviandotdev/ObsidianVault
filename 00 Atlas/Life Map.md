@@ -13,7 +13,7 @@ These are the dials that determine where I go.
 - My Direction & Drivers
 
 **Personal Documents**
-	01 - [[My Values]] | [[My Perspectives]] | [[My Interests]] | [[My Purpose]] | [[My Vision]] | [[My Happiness]] | [[My Health]] | My Personality
+	01 - [[My Values]] | [[My Perspectives]]| [[My Happiness]] | [[My Health]] 
 **Action**
 	02 - [[Tools]] | [[My Workflows]] | [[My Finances]] | [[My Goals]] | [[My Systems]] |  [[My Routines]]
 	03 - [[My Experiences]] |  [[Life Reflections]]

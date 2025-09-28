@@ -1,9 +1,12 @@
 ---
-created: 2025-08-24 17:42
+created: 2025-09-28 09:47
 modified: 2025-08-01T18:24:06-04:00
 ---
-up:: [[Life Map]]
-tags:: [[happiness]]
+up:: [[My Journal]]
+type:: #note/personal 
+tags::
+
+
 **list of things that make you happy**
 - coding in a flow state, i like designing and building satisfying software interfaces
 - autonomy over my time

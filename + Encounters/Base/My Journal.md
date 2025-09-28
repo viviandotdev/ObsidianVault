@@ -10,6 +10,10 @@ modified: 2025-08-01T18:24:06-04:00
 [[What is your purpose?]]
 [[What is your vision?]]
 
+**Happiness**
+[[What makes you happy?]]
+[[what makes me unhappy?]]
+
 **Relationships**
 [[do you care more to be loved or loved?]]
 [[why have you never been in a relationship?]]
