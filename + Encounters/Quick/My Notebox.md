@@ -7,8 +7,8 @@ tags:: #map/view
 # The Notebox 🗃
 -**process your sources**
 - add links to the source
+- like a source  (if it is a article you like) 
 - create ideas from the source
-- like a source 
 - create action notes from the source
 
 

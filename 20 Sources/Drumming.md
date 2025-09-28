@@ -7,7 +7,7 @@ raindrop_highlights:
 
 ---
 
-tags::
+tags:: #❤️
 source:: https://craigmod.com/essays/drumming/
 type:: #source/article
 

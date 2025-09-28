@@ -1,23 +1,6 @@
----
-raindrop_id: 776217488
-raindrop_highlights:
-  6681ff906df2428aae568938: bbdc7b63a364c0653123331ddef02f6e
-  6681ffa2cbe039f5c04bd41f: c9e3d828974500e68042e048c9d82a97
-  6681ffb2f378b723e3e02964: 956db538276b696f32de5ae3281fe2d2
-  6681ffcb38bc8678bffae658: 604176618794ee84330585194d5c4aa7
-  6681ffd0d2783baaba065fbb: 520b1f7549940022d22805e2b0899bae
-  6681ffe49842b0d7fa79b7c8: 46f2ef80cff24be1d6d97713cf7994b3
-  6681ffeeedd5d27f6905ea89: 1b2338797fa8a7f4693db093c6131318
-  6681fffb142133f74224a4f7: adb3ca5c69ce3790338a253214d6ace2
-  668200068a48b77d1919458c: 01fec34fa1a0b2d12bff16d1ea1d46ba
-
----
-
-tags::
+tags:: #❤️ 
 source:: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
 type:: #source/article
-
-### Follow [[curosity]]
 
 Suddenly, [[ambition]] becomes the driver, or money, or doing something that sounds cool. And then things start to go downhill.
 
