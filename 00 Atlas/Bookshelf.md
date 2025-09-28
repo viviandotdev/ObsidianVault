@@ -21,9 +21,6 @@ WHERE !contains(file.path, "Templates")
 GROUP BY status
 SORT status
 ```
-
-## List of all books 
-
 ```dataview
 TABLE WITHOUT ID
 	status as Status,
