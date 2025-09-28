@@ -1,13 +1,3 @@
----
-raindrop_id: 812006922
-raindrop_highlights:
-  6687cc011c091ea8d6c6e750: 551be19d5d948d6fef939874fc0093f8
-  6687cccbed6e1c52e2e84c3f: 63a1c5e38fd3d556596c02e66ba0c190
-  6687ccdb11cd072435a55f4e: 8f90058596db28f897cd3d88c41e57a1
-  6688032025867f21f0081e96: 9495864dbde869a8b5b71f9a0940accd
-  68d85a42f9a75cbba1513813: 5af845ae75121fc3bb5c5dd2a99d8c21
----
-
 tags::
 source:: https://moretothat.com/the-staircase-of-the-self/
 type:: #source/article
