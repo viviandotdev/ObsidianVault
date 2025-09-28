@@ -30,4 +30,9 @@ This is different from the view that you are born with a purpose?
 > There is only one success – to be able to spend your life in your own way.”
 
 Success is being able to spend your life in the way you want.
-Your life is just a string of consecutive days. Therefore if I can figure out how to make one day good and sustainable then I can make everyday good and therefore make my whole life good
+Your life is just a string of consecutive days. We live 24 hours at a time. So all I have to do it design a day that I really enjoy.
+I like to get up and do the work
+I don't like taking vacations and I don't like going to fancy events. 
+I like to to work, I like to write, I like to read, I like to climb, I like to draw and I like to code
+I just try to make a great day.
+I
