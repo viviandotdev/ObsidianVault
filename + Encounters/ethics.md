@@ -1,5 +1,4 @@
 
-
 **Books**
 Spinoza. The Ethics.
 Seneca. Letters From a Stoic.
