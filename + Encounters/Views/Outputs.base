@@ -1,6 +1,0 @@
-views:
-  - type: table
-    name: Outputs
-    filters:
-      and:
-        - file.hasTag("output")
