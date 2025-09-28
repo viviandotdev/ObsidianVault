@@ -6,11 +6,18 @@ modified: 2025-08-01T18:24:06-04:00
 **Personality**
 [[Which attachment style are you?]]
 [[Why am I introverted?]]
+[[What are your interests?]]
+[[What is your purpose?]]
+[[What is your vision?]]
 
-
-[[what]]
-
+**Relationships**
+[[do you care more to be loved or loved?]]
 [[why have you never been in a relationship?]]
+
+
+**Mind**
+
+
 ### Notes
 ```dataview
 LIST
