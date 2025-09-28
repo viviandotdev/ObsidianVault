@@ -2,7 +2,7 @@
 created: 2025-08-24 14:43
 modified: 2025-08-01T21:35:00-04:00
 ---
-[[what is a perfect friend?]]
+[[Perfect friend]]
 
 **quotes**
 [[A friend is a single soul dwelling in two bodies.]]
