@@ -9,7 +9,7 @@ tags::
 source:: https://www.drorpoleg.com/you-dont-need-ai/?ref=old-new-by-dror-poleg-newsletter
 type:: #source/artcicle 
 
-### You Don&#39;t Need AI
+### You Don't Need AI
 
 
 

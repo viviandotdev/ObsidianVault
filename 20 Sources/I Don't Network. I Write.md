@@ -1,4 +1,4 @@
-tags::
+tags:: [[writing]]
 source:: https://www.joanwestenberg.com/p/i-don-t-network-i-write
 type:: #source/article
 
