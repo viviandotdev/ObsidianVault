@@ -30,7 +30,7 @@ up::  [[Tools]]
 
 ### Resources
 [Obsidin keybindings](https://www.youtube.com/watch?v=Wf6N1rT42wI&t=592s)
-
+[🗂️ 00 - Contribute to the Obsidian Hub - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/00+-+Contribute+to+the+Obsidian+Hub/%F0%9F%97%82%EF%B8%8F+00+-+Contribute+to+the+Obsidian+Hub)
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview

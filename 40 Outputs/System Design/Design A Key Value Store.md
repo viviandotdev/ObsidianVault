@@ -4,7 +4,6 @@ modified: Friday 25th August 2023 19:26:36
 
 ---
 up::  [[system-design]]
-type:: #output
 tags::
 
 ## Design Key Value Store
