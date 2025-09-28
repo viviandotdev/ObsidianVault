@@ -1,7 +1,6 @@
 ---
 modified: 2025-06-24T07:46:32-04:00
 ---
-up:: [[+ Home]]
 type:: #map/view 
 
 Here are "best practices" for managing your PKM system. 

@@ -2,7 +2,7 @@
 created: 2025-09-27 08:23
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
+up:: [[Life Map]]
 status:: #🟥 
 tags::
 

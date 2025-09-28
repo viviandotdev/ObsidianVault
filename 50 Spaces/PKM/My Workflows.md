@@ -18,16 +18,16 @@ modified: 2025-08-01T17:57:34-04:00
 [[My monthly review workflow]]
 [[My quarterly review workflow]]
 
-[[My goal setting workflow]]
-[[My obsidian workflow]]
+[[How I set goals]]
+[[How I use obsidian]]
 
 **Inputs workflow**
-[[My reading workflow|My reading workflow]]
+[[How i read|How i read]]
 [[How to take book notes]]
 
 **Outputs workflow**
 [[My writing workflow]]
-[[My brainstorming workflow]]
+[[How I brainstorm]]
 [[My unique perspective template]]
 [[How to Write Atomic Notes]]
 [[How to Write an Atomic Essay]]

@@ -2,7 +2,7 @@
 created: 2025-09-27 08:20
 modified: 2025-08-01T18:24:06-04:00
 ---
-up:: [[My Self]]
+up:: [[Life Map]]
 status:: #🟥 
 
 *Your vision is created to pull the energy from a future potential reality. Some think of this as motivation, but vision is different. Vision is intrinsic. Vision sets the stage for complete and total alignment of your daily actions and choices.*

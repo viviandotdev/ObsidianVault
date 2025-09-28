@@ -2,14 +2,14 @@
 created: 2023-07-12 09:49
 modified: 2025-06-23T06:55:28-04:00
 ---
-up::  [[My PKM]]
+up::  [[PKM]]
 
 ### Folder Strucutre
 
 + + **Encounters**: inbox for new notes
 - **00 Atlas:**
     - Mailbox: [[+ Inbox]] [[Notebox]] [[Outbox]]
-    - [[My PKM]] (meta notes for managing my PKM system)
+    - [[PKM]] (meta notes for managing my PKM system)
 - **10 Extras**: stores notes to *support* your other notes.
 	- Excalidraw
 	- Images
