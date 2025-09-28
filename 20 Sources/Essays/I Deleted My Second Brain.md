@@ -1,7 +1,7 @@
 ---
 modified: 2025-07-20T20:01:08-04:00
 ---
-tags::
+tags:: [[writing]]
 source:: https://www.joanwestenberg.com/p/i-deleted-my-second-brain
 type:: #source/article
 
@@ -11,6 +11,7 @@ When your vault has too many notes it can become a burden to maintain, it feels 
 Maintaining a vault feels like I spend more time organizing instead of thinking.
 Don't capture everything, only capture things that you will use and ideas that  resonate with you.
 Delete notes often and keep your vault clean, remove outdated ideas, do not feel tied to your ideas, important ideas will always come back to you and will you find it again..
+
 Life is like a spiral if you miss an opportunity it will always back to you eventually
 #### Highlights
 
