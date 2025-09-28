@@ -3,8 +3,9 @@ created: 2024-05-24 10:24
 modified: 2025-06-15T18:48:42-04:00
 
 ---
-status #🟨
--
+status #🟨 
+
+**clean up an remove this note, put these source in the corect topics**
 
 ### Interactive Blogs with Cool Animations (Vercel)
 

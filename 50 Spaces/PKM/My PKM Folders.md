@@ -8,7 +8,7 @@ up::  [[PKM]]
 
 + + **Encounters**: inbox for new notes
 - **00 Atlas:**
-    - Mailbox: [[+ Inbox]] [[Notebox]] [[Outbox]]
+    - Mailbox: [[+ Inbox]] [[My Notebox]] [[Outbox]]
     - [[PKM]] (meta notes for managing my PKM system)
 - **10 Extras**: stores notes to *support* your other notes.
 	- Excalidraw

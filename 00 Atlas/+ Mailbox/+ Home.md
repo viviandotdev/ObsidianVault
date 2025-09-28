@@ -6,7 +6,7 @@ type:: #map/view
 Your launchpad and home base.
 #### Mailbox
 <!--Inbox of notes-->
-- [[+ Inbox]] | [[Notebox]] | [[Outbox]]
+- [[+ Inbox]] | [[My Notebox]] | [[Outbox]]
 ### Topics of Interest
  <!--what would you want to learn more about? What topics are you curious about?-->
 - [[ai]]
