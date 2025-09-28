@@ -197,7 +197,6 @@ We learn by building making connections with what we already know
     - How to read more books
 6. How to be more productive
 - [A Directory of Advice that Works](https://betterhumans.pub/a-directory-of-advice-that-works-e7a177844a46)
-- [Personal Development on Medium](https://medium.com/tag/personal-development)
 - [Ness Labs](https://nesslabs.com/)
 - [Barking Up the Wrong Tree](https://bakadesuyo.com/)
 - [Reysu on YouTube](https://www.youtube.com/@reysu)
@@ -208,10 +207,8 @@ We learn by building making connections with what we already know
     3. How to build systems
         1. how to design a protocol or system for something you learn
     4. How I quit by social media addiction
-    5. How to achieve flow?
-        1. what is flow
-	    - [Rian Doris on YouTube](https://www.youtube.com/@riandoris)
-1. How to optimize your health?
+ 
+6. How to optimize your health?
 - [Huberman Lab](https://www.hubermanlab.com/)
     1. How to fast and the benefits of fasting?
     2. Are you too fat or just too weak?
