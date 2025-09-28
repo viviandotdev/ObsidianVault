@@ -9,7 +9,7 @@ Values are the principles and beliefs that guide our actions, decisions, and ove
 
 [[money]]
 
-Money is a byproduct of ambition, not the primary desire.
+Money should be a byproduct of ambition, not the primary desire.
 
 [[relationships]]
 - [[I only believe in peer relationships.]]

@@ -2,7 +2,6 @@
 created: 2024-04-15 20:32
 modified: 2025-06-23T06:41:41-04:00
 ---
-up:: [[My PKM Workflows]]
 up::  [[writing]]
 
 **Content Production System**

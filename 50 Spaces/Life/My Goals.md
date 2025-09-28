@@ -4,7 +4,6 @@ modified: 2025-07-12T07:45:01-04:00
 up:: [[Life Map]]
 [My Impossible List | College Info Geek](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)
 ### Active Items
-[[2025-Q3-Goals]]
 
 ### Life Goals
 - [x] Graduate form college
@@ -17,7 +16,7 @@ up:: [[Life Map]]
 
 Financial Goals
 - [ ] Net worth of 1 million
-	- [x] Around 500,000- (End of 2025)
+	- [ ] Around 500,000- (End of 2025)
 
 
 ### Professional Goals

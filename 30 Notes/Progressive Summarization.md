@@ -2,7 +2,7 @@
 created: 2025-09-21 14:26
 modified: 2025-08-01T18:24:06-04:00
 ---
-up:: [[How i read]]
+up:: [[How I read]]
 type:: #note/protocol 
 tags::
 **Layer 1** is the starting point of Progressive Summarization, like the bedrock on which everything else is built:

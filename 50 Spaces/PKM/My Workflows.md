@@ -22,13 +22,13 @@ modified: 2025-08-01T17:57:34-04:00
 [[How I use obsidian]]
 
 **Inputs workflow**
-[[How i read|How i read]]
+[[How I read|How I read]]
 [[How to take book notes]]
 
 **Outputs workflow**
-[[My writing workflow]]
+[[How I write]]
 [[How I brainstorm]]
-[[My unique perspective template]]
+[[How I create unique perspectives]]
 [[How to Write Atomic Notes]]
 [[How to Write an Atomic Essay]]
 
