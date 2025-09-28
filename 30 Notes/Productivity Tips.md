@@ -23,11 +23,12 @@ tags:: [[productivity]]
 	- for example I used not set a limit so then i would waste so much time at the gym because i said i could only leave if i finish this plan, however if i say you only have 50 minutes to complete this exercise, then i will try to do them faster to complete it or run faster to get in my miles.
 - [[Protocol to Fight Distractions]]
 - Do not use to-do lists, look at your calendar and block of time for an activity and then within that activity work on specific goal?  (Cal NewPort)
+- Stio 
 - **The Recipe Method**
 	- Write down exactly what you need to do down to the detailed steps, so you can turn your brain off and just execute.
 	- Before a focus session write the recipe of exactly what you are going
 #### Resources
 
 [[The Cult of Done]]
-[4 simple software engineering habits that transformed my productivity](https://read.engineerscodex.com/p/simple-software-engineering-habits)
+[[4 simple software engineering habits that transformed my productivity]]
 [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
