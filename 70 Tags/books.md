@@ -17,3 +17,7 @@ tags::
 [book notes | Derek Sivers](https://sive.rs/book)
 
 [Nat Eliason](https://www.nateliason.com/notes)
+
+
+
+[My Personal Library | Luke Smith](https://lukesmith.xyz/library/)
