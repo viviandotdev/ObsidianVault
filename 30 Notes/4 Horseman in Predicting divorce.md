@@ -14,7 +14,7 @@ negative [[communication]] patterns
 	Complaining is healthy in a marriage but  criticism is not.
 	Criticism is attacking someone’s personality whereas complaining is just saying what happened.
 	Complaints often begin with “i” and criticisms begin with “you”
-	[[constant criticism in a relationship can prevent growth]]
+	[[Constant criticism in a relationship can prevent growth]]
 **Stonewalling**
 	Shutting down and tuning out your response to issues that your partner brings up. Stonewalling means “your concerns are not important enough for me to deal with”. You’re avoiding the conflict.
 **Defensiveness**:
