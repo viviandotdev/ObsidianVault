@@ -1,5 +1,5 @@
 tags:: #❤️ 
-source:: https://jakobgreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
+source:: https://jakobagreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
 type:: #source/article
 
 Suddenly, [[ambition]] becomes the driver, or money, or doing something that sounds cool. And then things start to go downhill.
@@ -12,11 +12,13 @@ Suddenly, [[ambition]] becomes the driver, or money, or doing something that sou
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
-> Once he recognized this and went back to just following his curiosity, the slump instantly disappeared and he started producing great work again.
+> Once he recognized this and went back to just following his [[curiosity]], the slump instantly disappeared and he started producing great work again.
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
 > If you don’t know which path to choose, just choose the one that’s most exciting. Just keep following that, and that will lead you to the right place. Excitement is the engine and the rudder, I think, is a really powerful idea.
+
+[[Paul Graham]] says this too in his essay on [[How to Do Great Work]]
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
@@ -24,9 +26,13 @@ Suddenly, [[ambition]] becomes the driver, or money, or doing something that sou
 &gt;
 &gt;Instead, what does work is a bottom up approach where you just follow your curiosity and only later connect the dots.
 
+
+
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
 > You can’t connect the dots looking forward, you can only connect them looking backwards.
+
+I think Steve Jobs said something like this
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >

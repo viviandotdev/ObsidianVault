@@ -53,6 +53,7 @@ up:: [[Life Map]]
 - [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative ]]
 - [[Life gets harder when you try to make it easy]]
 - [[You can do things tired or when you don’t want to]]
+- [[Focus on making each day great, as a great life is a string of great days.]]
 
 [[confidence]]
 - [[Past progress is proof of future potential]]

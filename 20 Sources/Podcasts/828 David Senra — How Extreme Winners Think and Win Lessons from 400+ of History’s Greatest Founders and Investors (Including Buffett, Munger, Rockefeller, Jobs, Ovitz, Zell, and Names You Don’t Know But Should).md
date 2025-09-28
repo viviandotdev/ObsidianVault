@@ -1,4 +1,4 @@
-tags::
+tags:: [[life]]
 source:: https://share.snipd.com/episode/4b0ea710-d0b6-42c8-b84f-69cfbf59c3bf
 type:: #source/podcast
 
@@ -14,4 +14,4 @@ type:: #source/podcast
 	- I like to to work, I like to write, I like to read, I like to climb, I like to draw and I like to code
 	- I just try to make a great day.
 
-- **Focus on making each day great, as a great life is a string of great days.**
+- **[[Focus on making each day great, as a great life is a string of great days.]]**
