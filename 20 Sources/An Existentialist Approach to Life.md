@@ -35,4 +35,3 @@ I like to get up and do the work
 I don't like taking vacations and I don't like going to fancy events. 
 I like to to work, I like to write, I like to read, I like to climb, I like to draw and I like to code
 I just try to make a great day.
-I
