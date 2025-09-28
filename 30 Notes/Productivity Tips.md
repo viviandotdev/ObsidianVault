@@ -11,7 +11,7 @@ tags:: [[productivity]]
 - **Mix in light and deep work into your day**
 	- **Switch tasks**, whenever I feel my attention starting to fade.
 - **Make your own deadlines**
-- **Make a lot of lists**
+- **Make a lot of lists** [^1]
 	- I try to prioritize in a way that generates momentum.  The more I get done, the better I feel, and then the more I get done.  I like to **start and end each day with something I can really make progress on.**
 	- When overwhelmed by a task make list.
 	- list yearly, monthly, weekly and daily goals
@@ -23,12 +23,15 @@ tags:: [[productivity]]
 	- for example I used not set a limit so then i would waste so much time at the gym because i said i could only leave if i finish this plan, however if i say you only have 50 minutes to complete this exercise, then i will try to do them faster to complete it or run faster to get in my miles.
 - [[Protocol to Fight Distractions]]
 - Do not use to-do lists, look at your calendar and block of time for an activity and then within that activity work on specific goal?  (Cal NewPort)
-- Stio 
+- **Stop right before a sticking point** - a task that's part of a project where I know the exact steps to complete it
+	- Write down the **next steps** - clearly
+	- Write down the steps to regain **context** and the state of mind from before easier to get into project agian [^2]
 - **The Recipe Method**
 	- Write down exactly what you need to do down to the detailed steps, so you can turn your brain off and just execute.
 	- Before a focus session write the recipe of exactly what you are going
 #### Resources
 
 [[The Cult of Done]]
-[[4 simple software engineering habits that transformed my productivity]]
-[Productivity - Sam Altman](https://blog.samaltman.com/productivity)
+
+[^1]: [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
+[^2]: [[4 simple software engineering habits that transformed my productivity]]

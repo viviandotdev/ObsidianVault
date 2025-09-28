@@ -13,6 +13,7 @@ A breakdown of 4 simple software engineering and coding [[habits]] that improved
 Write down the **next steps** - clearly
 Write down the steps to regain **context** and the state of mind from before easier to get into project agian
 
-**On your projects notes page add these sections** - you cannot stop your finish the work for the day until you ha
+**Action**
+**On your projects notes page add these sections** - you cannot stop your finish the work for the day until you have filled out these sections
 **Next Steps**
 **Context**
