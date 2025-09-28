@@ -8,9 +8,10 @@ raindrop_highlights:
 source:: https://postanly.substack.com/p/an-existentialist-approach-to-life?utm_source=post-email-title&amp;publication_id=11353&amp;post_id=146462378&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=f9r78&amp;triedRedirect=true&amp;utm_medium=email
 type:: #source/article
 
-On Getting the Life You Want
 
-[[Existentialism]] - individuals create their own meaning and purpose in life without pre-determined. meaning
+[[Existentialism]] - individuals create their own meaning and purpose in life without pre-determined meaning.
+Your decisions create your life.
+
 This is different from the view that you are born with a purpose?
 
 
@@ -27,3 +28,6 @@ This is different from the view that you are born with a purpose?
 > [!quote]+ Updated on Tue Jul 16 2024 10:33:05 GMT-0400
 >
 > There is only one success – to be able to spend your life in your own way.”
+
+Success is being able to spend your life in the way you want.
+Your life is just a string of consecutive days. Therefore if I can figure out how to make one day good and sustainable then I can make everyday good and therefore make my whole life good
