@@ -2,8 +2,7 @@
 created: 2025-09-09 08:04
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
-type:: #note/protocol
+type:: #note/action
 tags:: [[procrastination]]
 ## Protocol to Overcome Procrastination - Action-Oriented Prioritization
 

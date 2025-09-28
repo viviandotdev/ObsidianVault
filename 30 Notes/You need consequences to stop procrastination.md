@@ -2,7 +2,8 @@
 created: 2025-07-06 13:51
 modified: 2025-07-06T13:52:15-04:00
 ---
-up::
+type:: #note/action
+
 tags::  [[procrastination]]
 I think you are way to comfortable and need to get out of this cycle, I think the main way is to get a new job, my goal is to be confident in my ability to find a job
 **Set millionaire deadlines, saying you will lose a certain amount of money if you miss the deadline** 

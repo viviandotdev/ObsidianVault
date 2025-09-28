@@ -2,8 +2,8 @@
 modified: 2025-06-29T12:12:18-04:00
 status: 
 ---
-type: #note/list 
-tags:: [[3d-printing]]
+type: #map/area
+
 **3D Modeling Courses before buying a printer**
 
 1. Complete the 30 days with fusion
