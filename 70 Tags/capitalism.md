@@ -16,8 +16,6 @@ up:: [[economics]]
 how does [[communism]] work?
 
 
-**capitalism and consumerism**
-[[Consumerism is the Perfection of Slavery - Prof Jiang Xueqin - YouTube]]
 
 **how did wealth inequality happen**
 [How the US Is Destroying Young People’s Future | Scott Galloway | TED - YouTube](https://www.youtube.com/watch?v=qEJ4hkpQW8E)
@@ -25,8 +23,6 @@ how does [[communism]] work?
 **what are stock buybacks and how did they make CEOs rich?**
 [How American CEOs got so rich - YouTube](https://www.youtube.com/watch?v=ylLTMYt24lA)
 
-**why does capitalism work?**
-[Capitalism Onchained - Not Boring by Packy McCormick](https://www.notboring.co/p/capitalism-onchained?publication_id=10025&post_id=136958177&isFreemail=true&r=f9r78)
 
 ### Notes
 ```dataview

@@ -1,10 +1,3 @@
----
-raindrop_id: 1360194720
-raindrop_highlights:
-  68d7f6482d7a7438833fda6e: 004ef51bd9f0c174533e0ce310358b36
-
----
-
 tags::
 source:: https://www.joanwestenberg.com/p/i-don-t-network-i-write
 type:: #source/article

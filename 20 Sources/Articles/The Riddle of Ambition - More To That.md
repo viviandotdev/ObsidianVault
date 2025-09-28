@@ -1,15 +1,3 @@
----
-raindrop_id: 776222435
-raindrop_highlights:
-  662fb583acf215fe8d3686a7: e99588c91abae245a96e12dc83fcede3
-  662fb591fbb59f626ab4021b: 33c1c50df2c4efe804b9f3e236400518
-  68d857615aebcc0fd375cd4c: 8833b907e44b90dcfe23f161fef2ae2e
-  68d857a35aebcc0fd375d480: 6b60244fb06aa82fe3c7fe0bc0d98ea7
-  68d857f9d86ac1b62e124425: 3bf66ab3cf1b5f1239dc28b532ec3bf1
-  68d8582df8759c2531b2cb6d: 5308fa5e0c29175542c0ebaf07bd7b5f
-
----
-
 tags::
 source:: https://moretothat.com/the-riddle-of-ambition/
 type:: #source/article
