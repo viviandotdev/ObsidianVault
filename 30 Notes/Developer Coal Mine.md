@@ -17,7 +17,6 @@ Inventory of potential websites, social media feeds, youtube channels and any ot
 [Joshua Wootonn's blog](https://www.joshuawootonn.com/blog)
 
 **React / Next.js**
-[ByteGrad - YouTube](https://www.youtube.com/@ByteGrad/videos) (good blog post ideas)
 tao of react content
 joy of react course
 [Codrops | Keeping web professionals inspired & up-to-date since 2009](https://tympanus.net/codrops/)
