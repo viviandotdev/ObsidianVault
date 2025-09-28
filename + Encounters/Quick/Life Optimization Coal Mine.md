@@ -56,16 +56,6 @@ status #🟨
 
 
 
-[https://supermemo.guru/wiki/SuperMemo_Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
-
-**Courses**
-
-Learning how to Learn by Barbara Oakley
-
-[https://medium.com/@samia.khalid/system-to-learn-anything-smarter-and-faster-c4289a454997](https://medium.com/@samia.khalid/system-to-learn-anything-smarter-and-faster-c4289a454997)
-
-[https://charlestonlaw.libguides.com/c.php?g=1195577&p=8743770](https://charlestonlaw.libguides.com/c.php?g=1195577&p=8743770)
-
 1 atomic essay a day for 30 days
 
 **Channels**
@@ -73,7 +63,6 @@ Learning how to Learn by Barbara Oakley
 [https://www.youtube.com/@benjaminkeep/videos](https://www.youtube.com/@benjaminkeep/videos)
 
 
-[https://www.youtube.com/watch?v=Lt54CX9DmS4](https://www.youtube.com/watch?v=Lt54CX9DmS4)
 
 **System for Writing**
 
@@ -106,19 +95,6 @@ Then fill in the headings
 
 Come up with 30 ideas,
 
-**Techniques**
-
-Spaced Repetition
-
-Active Recall (Active Recall Protocol)
-
-Deliberate Practice
-
-Interleaved practice
-
-Chunking
-
-Connections
 
 We learn by building making connections with what we already know
 
