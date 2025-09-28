@@ -1,7 +1,6 @@
 
-[Left vs. Right (US) — Information is Beautiful](https://informationisbeautiful.net/visualizations/left-vs-right-us/)
-
-[Liberals and Conservatives raise kids differently](https://www.fastcompany.com/1664565/infographic-of-the-day-liberals-and-conservatives-raise-kids-differently)
+type:: #note/ist
+tags:: [[politics]]
 
 
 | Topic                    | Liberal                                                                                 | Conservative                                                                      |
@@ -26,3 +25,8 @@
 
 
 **Personal Experience**
+
+
+**Resources**
+[Left vs. Right (US) — Information is Beautiful](https://informationisbeautiful.net/visualizations/left-vs-right-us/)
+[Liberals and Conservatives raise kids differently](https://www.fastcompany.com/1664565/infographic-of-the-day-liberals-and-conservatives-raise-kids-differently)

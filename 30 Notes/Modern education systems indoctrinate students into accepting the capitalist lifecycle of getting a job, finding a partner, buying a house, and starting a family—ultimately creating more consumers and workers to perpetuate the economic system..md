@@ -2,9 +2,8 @@
 created: 2025-09-21 15:34
 modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #output/mini-essay 
-tags:: [[relationships]]
-
+type:: #note/atomic 
+tags:: [[capitalism]] 
 
 - We go to school to get **indoctrinated** on how to contribute and participate as a consumer in this capitalism economy.  [^1]
 - In school we are taught to learn that we need to go to work and to go to work we need to **find a job to support your family**

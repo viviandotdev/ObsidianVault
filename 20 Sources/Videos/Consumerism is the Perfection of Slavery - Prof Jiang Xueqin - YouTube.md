@@ -22,12 +22,13 @@ In the 80’s  the Reagan revolution, created free market capitalism, started by
 **Consumerism is what fuels [[capitalism]]** 
 Consumerism economic logic
 - [[consumerism]] create competition for prestige
-	- we are taught go to school -> get job -> make money -> to buy things -> then post on social media to show everyone the things you bought 
+	- - we are taught go to school -> get job -> make money -> to buy things -> then post on social media to show everyone the things you bought 
 	- Everyone goes into debt and we start to hate each other
 - create individualism and optimization of you
 - see the world through the lens of capital, when you see some one you don't of if you like them you think how much money they make
 
 Today **CEOs** make on average 200 million dollars with is about **200x the salary of an average worker**
+
 
 **Perfection of slavery**
 As a consumer you don't know you are being a slave, you like this so you don't rebel
