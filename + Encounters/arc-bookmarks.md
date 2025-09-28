@@ -2,32 +2,6 @@
 
 ## ui-animations
 
-### labs
-
-  * [Aceternity UI](https://ui.aceternity.com/)
-  * [uilabs](https://www.uilabs.dev/)
-  * [Resizable Panel](https://buildui.com/recipes/resizable-panel)
-  * [Alert Dialog - shadcn/ui](https://ui.shadcn.com/docs/components/alert-dialog)
-  * [Dropdown Menu](https://ui.lukacho.com/components/dropdown-menu)
-  * [Toolbar Expandable - Motion-Primitives](https://motion-primitives.com/docs/toolbar-expandable)
-  * [Motion-Primitives](https://motion-primitives.com/)
-  * [Getting started | Prism UI](https://docs.prism-ui.com/)
-  * [Magic UI](https://magicui.design/)
-  * [Subscriptions Calendar | lndev/ui](https://ui.lndev.me/components/subscriptions-calendar#code-v4)
-  * [Jakub Krehel](https://www.kbo.sk/)
-  * [LN (@ln\_dev7) / X](https://x.com/intent/follow?screen_name=ln_dev7)
-  * [Mirror Text - animata](https://animata.design/docs/text/mirror-text)
-  * [figma.com/design/l0rta8zPHchNT0IzVVAmTm/ui-animations?node-id=0-1\&p=f\&t=hmlh0wNkL2eMl3jm-0](https://www.figma.com/design/l0rta8zPHchNT0IzVVAmTm/ui-animations?node-id=0-1&p=f&t=hmlh0wNkL2eMl3jm-0)
-  * [github repo](https://github.com/VivianLin61/ui-animations)
-  * [hashicorp/next-mdx-remote: Load MDX content from anywhere](https://github.com/hashicorp/next-mdx-remote#react-server-components-rsc--nextjs-app-directory-support)
-
-### sources
-
-  * [Interactions by Nitish Khagwal](https://khagwal.com/interactions/)
-  * [Animating Radix Primitives with Framer Motion · OlegWock](https://sinja.io/blog/animating-radix-primitives-with-framer-motion)
-  * [Animated Switch - Advanced Radix UI](https://buildui.com/courses/advanced-radix-ui/animated-switch)
-  * [Inside Framer's Magic Motion](https://www.nan.fyi/magic-motion)
-  * [21st.dev – Discover, share, and craft UI components](https://21st.dev/?tab=authors)
 
 ### tutorials
 
