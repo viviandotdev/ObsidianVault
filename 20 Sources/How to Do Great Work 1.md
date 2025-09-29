@@ -2,12 +2,11 @@ tags::
 source:: https://paulgraham.com/greatwork.html
 type:: #source/article
 
-If you're not sure what to work on, guess. But pick something and get going. You'll probably guess wrong some of the time, but that's fine. It's good to know about multiple things; some of the biggest discoveries come from noticing connections between different fields.
+**If you're not sure what to work on, guess**. But pick something and get going. You'll probably guess wrong some of the time, but that's fine. It's good to know about multiple things; some of the biggest discoveries come from noticing connections between different fields.
 
-Don't let "work" mean something other people tell you to do. If you do manage to do great work one day, it will probably be on a project of your own. It may be within some bigger project, but you'll be driving your part of it.
+Don't let "work" mean something other people tell you to do. If you do manage to do great work one day, it will probably be on a project of your own. It may be within some bigger project, but **you'll be driving your part of it.**
 
-Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones. This is how practically everyone who's done great work has done it, from painters to physicists.
-
+**Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones.** This is how practically everyone who's done great work has done it, from painters to physicists.
 
 
 When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions. \[[5](https://paulgraham.com/#f5n)\]
@@ -16,13 +15,13 @@ One sign that you're suited for some kind of work is when you like even the part
 
 In most cases the recipe for doing great work is simply: work hard on excitingly ambitious projects, and something good will come of it. Instead of making a plan and then executing it, you just try to preserve certain invariants
 
-ots of great things began with someone saying "How hard could it be?"
+Lots of great things began with someone saying "How hard could it be?"
 
 Great work usually entails spending what would seem to most people an unreasonable amount of time on a problem.
 
 Great work happens by focusing consistently on something you're genuinely interested in. When you pause to take stock, you're surprised how far you've come.
 
-Writing a page a day doesn't sound like much, but if you do it every day you'll write a book a year. That's the key: consistency. People who do great things don't get a lot done every day. They get something done, rather than nothing.
+**Writing a page a day doesn't sound like much, but if you do it every day you'll write a book a year.** That's the key: consistency. People who do great things don't get a lot done every day. They get something done, rather than nothing.
 
 
 
