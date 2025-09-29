@@ -18,7 +18,8 @@ Suddenly, [[ambition]] becomes the driver, or money, or doing something that sou
 >
 > If you don’t know which path to choose, just choose the one that’s most exciting. Just keep following that, and that will lead you to the right place. Excitement is the engine and the rudder, I think, is a really powerful idea.
 
-[[Paul Graham]] says this too in his essay on [[How to Do Great Work]]
+[[Paul Graham]] mentions this as well his essay on [[How to Do Great Work]]
+[[Curiosity is one of the best motivators.]]
 
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
@@ -42,6 +43,15 @@ I think Steve Jobs said something like this
 >
 > How hard to is to write an article because you saw that it’s a great SEO opportunity versus writing something because you just want to figure something our for yourself.
 
+The motive should always be doing something for yourself. You should never worry about the money, status or prestige from creating it.
+Create because you can and because you want to.
+Create it because you want learn. It does not matter if it sucks, or nobody uses it.
+There is no pressure, to make it good.
+Just finish, it does not have to be perfect, pretend no one is very going to look at the code but yourself.
+The goal is to just get it working and you can polish it and clean it up after wards
+I like to over think on what is the best way to do something and it is just a form of procrastination that just prevents from moving forward
+
+
 > [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
 >
 > ‘You must earn money for me!’ is sort of like yelling at a cat; it has no idea what you’re talking about, and all you’re doing is scaring it away.”
@@ -49,4 +59,4 @@ I think Steve Jobs said something like this
 > [!quote]+ Updated on Sun Jun 30 2024 21:02:41 GMT-0400
 >
 > Marketing isn’t a chore but a completely natural part of your excitement radiating outward.
-> > if you truly believe in your product and believe it will improve the lives of other people it is your moral obligation to get good at marketing
+> > if you truly believe in your product and believe it will improve the lives of other people it is your moral obligation to get good at [[marketing]]
