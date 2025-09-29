@@ -23,11 +23,7 @@ Great work happens by focusing consistently on something you're genuinely intere
 
 **Writing a page a day doesn't sound like much, but if you do it every day you'll write a book a year.** That's the key: consistency. People who do great things don't get a lot done every day. They get something done, rather than nothing.
 
-
-
-
-
-Original ideas don't come from trying to have original ideas. They come from trying to build or understand something slightly too difficult.
+**Original ideas don't come from trying to have original ideas. They come from trying to build or understand something slightly too difficult.**
 
 Talking or writing about the things you're interested in is a good way to generate new ideas.
 
@@ -37,17 +33,17 @@ Don't divide your attention *evenly* between many topics though, or you'll sprea
 
 if you want to fix your model of the world, it helps to be the sort of person who's comfortable breaking rules.
 
-ndeed, if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy. How do you recognize these? You can't with certainty. Often ideas that seem bad are bad. But ideas that are the right kind of crazy tend to be exciting; they're rich in implications; whereas ideas that are merely bad tend to be depressing.
+if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy. How do you recognize these? You can't with certainty. Often ideas that seem bad are bad. But ideas that are the right kind of crazy tend to be exciting; they're rich in implications; whereas ideas that are merely bad tend to be depressing.
 
 Great work often takes something that already exists and shows its latent potential.
 
-It's particularly useful to make successive versions when you're making something for people — to get an initial version in front of them quickly, and then evolve it based on their response.
+**It's particularly useful to make successive versions when you're making something for people — to get an initial version in front of them quickly, and then evolve it based on their response.**
 
 An early version of a new project will sometimes be dismissed as a toy. It's a good sign when people do this.
 
-If you keep projects small and use flexible media, you don't have to plan as much, and your designs can evolve instead.
+**If you keep projects small and use flexible media, you don't have to plan as much, and your designs can evolve instead.**
 
-Even a project that fails can be valuable. In the process of working on it, you'll have crossed territory few others have seen, and encountered questions few others have asked. And there's probably no better source of questions than the ones you encounter in trying to do something slightly too hard.
+**Even a project that fails can be valuable. In the process of working on it,** you'll have crossed territory few others have seen, and encountered questions few others have asked. And there's probably no better source of questions than the ones you encounter in trying to do something slightly too hard.
 
 he advantages of youth are energy, time, optimism, and freedom. The advantages of age are knowledge, efficiency, money, and power. With effort you can acquire some of the latter when young and keep some of the former when old.
 
