@@ -1,4 +1,4 @@
-tags::
+tags:: #❤️ 
 source:: https://paulgraham.com/greatwork.html
 type:: #source/article
 
