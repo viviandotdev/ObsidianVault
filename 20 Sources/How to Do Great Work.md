@@ -1,4 +1,4 @@
-tags::  [[career]] [[life]] [[self-improvement]]
+tags:: [[self-improvement]] [[success]]
 source:: https://paulgraham.com/greatwork.html
 type:: #source/article #❤️
 
@@ -30,7 +30,6 @@ Talking or writing about the things you're interested in is a good way to genera
 Don't divide your attention *evenly* between many topics though, or you'll spread yourself too thin. You want to distribute it according to something more like a power law
 
 
-
 if you want to fix your model of the world, it helps to be the sort of person who's comfortable breaking rules.
 
 if you think about it, a good new idea has to seem bad to most people, or someone would have already explored it. So what you're looking for is ideas that seem crazy, but the right kind of crazy. How do you recognize these? You can't with certainty. Often ideas that seem bad are bad. But ideas that are the right kind of crazy tend to be exciting; they're rich in implications; whereas ideas that are merely bad tend to be depressing.
@@ -50,7 +49,6 @@ he advantages of youth are energy, time, optimism, and freedom. The advantages o
 The best way to turn this time to advantage is to use it in slightly frivolous ways: to learn about something you don't need to know about, just out of curiosity, or to try building something just because it would be cool, or to become freakishly good at something.
 
 Spend time lavishly when you're young, but don't simply waste it. There's a big difference between doing something you worry might be a waste of time and doing something you know for sure will be.
-
 
 
 So stop looking for that kind of shortcut.
