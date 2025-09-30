@@ -6,26 +6,19 @@ Suddenly, [[ambition]] becomes the driver, or money, or doing something that sou
 
 #### Highlights
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
 > In other words, ambition and doing something that sounds cool had become the driver for him.
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
 > Once he recognized this and went back to just following his [[curiosity]], the slump instantly disappeared and he started producing **great work** again.
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->********
+
 > If you don’t know which path to choose, just choose the one that’s most exciting. Just keep following that, and that will lead you to the right place. **Excitement is the engine and the rudder, I think, is a really powerful idea.**
 
 [[Paul Graham]] mentions this as well his essay on [[How to Do Great Work]]
 [[Curiosity is one of the best motivators.]]
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
+
 > A top-down approach, masterplanning, doesn’t work.
-&gt;
-&gt;**Instead, what does work is a bottom up approach where you just follow your curiosity and only later connect the dots.**
+**Instead, what does work is a bottom up approach where you just follow your curiosity and only later connect the dots.**
 
 
 

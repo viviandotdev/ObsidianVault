@@ -5,8 +5,6 @@ A breakdown of 4 simple software engineering and coding [[habits]] that improved
 
 #### Highlights
 
-> [!quote]+ Updated on Fri Jan 12 2024 07:13:51 GMT-0500
->
 > Stop right before a “sticking point.” A sticking point is a task that’s part of a project where I know the steps to do to complete it, but I don’t know if there are hidden costs. For example, if my sticking point is deploying my ML model and HTTP server to a dev instance and verifying that it processes requests properly, then the hidden costs are deployment errors, authentication errors, resource constraints, etc.Write down the next steps extremely clearly. Writing down steps makes regaining context and the state of mind from the day before easier.
 
 **Stop right before a sticking point** - a task that's part of a project where I know the exact steps to complete it
