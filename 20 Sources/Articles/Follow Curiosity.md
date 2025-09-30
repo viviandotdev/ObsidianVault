@@ -18,22 +18,18 @@ Suddenly, [[ambition]] becomes the driver, or money, or doing something that sou
 
 
 > A top-down approach, masterplanning, doesn’t work.
-**Instead, what does work is a bottom up approach where you just follow your curiosity and only later connect the dots.**
+ **Instead, what does work is a bottom up approach where you just follow your curiosity and only later connect the dots.**
 
 
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
 > You can’t connect the dots looking forward, you can only connect them looking backwards.
 
 I think Steve Jobs said something like this
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
+
 > If you work on some idea born out of a spreadsheet or **left-brain narrative, you will feel low energy and eventually get stuck.**
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
+
 > How hard to is to write an article because you saw that it’s a great SEO opportunity versus writing something because you just want to figure something our for yourself.
 
 **The motive should always be doing something for yourself. You should never worry about the money, status or prestige from creating it.**
@@ -46,11 +42,8 @@ The goal is to just get it working and you can polish it and clean it up after w
 I like to over think on what is the best way to do something and it is just a form of procrastination that just prevents from moving forward
 
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:01:58 GMT-0400
->
 > ‘You must earn money for me!’ is sort of like yelling at a cat; it has no idea what you’re talking about, and all you’re doing is scaring it away.”
 
-> [!quote]+ Updated on Sun Jun 30 2024 21:02:41 GMT-0400
->
+
 > Marketing isn’t a chore but a completely natural part of your excitement radiating outward.
-> > if you truly believe in your product and believe it will improve the lives of other people it is your moral obligation to get good at [[marketing]]
+> If you truly believe in your product and believe it will improve the lives of other people it is your moral obligation to get good at [[marketing]]
