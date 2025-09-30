@@ -1,9 +1,7 @@
-tags:: [[career]] [[work]] [[happiness]]
+tags:: [[career]] [[work]] [[happiness]] [[success]]
 source:: https://www.youtube.com/watch?v=sDwFNkb8wuA
 type:: #source/video
 
-# Why I've Avoided Pursuing a Career - YouTube 
-  
 ### Summary
 ***She never pursued a career and feels happier for it***
 She felt very behind her classmates as senior in college and did not know what to do with her life.

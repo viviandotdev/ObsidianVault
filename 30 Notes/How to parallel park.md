@@ -29,7 +29,7 @@ modified: 2025-06-15T18:42:18-04:00
 ![[IMG_2107.png]]
 ![[IMG_2109.png]]
 
-straighten the sttering whell and back up until the front of your car passes the rear bumber of the first car
+Straighten the steering wheel and back up until the front of your car passes the rear bumper of the first car
 
 ![[IMG_2112.png]]
 
