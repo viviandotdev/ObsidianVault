@@ -8,7 +8,7 @@ For me, the practice of writing and revising notes is, at its core, about trying
 **Prompt notes**
 **Evergreen notes**
 
-Prompts and incomplete notes in writing inbox, which are meant to possibly become Evergreen notes. These prompts may accumulate writing over time via spaced repetition.
+==Prompts and incomplete notes in writing inbox, which are meant to possibly become Evergreen notes. These prompts may accumulate writing over time via spaced repetition.==
 
 Evergreen notes, in increasingly complex stages of development:
 - stubs implicitly defined through backlinks

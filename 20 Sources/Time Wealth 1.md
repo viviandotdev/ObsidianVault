@@ -2,6 +2,12 @@ tags::
 source:: https://www.coryzue.com/writing/time-wealth/
 type:: #source/article
 
+
+Why having more free time can be better than becoming rich.
+
+Free time is more valuable than becoming rich because
+[[Freedom and flexility over one’s life is the best predictor of wellbeing]]
+
 I work mostly for time.
 
 I pay myself every time I go surfing in the middle of the work day, take a day off to climb a mountain, or spend a morning writing instead of coding.

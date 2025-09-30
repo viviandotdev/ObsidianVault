@@ -16,3 +16,5 @@ This approach is inherently **adaptive** and allows for creativity to emerge wit
 **Constraint-Oriented Approach:**
 - **Constraint:** Write every day, and never write what bores you.
 - This focuses on sustainable, creative actions within your control. Success becomes a byproduct of consistently following the rules you've set for yourself.
+
+

@@ -2,7 +2,7 @@ tags::
 source:: https://moretothat.com/travel-is-no-cure-for-the-mind/
 type:: #source/article
 
-**We tend to grossly overestimate the pleasure brought forth by new experiences and underestimate the power of finding meaning in current ones.**
+**We tend to grossly overestimate the pleasure brought forth by new experiences and ==underestimate the power of finding meaning in current ones.==**
 
 **Gratitude is what allows you to feel that same sense of wonderment about your day-to-day life as you would if you were walking the streets of a faraway city.**
 

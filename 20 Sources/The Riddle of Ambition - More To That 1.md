@@ -2,6 +2,9 @@ tags::
 source:: https://moretothat.com/the-riddle-of-ambition/
 type:: #source/article
 
+Focus on the challenge, and not its byproducts.
+
+
 **This is where we get ambition right. It's when we're driven from a point of self-awareness, understanding that we want to do the best we can with this mind and body we've been gifted.** While we can be appreciative of everything we have, it's important that we acknowledge how we could better direct our thoughts to solving the problems we care about most.
 
 **But where ambition goes wrong, however, is when we thirst for the byproducts of that ambition.** When the promotion becomes more important than the work, when the money is more desirable than the challenge, and so on. This is when you've commoditized your ambition, rather than using it as a gateway to knowing yourself.

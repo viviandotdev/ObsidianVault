@@ -2,6 +2,8 @@ tags::
 source:: https://paulgraham.com/do.html
 type:: #source/article
 
+==Follow your curiosity and **make good new things**==
+
 But is there anything else? When I ask that, the answer that pops up is **Make good new things.**
 
 **The most impressive thing humans can do is to think. It may be the most impressive thing that can be done. And the best kind of thinking, or more precisely the best proof that one has thought well, is to make good new things.**

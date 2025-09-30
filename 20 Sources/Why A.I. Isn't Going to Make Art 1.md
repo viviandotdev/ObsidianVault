@@ -2,6 +2,10 @@ tags::
 source:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
 type:: #source/article
 
+
+**To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.**
+
+
 When you are writing fiction, you are—consciously or unconsciously—making a choice about almost every word you type; to oversimplify, we can imagine that a ten-thousand-word short story requires something on the order of ten thousand choices. **When you give a generative-A.I. program a prompt, you are making very few choices.**
 
 There are various ways it can do this. One is to take an average of the choices that other writers have made, as represented by text found on the Internet; **that average is equivalent to the least interesting choices possible, which is why A.I.-generated text is often really bland.**
