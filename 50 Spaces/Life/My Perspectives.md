@@ -59,7 +59,6 @@ up:: [[Life Map]]
 - [[Past progress is proof of future potential]]
 
 [[productivity]]
-- [[Productivity Tips]]
 
 [[relationships]]
 - [[Investing life energy into controllable aspects, such as personal interests and goals, is a smarter choice than pursuing a relationship, which is not entirely within your control. ]]

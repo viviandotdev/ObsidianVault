@@ -2,7 +2,7 @@
 modified: 2025-08-01T18:21:24-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/atomic
+type:: #note/perspective 
 ## If you want to do something right, do it yourself, because other people don't care enough.
 
 **Topic**

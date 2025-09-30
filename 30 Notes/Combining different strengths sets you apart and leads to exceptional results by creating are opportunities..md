@@ -2,6 +2,7 @@
 modified: 2025-06-15T14:15:26-04:00
 ---
 up::  [[My Perspectives]]
+type:: #note/perspective 
 **Topic**
 *What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.*
 

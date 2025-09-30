@@ -3,7 +3,7 @@ created: 2025-07-12 13:33
 modified: 2025-07-12T14:02:43-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/atomic
+type:: #note/perspective 
 tags:: [[happiness]]
 
 **Idea**

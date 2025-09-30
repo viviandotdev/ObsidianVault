@@ -3,7 +3,7 @@ created: 2025-08-24 17:28
 modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/atomic
+type:: #note/perspective 
 tags:: [[success]] [[self-improvement]]
 If you want to build and create some thing do it
 I think my fear is that I am not taking the more efficient path or using the right tools to learn or create a fastest so I don't do it at all.

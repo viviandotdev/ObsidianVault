@@ -5,6 +5,7 @@ modified: 2025-06-23T07:39:44-04:00
 up::  [[My Perspectives]]
 type: #note/perspective 
 tags:: [[happiness]]
+
 I value freedom and flexibility over my time more that money, when making decisions I consider the time cost as well
 **Freedom and flexility over one’s life is the best predictor of wellbeing** - Morgan Housel
 
@@ -18,3 +19,27 @@ The greatest intrinsic value of [[money]] is that it gives you more **time** and
 - **[[Time]] is the most valuable resource in the world and too many people waste it.**
 - **Time is the great equalizer, regardless of status or wealth everyone is faced with the same finite lifespan and inevitable mortality.**
 - I think this is why people are so unhappy when they have no flexibility over their own time, we subconsciously know that we are wasting our life away and it is eating them alive
+
+### Notes
+```dataview
+LIST
+FROM "30 Notes" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
+SORT file.link asc
+```
+
+### Sources
+```dataview
+LIST
+FROM "20 Sources" AND [[#]]
+and !outgoing([[#]])
+WHERE !contains(file.name, "Outbox")
+WHERE !contains(file.name, "+ Home")
+WHERE !contains(file.name, "Queue")
+
+SORT file.link asc
+```
