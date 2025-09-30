@@ -8,7 +8,6 @@ Don't let "work" mean something other people tell you to do. If you do manage to
 
 **Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones.** This is how practically everyone who's done great work has done it, from painters to physicists.
 
-
 When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions. \[[5](https://paulgraham.com/#f5n)\]
 
 One sign that you're suited for some kind of work is when you like even the parts that other people find tedious or frightening.
