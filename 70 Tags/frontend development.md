@@ -1,4 +1,7 @@
+up:: [[web development]]
+
 **Blogs**
+
 [Josh W Comeau](https://www.joshwcomeau.com/)
 [Teaching you the craft of frontend – Frontend.FYI](https://www.frontend.fyi/)
 [Design Spells · Design details that feel like magic](https://www.designspells.com/)
