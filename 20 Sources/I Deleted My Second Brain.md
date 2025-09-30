@@ -1,4 +1,4 @@
-tags::
+tags:: [[PKM]]
 source:: https://www.joanwestenberg.com/p/i-deleted-my-second-brain
 type:: #source/article
 

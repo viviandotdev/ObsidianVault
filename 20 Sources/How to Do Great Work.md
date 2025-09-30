@@ -71,7 +71,6 @@ A more precise version would be: Never let setbacks panic you into backtracking 
 Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care.
 
 
-
 Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.
 
 Curiosity is the key to all four steps in doing great work: it will choose the field for you, get you to the frontier, cause you to notice the gaps in it, and drive you to explore them. The whole process is a kind of dance with curiosity.
