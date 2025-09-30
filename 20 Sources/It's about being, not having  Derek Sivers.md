@@ -4,7 +4,6 @@ type:: #source/article
 
 It's not that I wanted to get it done and have good vocals. It's that I wanted to be a great singer.
 
-
 As the company grew, everyone was surprised that I still did all the [[programming]] myself. But for an online business, outsourcing the programming would be like a band outsourcing the songwriting!
 
 When you want to learn how to do something yourself, most people won't understand. They'll assume the only reason we do anything is to get it done, and doing it yourself is not the most efficient way.
