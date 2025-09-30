@@ -8,8 +8,7 @@ tags:: [[70 Tags/values|values]]
 Values are the principles and beliefs that guide our actions, decisions, and overall outlook on life
 
 [[money]]
-
-Money should be a byproduct of ambition, not the primary desire.
+- [[I believe money should be a byproduct of ambition, not the primary desire.]]
 
 [[relationships]]
 - [[I only believe in peer relationships.]]

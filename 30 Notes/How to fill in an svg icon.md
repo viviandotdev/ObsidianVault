@@ -3,7 +3,6 @@ created: 2023-10-06 19:53
 modified: 2025-06-16T07:05:00-04:00
 
 ---
-up::
 tags:: [[react]] [[css]]
 ## How to modify svg icon colors in tailwind
 

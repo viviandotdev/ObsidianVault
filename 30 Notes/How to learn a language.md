@@ -4,12 +4,13 @@ modified: 2025-06-15T18:39:22-04:00
 
 ---
 tags::  [[language]]
+type:: #note/how-to 
 [learning a new language is easy, actually - YouTube](https://www.youtube.com/watch?v=E6588DlZW-c)
 [Matt vs Japan - YouTube](https://www.youtube.com/@mattvsjapan/videos)
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://zenith-raincoat-5cf.notion.site/Mandarin-Guide-82734307494a429c9ccf0b98e1d8a80c)
-
 [Polyglot speaks 20 languages. Here's how he did it. - YouTube](https://www.youtube.com/watch?v=TKg23ZFURX0)
 
+**Methods of learning**
 1. Learn the basics (1 month beginner text book)
 2. Listening (youtube video, audio)
 	1. The first two years of your life as a baby, all you do is listen, as much as you can
