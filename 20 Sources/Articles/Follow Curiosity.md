@@ -1,6 +1,6 @@
-tags:: #❤️ 
+tags:: [[life]] [[self-improvement]]
 source:: https://jakobagreenfeld.com/follow-curiosity?utm_source=tldrnewsletter
-type:: #source/article
+type:: #source/article #❤️ 
 
 Suddenly, [[ambition]] becomes the driver, or money, or doing something that sounds cool. And then things start to go downhill.
 

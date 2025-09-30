@@ -1,4 +1,4 @@
-tags::  [[career]] [[life]]
+tags::  [[career]] [[life]] [[self-improvement]]
 source:: https://paulgraham.com/greatwork.html
 type:: #source/article #❤️
 

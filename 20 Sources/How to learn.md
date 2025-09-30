@@ -1,4 +1,4 @@
-tags::
+tags:: [[learning]]
 source:: https://jeremynixon.github.io/thinking/2018/12/22/how-to-learn.html
 type:: #source/article
 
