@@ -8,7 +8,7 @@ Don't let "work" mean something other people tell you to do. If you do manage to
 
 **Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones.** This is how practically everyone who's done great work has done it, from painters to physicists.
 - Choose a field -> building apps/software
-- Notice gaps -> 
+- Notice gaps ->  mobile seems to be lagging behind web, I think the smae way UI libraries are created for web will happen on mobile as well, I can start creating templates for mobile 
 - Explore prog
 
 When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions. \[[5](https://paulgraham.com/#f5n)\]
