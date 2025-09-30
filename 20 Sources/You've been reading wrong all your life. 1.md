@@ -1,4 +1,4 @@
-tags::
+tags:: [[reading]]
 source:: https://www.youtube.com/watch?v=DpIrzA2ohcg&t=1s
 type:: #source/article
 
@@ -14,6 +14,6 @@ Read, the book looking for the most important ideas. Don't read everything, many
    - **The Collector:** who passively absorbs words.
    - **The Curator:** who actively discriminates valuable information- Try to read like an editor of the book
    - **The Connector:** who integrates the new knowledge into long-term memory.
-3. **Application:** After reading immediately engage with the information to create and strengthen brain connections
-
-**Always have a question and explain to yourself why you are reading this book** so you know what to look for in the book and ignore anything that is uninteresting.
+1. **Application:** After reading immediately engage with the information to create and strengthen brain connections
+	- For each book you are reading create an ongoing note in obsidian, create action and idea notes/
+	- **Always have a question and explain to yourself why you are reading this book** so you know what to look for in the book and ignore anything that is uninteresting.
