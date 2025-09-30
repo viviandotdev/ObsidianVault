@@ -2,6 +2,13 @@ tags::
 source:: https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542
 type:: #source/article
 
+### Summary
+Writing is the thinking, you need to write to output your thoughts and ideas.
+You need to be able generate your ideas and opinions without relying on external sources
+Having original thought is satisfying
+- Your brain needs to boredom
+- Satisfaction of original thought, this what you should chase, this is why I build my brain and ideas
+
 **The Rules**
 
 Daily:
