@@ -4,7 +4,7 @@ modified: 2025-08-01T12:55:34-04:00
 up:: [[Life Map]]
 [[How I create unique perspectives]]
 
-
+i want a way to link the sources to my perspectives, the content i consume influence these perspectices 
 [[happiness]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
 - [[You are happiest when working towards your goals, not when you have achieved them]]
