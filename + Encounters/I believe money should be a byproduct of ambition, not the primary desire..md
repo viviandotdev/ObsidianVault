@@ -7,5 +7,9 @@ tags:: [[ambition]] [[money]]
 
 <!--
 Define the behaviors that align with this value. These actions will guide you back, when you fall off track. Be sure to include the “why” behind each. -->
+I will try not to think of money as the primary desire for why I do the things I do,
+I do them because they are enjoyable to me and they make be happy
 
 
+
+[[It's about being, not having  Derek Sivers]]

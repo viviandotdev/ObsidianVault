@@ -1,17 +1,15 @@
 ---
-created: <% tp.file.creation_date() %>
 modified: 2025-08-01T21:35:00-04:00
 ---
-up::
-tags::
+tags:: [[happiness]]
 
-**what are values?**
+**What are values?**
 They are principles and beliefs that guide our actions, decisions.
 Similar to morals, they help you decide what is right your wrong and what your beliefs are
 
 In order to be [[happiness|happy]] you need to live true to your values and surround yourself with people with similar values as you.
 
-[[My Values]]
+I have created a list of my values here [[My Values]]
 
 
 ### Notes
