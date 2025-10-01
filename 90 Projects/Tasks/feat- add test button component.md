@@ -43,4 +43,12 @@ pnpm run registry
 apps/showcase/public/r
 **Step 3:** Create file in apps/showcase/app/components
 **example-test.tsx**
-**Step 4:** update the constants ilw
+**Step 4:** update the constants file where the slug is the filename from above
+```
+export const COMPONENTS = [
+    { slug: 'example-component', name: 'Example Component' },
+    { slug: 'example-block', name: 'Example Block' },
+    { slug: 'example-test', name: 'Example Test' },
+] as const;
+
+```
