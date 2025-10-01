@@ -32,3 +32,15 @@ pnpm run registry
 apps/docs/public/r
 
 **Step 5- create the test-button.mdx file**
+
+### Part 2: Add Component to showcase
+**Step 1** update the apps/showcase/registry.json to match the docs
+**Step 2** build the registry
+```
+pnpm run registry
+```
+**this creates the component.json file here**
+apps/showcase/public/r
+**Step 3:** Create file in apps/showcase/app/components
+**example-test.tsx**
+**Step 4:** update 
