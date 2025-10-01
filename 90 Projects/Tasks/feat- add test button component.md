@@ -22,4 +22,13 @@ This is where the docs can access this component
 
 
 **Step 3**
-- `apps/docs/registry.json` to update the registry with the new example
+- `apps/docs/registry.json` to update the registry with the new component
+
+**Step 4 build the registry**
+```
+pnpm run registry
+```
+**this creates the component.json file here**
+apps/docs/public/r
+
+**Step 5- create the test-button.mdx file**
