@@ -43,4 +43,4 @@ pnpm run registry
 apps/showcase/public/r
 **Step 3:** Create file in apps/showcase/app/components
 **example-test.tsx**
-**Step 4:** update 
+**Step 4:** update the constants ilw
