@@ -1,4 +1,4 @@
-tags::
+tags:: [[creativity]]
 source:: https://paulgraham.com/do.html
 type:: #source/article
 
@@ -14,4 +14,5 @@ So there's my guess at a set of principles to live by: **take care of people and
 
 **Newton was driven by curiosity and ambition, not by any practical effect his work might have, and yet the practical effect of his work has been enormous.** And this seems the rule rather than the exception. So if you think you can make something amazing, you should probably just go ahead and do it.
 
-Be driven by curiosity and ambition, success will follow as a byproduct. You don't need to worry about the practical impact of the things you create just create them if they are interesting to you and solve your own problems.
+**Be driven by curiosity and ambition, success will follow as a byproduct**. **==You don't need to worry about the practical impact of the things you create just create them if they are interesting to you and solve your own problems.==**
+- [[Don’t worry about the impact of the work, just build things because they are interesting to you and will solve my own problems]]
