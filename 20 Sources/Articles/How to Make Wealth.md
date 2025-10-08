@@ -1,4 +1,3 @@
-tags:: #❤️ 
 source:: https://paulgraham.com/wealth.html
 type:: #source/article
 

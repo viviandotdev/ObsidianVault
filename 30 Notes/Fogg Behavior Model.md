@@ -3,6 +3,7 @@ created: 2023-09-10 15:06
 modified: 2025-06-15T18:34:53-04:00
 
 ---
+up:: [[Thinking Models List]]
 tags:: [[psychology]]
 
 **B = MAT**
