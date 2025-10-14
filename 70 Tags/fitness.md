@@ -11,6 +11,34 @@ up::[[My Health]]
 [Mover's Odyssey - YouTube](https://www.youtube.com/@moversodyssey/videos)
 
 
+
+https://www.hybridcalisthenics.com/
+
+https://www.moversodyssey.com/
+
+https://yellowdude.co/
+
+Skill trees
+https://wedocalisthenics.com/#skill-trees
+
+Calisthenics skills
+https://dieringe.com/blog/calisthenics-skills
+
+Yoga poses compendium
+https://www.pocketyoga.com/pose/?sort=category
+
+Calisthenics workouts
+https://darebee.com/collections/advanced-calisthenics-workouts.html
+
+Simple calesthincs exercise library
+https://www.app.simple-calisthenics.com/content/exercises
+
+Calistree
+https://calistree.com/
+
+
+
+
 **Notes**
 [[I want to look and feel my best without sacrificing the quality of life experiences I have.]]
 

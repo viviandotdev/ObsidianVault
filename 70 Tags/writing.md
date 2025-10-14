@@ -5,6 +5,9 @@ modified: 2025-06-13T07:00:59-04:00
 ---
 type:: #map/area 
 
+**Blogs**
+[[blogs]]
+
 **People**
 [[Paul Graham]]
 [[Joan Westenberg]]

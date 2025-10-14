@@ -38,6 +38,22 @@ once this is completed start creating with the template, read through the templa
 [habits-together](https://github1s.com/habits-together/app/blob/HEAD/babel.config.js)
 
 
+React native good repos
+1 year old 145 stars
+https://github.com/mshivam019/StorySail
+* Expo (React Native)
+* Reanimated
+* Supabase
+* FCM
+
+
+5 years old still maintained?
+Data retrieveal structure 
+https://github.com/NMF-earth/nmf-app/blob/main/app/screens/Emissions/ducks/EmissionsScreen.selectors.ts
+- Expo
+- Redux async storage 
+
+
 
 **Supbase**
 [Mobile Frameworks Connection](https://supabase.com/dashboard/project/ttszcmojbdtylwpqxnqt/database/schemas?showConnect=true)
