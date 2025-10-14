@@ -16,3 +16,4 @@ society takes place in the human mind
 **what are the stages of spiral dynamics?**
 
 
+[[]]
