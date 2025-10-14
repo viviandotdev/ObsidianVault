@@ -21,13 +21,10 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 
 
 [[learning]]
-"I made sure to always prioritize what I was feeling the most interested in, not what I felt like I should be learning
 - [[Learning how to learning is the ultimate skill that will give you the power to do what you love]]
 - [[Learning is one of the most pleasurable experiences in life]]
+-  [[I made sure to always prioritize what I was feeling the most interested in, not what I felt like I should be learning]]
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
-	- [[You must write bad code before you can write good code.]]
-	- [[You must write badly before you can learn to write well]]
-	- [[Doing it slowly and wrong is better than just doing nothing.]]
 
 [[success]]
 - [[Being successful creates more success]]
