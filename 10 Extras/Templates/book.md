@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 author: "{{author}}"
-status: currently-reading
+status: 🟨 
 created: <% tp.file.creation_date() %>
 modified: 2025-06-15T21:03:14-04:00
 ---

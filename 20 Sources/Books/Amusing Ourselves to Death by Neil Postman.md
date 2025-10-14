@@ -5,7 +5,7 @@ created: 2024-02-07 15:55
 modified: 2025-06-15T20:21:04-04:00
 ---
 up:: [[Bookshelf]]
-status:: summarized
+status:: 🟩 
 tags:: [[philosophy]] [[#psychology]]
 type:: #source/book
 

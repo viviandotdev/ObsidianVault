@@ -5,7 +5,7 @@ title: Playing well with others
 author: Eric Barker
 ---
 up::  [[Bookshelf]]
-status:: summarized
+status:: 🟩 
 tags:: [[relationships]]
 type:: #source/book
 
