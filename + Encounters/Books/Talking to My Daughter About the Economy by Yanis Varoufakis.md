@@ -98,3 +98,6 @@ More money out on a loan than was actually circulating
 
 **Actions**
 <!-- How to convert this new knowledge into actions into your own life -->
+
+
+[Talking to My Daughter About the Economy | Book Summary](https://swiftread.com/books/talking-to-my-daughter-about-the-economy#summary)
