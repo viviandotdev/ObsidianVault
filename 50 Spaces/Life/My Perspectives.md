@@ -66,6 +66,9 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 [[love]]
 - [[You can tell how much you love yourself based on the partner you choose]]
 
+
+
+
 ```dataview
 TABLE WITHOUT ID
  file.link as "happiness"

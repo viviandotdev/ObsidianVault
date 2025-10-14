@@ -1,10 +1,11 @@
 ---
 title: Barking Up the Wrong Tree
 author: Eric Barker
+status: 🟩  
 modified: 2025-08-01T17:37:53-04:00
 ---
 up:: [[Bookshelf]]
-status:: 🟩  
+
 tags:: [[success]] [[happiness]]
 type:: #source/book
 

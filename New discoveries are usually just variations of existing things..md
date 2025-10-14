@@ -1,3 +1,5 @@
+up:: [[My Perspectives]]
+
 [[creativity]]
 - You can copy existing ideas and your unique twist to it making it “original”
 - no one really creates anything new
