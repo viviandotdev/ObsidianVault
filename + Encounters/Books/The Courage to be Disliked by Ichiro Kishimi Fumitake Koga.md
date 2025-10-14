@@ -45,6 +45,15 @@ My parents will try to impose what they want on to you,
 For example when a parent wants their children to study hard it’s actually not for the child’s own good, it’s actually for their own good, because they see their success in their own child,
 The child is an extension of themselves 
 
+All problems are interpersonal relationship problems
+
+What types of problems are interpersonal relationship problems?
+
+The power struggle that turns into revenge, for example if you get into an argument about something and the other person submits, and loses the argument but the power struggle can turn in forms of revenge where they will find other ways to regain that power in the from revenge.
+For example a child might cut their wrists, the goal is not actually hurt themselves but to hurt the people closest to them and that should care about them.
+
+The desire for recognition 
+
 Do not intrude in other people’s tasks and do not let other people intrude on your own,
 
 Task separation do not let others intrude on our tasks and do not intrude on other people’s tasks
