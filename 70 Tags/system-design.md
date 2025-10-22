@@ -12,8 +12,11 @@ up:: [[programming]]
 [System Design Interviews Course - Exponent](https://www.tryexponent.com/courses/system-design-interviews)
 [Grokking the System Design Interview | Video Course by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
-**Quesitons**
+**Questions**
 [SWE Quiz](https://www.swequiz.com/)
+
+
+**Patterns**
 [[Scalability Patterns]]
 
 
