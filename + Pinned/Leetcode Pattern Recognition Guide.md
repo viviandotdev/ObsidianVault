@@ -3,7 +3,7 @@ created: 2025-07-21 09:07
 modified: 2025-07-21T09:08:16-04:00
 ---
 type:: #note/guide
-tags:: [[leetcode]]
+tags:: [[70 Tags/leetcode]]
 source:: [How to Instantly Recognize Leetcode Patterns (500 problems later)](https://www.youtube.com/watch?v=LAnEeffb5zI&list=LL&index=1
 ### Step 1: Check The Constraints
 
@@ -164,3 +164,7 @@ source:: [How to Instantly Recognize Leetcode Patterns (500 problems later)](htt
 * "Subarray" with fixed/variable size
 * "Maximum/minimum window"
 * "Contains all"
+
+
+[LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!) - YouTube](https://www.youtube.com/watch?v=RYT08CaYq6A)
+[LeetCode Algorithm Templates: Code Faster, Error-Free Solutions](https://algo.monster/templates)

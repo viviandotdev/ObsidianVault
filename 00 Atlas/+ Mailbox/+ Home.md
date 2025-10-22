@@ -25,7 +25,7 @@ Your launchpad and home base.
 	- [[money]]
 
 **Job Search**
-- [[leetcode]]
+- [[70 Tags/leetcode]]
 - [[system-design]]
 
 ### Areas of Interest

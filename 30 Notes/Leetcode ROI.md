@@ -3,7 +3,7 @@ created: 2025-03-21 15:08
 modified: 2025-06-15T18:48:10-04:00
 
 ---
-tags:: [[leetcode]]
+tags:: [[70 Tags/leetcode]]
 ## leetcode ROI
 
 [Coding Interview Patterns: The Smart, Data-Driven Way to Prepare for Tech Interviews](https://algo.monster/problems/stats)

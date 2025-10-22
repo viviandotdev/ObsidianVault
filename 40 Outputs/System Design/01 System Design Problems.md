@@ -1,7 +1,8 @@
 ---
 modified: 2025-06-29T12:07:14-04:00
 ---
-system design
+up:: [[system design]]
+
 Easy
 [[Design URL Shortener]]
 [[Design UUID Generator]]
