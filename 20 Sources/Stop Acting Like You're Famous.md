@@ -1,4 +1,4 @@
-tags::
+tags:: [[success]]
 source:: https://ajkprojects.com/stopactinglikeyourefamous
 type:: #source/article
 

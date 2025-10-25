@@ -1,9 +1,6 @@
 
 [[The Pareto Principle]]
 
-
-
-
 [[Ikigai]]
 
 
@@ -11,7 +8,14 @@
 
 
 [[Hock Principle]]
+
 [[First principles]]
+
+
+[[Natural Selection]]
+
+[[Survival of the Fittest]]
+[[Flywheel Effect]]
 
 
 **Physics**

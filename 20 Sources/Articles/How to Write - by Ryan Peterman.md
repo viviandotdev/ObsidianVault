@@ -1,4 +1,4 @@
-tags::
+tags:: [[writing]]
 source:: https://www.developing.dev/p/how-to-write
 type:: #source/article
 

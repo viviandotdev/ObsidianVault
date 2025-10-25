@@ -1,4 +1,4 @@
-tags::
+tags:: [[learning]] [[writing]]
 source:: https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542
 type:: #source/article
 
