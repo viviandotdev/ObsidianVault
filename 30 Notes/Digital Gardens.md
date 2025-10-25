@@ -9,7 +9,6 @@
 
 [Welcome 🌌 - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C)
 
-
 [You Can Negotiate Anything - by Herb Cohen | Derek Sivers](https://sive.rs/book/NegotiateAnything)
 
 [Conferences As D&D Tabletops, by Gwern · Gwern.net](https://gwern.net/blog/2025/conference)

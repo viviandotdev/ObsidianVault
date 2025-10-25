@@ -1,3 +1,10 @@
+---
+created: 2025-09-30 21:39
+modified: 2025-06-22T19:16:10-04:00
+---
+type:: #note/dev
+tags::
+
 how to add test-button component to the registry
 
 ### Component Library

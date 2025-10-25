@@ -106,6 +106,8 @@ Curiosity is the best guide. Your curiosity never lies, and it knows more than y
 
 Curiosity is the key to all four steps in doing great work: it will choose the field for you, get you to the frontier, cause you to notice the gaps in it, and drive you to explore them. The whole process is a kind of dance with [[curiosity]].
 
+[[I made sure to always prioritize what I was feeling the most interested in, not what I felt like I should be learning]]
+
 So the problem boils down to ability and interest. **Can you find a kind of work where your ability and interest will combine to yield an explosion of new ideas?**
 - Where interest and ability combine is where you will find people doing great dowry
 

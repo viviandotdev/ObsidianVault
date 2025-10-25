@@ -6,10 +6,9 @@ type:: #map/content
 
 
 **Methods**
-[[How to learn]]
-Spaced Repetition
+[[Spaced Repetition]]
 
-Active Recall (Active Recall Protocol)
+[[Active recall]] (Active Recall Protocol)
 
 Deliberate Practice
 
@@ -18,6 +17,13 @@ Interleaved practice
 Chunking
 
 Connections
+
+**Ideas**
+- Working memory vs long term memory
+	- Working memory can would. about 5-7 pieces of information at a time
+	- Long term requires repetition over long periods of time
+- [[habits]]
+- 
 
 **Ideas**
 [[I made sure to always prioritize what I was feeling the most interested in, not what I felt like I should be learning]]
@@ -34,6 +40,7 @@ Connections
 
 
 **Blogs**
+[[How to learn]]
  [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 [Andy Matuschak](https://andymatuschak.org/)
 [Charleston Law Library Guide](https://charlestonlaw.libguides.com/c.php?g=1195577&p=8743770)

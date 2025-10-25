@@ -1,3 +1,4 @@
+note:: #note/perspective 
 up:: [[My Perspectives]]
 
 [[creativity]]
