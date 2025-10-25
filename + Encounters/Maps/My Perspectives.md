@@ -21,7 +21,7 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 
 [[learning]]
 - [[Learning how to learning is the ultimate skill that will give you the power to do what you love]]
-- [[Learning is one of the most pleasurable experiences in life]]
+
 -  [[I made sure to always prioritize what I was feeling the most interested in, not what I felt like I should be learning]]
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 
