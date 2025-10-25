@@ -23,7 +23,15 @@ Mental models help you think, map concepts and frameworks to help you solve prob
 
 
 Helps you simply concepts and create structured through frameworks
-Distill the thoug
+Distill the thoughts to 
+
+Build your library of frameworks
+
+How to make money from you love?
+- what you love?
+- what you are good at ?
+- what the world needs?
+- what you can be paid for?
 
 
 
