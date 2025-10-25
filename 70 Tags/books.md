@@ -12,7 +12,7 @@ Edwin’s land -> photographer founder of poloroids
 CEO of Dyson, how Dyson was created
 
 Read everything and all books on Steve Jobs
-
+test
 
 **book databases**
 [jeremynixon.github.io/thinking/2020/04/22/index.html](https://jeremynixon.github.io/thinking/2020/04/22/index.html)
