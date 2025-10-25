@@ -5,19 +5,26 @@ raindrop_highlights:
 
 ---
 
-tags::
+tags:: [[communication]]
 source:: https://jeremynixon.github.io/thinking/2015/06/23/how-to-think.html
-type:: #source/artcicle 
+[How to Think Fast Before You Speak: Framework Thinking - YouTube](https://www.youtube.com/watch?v=lcyHC9HLTzc)
+type:: #source/artcicle #source/video
 
 ### How to think
 
+[[Think in frameworks]]
+Frameworks are structures to help you organize your thoughts, 
+If you can internalize a few common frameworks it can help you think more clearly
+
+First principles, boil them down to the fundamentals truth and reason up from there.
+
+
 Mental models help you think, map concepts and frameworks to help you solve problems 
 
-I should create my own behavior model list
 
-**Psychology**
-- [[Fogg Behavior Model]]
-- [[System 1/ System 2 Thinking]]
+Helps you simply concepts and create structured through frameworks
+Distill the thoug
+
 
 
 
