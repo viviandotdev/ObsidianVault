@@ -38,23 +38,6 @@ status #🟨
 - [Library of Max](https://library-of-max.com/)
 
 
-## What I can teach
-
-1. How to learn to code
-2. How to form relationships
-	1. what are the 4 attachment styles?
-3. How to become rich the boring way
-    - The basics of finance
-    - The Psychology of money
-    - Exponential returns
-    - How much money should you save vs invest
-    - What is the roth IR
-        - what is the backdoor roth ira
-        - what is the mega back door roth ira
-4. How to anything learn efficiently. (better learning)
-	
-**Books/Resources**
-
 
 
 1 atomic essay a day for 30 days
