@@ -10,7 +10,6 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
 - [[You are happiest when working towards your goals, not when you have achieved them]]
 - [[You need 3 hobbies, one that keeps you healthy, one that earns you money and one to be creative]]
--  [[You cannot buy a calm mind, fit body and healthy relationships. Building healthy relationships is just a byproduct of having a fit body and a healthy mind]]
 - [[Your don't get happy from achieving your goal, you get happiness from the seeing progress towards your goal]]
 - [[One of the easiest ways to be unhappy is to constantly think about problems you have no control over ]]
 
