@@ -1,4 +1,10 @@
-
+---
+created: 2025-10-25 17:55
+modified: 2025-08-01T18:24:06-04:00
+---
+up::
+type:: #output/mini-essay 
+tags::
 
 Steal like an artist
 

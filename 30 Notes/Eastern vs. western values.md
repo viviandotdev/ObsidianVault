@@ -2,7 +2,7 @@
 created: 2025-09-21 14:39
 modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #output/mini-essay 
+type:: #note/model
 tags:: [[70 Tags/values|values]] [[culture]]
 
 | Topic                             | Eastern Values                                                                              | Western Values                                                                                                                              |

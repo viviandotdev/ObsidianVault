@@ -3,6 +3,7 @@
 
 [[Ikigai]]
 
+[[Classical conditioning]]
 
 [[Supply Demand]]
 
@@ -16,6 +17,11 @@
 
 [[Survival of the Fittest]]
 [[Flywheel Effect]]
+
+
+[[Fogg Behavior Model]]
+**Culture**
+[[Eastern vs. western values]]
 
 
 **Physics**
