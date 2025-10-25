@@ -1,4 +1,4 @@
-tags::
+tags:: [[content-creation]]
 source:: https://www.gurwinder.blog/p/the-perils-of-audience-capture
 type:: #source/article
 

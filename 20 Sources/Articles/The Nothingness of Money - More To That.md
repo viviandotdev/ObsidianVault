@@ -1,4 +1,4 @@
-tags::
+tags:: [[money]]
 source:: https://moretothat.com/the-nothingness-of-money/
 type:: #source/article
 
@@ -6,6 +6,6 @@ The key is to take that exact feeling and remind yourself of it whenever money h
 
 We can opt out of the stories of religion or politics, but we cannot opt out of the story of money.
 
-**Money is a required pursuit for life, but a pointless pursuit upon death.**
+**[[Money is a required pursuit for life but a pointless pursuit upon death.]]**
 
 **The core idea of retirement is this: You frontload your attention spent on money to generate wealth. You then offload your wealth to spend your attention on leisure, purpose, or love.**
