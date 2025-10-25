@@ -1,4 +1,4 @@
-tags::
+tags:: [[content-creation]] [[success]]
 source:: https://paulgraham.com/taste.html
 type:: #source/article
 

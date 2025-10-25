@@ -1,4 +1,4 @@
-tags::
+tags::  [[note-taking]]
 source:: https://notes.andymatuschak.org/zTDjZQbKAT9pALtsk2HfePx
 type:: #source/article
 
