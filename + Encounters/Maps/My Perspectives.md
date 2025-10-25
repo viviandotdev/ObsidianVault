@@ -34,7 +34,7 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 - [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
 - [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
-- [[]]
+
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
@@ -42,6 +42,8 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 
 [[creativity]]
 - [[I don't believe in consuming just to consume, I want to consume to create]]
+- [[The act of creating is more important than what is created]]
+
 
 [[life]]
 - [[Life is suffering, but you can choose how you suffer]]
