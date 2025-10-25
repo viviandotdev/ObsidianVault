@@ -5,3 +5,15 @@ type:: #source/article
 One are techniques - particular techniques or behaviors that improve the quality and speed of learning.
 
 The other is models - a sense for how and why a learning system works.
+
+#note/action
+**Method**
+1. [[Spaced Repetition]]
+2. Deliberate Practice
+3. [[Active recall]]
+
+
+
+**Ideas**
+
+- 
