@@ -1,4 +1,4 @@
-tags::
+tags:: [[money]] [[time]]
 source:: https://www.coryzue.com/writing/time-wealth/
 type:: #source/article
 

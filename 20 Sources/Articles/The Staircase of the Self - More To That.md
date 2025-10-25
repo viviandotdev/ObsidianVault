@@ -1,4 +1,4 @@
-tags::
+tags:: [[self-improvement]]
 source:: https://moretothat.com/the-staircase-of-the-self/
 type:: #source/article
 
@@ -8,4 +8,8 @@ Imitation is the birthplace of human behavior. There's no way around this fact, 
 
 **Agency plays a big role in how we cultivate our intellectual curiosity, as this type of willful action is what allows us to trust our own cognitive capabilities.**
 
-**At its core, self-esteem is about having the confidence to solve problems on your own accord.**
+**At its core, self-esteem is about having the [[confidence]] to solve problems on your own accord.**
+
+
+**Related**
+[[How to be more agentic]]

@@ -1,4 +1,4 @@
-tags::
+tags:: [[goals]]
 source:: https://www.joanwestenberg.com/p/why-the-smartest-people-i-know-set-constraints-not-goals-93fd89ff28f98627
 type:: #source/article
 

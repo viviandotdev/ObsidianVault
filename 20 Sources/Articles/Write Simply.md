@@ -1,4 +1,4 @@
-tags::
+tags:: [[writing]]
 source:: https://www.paulgraham.com/simply.html
 type:: #source/article
 

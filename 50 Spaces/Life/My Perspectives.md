@@ -33,7 +33,7 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 - [[If you want to do something right, do it yourself, because other people don't care enough.]]
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 - [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
-- 
+- [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
