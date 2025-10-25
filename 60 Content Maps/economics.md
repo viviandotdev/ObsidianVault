@@ -5,6 +5,11 @@ modified: 2025-08-01T18:24:06-04:00
 type:: #map/content
 up::
 
+**Models**
+[[Supply Demand]]
+[[Opportunity Cost]]
+
+
 [[capitalism]] is an economic system based on private ownership of the goods used to earn a profit while workers earn only wages
 
 

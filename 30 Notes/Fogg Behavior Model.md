@@ -3,8 +3,8 @@ created: 2023-09-10 15:06
 modified: 2025-06-15T18:34:53-04:00
 
 ---
-up:: [[Thinking Models List]]
 tags:: [[psychology]]
+type:: #note/model
 
 **B = MAT**
 A given behavior will occur when motivation, ability and trigger are present at the same time and in sufficient degrees

@@ -13,6 +13,12 @@ type:: #source/artcicle
 
 Mental models help you think, map concepts and frameworks to help you solve problems 
 
+I should create my own behavior model list
+
+**Psychology**
+- [[Fogg Behavior Model]]
+- [[System 1/ System 2 Thinking]]
+
 
 
 #### Highlights
