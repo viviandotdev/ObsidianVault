@@ -1,5 +1,18 @@
 
+[[The Pareto Principle]]
 
 
-[[80/20 Rules]]
-[[]]
+
+
+[[Ikigai]]
+
+
+[[Supply Demand]]
+
+
+[[Hock Principle]]
+[[First principles]]
+
+
+**Physics**
+[[Parkinson's law]]
