@@ -34,6 +34,7 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 - [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
 - [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
+- [[]]
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
@@ -63,13 +64,13 @@ i want a way to link the sources to my perspectives, the content i consume or cr
 [[love]]
 - [[You can tell how much you love yourself based on the partner you choose]]
 
-
-
-
+### Links to this page
+These notes point directly to this note. But this note doesn't point back.
 ```dataview
-TABLE WITHOUT ID
- file.link as "happiness"
-FROM [[happiness]] AND #note/perspective
-WHERE !contains(file.name, "perspective")
-SORT file.name ASC
+LIST
+FROM [[#]]
+and !outgoing([[#]])
+and -#map
+
+SORT file.link asc
 ```
