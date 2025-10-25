@@ -5,7 +5,8 @@ modified: 2025-06-15T13:00:02-04:00
 type:: #map/content
 
 
-**Learning Tools**
+**Methods**
+[[How to learn]]
 Spaced Repetition
 
 Active Recall (Active Recall Protocol)
@@ -17,6 +18,9 @@ Interleaved practice
 Chunking
 
 Connections
+
+**Ideas**
+[[I made sure to always prioritize what I was feeling the most interested in, not what I felt like I should be learning]]
 
 
 **Books**
