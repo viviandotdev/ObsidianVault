@@ -2,7 +2,7 @@
 created: 2025-10-25 17:55
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
+up:: 
 type:: #output/mini-essay 
 tags:: [[self-improvement]]
 
@@ -15,7 +15,7 @@ tags:: [[self-improvement]]
 	- When making new things there are thousands of decisions that need to made to create a good product
 	- If you make all the "correct" decisions you will make something good
 - If you make something good you’ll often be helping people even if you didn’t mean to
-	- Newton was driven by curiosity and ambition, **he did not even think about the practical effects of his work**, yet the effect of his work on the world has been.
+	- Newton was driven by curiosity and ambition, **he did not even think about the practical effects of his work**, yet the effect of his work on the world has been critical
 - I'm the only person in the world with my unique experiences, so **if there is something within you that you are capable of producing it deserves to be created because you are the only person who can and will ever create it**.
 - **Make something so you can put it back into the pool of human experience**
 

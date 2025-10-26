@@ -1,8 +1,8 @@
-tags::
+tags:: [[china]] [[economics]]
 source:: https://sive.rs/book/ChinaWorldView
 type:: #source/artcicle 
 
-> The Chinese Communist Party is an alert, pragmatic, and adaptive party that is focused on nation-building rather than rigid ideology
+> The Chinese Communist Party is an alert, pragmatic, and adaptive party that is ==focused on nation-building rather than rigid ideology==
 
 > This means that Chinese leaders are mostly exhausted by domestic affairs
 
