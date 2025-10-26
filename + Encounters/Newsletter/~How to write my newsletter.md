@@ -1,3 +1,6 @@
+tags:: [[note-taking]]
+type:: #note/framework 
+
 [[2HW-How to outline your newsletter]]
 
 **In My Life**
@@ -11,6 +14,8 @@ What new tools have you found that are trying out?
 **3 Ideas**
 What are 3 ideas you are thinking about this week
 What are topics and things you are interested in learning more about?
+
+**Curiosity**
 what were you curious about this week?
 
 **Thoughts**
@@ -21,7 +26,7 @@ Links to interesting content you have consume this week
 
 
 
-
+**Examples**
 * [Weekly Wondering 2022-W51 - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/My+Outputs/My+Weekly+Wonderings/Weekly+Wondering+2022-W51)
 * [James Clear - 3-2-1 Newsletter](https://jamesclear.com/3-2-1)
 * [Tim Ferriss - 5-Bullet Friday](https://go.tim.blog/5-bullet-friday-1/)

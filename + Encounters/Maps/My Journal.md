@@ -14,6 +14,8 @@ modified: 2025-08-01T18:24:06-04:00
 [[What makes you happy?]]
 [[What makes me unhappy?]]
 
+[[Why I quit social media]]
+
 **Relationships**
 [[do you care more to be loved or loved?]]
 [[Why have you never been in a relationship?]]
