@@ -1,12 +1,12 @@
 ---
 title: "Station Eleven"
 author: "Emily St. John Mandel"
-status: 🟨 
+status: 🟩 
+shelf: fiction
 created: 2025-10-25 20:15
 modified: 2025-06-15T21:03:14-04:00
 ---
 up:: [[Bookshelf]]
-tags::
 type:: #source/book
 
 by [[Emily St. John Mandel]]

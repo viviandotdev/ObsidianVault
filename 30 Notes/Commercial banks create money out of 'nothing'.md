@@ -3,9 +3,7 @@ created: 2025-09-19 06:50
 modified: 2025-08-01T18:24:06-04:00
 ---
 type:: #note/atomic 
-status:: #🟥 
 tags:: [[economics]] [[money]]
-
 
 The bankers’ magical power that allows them to create money at the stroke of a pen or a few buttons on a keyboard
 

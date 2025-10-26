@@ -11,27 +11,6 @@ tags:: #map/view
 - create ideas from the source
 - create action notes from the source
 
-
-```dataview 
-TABLE WITHOUT ID
- file.link as "Prompts ",
- (date(today) - file.cday).day as "Days alive"
-from #note/prompt 
-WHERE !contains(file.name, "How to Write Lecture Notes")
-WHERE !contains(file.name, "How to Write Atomic Notes")
-sort file.name asc
-```
-
-```dataview 
-TABLE WITHOUT ID
- file.link as "Notes 🟥 ",
- (date(today) - file.cday).day as "Days alive"
-from #🟥  
-WHERE !contains(file.name, "How to Write Lecture Notes")
-WHERE !contains(file.name, "How to Write Atomic Notes")
-sort file.name asc
-```
-
 ```dataview
 TABLE WITHOUT ID
  file.link as "Notes 🟨 ",
