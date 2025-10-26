@@ -1,4 +1,6 @@
-
+tags:: [[china]] [[economics]]
+source:: https://www.youtube.com/watch?v=ZNK3vNg13XA
+type:: #source/podcast 
 
 **What is the difference between [[china]] and the [[United States]]?**
 - Shanghai which is the equivalent of New York, the infrastructure is well designed. In additional China has expanded and built into the country side, whereas the US has neglected the middle and focused on building on the coasts.
