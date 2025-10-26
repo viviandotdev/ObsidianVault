@@ -1,7 +1,9 @@
 ---
-modified: 2025-08-01T19:52:52-04:00
+created: 2025-10-25 17:55
+modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #note/list
+up::
+type:: #output/mini-essay 
 tags:: [[self-improvement]]
 
 **What should you make?**

@@ -9,6 +9,8 @@ tags:: #map/view
 - add links to the source
 - like a source  (if it is a article you like) 
 - create ideas from the source (perspectives/ideas/mental-models/methods/action)
+	- [[How to Write Atomic Notes]]
+	[[How to Write an Atomic Essay]]
 - create action notes from the source
 
 
@@ -16,7 +18,7 @@ tags:: #map/view
 
 ```dataview
 TABLE WITHOUT ID
- file.link as "Mini",
+ file.link as "Notes 🟨 ",
  (date(today) - file.cday).day as "Days alive"
 from #🟨 
 WHERE !contains(file.name, "How to Write Lecture Notes")

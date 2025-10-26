@@ -37,6 +37,7 @@ Writers/Authors
 [Better Humans](https://betterhumans.pub/)
 [library("Max") - The #1 Personal development website](https://library-of-max.com/)
 [Untethered Mind | Alex Mathers | Substack](https://www.untetheredmind.co/)
+[Asynchronous agile | Go “async-first” | async collaboration](https://www.asyncagile.org/)
 ### Notes
 ```dataview
 LIST
