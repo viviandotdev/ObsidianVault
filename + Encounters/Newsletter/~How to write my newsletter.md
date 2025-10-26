@@ -22,8 +22,8 @@ Links to interesting content you have consume this week
 
 
 
-* [Mark Manson](https://markmanson.net/articles)
+* [Weekly Wondering 2022-W51 - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/My+Outputs/My+Weekly+Wonderings/Weekly+Wondering+2022-W51)
 * [James Clear - 3-2-1 Newsletter](https://jamesclear.com/3-2-1)
 * [Tim Ferriss - 5-Bullet Friday](https://go.tim.blog/5-bullet-friday-1/)
-* [Justin Welsh](https://www.justinwelsh.me/articles)
 * [Readwise Reader Shared Content](https://readwise.io/reader/shared/01j4wv71ezkjhsk6dm0cvdaghj/)
+* 
