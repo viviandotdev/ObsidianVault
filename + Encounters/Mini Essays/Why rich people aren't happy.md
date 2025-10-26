@@ -20,6 +20,6 @@ So if you feel you are enjoying the process of what you are doing that is enough
 
 
 
-Cycle of the rich
-exotic travel for a year or more before becoming bored of that, then transitioning to getting very fit or some other personal goal. After achieving that goal, buying a boat or some other extravagant hobby purchase, and then finally getting divorced or going through some other personal crisis. If they come back from that, maybe they attempt their own start-up or fund or, most likely, philanthropy.
+**Cycle of the rich**
+Exotic travel for a year or more before becoming bored of that, then transitioning to getting very fit or some other personal goal. After achieving that goal, buying a boat or some other extravagant hobby purchase, and then finally getting divorced or going through some other personal crisis. If they come back from that, maybe they attempt their own start-up or fund or, most likely, philanthropy.
 
