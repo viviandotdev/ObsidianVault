@@ -5,7 +5,9 @@ modified: 2025-08-01T18:24:06-04:00
 up::
 type:: #output/mini-essay 
 tags::
-Originalilty is overrated
+Originality is overrated
+
+The best way to learn is to copy the people you look up to
 
 [[New discoveries are usually just variations of existing things.]]
 Steal like an artist
