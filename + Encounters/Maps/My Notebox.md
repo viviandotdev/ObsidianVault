@@ -10,8 +10,10 @@ tags:: #map/view
 - like a source  (if it is a article you like) 
 - create ideas from the source (perspectives/ideas/mental-models/methods/action)
 	- [[How to Write Atomic Notes]]
-	[[How to Write an Atomic Essay]]
+	- [[~How to Write an Atomic Essay]]
+	- [[How to write a newsletter]]
 - create action notes from the source
+- 
 
 
 

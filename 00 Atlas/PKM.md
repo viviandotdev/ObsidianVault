@@ -22,7 +22,7 @@ How to take notes
 [[How I Take Smart Notes- Books]]
 [[How I Take Smart Notes- Videos]]
 [[How to Write Atomic Notes]]
-[[How to Write an Atomic Essay]]
+[[~How to Write an Atomic Essay]]
 
 
 Managing my PKM workflows ♽

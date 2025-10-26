@@ -30,7 +30,7 @@ modified: 2025-08-01T17:57:34-04:00
 [[How I brainstorm]]
 [[How I create unique perspectives]]
 [[How to Write Atomic Notes]]
-[[How to Write an Atomic Essay]]
+[[~How to Write an Atomic Essay]]
 
 **Protocols**
 [[Protocol to Fight Distractions]]
