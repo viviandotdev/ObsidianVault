@@ -1,7 +1,7 @@
 ---
 modified: 2025-07-28T11:01:12-04:00
 ---
-tags:: [[70 Tags/leetcode]]
+tags:: [[leetcode]]
 
 **Properties of Two Pointers Problem**
 - **Medium `n` ($10^3$ to $10^6$)

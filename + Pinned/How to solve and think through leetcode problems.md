@@ -2,7 +2,7 @@
 created: 2025-07-17 17:44
 modified: 2025-07-20T10:36:14-04:00
 ---
-up:: [[70 Tags/leetcode]]
+up:: [[leetcode]]
 type:: #note/guide
 source:: [Dynamic Programming isn't too hard. You just don't know what it is. - YouTube](https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=20)
 # Observation -> Properties

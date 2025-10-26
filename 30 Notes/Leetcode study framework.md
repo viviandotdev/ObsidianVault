@@ -1,7 +1,7 @@
 ---
 modified: 2025-07-13T07:18:02-04:00
 ---
-tags:: [[70 Tags/leetcode]]
+tags:: [[leetcode]]
 **The creation stage** (spend 1 hour a day in this stage starting with your problems list)
 - choose leetcode problems to do (done)
 - make sure you understand all the problems and all the details (do problems and make sure you fully understand the patterns)

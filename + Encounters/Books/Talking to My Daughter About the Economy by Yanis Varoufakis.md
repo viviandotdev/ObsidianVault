@@ -96,7 +96,7 @@ You can buy some thing now betting it will go up in the future and sell it then 
 More money out on a loan than was actually circulating 
 
 
-**Actions**
+**Methods/Frameorks/Protcols**
 <!-- How to convert this new knowledge into actions into your own life -->
 
 

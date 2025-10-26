@@ -10,7 +10,7 @@ tags:: #map/area
 
 
 **interview prep**
-[[70 Tags/leetcode]]
+[[leetcode]]
 [[system-design]]
 
 **tools**
