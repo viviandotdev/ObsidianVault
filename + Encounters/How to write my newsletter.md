@@ -1,5 +1,22 @@
 [[2HW-How to outline your newsletter]]
 
+**In My Life**
+What is going on in your life right now?
+
+
+**Tools & Experiments**
+What Experiments are you trying to improve your life
+What new tools have you found that are trying out?
+
+**3 Ideas**
+What are 3 ideas you are thinking about this week
+What are topics and things you are interested in learning more about?
+
+
+
+**Essays**
+
+
 
 
 
