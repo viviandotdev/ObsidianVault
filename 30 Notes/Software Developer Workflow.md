@@ -2,7 +2,7 @@
 created: 2024-02-07 08:25
 modified: 2025-08-01T17:55:08-04:00
 ---
-up::  [[My Workflows]]
+up::  [[My Frameworks]]
 tags:: [[productivity]] [[coding]]
 source::
 [https://www.youtube.com/playlist?list=PLvLBrJpVwC7qoGgSqx-WGQG_x8VmCMwIa](https://www.youtube.com/playlist?list=PLvLBrJpVwC7qoGgSqx-WGQG_x8VmCMwIa)

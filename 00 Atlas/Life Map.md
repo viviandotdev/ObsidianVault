@@ -15,7 +15,7 @@ These are the dials that determine where I go.
 **Personal Documents**
 	01 - [[My Values]] | [[My Perspectives]]| [[My Happiness]] | [[My Health]] 
 **Action**
-	02 - [[Tools]] | [[My Workflows]] | [[My Finances]] | [[My Goals]] | [[My Systems]] |  [[My Routines]]
+	02 - [[Tools]] | [[My Frameworks]] | [[My Finances]] | [[My Goals]] | [[My Systems]] |  [[My Routines]]
 	03 - [[My Experiences]] |  [[Life Reflections]]
 	04 - [[My Manifesto]] | [[My Career]]
 	05 - [[My Obituary]]
