@@ -44,6 +44,7 @@ Connections
  [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)
 [Andy Matuschak](https://andymatuschak.org/)
 [Charleston Law Library Guide](https://charlestonlaw.libguides.com/c.php?g=1195577&p=8743770)
+[https://www.youtube.com/@benjaminkeep/videos](https://www.youtube.com/@benjaminkeep/videos)
 
 
 ```dataview

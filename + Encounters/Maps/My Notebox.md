@@ -8,7 +8,7 @@ tags:: #map/view
 -**process your sources**
 - add links to the source
 - like a source  (if it is a article you like) 
-- create ideas from the source
+- create ideas from the source (perspectives/ideas/mental-models/methods/action)
 - create action notes from the source
 
 ```dataview
