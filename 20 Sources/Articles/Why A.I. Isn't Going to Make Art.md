@@ -1,4 +1,4 @@
-tags::
+tags:: [[ai]]
 source:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
 type:: #source/article
 
