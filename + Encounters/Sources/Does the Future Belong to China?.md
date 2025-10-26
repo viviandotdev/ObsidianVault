@@ -1,10 +1,10 @@
 
 
-**What is the difference between [[China]] and the [[United States]]?**
+**What is the difference between [[china]] and the [[United States]]?**
 - Shanghai which is the equivalent of New York, the infrastructure is well designed. In additional China has expanded and built into the country side, whereas the US has neglected the middle and focused on building on the coasts.
 - China is constantly build while the US is not.
 **What is the reason for this? Why does china build and the US doesn’t?**
-"[[China]] builds and the U.S. doesn't. And one of your arguments is that this reflects a fundamental difference in our elites and who rules our respective societies.”
+"[[china]] builds and the U.S. doesn't. And one of your arguments is that this reflects a fundamental difference in our elites and who rules our respective societies.”
 - **Difference in the elites who rule our society**
 - China is ruled by engineers and America is a society of [[lawyers]]. Chine is an engineering state building it ways out of every problem whereas the U.S. is a lawyerly society which is really good at stopping a lot of things. This means the U.S. does not have much functional infrastructure almost anywhere, but it also does not have these dumb ideas like the [[one-child policy]]
 	- **XiPing took over Mao he believed that China needed a highly efficient technocracy so he promoted all the technocrats at the time to the highest ranks of the communist party.** By 2002 all the 9 members of the Communist [[Politburo]] had degrees in engineering. China redirected talent to focus on strategic industries like semiconductors and aviation instead of consumer tech, cryptocurrencies and hedge funds.

@@ -30,6 +30,7 @@ Writers/Authors
 - [[Deep work]]
 - [[Ultralearning by Scott Young]]
 - [[Atomic Habits by James Clear]]
+
 **Blogs**
 [The Golden Circle](https://www.thegolden-circle.com/?sort=new)
 [Moulshree on Medium](https://medium.com/@moulshree)

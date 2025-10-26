@@ -2,8 +2,8 @@
 created: 2024-01-12 07:14
 modified: 2025-06-22T19:17:47-04:00
 ---
-type:: #note/action
-tags:: [[habits]] [[productivity]] [[programming]]
+type:: #note/atomic
+tags:: [[habits]] [[productivity]] [[programming]] [[flow]]
 
 In order to stay in flow, work up to the point where you know what to do next. This is known as the "sticking point", you want to stop right before a task that you know the steps do to complete it.
 	This method is effective because it helps fight procrastination, one of the main reasons people procrastinate is uncertainty and lack of clarity about a task. [[Why do we procrastinate?]].

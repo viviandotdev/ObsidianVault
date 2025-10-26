@@ -3,6 +3,7 @@ created: 2023-07-15 08:56
 modified: 2025-06-22T20:40:00-04:00
 ---
 up::  [[My PKM Workflows]]
+type:: #note/framework 
 tags:: [[note-taking]]
 Aim to have it no shorter than a tweet (180 characters) and no longer than an atomic essay (300-500 words).
 ### Properties of Atomic Notes
