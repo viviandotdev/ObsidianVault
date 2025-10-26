@@ -11,11 +11,13 @@ What new tools have you found that are trying out?
 **3 Ideas**
 What are 3 ideas you are thinking about this week
 What are topics and things you are interested in learning more about?
+what were you curious about this week?
 
+**Thoughts**
+things you have been thinking about
 
-
-**Essays**
-
+**Links**
+Links to interesting content you have consume this week
 
 
 
