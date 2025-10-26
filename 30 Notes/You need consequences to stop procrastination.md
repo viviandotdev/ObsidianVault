@@ -2,7 +2,7 @@
 created: 2025-07-06 13:51
 modified: 2025-07-06T13:52:15-04:00
 ---
-type:: #note/action
+type:: #note/atomic 
 
 tags::  [[procrastination]]
 I think you are way to comfortable and need to get out of this cycle, I think the main way is to get a new job, my goal is to be confident in my ability to find a job
