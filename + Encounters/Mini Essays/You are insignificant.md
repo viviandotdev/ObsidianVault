@@ -16,7 +16,7 @@ just exist bro
 - If what you are capable of is not good enough to receive recognition for it that's okay because it all doesn't matter any way. We are all here for a brief period of time.
 - It is enough to just be you.
 - It is enough to just be kind.
-- I am ambitious in that I want to be 
+- I am ambitious not in the way of success or money I am ambitious in the way that I am curious in the actualization of what I am capable.
 
 [[Stop Acting Like You're Famous]]
 
