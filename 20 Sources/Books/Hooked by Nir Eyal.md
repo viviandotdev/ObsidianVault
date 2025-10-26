@@ -18,9 +18,9 @@ This book is about how to create products that users keep coming back to. Produc
 - **Emotions, particularly negative ones, are powerful internal triggers and greatly influence our daily routines.**
 - **Make your product so simple that users already know how to use it, and you’ve got a winner.**
 - **A habit is when not doing an action causes a bit of pain.**
-- **Influencing behavior by reducing the effort required to perform an action is more effective than increasing someone’s desire to do it.
+- Influencing behavior by **reducing the effort** required to perform an action is more effective than increasing someone’s desire to do it.
 
-### Hook Model
+### [[Hook Model]]
 An experience designed to connect the user problem to a solution frequently enough to form a habit. To determine success of a product was to look at the product's habit-forming potential by plotting two factors, **frequency**  (how often the behavior occurs) and **perceived utility**  (how useful and rewarding the behavior is in the user’s mind over alternative solutions)
 ![[Screenshot 2023-09-10 at 1.02.09 PM.png]]
 ### The Hook Model Contains 4 Phases:
@@ -53,7 +53,7 @@ Companies use this effect, to make people purchase their products.
 **[[The Framing Effect]]**
 Our mind takes shortcuts informed by our surrounds to make quick judgments. For example when participate of a study were told that the cost of the wine they were trying was more expensive they experienced more enjoyment. **The brain also showed higher spikes in the pleasure areas **
 
-3. **Variable Reward**
+**Variable Reward**
 Three Types of Variable Rewards: Habit forming products use one or more of the these types. Email uses all three types.
 
 **Rewards of The Tribe**

@@ -5,6 +5,9 @@ modified: 2025-06-16T09:48:55-04:00
 
 type:: #map/content
 
+**Books**
+Almanack of Naval Ravikant
+
 ### Notes
 ```dataview
 LIST

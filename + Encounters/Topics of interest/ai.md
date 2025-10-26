@@ -11,6 +11,10 @@ type:: #map/content
 - why AI cannot be creative?
 - can AI actually think?
 
+
+**Books**
+Empire of AI
+A Brief History Of Intelligence
 ### Notes
 ```dataview
 LIST

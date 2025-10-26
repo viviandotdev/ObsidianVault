@@ -9,6 +9,8 @@ type:: #map/content
 [[Fogg Behavior Model]]
 [[Loss Aversion]]
 
+[[Hooked by Nir Eyal]]
+
 
 
 [[Cognitive Behavrioal Therapy]]

@@ -13,7 +13,9 @@ up::
 [[capitalism]] is an economic system based on private ownership of the goods used to earn a profit while workers earn only wages
 
 
-
+Books
+[[Talking to My Daughter About the Economy by Yanis Varoufakis]]
+Debt in 5000 yeears
 
 ### Notes
 ```dataview
