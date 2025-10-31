@@ -11,11 +11,11 @@ Essentially beta testing
 
 This is not real,
 It is actual real
-What it actually capcapbe of today
+What it actually capable of today
 
-The showcase sells you the pipedream but what they are actually selling you is not the reality
+The showcase sells you the pipe dream but what they are actually selling you is not the reality
 
-Most of the 
+
 Paying someone to enter your house in a robot tin suit.
 The robot is actually controlled by a human being
 
