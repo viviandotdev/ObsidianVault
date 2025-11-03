@@ -59,12 +59,12 @@ area::  [[chinese]]
 
 ## Finished
 
-| Name                  | Chinese Title                  | Episodes | Genre                 | Type   | Link                                                                                   |
-|-----------------------|-------------------------------|----------|-----------------------|--------|----------------------------------------------------------------------------------------|
-| Zootopia              |                               |          |                       | movie  |                                                                                        |
-| Tangled               |                               |          |                       | movie  |                                                                                        |
-| Silent Voice          |                               |          |                       | movie  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/zk0WUTaY)    |
-| Start Up              |                               | 16       | Modern, Romance, Slice of Life | series | [Netflix](https://www.netflix.com/watch/81290293?source=35)                           |
-| Vagabond              |                               | 16       | Action, Drama, Thriller| series | [Netflix](https://www.netflix.com/title/81095101)                                    |
-| More Than Blue: The Series | 比悲傷更悲傷的故事：影集版) |          | Drama, Romance        | series |                                                                                        |
-| Go Ahead              | 以家人之名                    | 40       | Drama, Slice of Life  | series | [Viki](https://www.viki.com/tv/36770c-go-ahead)                                      |
+| Name                       | Chinese Title  | Episodes | Genre                          | Type   | Link                                                                              |
+| -------------------------- | -------------- | -------- | ------------------------------ | ------ | --------------------------------------------------------------------------------- |
+| Zootopia                   |                |          |                                | movie  |                                                                                   |
+| Tangled                    |                |          |                                | movie  |                                                                                   |
+| Silent Voice               |                |          |                                | movie  | [Mega.nz](https://mega.nz/folder/W4twVQSR#PIFVMj5qBvXe52n2YS2AWA/folder/zk0WUTaY) |
+| Start Up                   |                | 16       | Modern, Romance, Slice of Life | series | [Netflix](https://www.netflix.com/watch/81290293?source=35)                       |
+| Vagabond                   |                | 16       | Action, Drama, Thriller        | series | [Netflix](https://www.netflix.com/title/81095101)                                 |
+| More Than Blue: The Series | 比悲傷更悲傷的故事：影集版) |          | Drama, Romance                 | series |                                                                                   |
+| Go Ahead                   | 以家人之名          | 40       | Drama, Slice of Life           | series | [Viki](https://www.viki.com/tv/36770c-go-ahead)                                   |
