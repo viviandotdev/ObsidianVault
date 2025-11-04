@@ -17,3 +17,9 @@ xed ios
 
 **Add person team under Signing and capabilitities**
 ![[Pasted image 20251104061930.png]]
+
+
+
+```
+npx expo run:ios
+```
