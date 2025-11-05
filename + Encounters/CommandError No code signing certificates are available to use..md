@@ -1,6 +1,11 @@
 type:: #note/error
 tags:: [[expo]]
 
+**trigger**
+```
+npx expo run:ios
+```
+
 ![[Pasted image 20251104061845.png]]
 
 zsh: correct 'expo' to '.expo' [nyae]? n
