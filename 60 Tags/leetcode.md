@@ -17,7 +17,7 @@ tags:: [[programming]]
 **Guides**
 [[Leetcode Pattern Recognition Guide]]
 [[Leetcode ROI]]
-[[Leetcode study framework]]
+[[Leetcode study system]]
 [[How to solve and think through leetcode problems]]
 
 ```dataview

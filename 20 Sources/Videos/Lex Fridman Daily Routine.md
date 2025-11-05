@@ -4,6 +4,8 @@ modified: 2025-06-15T18:48:23-04:00
 
 ---
 up::  [[My Routines]]
+source:: [Lex Fridman’s “Day in the Life” Can Help You Smash Your 6-Month Goals | by Scott Stockdale | The Startup | Medium](https://medium.com/swlh/lex-fridmans-day-in-the-life-can-help-you-smash-your-6-month-goals-da7df856b9f5)
+type:: #source/video 
 - **Mantra Routine** — This is split into four parts: rules, visualise, goals, and principles.
 	- Exercise Every Single Day
 	- Accept today may be the last day on earth
@@ -21,7 +23,7 @@ up::  [[My Routines]]
 - **Evening Reading** — One hour of academic papers, followed by an hour of fiction.
 
 
-[Lex Fridman’s “Day in the Life” Can Help You Smash Your 6-Month Goals | by Scott Stockdale | The Startup | Medium](https://medium.com/swlh/lex-fridmans-day-in-the-life-can-help-you-smash-your-6-month-goals-da7df856b9f5)
+
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
