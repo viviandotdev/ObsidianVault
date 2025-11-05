@@ -5,6 +5,7 @@ modified: 2025-06-15T18:52:47-04:00
 ---
 source:: [Hacker Way: Rethinking Web App Development at Facebook - YouTube](https://www.youtube.com/watch?v=nYkdrAPrdcw&t=624s)
 [Flux vs MVC Design Pattern. In Web Application development MVC is… | by Madasamy M | Medium](https://madasamy.medium.com/flux-vs-mvc-design-pattern-de134dfaa12b)
+
 The MVC (Model-View-Controller) diagram illustrates a software architectural pattern for implementing user interfaces by separating the application into three interconnected components. Here is how it works step by step:
 
 1. **Action**: The process begins when the user performs some action in the interface (such as **clicking a button**, submitting a form, etc.) that requires processing or retrieving data.

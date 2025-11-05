@@ -3,7 +3,7 @@ created: 2025-08-04 06:09
 modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[chess]]
-type:: #note/how-to 
+type:: #note/framework 
 tags::
 Woodpecker method
 1. Solve as many exercises from the book as you can in four weeks.
