@@ -2,6 +2,7 @@
 modified: 2025-07-14T09:30:06-04:00
 ---
 up:: [[My Frameworks]]
+note:: #note/framework 
 
 **Cursor**
 - I use cursor for coding, understanding the code base and asking it questions.
