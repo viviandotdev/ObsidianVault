@@ -1,4 +1,5 @@
 type:: #note/error
+tags:: [[expo]]
 
 ![[Pasted image 20251104061845.png]]
 
