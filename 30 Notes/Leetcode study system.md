@@ -2,7 +2,7 @@
 modified: 2025-07-13T07:18:02-04:00
 ---
 tags:: [[leetcode]]
-type:: #note/system 
+type:: #note/framework 
 
 **The creation stage** (spend 1 hour a day in this stage starting with your problems list)
 - choose leetcode problems to do (done)
