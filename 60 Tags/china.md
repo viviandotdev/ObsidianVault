@@ -13,6 +13,8 @@ Age of ambition
 - [[Apple played a big role in china's success]].
 
 
+[[China is ruled by engineers and America is a society of lawyers]]
+
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
