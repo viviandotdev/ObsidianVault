@@ -17,6 +17,8 @@ Books
 [[Talking to My Daughter About the Economy by Yanis Varoufakis]]
 Debt in 5000 yeears
 
+**Blogs**
+[Bits about Money (Page 1)](https://www.bitsaboutmoney.com/archive/)
 ### Notes
 ```dataview
 LIST
