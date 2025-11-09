@@ -4,6 +4,8 @@ modified: 2025-08-01T12:40:00-04:00
 ---
 up:: [[economics]]
 
+Economic system which private individuals or business owns the means of production
+
 
 **what is wrong with [[capitalism]]?**
 
