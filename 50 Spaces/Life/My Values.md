@@ -7,6 +7,9 @@ tags:: [[60 Tags/values|values]]
 
 Values are the principles and beliefs that guide our actions, decisions, and overall outlook on life
 
+**success**
+[[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
+
 [[money]]
 - [[I believe money should be a byproduct of ambition, not the primary desire.]]
 

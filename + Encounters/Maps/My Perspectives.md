@@ -4,7 +4,11 @@ modified: 2025-08-01T12:55:34-04:00
 up:: [[Life Map]]
 [[How I create unique perspectives]]
 
-i want a way to link the sources to my perspectives, the content i consume or creates these  perspectices ?
+i want a way to link the sources to my perspectives, the content i consume or creates these  perspectives?
+success
+
+[[success]]
+[[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
 
 [[happiness]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
