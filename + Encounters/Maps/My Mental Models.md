@@ -1,6 +1,6 @@
 
 [[The Pareto Principle]]
-
+[[Jevons Paradox]]
 [[Ikigai]]
 
 [[Classical conditioning]]
