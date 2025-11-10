@@ -11,7 +11,7 @@ The **Lawyerly** Society vs the **Engineering** State
 China builds while America debates
 Lawyers block anything, good and bad therefore we don't have any functional infrastructure anywhere
 
- The problem is that they are also social engineers that treat society as a giant math exercise — when the Chinese government decides that the population is just another problem to be optimized. Creating stupid ideas like the one-child policy
+ The problem is that they are also social engineers that treat society as a giant math exercise — when the Chinese government decides that the population is just another problem to be optimized. Creating stupid ideas like the [[one-child policy]]
 
 
 
