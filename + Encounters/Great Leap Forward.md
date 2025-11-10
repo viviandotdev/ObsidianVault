@@ -1,7 +1,11 @@
 tags:: [[china]]
 type:: #note/concept
 
-what was the goal of the great leap forward?****
+**what was the goal of the great leap forward?**
+- Collectivizing agriculture 
+	- Abolition of private land ownership and the merging of individual peasant farms into large, state-controlled or cooperatively-managed collective farms
+- Promoting widespread industrialization, with two main targets—increasing grain and steel production. 
+
 - increase industrial outputs by using mass mobilization to raise labor inputs and overcome lack of technological and monetary inputs
 
 **who organized this?**
