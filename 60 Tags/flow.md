@@ -5,6 +5,8 @@ modified: 2025-08-01T21:35:00-04:00
 
 tags:: [[productivity]]
 
+
+The goal is to achieve flow
 ### Notes
 ```dataview
 LIST
