@@ -11,7 +11,7 @@ This is a core belief shared by modern China and Silicon Valley alike: ***Who wi
 > Contrast to america people are constantly worried about AI safety and talk about, i think China sees it more as a tool however in the US we use terms like building a God, we add a religious context to it.
 
 Chinese engineers also seem more practical than their American counterparts. They’re here to build tech and make money; risk management is for bureaucrats; policy is only relevant insofar as it helps or hurts your work. This is something I think Westerners often get wrong. If you live in a single-party state, you are, on average, *less* ideological yourself. The politics have already been decided—no point wasting extra cycles coming up with something new.
-> When living in a single party state 
+> Chi
 
 China also has its own version of tall poppy syndrome, but in its case, the state wields the shears—Jack Ma being the key example. Idioms like 树大招风 (tall trees catch more wind) and 人怕出名猪怕壮 (people fear fame, pigs fear getting fat) warn the dangers of speaking up or standing out. These norms, my mom theorizes, are one reason that Chinese have not been as successful as Indian Americans in ascending American corporate hierarchies.
 
