@@ -7,3 +7,18 @@ mobilized millions of young people, known as the **Red Guards**, to attack perce
 
 what is 
 Triangle building
+building shadow government
+Mao models
+
+social revoluation, wipe out entire social class
+
+Chinese civilian deahs here than all deaths in World War II
+Great famine,
+
+keeps exporing food in the great leap forward and killed alot of their own
+
+
+Military genius 
+brought the people together as communist genius
+
+**White terror**
