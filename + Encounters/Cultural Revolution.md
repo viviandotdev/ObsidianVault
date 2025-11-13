@@ -1,0 +1,1 @@
+1966-1976, political campaign launched by Mao Zedong the aimed at reasserting his control revi
