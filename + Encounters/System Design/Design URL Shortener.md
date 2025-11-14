@@ -102,3 +102,8 @@ To shorten this, just take the first 7 characters of the resulting hash value. H
 **Scalability**: Horizontal sharding of the database. The distribution of data among the shards will be through consistent hashing. In addition, we will use a NoSQL database such as MongoDB. NoSQL databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
 **Latency**: Caches reduce latency by storing frequently accessed URLs. Accessing data from our cache is much faster than accessing it from slower data sources such as our database.
 **Security**: Our system is secure because it uses hash functions, which are designed to be deterministic. This means that although the same input will always generate the same hash value, it is practically impossible to obtain the original input from its hash value. Due to the unpredictability of hash functions, users will not be able to guess the long URL from the short URL.
+
+
+
+[ByteByteGo](https://bytebytego.com/courses/system-design-interview/design-a-url-shortener)
+[Design Interview](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
