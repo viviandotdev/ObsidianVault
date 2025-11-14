@@ -86,7 +86,9 @@ Implement a hash function that hashes a long URL to a 7-character string. We can
 Use the SHA-256 hash function, it will produce a very long hash value
 Take the output and encode using base62 encoding scheme (compact representation)
 To shorten this, just take the first N characters as our short code. 
-	However, this can lead to collisions. To resolve collisions, we can recursively append a predefined string until the collision is resolved.
+	To reduce collision probability generate longer short codes. 
+	To resolve collisions, implement UNIQUE constraint on short code column and retry with bounded attempts(3-5) before returning an error or try different strategy
+		For each retry add random salt to hash function.
 
 ![[URL Shortening]]
 ### Redirecting the URL
