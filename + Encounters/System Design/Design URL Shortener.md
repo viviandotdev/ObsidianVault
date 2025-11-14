@@ -104,6 +104,5 @@ To shorten this, just take the first 7 characters of the resulting hash value. H
 **Security**: Our system is secure because it uses hash functions, which are designed to be deterministic. This means that although the same input will always generate the same hash value, it is practically impossible to obtain the original input from its hash value. Due to the unpredictability of hash functions, users will not be able to guess the long URL from the short URL.
 
 
-
 [ByteByteGo](https://bytebytego.com/courses/system-design-interview/design-a-url-shortener)
 [Design Interview](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
