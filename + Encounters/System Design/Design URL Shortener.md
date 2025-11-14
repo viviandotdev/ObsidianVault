@@ -73,9 +73,10 @@ created_at timestamp
 Ref: URL.user_id > User.user_id // many-to-one
 ```
 ### System Components
+[[Client]]- User interacts with the system through a web or mobile application
 [[Load Balancer]]: We can include a [[load balancer]] between the client and the application servers. It will evenly distribute clients' requests among the application servers using a round-robin algorithm.
-[[Database Sharding]]: As discussed above, we will use a [[NoSQL]] database due to the non-relational nature of our database schema. This database will be sharded, which means it is partitioned into multiple databases stored on different servers, eliminating single points of failure and enhancing system availability and fault tolerance.
-**Cache**: To improve performance, we will use a cache that will allow us to access frequently accessed URLs quickly. For the [[cache]], we can use the [[LRU cache Algorithm]] (Least Recently Used) mechanism, which evicts the least recently used item in the cache to make room for new entries.
+[[Database]]: As discussed above, we will use a [[NoSQL]] database due to the non-relational nature of our database schema. This database will be [[Database Sharding|sharded]], which means it is partitioned into multiple databases stored on different servers, eliminating single points of failure and enhancing system [[availability]] and [[fault tolerance]].
+**[[cache|Cache]]**: To improve performance, we will use a cache that will allow us to access frequently accessed URLs quickly. For the [[cache]], we can use the [[LRU cache Algorithm]] (Least Recently Used) mechanism, which evicts the least recently used item in the cache to make room for new entries.
 ### Shortening the URL
 How to generate a short unique key for a given URL.
 
@@ -97,6 +98,10 @@ To shorten this, just take the first 7 characters of the resulting hash value. H
 5. **Case 3:** If the short URL does not exist in the database, unsuccessful redirection returns an error message.
 	![[URL Redirecting-Case 3]]
 
+301 vs 302 Redirect
+**301 (Permanent Redirect):** This indicates that the resource has been permanently moved to the target URL. Browsers typically cache this response, meaning subsequent requests for the same short URL might go directly to the long URL, bypassing our server.
+
+**302 (Temporary Redirect):** This suggests that the resource is temporarily located at a different URL. Browsers do not cache this response, ensuring that future requests for the short URL will always go through our server first.
 ### Review the requirements
 **Availability**: Most of our components such as databases, caches, and application servers will be replicated to ensure availability and fault tolerance. One common replication strategy we can use is [[Master Slave Replication]]. With [[Master Slave Replication]], one database is the master, which is the main source of truth and holds all the original data that needs to be copied. Any changes made to the master will be copied to the slave databases.  The slave replicas can also handle read operations, therefore improving overall system performance. However, this can introduce consistency issues in our system due to the asynchronous nature of data replication between the master and slave databases.
 **Scalability**: Horizontal [[Database Sharding|sharding]]  of the database. The distribution of data among the shards will be through [[consistent hashing]]. In addition, we will use a [[NoSQL]] database such as MongoDB. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
