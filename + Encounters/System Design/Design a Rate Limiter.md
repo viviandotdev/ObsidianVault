@@ -12,6 +12,9 @@ A rate limiter is a system limits the number of user requests allowed to be sent
 - A website might restrict users to download a maximum of 5 large files (over 100 MB) per day
 - A bank may enforce a limit where a credit card holder can perform a maximum of 10 transactions in a day
 
+**Functional requirements**
+
+
 **Benefits of a Rate Limiter**
 - Protects services from malicious activities, such as DDOS attacks and brute force attempts on passwords or credit card information.
 - Reduce costs and resource usage, by efficiently managing resource consumption. Effective rate limiting is important for companies using third-party APIs that charge on the per-call basis. By restricting the number of calls to APIs, businesses can significantly reduce costs.
@@ -28,11 +31,9 @@ A rate limiter is a system limits the number of user requests allowed to be sent
 ### Where to rate limit?
 Rate limiting is usually implemented within a component called [[API Gateway]] An API gateway acts as a centralized entry point for client requests in an application that uses multiple backend microservices.
 
-TODO:  Api Gateway excalidraw image
 ### Rate Limiting Algorithms
 **Token Bucket Algorithm**
 A token bucket is like a container filed with tokens. The bucket has a maximum size it can hold, and tokens inside represent requests.
-
 These algorithm takes in two parameters:
 **Bucket Capacity:** The maximum capacity of the bucket, let's say 10 tokens maximum.
 **Token Refill Rate:** The constant rate at which tokens are added back into the bucket, for instance, 2 tokens per second.
@@ -70,11 +71,11 @@ These algorithm takes in two parameters:
 - This algorithm uses the fix window algorithm where it keeps track of the counts in each window instead of a timestamp for each request, making it more memory efficient. It also using the window log algorithm because instead of just looking at the count of requests in the fixed window we estimate the number of requests in the rolling window using a formula.
 - However this is not 100% accurate because it **assumes that the requests in the previous window is evenly distributed** which may not always be the case.
 ### System Components
-**In-memory Cache:** Stores the counters, which keeps track of how many requests are sent from the same user.
+**In-memory [[Cache]]:** Stores the counters, which keeps track of how many requests are sent from the same user.
 	**Benefits of using an in memory-cache**
 	- Accessing an in-memory cache is fast, which is crucial for rapidly updating and retrieving counters in real-time.
 	- Redis supports atomic operations, this allows multiple operations to be executed in a single transaction, this is important for incrementing counters while maintaining consistency and avoiding race conditions
-**Rate limiter middleware:** fetches rate limiting rules and runs the rate limiting algorithm to determine if the request can be passed through to the API servers.
+**Rate limiter [[middleware]]:** fetches rate limiting rules and runs the rate limiting algorithm to determine if the request can be passed through to the API servers.
 
 ### System Architecture
 ![[rate limiter architecture diagram]]
