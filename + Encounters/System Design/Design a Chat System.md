@@ -6,10 +6,6 @@ modified: 2025-06-15T13:20:32-04:00
 up:: [[01 System Design Problems]]
 tags:: [[system-design]]
 
-source::
-- finish the API list
-- show the path for the direct and then the group message flow visually
--
 **Functional Requirements**
 1. Users can send and receive chat messages from other clients in real time
 2. Users can send the status of message of status, delivered or read

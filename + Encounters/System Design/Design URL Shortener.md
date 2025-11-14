@@ -5,7 +5,6 @@ modified: 2025-07-20T20:10:54-04:00
 up:: [[01 System Design Problems]]
 tags:: [[system-design]]
 
-
 ### Requirements
 **URL shortening** is a service that takes long URLs and provides a shortened version to make them more manageable and easier to share.
 **Functional Requirements**
