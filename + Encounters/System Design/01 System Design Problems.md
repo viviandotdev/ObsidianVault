@@ -5,8 +5,9 @@ up:: [[system design]]
 
 Easy
 [[Design URL Shortener]]
-[[Design UUID Generator]]
 [[Design a Rate Limiter]]
+[[Design UUID Generator]]
+
 
 Medium
 [[Design a Chat System]]

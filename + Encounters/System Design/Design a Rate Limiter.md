@@ -121,6 +121,5 @@ However locks slow down the system
 
 
 ### Sources
-[youtube.com/watch?v=mhUQe4BKZXs&themeRefresh=1](https://www.youtube.com/watch?v=mhUQe4BKZXs)
-
+[Rate Limiting System design](https://www.youtube.com/watch?v=mhUQe4BKZXs)
 [Rate Limiter with Sliding Window Algorithm - YouTube](https://www.youtube.com/watch?v=Ph9odgg8wQ0)
