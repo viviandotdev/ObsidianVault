@@ -14,7 +14,7 @@ tags:: [[system-design]]
 
 **Non-Functional Requirements**
 **[[Availability]]**: The system should be reliable and available 99.99% of the time (availability > consistency)
-	**why is availability more important for URL shortener?**
+	**why is [[availability]] more important for URL shortener?**
 		- low availability creates a broken user experience, when the system is unavailable, users cannot be redirected and breaks every single link that uses the service
 	**why [[consistency]] is not as important**?
 		- low consistency means that newly created URL might not be immediately redirect-able from all servers simultaneously. A brief inconsistency where a new URL is not available on every node immediately is a minor inconvenience in comparison to every URL not working
@@ -83,8 +83,10 @@ How to generate a short unique key for a given URL.
 **Hash Function**
 Implement a hash function that hashes a long URL to a 7-character string. We can use well-known hash functions such as SHA-1 or MD5 to compute a unique hash of the given URL.
 
-If we use the MD5 hash function, it will produce a very long hash value (128 bits). In Hexadecimal, the hash value will still be 32 characters long.
-To shorten this, just take the first 7 characters of the resulting hash value. However, this can lead to collisions. To resolve collisions, we can recursively append a predefined string until the collision is resolved.
+Use the SHA-256 hash function, it will produce a very long hash value
+Take the output and encode using base62 encoding scheme (compact representation)
+To shorten this, just take the first N characters as our short code. 
+	However, this can lead to collisions. To resolve collisions, we can recursively append a predefined string until the collision is resolved.
 
 ![[URL Shortening]]
 ### Redirecting the URL
@@ -109,7 +111,12 @@ For a URL shortener, a 302 redirect is often preferred because:
 - It allows us to track click statistics for each short URL (even though this is out of scope for this design).
 
 ### Review the requirements
-**Availability**: Most of our components such as databases, caches, and application servers will be replicated to ensure availability and fault tolerance. One common replication strategy we can use is [[Master Slave Replication]]. With [[Master Slave Replication]], one database is the master, which is the main source of truth and holds all the original data that needs to be copied. Any changes made to the master will be copied to the slave databases.  The slave replicas can also handle read operations, therefore improving overall system performance. However, this can introduce consistency issues in our system due to the asynchronous nature of data replication between the master and slave databases.
+**Availability**: Most of our components such as databases, caches, and application servers will be replicated to ensure [[availability]] and fault tolerance. 
+	One common replication strategy we can use is [[Master Slave Replication]]. 
+		One database is the master, which is the main source of truth and holds all the original data that needs to be copied. 
+		Any changes made to the master will be copied to the slave databases.  
+		The slave replicas can also handle read operations, therefore improving overall system performance. 
+		However, this can introduce consistency issues in our system due to the asynchronous nature of data replication between the master and slave databases.
 **Scalability**: Horizontal [[Database Sharding|sharding]] of the database. 
 - The distribution of data among the shards will be through [[consistent hashing]]. In addition, we will use a [[NoSQL]] database such as [[MongoDB]]. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
 **Latency**: 
