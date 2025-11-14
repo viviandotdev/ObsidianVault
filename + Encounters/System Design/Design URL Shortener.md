@@ -98,16 +98,25 @@ To shorten this, just take the first 7 characters of the resulting hash value. H
 5. **Case 3:** If the short URL does not exist in the database, unsuccessful redirection returns an error message.
 	![[URL Redirecting-Case 3]]
 
-301 vs 302 Redirect
+**Two Main Types of HTTP Redirects**
 **301 (Permanent Redirect):** This indicates that the resource has been permanently moved to the target URL. Browsers typically cache this response, meaning subsequent requests for the same short URL might go directly to the long URL, bypassing our server.
 
 **302 (Temporary Redirect):** This suggests that the resource is temporarily located at a different URL. Browsers do not cache this response, ensuring that future requests for the short URL will always go through our server first.
+
+For a URL shortener, a 302 redirect is often preferred because:
+- It gives us more control over the redirection process, allowing us to update or expire links as needed.
+- It prevents browsers from caching the redirect, which could cause issues if we need to change or delete the short URL in the future.
+- It allows us to track click statistics for each short URL (even though this is out of scope for this design).
+
 ### Review the requirements
 **Availability**: Most of our components such as databases, caches, and application servers will be replicated to ensure availability and fault tolerance. One common replication strategy we can use is [[Master Slave Replication]]. With [[Master Slave Replication]], one database is the master, which is the main source of truth and holds all the original data that needs to be copied. Any changes made to the master will be copied to the slave databases.  The slave replicas can also handle read operations, therefore improving overall system performance. However, this can introduce consistency issues in our system due to the asynchronous nature of data replication between the master and slave databases.
 **Scalability**: Horizontal [[Database Sharding|sharding]]  of the database. The distribution of data among the shards will be through [[consistent hashing]]. In addition, we will use a [[NoSQL]] database such as MongoDB. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
-**Latency**: [[Caches]] reduce latency by storing frequently accessed URLs. Accessing data from our cache is much faster than accessing it from slower data sources such as our database. Leveraging a [[CDN]] can help reduce latency
-**Security**: Our system is secure because it uses hash functions, which are designed to be deterministic. This means that although the same input will always generate the same hash value, it is practically impossible to obtain the original input from its hash value. Due to the unpredictability of hash functions, users will not be able to guess the long URL from the short URL.
+**Latency**: 
+- [[Caches]] reduce latency by storing frequently accessed URLs. Accessing data from our cache is much faster than accessing it from slower data sources such as our database
+- Leveraging a [[CDN]] can also help reduce latency
+**Security**: generating unique un-predictable short urls
+	[[Hash function]], which are designed to be deterministic. This means that although the same input will always generate the same hash value, it is practically impossible to obtain the original input from its hash value. Due to the unpredictability of hash functions, users will not be able to guess the long URL from the short URL.
 
-
+**Resources**
 [ByteByteGo](https://bytebytego.com/courses/system-design-interview/design-a-url-shortener)
 [Design Interview](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
