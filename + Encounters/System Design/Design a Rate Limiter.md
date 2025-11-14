@@ -106,18 +106,6 @@ However locks slow down the system
 ### Review of the Requirements
 - **Accuracy** The following rate limiting algorithms, token bucket, sliding window, fixed window can accurately limit requests with minimal errors
 - **Scalable** In a distributed environment, we can use a load balancer to distribute requests. The load balancer is managing requests across multiple servers and multiple data centers. We have multiple implementations of the rate limiter, as every data center has its own implementation of this middleware.
--
-![[Screenshot 2023-12-01 at 9.03.07 AM.png]]
-
-![[Screenshot 2023-12-01 at 9.03.17 AM.png]]
-
-![[Screenshot 2023-12-01 at 9.03.40 AM.png]]
-
-![[Screenshot 2023-12-01 at 9.03.43 AM.png]]
-
-![[Screenshot 2023-12-01 at 10.04.11 AM.png]]
-
-
 
 
 ### Sources
