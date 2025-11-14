@@ -110,12 +110,13 @@ For a URL shortener, a 302 redirect is often preferred because:
 
 ### Review the requirements
 **Availability**: Most of our components such as databases, caches, and application servers will be replicated to ensure availability and fault tolerance. One common replication strategy we can use is [[Master Slave Replication]]. With [[Master Slave Replication]], one database is the master, which is the main source of truth and holds all the original data that needs to be copied. Any changes made to the master will be copied to the slave databases.  The slave replicas can also handle read operations, therefore improving overall system performance. However, this can introduce consistency issues in our system due to the asynchronous nature of data replication between the master and slave databases.
-**Scalability**: Horizontal [[Database Sharding|sharding]]  of the database. The distribution of data among the shards will be through [[consistent hashing]]. In addition, we will use a [[NoSQL]] database such as MongoDB. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
+**Scalability**: Horizontal [[Database Sharding|sharding]] of the database. 
+- The distribution of data among the shards will be through [[consistent hashing]]. In addition, we will use a [[NoSQL]] database such as [[MongoDB]]. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
 **Latency**: 
 - [[Caches]] reduce latency by storing frequently accessed URLs. Accessing data from our cache is much faster than accessing it from slower data sources such as our database
 - Leveraging a [[CDN]] can also help reduce latency
 **Security**: generating unique un-predictable short urls
-	[[Hash function]], which are designed to be deterministic. This means that although the same input will always generate the same hash value, it is practically impossible to obtain the original input from its hash value. Due to the unpredictability of hash functions, users will not be able to guess the long URL from the short URL.
+	[[Hash function]], Due to the unpredictability of hash functions, users will not be able to guess the long URL from the short URL.
 
 **Resources**
 [ByteByteGo](https://bytebytego.com/courses/system-design-interview/design-a-url-shortener)
