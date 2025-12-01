@@ -7,6 +7,9 @@ type:: #map/content
 **Books**
 Atomic Habits
 ### Notes
+
+
+[[Framework for building an habit]]
 ```dataview
 LIST
 FROM "30 Notes" AND [[#]]
