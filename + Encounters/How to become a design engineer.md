@@ -7,6 +7,7 @@
 **Copy**: steal their systems - their morning routines, writing habits, tools, workflows.
 [[How create a screen]]
 
+[[App template design projects]]
 
 **Outwork**: execute them harder for 90 days.
 
