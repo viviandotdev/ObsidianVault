@@ -1,3 +1,4 @@
+type:: #map/project
 
 **Study**: find 3 people doing the job you want and reverse-engineer their path.
 [Magic UI](https://magicui.design/)
