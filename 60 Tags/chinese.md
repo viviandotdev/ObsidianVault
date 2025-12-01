@@ -31,7 +31,7 @@ Put the ideas in the your Anki cards, when the questions
 
 
 **Projects**
-- translating one of your favorite essays
+- Each week work on learning an essay? translating one of your favorite essays
 - memorizing an essay
 	- learn the essay (read it through 10-20 times)
 	- break up the essay into chunks in anki
