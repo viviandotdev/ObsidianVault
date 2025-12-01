@@ -10,6 +10,9 @@ about:blank
 
 [[App template design projects]]
 
+[[Common screens to view]]
+
+[[How to update packages]]
 
 **Outwork**: execute them harder for 90 days.
 
