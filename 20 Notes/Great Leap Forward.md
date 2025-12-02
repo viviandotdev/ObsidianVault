@@ -29,4 +29,4 @@ The [[Great Leap Forward]] was an industrialization campaign within China from 1
 - by **1965** the famine ended, in the just 3-4 years
 
 
-after the great leap forward was the [[Cultural Revolution]]
+after the great leap forward was the [[Cultural Revolutiona]]

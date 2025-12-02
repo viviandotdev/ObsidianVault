@@ -5,7 +5,6 @@ modified: 2025-06-22T19:16:10-04:00
 type:: #note/atomic
 tags:: [[china]]
 
-
 The **Lawyerly** Society vs the **Engineering** State
 
 China builds while America debates
@@ -14,9 +13,7 @@ Lawyers block anything, good and bad therefore we don't have any functional infr
  The problem is that they are also social engineers that treat society as a giant math exercise — when the Chinese government decides that the population is just another problem to be optimized. Creating stupid ideas like the [[one-child policy]]
 
 
-
-
-China 
+**China** 
 - economic bully
 - thief of American intellectual property
 - hardcore surveillance state

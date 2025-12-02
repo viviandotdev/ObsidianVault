@@ -10,6 +10,10 @@ tags:: [[philosophy]] [[psychology]]
 type:: #source/book
 # The Courage to be Disliked
 by [[Ichiro Kishimi, Fumitake Koga]]
+process all your highlights and snips from snipd into kindle
+distill down your highlights into ideas 
+and frameworks
+
 
 The courage to be disliked
 -  idea about anger, people commonly think that anger is something that you can’t control it’s an emotions that pops out of no where and you need to express your self to let it out
