@@ -13,7 +13,7 @@ type:: #source/artcicle
 
 > In the United States, **political parties are mostly focused on getting their candidates elected** as opposed to everyday governance
 
-The way the United States is structured, people care more about staying in power rather than actually governing and putting policies in place that will actually create growth.
+==The way the United States is structured, people care more about staying in power rather than actually governing and putting policies in place that will actually create growth.==
 
 > Over 10 million died during the [[Great Leap Forward]]
 
@@ -23,7 +23,7 @@ The way the United States is structured, people care more about staying in power
 > In the United States, large organizations such as unions, YMCA, and United Way are independent. But in China, the party manages everything.
 > These nongovernment agencies are managed as government entities under the party
 
-> China is the only major country that has not engaged in any warfare in the past four decades
+> **China is the only major country that has not engaged in any warfare in the past four decades**
 
 > To avoid nepotism, in Chinese politics, a city’s leader is usually not from the area. This has been the practice for thousands of years
 
