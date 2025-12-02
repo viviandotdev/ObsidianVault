@@ -74,7 +74,7 @@ Ref: URL.user_id > User.user_id // many-to-one
 ```
 ### System Components
 [[Client]]- User interacts with the system through a web or mobile application
-[[Load Balancer]]: We can include a [[load balancer]] between the client and the application servers. It will evenly distribute clients' requests among the application servers using a round-robin algorithm.
+[[Load Balancer]]: We can include a [[Load Balancer]] between the client and the application servers. It will evenly distribute clients' requests among the application servers using a round-robin algorithm.
 [[Database]]: As discussed above, we will use a [[NoSQL]] database due to the non-relational nature of our database schema. This database will be [[Database Sharding|sharded]], which means it is partitioned into multiple databases stored on different servers, eliminating single points of failure and enhancing system [[availability]] and [[fault tolerance]].
 **[[cache|Cache]]**: To improve performance, we will use a cache that will allow us to access frequently accessed URLs quickly. For the [[cache]], we can use the [[LRU cache Algorithm]] (Least Recently Used) mechanism, which evicts the least recently used item in the cache to make room for new entries.
 ### Shortening the URL
@@ -120,7 +120,7 @@ For a URL shortener, a 302 redirect is often preferred because:
 		The slave replicas can also handle read operations, therefore improving overall system performance. 
 		However, this can introduce consistency issues in our system due to the asynchronous nature of data replication between the master and slave databases.
 **Scalability**: Horizontal [[Database Sharding|sharding]] of the database. 
-- The distribution of data among the shards will be through [[consistent hashing]]. In addition, we will use a [[NoSQL]] database such as [[MongoDB]]. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
+- The distribution of data among the shards will be through [[Consistent Hashing]]. In addition, we will use a [[NoSQL]] database such as [[MongoDB]]. [[NoSQL]] databases which are not highly relational can be easily scaled horizontally because the data can be spread across multiple nodes.
 **Latency**: 
 - [[Caches]] reduce latency by storing frequently accessed URLs. Accessing data from our cache is much faster than accessing it from slower data sources such as our database
 - Leveraging a [[CDN]] can also help reduce latency

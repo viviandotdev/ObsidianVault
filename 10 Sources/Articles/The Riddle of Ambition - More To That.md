@@ -15,7 +15,7 @@ Focus on the challenge, and not its byproducts.
 
 **Ambition is a tricky thing because it's both empowering and pointless.**
 
-**I've thought about this quite a bit, especially because I consider myself an ambitious person. Not in the pursuit of status or recognition, but more so in the [[self actualization|actualization]] of what I'm capable of.**
+**I've thought about this quite a bit, especially because I consider myself an ambitious person. Not in the pursuit of status or recognition, but more so in the [[Self actualization|actualization]] of what I'm capable of.**
 
 
 *Self actualization is true ambition,*
