@@ -4,7 +4,6 @@ type:: #source/article
 
 On one hand, he noticed how technology can increase social alienation and a materialistic “money first” attitude. But he also considered how it may tame an unruly society more effectively than law:
 
-
 This is a core belief shared by modern China and Silicon Valley alike: ***Who wins in technology, wins the world.***
 
 “Do you guys worry about AI safety?” “We don’t think about risks at all.”
