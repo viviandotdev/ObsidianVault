@@ -20,5 +20,4 @@ just exist bro
 
 [[Stop Acting Like You're Famous]]
 
-
 [The joy of being insignificant — Asynchronous agile | Go “async-first”](https://www.asyncagile.org/blog/the-joy-of-being-insignificant)
