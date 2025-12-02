@@ -3,7 +3,7 @@ created: 2024-01-16 12:57
 modified: Tuesday 16th January 2024 12:57:12
 
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 [Designing INSTAGRAM: System Design of News Feed - YouTube](https://www.youtube.com/watch?v=QmX2NPkJTKg)

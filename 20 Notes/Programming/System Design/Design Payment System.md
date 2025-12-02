@@ -2,7 +2,7 @@
 created: 2024-04-10 15:27
 modified: Wednesday 10th April 2024 15:27:44
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 Try to do most of this without looking at the summarized information,

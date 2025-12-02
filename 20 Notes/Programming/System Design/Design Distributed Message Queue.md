@@ -3,7 +3,7 @@ created: 2023-08-10 17:23
 modified: Thursday 10th August 2023 17:23:34
 
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 **Benefits of message queue**

@@ -3,7 +3,7 @@ created: 2023-08-25 19:26
 modified: Friday 25th August 2023 19:26:36
 
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 ## Design Key Value Store

@@ -3,7 +3,7 @@ created: 2023-08-07 17:43
 modified: Monday 7th August 2023 18:39:37
 
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 [System Design Interview - Notification Service - YouTube](https://www.youtube.com/watch?v=bBTPZ9NdSk8)

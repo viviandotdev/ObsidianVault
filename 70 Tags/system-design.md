@@ -19,8 +19,7 @@ up:: [[programming]]
 **Patterns**
 [[Scalability Patterns]]
 
-
-[[01 System Design Problems]]
+[[System Design Problems]]
 
 ### Considerations for Designing Large Scale Distributed Systems
 ref:: [Systems design - Wikipedia](https://en.wikipedia.org/wiki/Systems_design)

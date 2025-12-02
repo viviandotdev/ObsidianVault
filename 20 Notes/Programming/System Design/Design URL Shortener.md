@@ -2,7 +2,7 @@
 created: 2023-09-01 14:41
 modified: 2025-07-20T20:10:54-04:00
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 ### Requirements

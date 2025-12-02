@@ -3,7 +3,7 @@ created: 2023-09-04 15:04
 modified: Monday 4th September 2023 15:04:30
 
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 ### What is it?

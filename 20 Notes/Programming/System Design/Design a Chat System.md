@@ -3,7 +3,7 @@ created: 2024-02-29 16:26
 modified: 2025-06-15T13:20:32-04:00
 
 ---
-up:: [[01 System Design Problems]]
+up:: [[System Design Problems]]
 tags:: [[system-design]]
 
 **Functional Requirements**
