@@ -6,6 +6,10 @@ source::
 type:: #map/area
 
 
+**Interview prep**
+system design
+[AI-powered interview prep](https://prepai.xyz/)
+
 
 ### Links to this page
 ```dataview
