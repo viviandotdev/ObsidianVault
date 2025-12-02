@@ -2,7 +2,7 @@
 created: 2025-07-01 18:53
 modified: 2025-07-15T07:21:00-04:00
 ---
-up:: [[My Frameworks]]
+up:: [[My PKM Frameworks]]
 tags::
 **Tracker-Journal**
 - **Habits Tracker**

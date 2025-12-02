@@ -2,7 +2,7 @@
 created: 2024-03-23 19:22
 modified: 2025-06-22T19:43:43-04:00
 ---
-up:: [[My Frameworks]]
+up:: [[My PKM Frameworks]]
 Protocol to Fight of Distractions
 	1. identify that discomfort
 	2. take out a journal (time, trigger, action)

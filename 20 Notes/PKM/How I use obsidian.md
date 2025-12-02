@@ -2,7 +2,7 @@
 created: 2025-06-22 19:55
 modified: 2025-06-22T20:31:45-04:00
 ---
-up:: [[My Frameworks]]
+up:: [[My PKM Frameworks]]
 
 **By standardizing** and streamlining both the format of our notes and the steps by which we process them, **the real work can come to the forefront: thinking, reflecting, writing, discussing, testing, and sharing.** This is the work that adds value, and now we have the time to do it more effectively. --Tiago Forte
 ### Note-taking

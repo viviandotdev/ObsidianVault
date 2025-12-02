@@ -2,7 +2,7 @@
 created: 2025-06-22 13:32
 modified: 2025-06-23T20:28:13-04:00
 ---
-up::  [[My Frameworks]]
+up::  [[My PKM Frameworks]]
 
 [Tiago Forte's Weekly Review - YouTube](https://www.youtube.com/playlist?list=PLVNXAaej57W63yyOFiJtdrZR6lpODnKrW)
 
