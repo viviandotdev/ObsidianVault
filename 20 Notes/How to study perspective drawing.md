@@ -27,3 +27,4 @@ tags:: [[drawing]]
 [Drawabox.com](https://drawabox.com/lesson/2)
 [Perspective Drawing Series (1994)](https://gumroad.com/d/d3a1ebb44d7b16f917b634a796485469)
 [Fundamentals of perspective](https://gumroad.com/d/a93e14d48de36a246589d76e2a5aed06)
+Scott Robertson
