@@ -1,4 +1,4 @@
-tags:: #ai
+tags:: [[ai]]
 source:: https://www.youtube.com/watch?v=OU8mJIOTr9U
 type:: #source/video 
 

@@ -20,13 +20,13 @@
 
 
 [[Fogg Behavior Model]]
+
 **Culture**
 [[Eastern vs. western values]]
 
 
 **Physics**
 [[Parkinson's law]]
-
 
 
 **Library of Mental modals**
