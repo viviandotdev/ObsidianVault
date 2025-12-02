@@ -9,11 +9,15 @@ type:: #map/content
 [[Fogg Behavior Model]]
 [[Loss Aversion]]
 
+
+**Books**
 [[Hooked by Nir Eyal]]
+[[The Courage to be Disliked by Ichiro Kishimi Fumitake Koga]]
+[[Subliminal by Leonard Mlodinow]]
 
 
-
-[[Cognitive Behavrioal Therapy]]
+**Sub topics**
+[[Spiral Dynamics]]
 
 
 
