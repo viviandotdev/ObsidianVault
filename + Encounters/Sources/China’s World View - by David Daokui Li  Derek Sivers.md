@@ -13,9 +13,9 @@ type:: #source/artcicle
 
 > In the United States, **political parties are mostly focused on getting their candidates elected** as opposed to everyday governance
 
-The way the United States is structured, people care more about staying in power rath
+The way the United States is structured, people care more about staying in power rather than actually governing and putting policies in place that will actually create growth.
 
-> Over 10 million died during the Great Leap Forward
+> Over 10 million died during the [[Great Leap Forward]]
 
 > Every village has a party committee, every department of a university has a party branch, and even factories have a party branch.
 > Party committee members to hold regular meetings called democratic life meetings, during which they analyze their actions and areas for improvement through self-inspection and self-criticism
