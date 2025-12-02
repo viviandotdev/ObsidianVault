@@ -12,6 +12,9 @@ tags:: [[content-creation]] [[success]]
 The act of doing it more important the output that is produced
 
 
+The joy that you get from creating is enough of a reason to create. 
+Don't create for the money or attention, create just for yourself
+		
 Jacqueline Harpman. **I Who Have Never Known Man** (Function). Kindle Edition. 
 
 ### Links to this page
