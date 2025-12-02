@@ -1,5 +1,6 @@
  up:: [[writing]]
  type:: #note/list
+ 
  A concise but comprehensive collection of information on a specific subject, often presented in the form of a book.
 
 **Examples**
@@ -19,3 +20,12 @@
 [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 
 [About Deranged Physiology | Deranged Physiology](https://derangedphysiology.com/main/about-deranged-physiology)
+
+**Learning Compendiums**
+https://andymatuschak.org/
+
+
+https://quantum.country/
+
+
+[Practice Drawing This! FREE Drawing Practice Resources](https://practicedrawingthis.com/cgi-bin/index.cgi)

@@ -4,15 +4,13 @@ modified: 2025-06-23T20:30:10-04:00
 ---
 up:: [[Tools]]
 tags:: [[3d-modeling]]
-## blender
-
-### **Inspiration**
+### Inspiration
 *   [6 Mistakes I'd Avoid (if I were to learn Blender all over again)!](https://www.youtube.com/watch?v=l_N53XCqsxk&list=WL&index=16)
 *   [6 Month Blender Progression](https://www.youtube.com/watch?v=QSe1aSAtO_U)
 *   *Ori and the Will of the Wisps* (Game/Art Style)
 *   *Tears of the Kingdom* (Game/Art Style)
 
-### **3D Resources**
+### 3D Resources
 
 **Modeling**
 *   **YouTube:** [Polygon Runway](https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA), [Josh Gambrell](https://www.youtube.com/channel/UCXfGjwohMgPm4Ng2e1FXySw)
@@ -78,16 +76,17 @@ tags:: [[3d-modeling]]
     *   [Castle (Udemy)](https://www.udemy.com/course/modeling-stylized-game-castle-mastering-stylized-art/)
     *   [Desert Building (Udemy)](https://www.udemy.com/course/the-blender-4-ultimate-guide/?couponCode=2021PM20)
 
-[[Blender Shortcuts]]
 
 ## Courses
 **Modeling**
 1. [[3DM-A Complete Guide to 3D Modeling in Blender - Patata School]]
 2. [[FDM-Making Food and Drinks in Blender]]
-3. Blender
+3. [[3JS-Three.js Journey]]
+4. Blender Coloso Course
 
 
 **Articles**
+[[Blender Shortcuts]]
 [How I learned blender in 100 days](https://medium.com/the-100-day-project/100-days-of-3d-4b28a514f3ac)
 ```dataview
 table file.mtime.year + "-" + file.mtime.month + "-" + file.mtime.day as Modified

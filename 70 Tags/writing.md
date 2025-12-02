@@ -6,7 +6,7 @@ modified: 2025-06-13T07:00:59-04:00
 type:: #map/area 
 
 **Blogs**
-[[blogs]]
+[[Blogs]]
 
 **People**
 [[Paul Graham]]
@@ -32,7 +32,7 @@ type:: #map/area
 
 
 **Projects**
-Write an [[compendium]] about a topic of interest
+Write an [[Compendium]] about a topic of interest
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview

@@ -1,6 +1,8 @@
 up:: [[writing]]
 type:: #note/list 
-
+ 
+ A blog is a website or online journal where individuals or groups regularly publish articles, also called "posts," on various topics in a conversational, often informal, style
+ 
 Ideas Essays
 https://spoonfedacademy.substack.com/p/a-step-by-step-guide-on-achieving
 https://moretothat.com/the-nothingness-of-money/
@@ -24,18 +26,6 @@ https://www.notboring.co/p/the-electric-slide
 
 
 https://maggieappleton.com/garden
-
-
-
-
-**learning compendium?**
-https://andymatuschak.org/
-
-
-https://quantum.country/
-
-
-[Practice Drawing This! FREE Drawing Practice Resources](https://practicedrawingthis.com/cgi-bin/index.cgi)
 
 Create an Articles using these examples, you can 
 draw these visualizations on your iPad
