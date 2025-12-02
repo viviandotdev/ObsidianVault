@@ -6,12 +6,14 @@ type:: #source/artcicle
 
 > This means that Chinese leaders are mostly exhausted by domestic affairs
 
-> Most Chinese believe that today China is in the rising part of a cycle following the “century of humiliation” from 1840 (the Opium War) to 1945 (the end of the Japanese invasion).
+> Most Chinese believe that today China is in the rising part of a cycle following the **“century of humiliation” from 1840 (the Opium War) to 1945 (the end of the Japanese invasion).**
 
 > China remained in disarray until the Communist Party assumed national power in 1949.
-> From this historical perspective, the Communist Party is recognized as a hero
+> From this historical perspective, the **Communist Party is recognized as a hero**
 
-> In the United States, political parties are mostly focused on getting their candidates elected as opposed to everyday governance
+> In the United States, **political parties are mostly focused on getting their candidates elected** as opposed to everyday governance
+
+The way the United States is structured, people care more about staying in power rath
 
 > Over 10 million died during the Great Leap Forward
 
