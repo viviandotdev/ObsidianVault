@@ -9,6 +9,10 @@ tags:: [[happiness]]
 **Idea**
 It is the progress towards your goals that makes you happy not achieving the goal itself
 Therefore you are much close to feeling of happiness than you think because just the act of seeing progress is enough to make you happy
+**The end is not what makes you happy it’s process and progress you see that actually makes you happy**
+
+But the happiness is in the journey, if you enjoy what you are doing now that is enough
+
 
 **Common Problems/Misconception*
 - We think that we will be happy when we achieve our goals

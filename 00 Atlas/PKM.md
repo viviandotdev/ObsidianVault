@@ -5,6 +5,10 @@ type:: #map/view
 
 Here are "best practices" for managing your PKM system. 
 
+I’m caring too much about the record of keep and searching everything but that doesn’t not matter
+Systems become crutches and override our own judgement of what actually helps what what just becomes system maintenance
+
+
 **Inspirations**
 - Building a second brain
 - How To Take Smart Notes
@@ -18,7 +22,7 @@ Managing my PKM system
 	- [[My PKM Folders|My PKM Folders]]
 	- [[My PKM Tags|My PKM Tags]]
 
-How to take notes
+**How to take notes**
 [[How I Take Smart Notes- Books]]
 [[How I Take Smart Notes- Videos]]
 [[How to Write Atomic Notes]]

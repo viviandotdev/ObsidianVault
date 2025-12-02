@@ -63,6 +63,12 @@ Because they have goals
 
 - your relationship with your dad is bad because he hit you as a kid vs
 - you choose to not improve your relationship with your dad by constantly bringing up the memory that he hit you as a kid and that he is a bad person
+
+Its matters not the record but the activity itself
+It also does not matter if your contribution is actually useful
+It is the act of feeling that you have contributed is enough to be happy.
+
+
 **Motive**:
 <!-- What motivated you to read this book? -->
 
