@@ -3,7 +3,7 @@ type:: #note/list
  
  A blog is a website or online journal where individuals or groups regularly publish articles, also called "posts," on various topics in a conversational, often informal, style
  
-Ideas Essays
+**Ideas Essays**
 https://spoonfedacademy.substack.com/p/a-step-by-step-guide-on-achieving
 https://moretothat.com/the-nothingness-of-money/
 
