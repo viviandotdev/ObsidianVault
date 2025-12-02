@@ -14,6 +14,12 @@ process all your highlights and snips from snipd into kindle
 distill down your highlights into ideas 
 and frameworks
 
+[books notes](https://publish.obsidian.md/ethans/000+Content+Maps/%2B%2BStart+Here)
+create and distill into best ideas
+create a mind map of the ideas grouped
+
+[Psycho Cybernetics - Maxwell Maltz - Personal Development AI - Obsidian Publish](https://publish.obsidian.md/ethans/001+Authors/Maxwell+Maltz/Psycho+Cybernetics+-+Maxwell+Maltz)
+
 
 The courage to be disliked
 -  idea about anger, people commonly think that anger is something that you can’t control it’s an emotions that pops out of no where and you need to express your self to let it out
