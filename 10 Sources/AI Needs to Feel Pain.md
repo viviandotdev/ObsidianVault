@@ -7,4 +7,4 @@ We thought emotions interfered decisions making
 
 Tic Tac Toe 
 Boxes Algorithm
-Learned the best move
+Learned the best move 
