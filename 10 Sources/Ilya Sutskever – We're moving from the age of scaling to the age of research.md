@@ -2,7 +2,9 @@ tags::
 source:: https://www.youtube.com/watch?v=aR20FWCCjAs&list=WL&index=5
 type:: #source/article
 
-general Ai
+[[Value functions]] -> give intermediate feedback so agents can learn faster.
+**What are value functions?**
+- In term
 
 what ai an emotion
 
