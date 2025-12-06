@@ -7,7 +7,18 @@ to
 - However, research, tinkering is not guaranteed
 **From no onward we are moving back to the age of research**
 - No that the models 
-- We have trained all these models on all the data in the world. Pre-training data is what makes these models today. Behind each model we have the same things because they are all trained on the same data anyway. To find mo
+- We have trained all these models on all the data in the world. Pre-training data is what makes these models today. Behind each model we have the same things because they are all trained on the same data anyway. To find novel solutions to AI we need to discover new methods 
+
+**What are some new approaches to build AI?**
+[[Continual learning]] as an definition for AGI
+A deployed learner that improves on the job is functionally super intelligent
+Humans generalize better and learn with far fewer samples due to evolution and build-in value functions.
+
+
+- You have a neural net and give a problem to solve
+- The modal has 1000s of actions to produce a solution
+- You use a score to provider a training signal for every action in the trajectory
+- 
 
 
 
