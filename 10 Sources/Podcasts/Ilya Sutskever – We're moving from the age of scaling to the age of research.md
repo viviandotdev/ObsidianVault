@@ -1,6 +1,6 @@
-tags::
+tags:: [[ai]]
 source:: https://www.youtube.com/watch?v=aR20FWCCjAs&list=WL&index=5
-type:: #source/article
+type:: #source/podcast 
 
 **From 2020 until now we have been in the age of scaling**
 - With the release of ChatGPT companies realized that scaling could lead to repeatable improvement
