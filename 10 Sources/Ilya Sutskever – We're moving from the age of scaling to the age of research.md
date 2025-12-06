@@ -11,7 +11,9 @@ type:: #source/article
 
 **Emotions as [[value function]]s**
 There was a study on a boy who had a stroke and lost his ability to feel emotions, this disrupted his ability to make decisions such as what socks to wear and lead to him making some poor financial decisions
-- this says something about how emotions function asss
+- this says something about how emotions function as value functions for us to decide what is the best decision to make
+- emotions are highly effective in how they can guide humans to make them learn
+- emotions are a way for to make very quick decisions based. Making decisions is the basis for learning. [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
 
 **What are some new approaches to build AGI?**
 [[Continual learning]] as an definition for [[AGI]]
