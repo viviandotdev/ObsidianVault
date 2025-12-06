@@ -10,7 +10,7 @@ type:: #source/article
 - We have trained all these models on all the data in the world. Pre-training data is what makes these models today. Behind each model we have the same things because they are all trained on the same data anyway. To find novel solutions to AI we need to discover new methods 
 
 **Emotions as [[value function]]s**
-There was a study on a boy who had a stroke and lost his ability to feel emotions, this disrupted his ability to make decisions such as what socks to wear and lead to him making some poor financial decisions
+There was a study on a boy who had a stroke and lost his ability to feel emotions, this disrupted his ability to make decisions such as what socks to wear and lead to him making some poor financial decisions- [[Somatic Marker Hypothesis]]
 - this says something about how emotions function as value functions for us to decide what is the best decision to make
 - emotions are highly effective in how they can guide humans to make them learn
 - emotions are a way for to make very quick decisions based. Making decisions is the basis for learning. [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
