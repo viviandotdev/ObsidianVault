@@ -28,7 +28,10 @@ in a go program you can put a lock around a function, this tells the second thre
 ==what does it mean for thread instructions to be atomic?==
 
 
-==what are RPC (remote procudure calls in Go?)==
+==what are RPC (remote procedure calls in Go?)==
+
+
+==why is go the preferred language of use?==
 
 **[[Design A Web Crawler|Web Crawler]] as an example**
 ==what is web crawler?==
@@ -41,7 +44,7 @@ purpose is to -> download the related contents of the web
 - how do we prevent **cycles**, where it visiting sites already visited
 - we need to fetch many pages in parallel, or else it would just take forever
 - when is the call finished?, this is recursive, how do we know what is it done
-the algorithm
+**the algorithm for a serial web crawler**
 ```go
 func Serial(url string, fetcher Fetcher, fetched map[string]bool) {
 	// Check if the URL has already been fetched.
