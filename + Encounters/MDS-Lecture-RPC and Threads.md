@@ -30,3 +30,14 @@ what does it be for thread instructions to be atomic?
 
 what are RPC (remote procudure calls in Go?)
 
+**web crawler as an example**
+what is web crawler?
+
+what some challenges when creating a web crawler?
+- fetch twice
+- cycles
+- fetch many pages in parallell
+- what is the call finished?
+**serial cralwer**
+- dfs
+-  
