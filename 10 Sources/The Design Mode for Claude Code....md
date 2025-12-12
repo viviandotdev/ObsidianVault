@@ -45,7 +45,7 @@ Help me design a personal todo UIbased on the style in todo.html
 
 use the ui-design guidelines prompt with the above
 ```
-*   **Code Structure:** Provide HTML and associated styling within a single code block. All CSS styles must be placed directly within the `style` attribute.
+*   **Code Structure:** Provide HTML and associated styling within a single code block. Default to using tailwind  All CSS styles must be placed directly within the `style` attribute.
 *   **Response Format:** Begin with a textual response, then provide the code, and conclude with a final response.
 *   **Prohibited Mentions:** Do not mention tokens, Tailwind, or HTML in your response.
 *   **Document Structure:** Always include the `<html>`, `<head>`, and `<body>` tags.
