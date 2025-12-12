@@ -45,10 +45,9 @@ Help me design a personal todo UIbased on the style in todo.html
 
 use the ui-design guidelines prompt with the above
 ```
-*   **Code Structure:** Provide HTML and associated styling within a single code block. Default to using tailwind  All CSS styles must be placed directly within the `style` attribute.
+*   **Code Structure:** Update the provided HTML tailwind and associated styling within a single code block. Default to using tailwind however, if CSS styles must be placed directly within the `style` attribute.
 *   **Response Format:** Begin with a textual response, then provide the code, and conclude with a final response.
 *   **Prohibited Mentions:** Do not mention tokens, Tailwind, or HTML in your response.
-*   **Document Structure:** Always include the `<html>`, `<head>`, and `<body>` tags.
 *   **Iconography:** Use Lucide icons with a 1.5 stroke width.
 *   **Aesthetic Style:** Unless a specific style is provided, design should align with a modern, clean aesthetic (e.g., similar to Linear, Stripe, Vercel, or Tailwind UI's design principles). **(IMPORTANT: Do not mention these specific brand names).**
 *   **Custom UI Elements:** If checkboxes, sliders, dropdowns, or toggles are required, they should be custom-designed within the provided code (do not add them unless they are part of the requested UI).
