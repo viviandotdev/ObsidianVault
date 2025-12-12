@@ -1,7 +1,7 @@
 **Threads**
 ==what are threads?==
 - they are a stack of instructions that can run at the same time in an program.
-- threads have shared datadddd, meaning that if you have a array and all the threads in that program have access to that same array
+- threads have shared data, meaning that if you have a array and all the threads in that program have access to that same array
 
 ==how are threads used in the context of distributed systems?==
 - a thread might be used to create a remote procedure call to thousands of different servers
@@ -25,11 +25,11 @@ mu unlock
 ```
 in a go program you can put a lock around a function, this tells the second thread that it must wait for this block to be unlocked before it can run the block of code.
 
-==what does it mean for thread instructions to be atomic?==
+- [ ] ==what does it mean for thread instructions to be atomic?==
 
 
 ==what are RPC (remote procedure calls in Go?)==
-
+- [ ] watch this? [Introduction to RPC - Remote Procedure Calls - YouTube](https://www.youtube.com/watch?v=eRndYq8iTio)
 
 ==why is go the preferred language of use?==
 
@@ -70,7 +70,8 @@ func Serial(url string, fetcher Fetcher, fetched map[string]bool) {
 ```
 
 **serial cralwer**
-- Uses [[Depth First Search]] !create dfs page
+- Uses [[Depth First Search]] 
+- [ ] review DFS and upate the file with your own generated expla
 - no concurrecny, 
 - 
 -  
