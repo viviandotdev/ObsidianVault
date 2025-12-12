@@ -39,5 +39,6 @@ what some challenges when creating a web crawler?
 - fetch many pages in parallell
 - what is the call finished?
 **serial cralwer**
-- dfs
+- Uses [[Depth First Search]]
+- 
 -  
