@@ -30,9 +30,40 @@ what does it be for thread instructions to be atomic?
 
 what are RPC (remote procudure calls in Go?)
 
-**web crawler as an example**
+**[[Design A Web Crawler|Web Crawler]] as an example**
 what is web crawler?
+purpose is to -> download the related contents of the web
+1. start with a set of webpages
+2. extract the urls on that web page 
+3. download the urls then, repeat these steps recursively starting from theses new urls.
 
+the algorithm
+```
+func Serial(url string, fetcher Fetcher, fetched map[string]bool) {
+	// Check if the URL has already been fetched.
+	if fetched[url] {
+		return
+	}
+
+	// Mark the URL as fetched before processing to avoid infinite loops in cycles.
+	fetched[url] = true
+
+	// Fetch the URLs linked from the current URL.
+	urls, err := fetcher.Fetch(url)
+	if err != nil {
+		// In a real application, you'd likely log this error
+		// fmt.Printf("Error fetching %s: %v\n", url, err)
+		return // Stop processing this branch on error
+	}
+
+	// Recursively call Serial for each sub-URL found.
+	for _, u := range urls {
+		Serial(u, fetcher, fetched)
+	}
+	// The return here is technically redundant as it's the end of the function.
+	// return
+}
+```
 what some challenges when creating a web crawler?
 - fetch twice
 - cycles
