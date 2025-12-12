@@ -1,7 +1,7 @@
 **Threads**
 what are threads?
 - they are a stack of instructions that can run at the same time in an program.
-- threads have shared memory, meaning that if you have a array and all the threads in that program have access to that same array
+- threads have shared datadddd, meaning that if you have a array and all the threads in that program have access to that same array
 
 how are threads used in the context of distributed systems?
 - a thread might be used to create a remote procedure call to thousands of different servers
@@ -39,6 +39,6 @@ what some challenges when creating a web crawler?
 - fetch many pages in parallell
 - what is the call finished?
 **serial cralwer**
-- Uses [[Depth First Search]]
+- Uses [[Depth First Search]] !create dfs page
 - 
 -  
