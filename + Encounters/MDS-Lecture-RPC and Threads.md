@@ -71,7 +71,7 @@ func Serial(url string, fetcher Fetcher, fetched map[string]bool) {
 
 **serial cralwer**
 - Uses [[Depth First Search]] 
-- [ ] review DFS and upate the file with your own generated expla
+- [ ] review DFS and upate the file with your own generated explanation
 - no concurrecny, 
 - 
 -  

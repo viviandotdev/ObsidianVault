@@ -5,6 +5,11 @@ modified: 2025-06-22T19:16:10-04:00
 type:: #source/course 
 tags::
 
+[course-url](https://pdos.csail.mit.edu/6.824/)
+
+[paper questions](https://pdos.csail.mit.edu/6.824/questions.html)
+
+
 
 [[MDS-Lecture 1-Introduction]]
 [[MDS-Lecture-RPC and Threads]]
