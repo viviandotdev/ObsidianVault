@@ -6,14 +6,20 @@ type:: #source/course
 tags::
 
 
-**Observations**
-- Component failtures are the norm rather than the exception
+**Introduction**
+==4 Points that influenced our design==
+- Component failures are the norm rather than the exception
 - Files are huge, Multi-GB is common
 - Most files are mutated by appending new data rather than overwriting existing data
 - Increase flexibility by co-designing applications the file-system [[API]]
 	- They relaxed the consistency model to simply the file system to prevent burden on the applications
 	- [[Atomic]] append operation so that multiple clients can append concurrently to a file without application synchronization
 
+**Design Overview**
+==Assumptions==
+- Components will fail often so the system must constantly monitor itself to detect and resolve this failures
+- Multi-GB files are common and should be optimized, Small files will also be supported but they don't need to optimized.
+- 
 
 Related Sources
 [Paper Explained The Google File System](https://www.youtube.com/watch?v=LXhgFAZroG8)
