@@ -21,7 +21,13 @@ tags::
 - Multi-GB files are common and should be optimized, Small files will also be supported but they don't need to optimized.
 - 
 
-Related Sources
+
+watch the paper explained google file system
+watch the google file system lecture
+then reverse engineer from the source, finding all the points that they were important
+
+go through their doc and your doc and make sure all the important points are included
+**Related Sources**
 [Paper Explained The Google File System](https://www.youtube.com/watch?v=LXhgFAZroG8)
 [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 ### Links to this page
