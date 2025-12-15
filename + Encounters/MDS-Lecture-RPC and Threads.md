@@ -25,7 +25,9 @@ mu unlock
 ```
 in a go program you can put a lock around a function, this tells the second thread that it must wait for this block to be unlocked before it can run the block of code.
 
-- [ ] ==what does it mean for thread instructions to be atomic?==
+- [ ] ==what does it mean for thread instructions to be ATOMIC?==
+	- [ ] what are ATOMIC operations?
+		- [ ] [Decoding Atomicity - The A in ACID](https://arpitbhayani.me/blogs/atomicity)
 
 
 ==what are RPC (remote procedure calls in Go?)==
