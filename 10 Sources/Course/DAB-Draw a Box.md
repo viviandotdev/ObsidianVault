@@ -46,13 +46,7 @@ Botany for the artist
 	[Kaiyodo Giant Hornet Figure Review and Sketch Demo - YouTube](https://www.youtube.com/watch?v=OjHwwCcJUrA&list=LL&index=6)
 - [x] Louse
 - [x] Scorpion
-- [ ] Black Widow
-- [ ] House Fly
-- [ ] Shrimp
-- [ ] Lobster
-- [ ] Crickets
-- [ ] Spider
-- [ ] Ladybug
+
 
 ## 250 Cylinder Challenge
 - [ ] [Complete 250 Boxes](https://drawabox.com/250box)

@@ -9,8 +9,6 @@ type:: #map/area
 [[How to study dynamic sketching]]
 [[How to study figure drawing and anatomy]]
 
-[[Drawing Advice]]
-[[Anki for Artists]]
 
 **Drawing Exercises**
 [[How to build a visual library]]
