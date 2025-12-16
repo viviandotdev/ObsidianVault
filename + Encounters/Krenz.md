@@ -35,4 +35,14 @@ tags:: [[perspective]]
 	- here the ref is close to 2 point
 	- although it is not at eye level, it is still within our eye's vision and we don't need to tilt our head down to see it 
 	- ![[Pasted image 20251216143043.png]]
+2. map out the plane you are dealing with
+	![[Pasted image 20251216143236.png]]
+3. draw the top and side views
+	- figure out the big rations
+	- aka the roof is 1/3 the height of side walls
+	- ![[Pasted image 20251216143329.png]]
+4. draw the ground plane, the extrude upwards on either sides and connect
+	1. ![[Pasted image 20251216143415.png]]
+5. map out the general ratios from the top and side view 
+	![[Pasted image 20251216143519.png]]
 
