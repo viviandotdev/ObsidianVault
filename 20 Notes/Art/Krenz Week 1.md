@@ -1,6 +1,6 @@
 up:: [[drawing]] 
 tags:: [[perspective]]
-
+[Krenz | 简中官方网站](https://krenz.art/course_perspective/19)
 [Krenz Perspective](https://asgg.notion.site/Krenz-Persp-Week-1-5458317eab8847108e0d8bf67477350d)
 **basic perspective**
 -  **how are the basic 1, 2 and 3 point perspective formed?**
