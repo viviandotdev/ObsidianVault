@@ -46,3 +46,31 @@ tags:: [[perspective]]
 5. map out the general ratios from the top and side view 
 	![[Pasted image 20251216143519.png]]
 
+**cropping**
+- what should you do when you are planning to draw a small section of a large building?
+    - draw the entire building's framework first
+    - then crop it and only draw details for the areas you need]![[Pasted image 20251216150346.png]]
+**N mirror technique**
+- mirror distance on both sides
+- draw a crossing connecting the corners of the plane
+- draw centerline across both axis
+- ![[Pasted image 20251216150439.png]]
+**multiplying**
+![[Pasted image 20251216150523.png]]
+
+
+**process example**
+
+![[Pasted image 20251216150600.png]]
+**example 2**
+![[Pasted image 20251216150609.png]]
+
+![[Pasted image 20251216150618.png]]
+
+note - first draw 45 degree, first example, then when drawing other angles like example 2, the process is the same, the only difference is the space you create at the beginning
+
+**How to draw the roofs**
+![[Pasted image 20251216150649.png]]
+
+![[Pasted image 20251216150709.png]]
+
