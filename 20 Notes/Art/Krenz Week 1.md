@@ -74,3 +74,32 @@ note - first draw 45 degree, first example, then when drawing other angles like 
 
 ![[Pasted image 20251216150709.png]]
 
+### Distortion Effects + cropping
+normal vision is within the circle, anything further away will have greater and greater distortion, so after drawing, simply crop anything that looks too weird
+![[Pasted image 20251216151410.png]]
+
+
+another example, notice the lines converging on the right getting heavy distortion, therefore we just crop the areas where it looks normal and use that
+![[Pasted image 20251216151424.png]]
+
+
+![[Pasted image 20251216151447.png]]
+
+
+![[Pasted image 20251216151505.png]]\
+
+**Example homework**
+![[Pasted image 20251216151524.png]]
+
+![[Pasted image 20251216151530.png]]
+
+![[Pasted image 20251216151536.png]]
+
+
+
+![[Pasted image 20251216151551.png]]
+
+![[Pasted image 20251216151556.png]]
+
+
+![[Pasted image 20251216151602.png]]
