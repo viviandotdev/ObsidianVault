@@ -45,7 +45,7 @@ tags:: [[perspective]]
 3. draw the top and side views
 	- figure out the big rations
 	- aka the roof is 1/3 the height of side walls
-	- ![[Pasted image 20251216143329.png]]
+	- ![[Pasted image 20251217080318.png]]
 4. draw the ground plane, the extrude upwards on either sides and connect
 	1. ![[Pasted image 20251216143415.png]]
 5. map out the general ratios from the top and side view 
