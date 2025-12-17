@@ -53,7 +53,7 @@ tags:: [[perspective]]
 	4. ![[Pasted image 20251217080939.png]]
 5. map out the general ratios from the top and side view 
 	![[Pasted image 20251216143519.png]]
-
+	![[Pasted image 20251217081953.png]]
 **cropping**
 - what should you do when you are planning to draw a small section of a large building?
     - draw the entire building's framework first
@@ -62,6 +62,8 @@ tags:: [[perspective]]
 - mirror distance on both sides
 - draw a crossing connecting the corners of the plane
 - draw centerline across both axis
+- draw N to find symmetry of other postion
+- ![[Pasted image 20251217082108.png]]
 - ![[Pasted image 20251216150439.png]]
 **multiplying**
 ![[Pasted image 20251216150523.png]]
