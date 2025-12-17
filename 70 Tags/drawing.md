@@ -12,6 +12,7 @@ type:: #map/area
 
 **Drawing Exercises**
 [[How to build a visual library]]
+[inspiration journey](https://forums.cubebrush.co/t/alex-c-r-art-school-journey/9320/93)
 ### Current Courses
 [[Dynamic Sketching]]
 [[DAB-Draw a Box]]
