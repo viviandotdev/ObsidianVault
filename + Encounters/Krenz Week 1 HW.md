@@ -15,3 +15,13 @@ How to paste the pattern
 ![[Pasted image 20251217084307.png]]
 
 ![[Pasted image 20251217084353.png]]
+
+![[Pasted image 20251217114153.png]]
+
+
+
+![[Pasted image 20251217114252.png]]
+
+
+![[Pasted image 20251217114316.png]]
+![[Pasted image 20251217114347.png]]
