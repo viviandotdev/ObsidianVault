@@ -6,6 +6,13 @@ up::
 type:: #output/explained
 tags::
 
+**write what you know** 
+**all the questions and gaps you have**
+	**ask all the interesting questions you have about AI?**
 
+**what is a bottleneck?**
+- bottleneck is something that stops the 
+
+****
 [[Why AI Won't Replace Humans]]
 [[Why A.I. Isn't Going to Make Art]]
