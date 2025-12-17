@@ -7,13 +7,23 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 
 ## Anatomy
 
-*   [Anatomy Workshop Volume 1](https://online-courses.club/anatomy-workshop-volume-1/)
-*   [Anatomy Workshop Volume 2](https://online-courses.club/anatomy-workshop-volume-2/)
-*   [Analytical Figure Drawing 2 (Michael Hampton)](https://online-courses.club/analytical-figure-drawing-2-michael-hampton/)
+
+* [CG Master Workshops](https://online-courses.club/cg-master-workshops/)
+	* figure drawing from mike hamption
+* [Proko Figure Drawing Fundamentals (Stas Prokopenko)](https://online-courses.club/proko-figure-drawing-fundamentals-by-stas-prokopenko/)
+* [Analytical Figure Drawing 2 (Michael Hampton)](https://online-courses.club/analytical-figure-drawing-2-michael-hampton/)
+* steve huston
 *   [1 - Will Weston Figure Drawing Lecture](https://online-courses.club/1-will-weston-figure-drawing-lecture/)
 *   [Proko Figure Drawing Fundamentals (Stas Prokopenko)](https://online-courses.club/proko-figure-drawing-fundamentals-by-stas-prokopenko/)
+* 
+* 
+* 
 * [Character Perspective (Yu Cheng Hong)](https://online-courses.club/character-perspective-by-yu-cheng-hong/)
 * [Easy art. lessons](https://online-courses.club/gumroad-easy-art-lessons-1-20-learn-to-draw-on-paper-by-trent-kaniuga-subtitles/)
+* [Watts Attlier Bridgeman](https://online-courses.club/bridgman-torso-front-with-jeff-watts/)
+* 
+*   [Anatomy Workshop Volume 1](https://online-courses.club/anatomy-workshop-volume-1/)
+*   [Anatomy Workshop Volume 2](https://online-courses.club/anatomy-workshop-volume-2/)
 
 ## Perspective
 
@@ -27,8 +37,6 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 * Scott Robertson drawing vechiles
 
 ## Design & Other Art Courses
-
-
 *   [Fundamentals of Architecture Design (CGMA Tyler Edlin Group Buy)](https://online-courses.club/fundamentals-of-architecture-design-cgma-tyler-edlin-group-buy-delivered/)
 *   [Fundamentals of Architecture Design: The Complete Series](https://online-courses.club/fundamentals-of-architecture-design-the-complete-series/)
 *   [Trent Kaniuga - Easy Art Lessons 11-15 (Characters & Poses)](https://online-courses.club/trent-kaniuga-easy-art-lessons-11-15-characters-poses/)
@@ -37,7 +45,6 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 	* dynamic sketch (intro) (part -1)
 	* figure drawing (intro)
 	* vechile mech (advanced after you can actually draw cars)
-
 *   [Fundamentals of Design (Tyler Edlin)](https://online-courses.club/fundamentals-of-design-with-tyler-edlin/)
 ## Course Categories / Collections
 
@@ -45,6 +52,7 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 *   [CGMA Tutorials (Page 7)](https://online-courses.club/category/tutorials/cgma/page/7/)
 *   [Watts Atelier Tutorials](https://online-courses.club/category/tutorials/watts-atelier/)
 *   [New Masters Academy Tutorials (Page 13)](https://online-courses.club/category/tutorials/new-masters-academy/page/13/)
+	* steve huston courses
 
 ## Other
 
