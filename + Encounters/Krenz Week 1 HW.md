@@ -9,3 +9,9 @@ draw the cude
 
 **page 5**
 ![[Pasted image 20251217084132.png]]
+
+How to paste the pattern 
+![[Pasted image 20251217084204.png]]
+![[Pasted image 20251217084307.png]]
+
+![[Pasted image 20251217084353.png]]
