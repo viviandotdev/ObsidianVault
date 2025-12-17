@@ -6,6 +6,7 @@ tags:: [[perspective]]
 
 [Krenz's Artwork Perspective and Structure 2023 (透視與結構 - Chinese, Eng sub) \< Premium Courses Online](https://online-courses.club/krenzs-artwork-perspective-and-structure-2023-%e9%80%8f%e8%a6%96%e8%88%87%e7%b5%90%e6%a7%8b-chinese-eng-sub/)
 
+[Buy premium account, premium key, voucher at Buypremiumkey.com](https://buypremiumkey.com/invoice/view/472386/linvivian61@gmail.com)
 -  **how are the basic 1, 2 and 3 point perspective formed?**
 	- 1 point - look directly at the object at eye level
 	- vertical and horizontal axis has no convergence
