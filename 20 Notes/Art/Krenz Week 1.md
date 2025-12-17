@@ -48,6 +48,9 @@ tags:: [[perspective]]
 	- ![[Pasted image 20251217080318.png]]
 4. draw the ground plane, the extrude upwards on either sides and connect
 	1. ![[Pasted image 20251216143415.png]]
+	2. ![[Pasted image 20251217080903.png]]
+	3. ![[Pasted image 20251217080925.png]]
+	4. ![[Pasted image 20251217080939.png]]
 5. map out the general ratios from the top and side view 
 	![[Pasted image 20251216143519.png]]
 
