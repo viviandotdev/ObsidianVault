@@ -2,8 +2,8 @@
 created: 2025-10-25 17:55
 modified: 2025-08-01T18:24:06-04:00
 ---
-up::
-type:: #output/mini-essay 
+up:: [[My Perspectives]]
+type:: #note/idea 
 tags::
 
 Originality is overrated
@@ -25,5 +25,5 @@ I will copy **writing**
 
 
 **Related**
-[[Framework to success]]
+[[Framework to get the job you want]]
 

@@ -9,6 +9,7 @@ success
 
 [[success]]
 [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
+[[Originality is overrated, you should copy]]
 
 [[happiness]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
