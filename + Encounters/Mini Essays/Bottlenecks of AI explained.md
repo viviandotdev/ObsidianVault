@@ -6,6 +6,7 @@ up::
 type:: #output/explained
 tags::
 
+**why are your interested in this?**
 **write what you know** 
 **all the questions and gaps you have**
 	**ask all the interesting questions you have about AI?**
