@@ -57,3 +57,20 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 ## Other
 
 *   [Google Chrome Support Thread: Copy Multiple URLs](https://support.google.com/chrome/thread/188720240/feature-request-on-chrome-chromium-copy-multiple-url-link-s-from-tab-s?hl=en)
+
+
+**steve**
+
+https://online-courses.club/steve-huston-exploring-gesture-and-structure/
+https://online-courses.club/art-anatomy-for-beginners-by-steve-huston/
+https://online-courses.club/beginning-figure-drawing-part-1-3-steve-huston/
+https://online-courses.club/constructive-figure-drawing/
+https://online-courses.club/steve-huston-constructing-the-human-figure/
+https://online-courses.club/steve-huston-how-to-draw-hands/
+
+
+https://online-courses.club/new-masters-academy-drawing-with-force-by-mike-mattesi/
+
+[Constructive Head Drawing \< Premium Courses Online](https://online-courses.club/constructive-head-drawing/)
+https://online-courses.club/advanced-head-drawing/
+https://online-courses.club/beginning-head-drawing-with-steve-huston/
