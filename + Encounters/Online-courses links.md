@@ -53,7 +53,7 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 *   [Watts Atelier Tutorials](https://online-courses.club/category/tutorials/watts-atelier/)
 *   [New Masters Academy Tutorials (Page 13)](https://online-courses.club/category/tutorials/new-masters-academy/page/13/)
 	* steve huston courses
-
+[Vehicle Design and Sketching by John Frye \< Premium Courses Online](https://online-courses.club/new-masters-academy-vehicle-design-and-sketching-by-john-frye/)
 ## Other
 
 *   [Google Chrome Support Thread: Copy Multiple URLs](https://support.google.com/chrome/thread/188720240/feature-request-on-chrome-chromium-copy-multiple-url-link-s-from-tab-s?hl=en)
