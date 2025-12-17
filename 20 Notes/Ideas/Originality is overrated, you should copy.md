@@ -24,6 +24,9 @@ I will copy the **code**
 I will copy **writing** 
 
 
+Copy others and steal their systems to get to their level and then outwork them for 90 days.
+
+
 **Related**
-[[Framework to get the job you want]]
+[[Framework to doing the job you actually want]]
 

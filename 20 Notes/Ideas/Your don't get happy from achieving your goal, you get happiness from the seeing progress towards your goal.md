@@ -14,7 +14,7 @@ Therefore you are much close to feeling of happiness than you think because just
 But the happiness is in the journey, if you enjoy what you are doing now that is enough
 
 
-**Common Problems/Misconception*
+**Common Problems/Misconception
 - We think that we will be happy when we achieve our goals
 - However it is the progress towards the goals that makes us happy
 
