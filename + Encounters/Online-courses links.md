@@ -64,9 +64,12 @@ Here are your links organized into Anatomy and Perspective groups, with other re
 https://online-courses.club/steve-huston-exploring-gesture-and-structure/
 https://online-courses.club/art-anatomy-for-beginners-by-steve-huston/
 https://online-courses.club/beginning-figure-drawing-part-1-3-steve-huston/
-https://online-courses.club/constructive-figure-drawing/
+
 https://online-courses.club/steve-huston-constructing-the-human-figure/
 https://online-courses.club/steve-huston-how-to-draw-hands/
+
+
+[Constructive figure drawing \< Premium Courses Online](https://online-courses.club/constructive-figure-drawing/)
 
 
 https://online-courses.club/new-masters-academy-drawing-with-force-by-mike-mattesi/
