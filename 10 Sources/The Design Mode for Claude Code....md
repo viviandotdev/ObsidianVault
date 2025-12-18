@@ -12,6 +12,15 @@ The Design Mode for Claude Code..
 ```
 Help me rebuild the exact same UI design in single html as motherduck.html, above is the extracted css
 ```
+
+
+```
+Help me rebuild the exact same header component UI design as the html provided,here is the extracted css, and an image of the UI is also provided
+Use tailwind and associated styling within a single code block. Default to using tailwind however, if CSS styles must be placed directly within the `style` attribute.
+Unless a specific style is provided, design should align with a modern, clean aesthetic (e.g., similar to Linear, Stripe, Vercel, or Tailwind UI's design principles
+If design specifications, code, or HTML are provided, **(IMPORTANT: respect the original design, fonts, colors, and style as much as possible)
+
+```
 Use [VisBug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?pli=1) to fix the differences and gaps and fix them
 
 **Generate a style guide**
