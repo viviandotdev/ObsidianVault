@@ -3,6 +3,9 @@ Here is the list of screens, ordered by their counts from highest to lowest:
 do whatever you think is the easiest and just try it
 app-name-screen
 firecrawl-dashboard
+just do 01 and 02 for now
+
+need to handle clicking on screens in between them
 
 
 **trneding screens**
