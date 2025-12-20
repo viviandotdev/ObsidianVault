@@ -6,10 +6,13 @@
 it is a distributed system that allows google to serve users thousands of large files in realitime
 
 **what are the features/requirements of this system**
-
+- handle large files
+- failures are the expectation they are extremely common
 **what are the main components of the system**
-
-****
+master component
+**what does the master component do?**
+**what data is stored on the master component**
+chunk server component, 
 
 
 
