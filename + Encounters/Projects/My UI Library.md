@@ -17,3 +17,15 @@ about:blank
 [[UI-Library Log]]
 **Outwork**: execute them harder for 90 days.
 
+
+how to market this?
+
+have a tiered system like the makeitaniatmed.dev where you increase the price based on how many components. you have
+
+create a newsletter everyweek sending out your components for only that week, 
+if that want the whole library they subscribe
+
+twitter post your work each page you create post it
+(makeitaniamted.dev) 3k
+(uiiindev) 10k
+this year get 500 followers
