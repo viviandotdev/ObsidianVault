@@ -7,6 +7,14 @@ firecrawl-dashboard
 just do 01 and 02 for now
 
 need to handle clicking on screens in between them
+**flows**
+chatting and sending
+messages
+filtering and sorting
+setting up 
+editing profile
+reporting
+onboarding
 
 []
 **trending screens/most popular screens**
@@ -21,6 +29,10 @@ checkout
 error
 search
 filter & sort
+notifications
+charts
+chat bot
+my account & profile 
 Subscription & Paywall
 Browse & Discover
 
