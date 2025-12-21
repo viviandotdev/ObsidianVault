@@ -16,6 +16,9 @@ editing profile
 reporting
 onboarding
 
+
+https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/content/app_screens/9aedc71f-1dea-4263-87e3-a1c626a1d55b.png
+
 []
 **trending screens/most popular screens**
 also use your judgement on what is the most important, but focus on these
