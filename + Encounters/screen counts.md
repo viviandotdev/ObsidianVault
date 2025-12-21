@@ -1,3 +1,4 @@
+[[My UI Library]]
 Here is the list of screens, ordered by their counts from highest to lowest:
 
 do whatever you think is the easiest and just try it
@@ -7,8 +8,9 @@ just do 01 and 02 for now
 
 need to handle clicking on screens in between them
 
-
-**trneding screens**
+[]
+**trending screens/most popular screens**
+also use your judgement on what is the most important, but focus on these
 sign up
 login 
 home
@@ -19,6 +21,8 @@ checkout
 error
 search
 filter & sort
+Subscription & Paywall
+Browse & Discover
 
 *   Add & Create 3,554
 *   Acknowledgement & Success 3,080
