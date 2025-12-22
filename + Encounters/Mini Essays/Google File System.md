@@ -3,7 +3,7 @@
 **engage with content while looking for answers to those questions**
 
 **what is google file system**?
-it is a distributed system that allows google to serve users thousands of large files in realitime
+it is a distributed system that allows google to serve users thousands of large files in realtime
 
 **what are the features/requirements of this system**
 - handle large files

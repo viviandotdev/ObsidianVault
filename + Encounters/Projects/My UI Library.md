@@ -32,7 +32,8 @@ this year get 500 followers
 
 
 [[screen counts]]
-[[fetch apps curl]]
+[[mobbin screens and apps structure]]
 fetch-trending-filter-tags
 for how the screens are tagged
 [[Screen Patterns]]
+

@@ -19,6 +19,35 @@ onboarding
 
 https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/content/app_screens/9aedc71f-1dea-4263-87e3-a1c626a1d55b.png
 
+what apps
+Tops apps
+
+Here are the highest rated applications sorted by their `trendingMetric` in descending order:
+
+1.  **Linear:** 291
+2.  **Shopify:** 245
+3.  **Airbnb:** 226
+4.  **Notion:** 199
+5.  **Attio:** 177
+6.  **Sana AI:** 152
+7.  **Mercury:** 129
+8.  **Duolingo:** 117
+9.  **Mobbin:** 96
+10. **Fey:** 74
+11. **Contra:** 71
+12. **Figma:** 67
+13. **Origin:** 53
+14. **Acctual:** 50
+15. **Manus:** 39
+16. **Webflow:** 36
+17. **Cal.com:** 36
+18. **Homerun:** 23
+19. **folk:** 23
+20. **Frame.io:** 20
+21. **Cosmos:** 19
+22. **Firecrawl:** 16
+23. **Plane:** 14
+24. **Steep:** 6
 
 **trending screens/most popular screens**
 also use your judgement on what is the most important, but focus on these
