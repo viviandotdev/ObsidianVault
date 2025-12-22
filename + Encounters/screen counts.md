@@ -16,6 +16,11 @@ editing profile
 reporting
 onboarding
 
+first learn and copy from open source
+dub
+cal
+firecrawl
+
 
 https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/content/app_screens/9aedc71f-1dea-4263-87e3-a1c626a1d55b.png
 
