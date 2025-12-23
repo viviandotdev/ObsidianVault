@@ -45,3 +45,7 @@ find code
 just call each one screen-01 ... screen-02
 add tags to the screen
 on the UI you can group them by tags
+
+or in the code you can call them group them by the screen name
+patterns 
+do it like this for now and see if any issues come up?
