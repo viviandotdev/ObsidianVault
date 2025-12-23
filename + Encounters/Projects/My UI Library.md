@@ -37,3 +37,11 @@ fetch-trending-filter-tags
 for how the screens are tagged
 [[Screen Patterns]]
 
+
+find code
+[Open Source Alternatives to Popular Software](https://openalternative.co/)
+
+
+just call each one screen-01 ... screen-02
+add tags to the screen
+on the UI you can group them by tags
