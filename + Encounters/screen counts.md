@@ -36,7 +36,7 @@ webscreens.app
 airbnb
 	home.tsx (tags- components, screens )
 	listing.tsx
-how would i handle shared componnets then?
+how would i handle shared componnets then within the app??
 
 
 webscreens.app
