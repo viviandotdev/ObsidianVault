@@ -32,9 +32,16 @@ create one more screen and then think about the structure
 apps
 screens
 
+webscreens.app
 airbnb
 	home.tsx (tags- components, screens )
 	listing.tsx
+how would i handle shared componnets then?
+
+
+webscreens.app
+.dev
+.io
 
 Here are the highest rated applications sorted by their `trendingMetric` in descending order:
 
