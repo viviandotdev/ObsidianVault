@@ -26,6 +26,15 @@ https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/content/app_screens/9
 
 what apps
 Tops apps
+what do i want to work on
+structure or just create more screens?
+create one more screen and then think about the structure
+apps
+screens
+
+airbnb
+	home.tsx (tags- components, screens )
+	listing.tsx
 
 Here are the highest rated applications sorted by their `trendingMetric` in descending order:
 
