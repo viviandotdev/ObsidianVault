@@ -11,6 +11,7 @@ up:: [[programming]]
 [System Design in a Hurry | Hello Interview System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 [System Design Interviews Course - Exponent](https://www.tryexponent.com/courses/system-design-interviews)
 [Grokking the System Design Interview | Video Course by Design Gurus](https://www.designgurus.io/course/grokking-the-system-design-interview)
+[interviewpen.com Premium Samples - System Design - YouTube](https://www.youtube.com/playlist?list=PLPkuArhPxxQGkbl-_STo8FFxBBB4ri-tl)
 
 **Questions**
 [SWE Quiz](https://www.swequiz.com/)
