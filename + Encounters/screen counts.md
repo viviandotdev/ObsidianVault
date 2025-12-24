@@ -38,6 +38,7 @@ airbnb
 	listing.tsx
 how would i handle shared componnets then within the app??
 
+remove application shell and use the new structuer instead
 
 webscreens.app
 .dev
