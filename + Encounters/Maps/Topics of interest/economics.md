@@ -10,6 +10,10 @@ up::
 [[Opportunity Cost]]
 
 
+"learn [[math]], [[evolution theory]], [[physics]], [[microeconomics]]
+[[macroeconmics]]
+
+
 [[capitalism]] is an economic system based on private ownership of the goods used to earn a profit while workers earn only wages
 
 
