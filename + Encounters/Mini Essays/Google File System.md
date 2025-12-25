@@ -18,5 +18,11 @@ master component
 chunk server component, 
 
 
+Sources
+
+MIT course google file system
+paper explained 
+
+google file system paper link
 
  
