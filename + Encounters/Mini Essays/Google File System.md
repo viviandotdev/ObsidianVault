@@ -1,3 +1,4 @@
+create an engaging piece of text 
 **always start with questions**
 **questions you find the most interesting**
 **engage with content while looking for answers to those questions**

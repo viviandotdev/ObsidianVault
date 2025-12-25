@@ -22,6 +22,13 @@ how to market this?
 
 have a tiered system like the makeitaniatmed.dev where you increase the price based on how many components. you have
 
+Create a newsletter
+In the new letter you can give them the code this week
+If they want to buy the whole repo then pay in tiers 
+
+
+
+
 create a newsletter everyweek sending out your components for only that week, 
 if that want the whole library they subscribe
 
