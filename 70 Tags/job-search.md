@@ -6,7 +6,7 @@ source::
 type:: #map/area
 
 
-[youtube.com/feeds/videos.xml?playlist\_id=PLpnqOHebpT4jsyEkNzvYuQu-uVJ8eYZfi](https://www.youtube.com/feeds/videos.xml?playlist_id=PLU2HkNpZsx-_n_HLzSTowOgiP2NT_yEgL)
+[youtube.com/feeds/videos.xml?playlist\_id=PLpnqOHebpT4jsyEkNzvYuQu-uVJ8eYZfi](https://www.youtube.com/feeds/videos.xml?playlist_id=PLNQtoYU3DWmFvEUE5tjEf1PhOQZRk7HSU)
 
 **Interview prep**
 system design
