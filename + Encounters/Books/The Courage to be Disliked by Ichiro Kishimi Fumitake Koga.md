@@ -20,6 +20,10 @@ create a mind map of the ideas grouped
 
 [Psycho Cybernetics - Maxwell Maltz - Personal Development AI - Obsidian Publish](https://publish.obsidian.md/ethans/001+Authors/Maxwell+Maltz/Psycho+Cybernetics+-+Maxwell+Maltz)
 
+ - [ ] go through snipd and highlight all the important points
+ - [ ] go through the highlights and highlight again from there
+ - [ ] then read through again and pull out the most important ideas
+ - [ ] pull out just the ideas that really resonate with you, you don't need to get everything
 
 The courage to be disliked
 -  idea about anger, people commonly think that anger is something that you can’t control it’s an emotions that pops out of no where and you need to express your self to let it out
