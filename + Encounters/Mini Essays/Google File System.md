@@ -1,4 +1,6 @@
-create an engaging piece of text 
+create an engaging piece of text write you think and throw away don't think of this as the final product
+write for yourself, write so that it will be easy for you understand and remember
+[examples of good essays](https://quantum.country/qcvc)
 **always start with questions**
 **questions you find the most interesting**
 **engage with content while looking for answers to those questions**

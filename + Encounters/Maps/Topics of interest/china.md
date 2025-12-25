@@ -1,7 +1,7 @@
 
 **Books**
 China world view
-Apple in China
+[[Apple in China by Patrick McGee]] reading
 Age of ambition
 
 
