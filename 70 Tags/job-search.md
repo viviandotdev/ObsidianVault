@@ -6,6 +6,8 @@ source::
 type:: #map/area
 
 
+[youtube.com/feeds/videos.xml?playlist\_id=PLpnqOHebpT4jsyEkNzvYuQu-uVJ8eYZfi](https://www.youtube.com/feeds/videos.xml?playlist_id=PLU2HkNpZsx-_n_HLzSTowOgiP2NT_yEgL)
+
 **Interview prep**
 system design
 [AI-powered interview prep](https://prepai.xyz/)
