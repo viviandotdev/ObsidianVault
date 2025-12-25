@@ -5,11 +5,7 @@ up:: [[Life Map]]
 [[How I create unique perspectives]]
 
 i want a way to link the sources to my perspectives, the content i consume or creates these  perspectives?
-success
 
-[[success]]
-[[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
-[[Originality is overrated, you should copy]]
 
 [[happiness]]
 - [[Freedom and flexility over one’s life is the best predictor of wellbeing]]
@@ -30,7 +26,6 @@ success
 - [[You have to do it incorrectly first to figure out how to do it correctly]]
 
 [[success]]
-- [[Being successful creates more success]]
 - [[It is not that hard to be successful because most of people are distracted on their phones or TVs ]]
 - [[Nothing happens then everything happens]]
 - [[It is not the people who make the best decisions that are the most successful it the ones to make the most decisions and continuously iterate on those decisions.]]
@@ -38,7 +33,7 @@ success
 - [[Combining different strengths sets you apart and leads to exceptional results by creating are opportunities.]]
 - [[Build something just to prove to myself that I can, don't do it for the users, or money, do it because you can]]
 - [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
-
+- [[Originality is overrated, you should copy]]
 
 [[money]]
 - [[Time is limited but money is abundant, make sure to spend your time wisely]]
