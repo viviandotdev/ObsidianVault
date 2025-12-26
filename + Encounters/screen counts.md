@@ -47,11 +47,11 @@ webscreens.app
 Here are the highest rated applications sorted by their `trendingMetric` in descending order:
 
 1.  **Linear:** 291
-	open source alternatives
+		plane
 2.  **Shopify:** 245
 3.  **Airbnb:** 226
 4.  **Notion:** 199
-	
+	affine
 5.  **Attio:** 177
 6.  **Sana AI:** 152
 7.  **Mercury:** 129
@@ -69,8 +69,8 @@ Here are the highest rated applications sorted by their `trendingMetric` in desc
 19. **folk:** 23
 20. **Frame.io:** 20
 21. **Cosmos:** 19
-22. **Firecrawl:** 16
-23. **Plane:** 14
+22. **Firecrawl:** 16 ->
+23. **Plane:** 14 -> 
 24. **Steep:** 6
 
 **trending screens/most popular screens**
