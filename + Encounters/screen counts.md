@@ -47,9 +47,11 @@ webscreens.app
 Here are the highest rated applications sorted by their `trendingMetric` in descending order:
 
 1.  **Linear:** 291
+	open source alternatives
 2.  **Shopify:** 245
 3.  **Airbnb:** 226
 4.  **Notion:** 199
+	
 5.  **Attio:** 177
 6.  **Sana AI:** 152
 7.  **Mercury:** 129
