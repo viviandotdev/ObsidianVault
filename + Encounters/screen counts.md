@@ -81,7 +81,7 @@ home
 dashboard
 	- firecrawl
 
-[The Thinking Game | Full documentary | Tribeca Film Festival official selection - YouTube](https://www.youtube.com/watch?v=d95J8yzvjbQ)
+
 checkout
 error
 search
