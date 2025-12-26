@@ -56,3 +56,13 @@ on the UI you can group them by tags
 or in the code you can call them group them by the screen name
 patterns 
 do it like this for now and see if any issues come up?
+
+
+**principles**
+After you are done using the variables
+Ask it to update using the closes tailwind values
+
+It is easier to get the working version and convert into your UI
+Instead of building your UI and getting the working version applied on top. Of it
+
+I think you should just start copying UI, do this half and half is just confusing 
