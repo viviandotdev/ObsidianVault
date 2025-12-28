@@ -20,10 +20,18 @@ type:: #note/personal
 	- went on an outdoor climbing trip and few hikes, they were fun and I would like to do more of them this year in the spring/fall, rock scrambles were fun
 	==**maintain**== work on maintaining your relationships 
 
+**Improvements/Experiments to try this year**
+- i want to be more intentional with my time this year, i will try time tracking to see how it works 
+	- each time you will do something it should be for 90 minutes, no more doing too many things at once
+- calisthenics on your no climbing days, work on calisthenics, everyday in the morning after coffe you should get a light workout in without fail
+- use your walking pad when mom is not home for easy tasks
+- simplify your process for the things you want to do more of.
+- 
 
 
 **Apply Climbing Mindset to anything I do** 
-**Climbing has taught me a lot about how **
+**Climbing has taught me a lot about how to improve at something**
+
 
 - ==Consistency,== with climbing I can be consistent without even trying this is what it feels to like to find something you really like doing, it should feel easy and not hard
 - ==Perfectionism==, with each session, I don’t expect it to be the best, I just show up and do what I always do and trust the process and that I will improve
@@ -35,3 +43,6 @@ type:: #note/personal
 - ==Progress is not linear,== even though the progress is not linear I still do it anyway to maintain, even though you are not progressing it does not mean you should stop
 - ==The act of climbing is more important than the projects you send==
     - The act of coding is more important that the products,
+- Work on what you are most interested in
+- Work on projects just outside of your difficulty zone
+- 
