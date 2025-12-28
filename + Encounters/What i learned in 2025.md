@@ -2,13 +2,22 @@ type:: #note/personal
 [[Life Reflections]]
 
 
-What moments or experiences defined 2025 for me?
+**What moments or experiences defined 2025 for me?**
 	I built consistency with climbing
 	Started actually working as QA Automation Engineer, first year i actually felt i was working the first two years i was just coasting and getting by without doing much
-**What I learned**
+**Areas**
+==**health**==
 - Gained some weight this year i would like to shed.
 	- what caused this?
-		- I was busy for a good chunk of this year with work, the oneview proejct wa
+		- I was busy for a good chunk of this year with work, the oneview project was stressful not because i felt stressed but because other people were pushing their stress on to me.
+		- When i climbed hard i would do nothing the next day which led to some weight gain, i also feel stronger so there is muscle as well
+			- To fix this I will try to practice some calisthenics on my days off.
+==**work**==
+- **Did not work much on my personal projects this year**, however i did work more and I learned a lot about the process of building software and will apply these to my own projects
+==**relationships**==
+- made some friends this year from climbing, josephine, zach, kaitlyn and raph
+	- went on an outdoor climbing trip and few hikes, they were fun and I would like to do more of them this year in the spring/fall, rock scrambles were fun
+
 **climbing**
 - Consistency, with climbing I can be consistent without even trying this is what it feels to like to find something you really like doing, it should feel easy and not hard
 - Perfectionism, with each session, I don’t expect it to be the best, I just show up and do what I always do and trust the process and that I will improve
