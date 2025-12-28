@@ -27,6 +27,7 @@ type:: #note/personal
 - simplify your process for the things you want to do more of.
 - keep a habit tracker journal for this year
 - do weekly reflections, just think in days and weeks, do your best we cannot comprehend such long timelines, it is waste of time to plan for duch as long horizon, there is so much you can do within a day so just focus on that 
+- 
 
 **Goals this year**
 - Lose 10 pounds
