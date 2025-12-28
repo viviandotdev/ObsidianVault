@@ -1,7 +1,6 @@
 type:: #note/personal 
 [[Life Reflections]]
 
-
 **What moments or experiences defined 2025 for me?**
 	I built consistency with climbing
 	Started actually working as QA Automation Engineer, first year i actually felt i was working the first two years i was just coasting and getting by without doing much
@@ -26,8 +25,13 @@ type:: #note/personal
 - calisthenics on your no climbing days, work on calisthenics, everyday in the morning after coffe you should get a light workout in without fail
 - use your walking pad when mom is not home for easy tasks
 - simplify your process for the things you want to do more of.
-- 
+- keep a habit tracker journal for this year
+- do weekly reflections, just think in days and weeks, do your best we cannot comprehend such long timelines, it is waste of time to plan for duch as long horizon, there is so much you can do within a day so just focus on that 
 
+**Goals this year**
+- Lose 10 pounds
+- Learn the handstand / bridge
+- Share your personal project
 
 **Apply Climbing Mindset to anything I do** 
 **Climbing has taught me a lot about how to improve at something**
@@ -45,4 +49,4 @@ type:: #note/personal
     - The act of coding is more important that the products,
 - Work on what you are most interested in
 - Work on projects just outside of your difficulty zone
-- 
+- Easy to go, it is only a 15-30 minute drive, so it is convenient to go
