@@ -17,7 +17,8 @@ Apple TV remove and the box
 Space 65 II keyboard
 Bose quiet comfort II
 Boox II tablet
-Chuiwi minibook
+Chuiwi miniboo
+ridge wallet
 
 Home
 Dyson vaccum
