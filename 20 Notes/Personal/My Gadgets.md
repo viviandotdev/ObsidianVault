@@ -1,6 +1,6 @@
 type:: #note/list 
 
-Tech
+**Tech**
 MacBook Pro
 Dell monitor (monitor stand)
 iPhone 13
@@ -20,7 +20,7 @@ Boox II tablet
 Chuiwi miniboo
 ridge wallet
 
-Home
+**Home**
 Dyson vaccum
 Noway air filter
 LG oled tv (oled remote)
@@ -30,13 +30,13 @@ Kawai cn201 piano
 
 
 
-Travel
+**Travel**
 Beis duffel bag
 
 Owala drink
 
 
-Kitchen
+**Kitchen**
 Coffee dishwaher
 Air fryer thing
 Water boiler
@@ -45,9 +45,9 @@ Japanese little things
 The spinner cup
 Tumbler 
 
-fitness
+**fitness**
 Treadmill
 Bowflex 
-
+renpho massage gun
 
 Pull up bar
