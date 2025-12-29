@@ -18,7 +18,12 @@ and frameworks
 create and distill into best ideas
 create a mind map of the ideas grouped
 
-[Psycho Cybernetics - Maxwell Maltz - Personal Development AI - Obsidian Publish](https://publish.obsidian.md/ethans/001+Authors/Maxwell+Maltz/Psycho+Cybernetics+-+Maxwell+Maltz)
+
+**Best Ideas**
+
+**Frameworks**
+
+[Psycho Cybernetics - Maxwell Maltz - Personal Development AπI - Obsidian Publish](https://publish.obsidian.md/ethans/001+Authors/Maxwell+Maltz/Psycho+Cybernetics+-+Maxwell+Maltz)
 
  - [ ] go through snipd and highlight all the important points
  - [ ] go through the highlights and highlight again from there

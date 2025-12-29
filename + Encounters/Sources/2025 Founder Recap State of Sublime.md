@@ -9,4 +9,4 @@ type:: #source/article
 - building something that. exists
 - there is no exist strategey'
 
-put good stuff out int o
+put good stuff out into the universe and it. will return more good stuff back to you

@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-16T07:12:30-04:00
 ---
-**[[The internet has opened up the opportunity to do what you enjoy. You don't have to suffer anymore when creating your own career path]]
+****[[The internet has opened up the opportunity to do what you enjoy. You don't have to suffer anymore when creating your own career path]]
 
 tags:: [[creativity]] 
 
