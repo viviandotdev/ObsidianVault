@@ -1,5 +1,7 @@
 type:: #note/concept 
 
+The worst thing that can happen is you learn something and the best,it could completely change your life
+
 
 finite games have an end, the goal of the game is to win.
 infinite games have not end, the goal of the game is to continue playing.
