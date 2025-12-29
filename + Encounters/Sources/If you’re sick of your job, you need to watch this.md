@@ -1,4 +1,4 @@
-tags:: [[work]] [[finance]] 
+tags:: [[career]] [[financial-independence ]] 
 source:: https://www.youtube.com/watch?v=Zl0EfP33v0k
 type:: #source/article
 

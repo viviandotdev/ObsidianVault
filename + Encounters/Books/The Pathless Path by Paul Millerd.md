@@ -6,7 +6,7 @@ modified: 2025-08-01T17:39:42-04:00
 status: 🟨
 ---
 up:: [[Bookshelf]]
-tags::
+tags:: [[career]]
 type:: #source/book
 # The Pathless Path
 by [[Paul Millerd]]
