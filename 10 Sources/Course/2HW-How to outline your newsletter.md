@@ -3,6 +3,7 @@ created: 2025-07-06 21:05
 modified: 2025-07-06T21:08:46-04:00
 ---
 up:: [[2HW-The 2 Hour Writer]]
+type:: #note/framework 
 ### **Step 1: Ideation & Content Generation**
 
 Begin by gathering potential topics and angles for your newsletter.
@@ -36,7 +37,7 @@ Before you write, define the core elements of your newsletter. This is where you
 
 Now, organize your ideas into a cohesive flow, often using a persuasive writing framework.
 
-* **Choose a Persuasive Writing Framework:** Popular options include APAG, PAS (Problem-Agitate-Solve), AIDA (Attention-Interest-Desire-Action), PASTOR, or STAR. These frameworks provide a roadmap for engaging your reader.
+* **Choose a Persuasive Writing Framework:** Popular options include [[APAG]], PAS (Problem-Agitate-Solve), AIDA (Attention-Interest-Desire-Action), PASTOR, or STAR. These frameworks provide a roadmap for engaging your reader.
     * **Attention:** Open with an intriguing fact, a captivating story, a thought-provoking question, or a bold statement to immediately grab your reader's interest and open a "curiosity loop."
     * **Lead/Problem:** Introduce a significant problem your audience faces. Agitate that problem by describing its impact, and then present your unique perspective or solution.
     * **Body:** This is where you deliver the core value. Explain how to overcome the problem, elaborate on the benefits of your solution, and provide the "why" behind those benefits. Use examples, data, and actionable advice.
