@@ -3,7 +3,7 @@ tags:: [[perspective]]
 [Krenz | 简中官方网站](https://krenz.art/course_perspective/19)
 [Krenz Perspective](https://asgg.notion.site/Krenz-Persp-Week-1-5458317eab8847108e0d8bf67477350d)
 **basic perspective**
-
+[[Krenz Homework 1]]
 
 [Krenz's Artwork Perspective and Structure 2023 (透視與結構 - Chinese, Eng sub) \< Premium Courses Online](https://online-courses.club/krenzs-artwork-perspective-and-structure-2023-%e9%80%8f%e8%a6%96%e8%88%87%e7%b5%90%e6%a7%8b-chinese-eng-sub/)
 [Perspective with Krenz Cushart 001 – AmazingBeggar](https://amazingbeggars.wordpress.com/2020/09/01/perspective-with-krenz-cushart-001/)
