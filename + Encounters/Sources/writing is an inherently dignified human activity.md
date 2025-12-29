@@ -3,3 +3,9 @@ source:: https://www.personalcanon.com/p/writing-is-an-inherently-dignified?utm_
 type:: #source/article
 
 writing is an inherently dignified human activity
+
+
+why does she write
+consistency in writing for two years
+
+just start now, do what you want to be doing now,
