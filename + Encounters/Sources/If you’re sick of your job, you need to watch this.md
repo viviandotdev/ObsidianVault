@@ -1,4 +1,4 @@
-tags::
+tags:: [[work]] [[finance]] 
 source:: https://www.youtube.com/watch?v=Zl0EfP33v0k
 type:: #source/article
 
@@ -22,6 +22,8 @@ Design work that serves your life instead of consuming
 
 
 **Diversity your identity**
+[[Identity Diversification]]
+your identity can become your prison if you are not too careful
 Internal resistance, 
 
 **Related**
