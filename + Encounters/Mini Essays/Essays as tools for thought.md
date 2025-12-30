@@ -7,6 +7,8 @@ find some good example of writing about non-fiction you can use
 as a sample for what you want to write.
 
 
+==writing helps refine your thinking==
+
 i consume mostly youtube vides which have good scripts which were written you can use those to help you structure your essays 
 
 use the liked videos list 
