@@ -2,13 +2,13 @@ tags:: [[china]] [[economics]]
 source:: https://sive.rs/book/ChinaWorldView
 type:: #source/artcicle 
 
-> The Chinese Communist Party is an alert, pragmatic, and adaptive party that is ==focused on nation-building rather than rigid ideology==
+> The Chinese [[Communist]] Party is an alert, pragmatic, and adaptive party that is ==focused on nation-building rather than rigid ideology==
 
 > This means that Chinese leaders are mostly exhausted by domestic affairs
 
 > Most Chinese believe that today China is in the rising part of a cycle following the **“century of humiliation” from 1840 (the Opium War) to 1945 (the end of the Japanese invasion).**
 
-> China remained in disarray until the Communist Party assumed national power in 1949.
+> China remained in disarray until the [[Communist]] Party assumed national power in 1949.
 > From this historical perspective, the **Communist Party is recognized as a hero**
 
 > In the United States, **political parties are mostly focused on getting their candidates elected** as opposed to everyday governance
@@ -20,7 +20,7 @@ type:: #source/artcicle
 > Every village has a party committee, every department of a university has a party branch, and even factories have a party branch.
 > Party committee members to hold regular meetings called democratic life meetings, during which they analyze their actions and areas for improvement through self-inspection and self-criticism
 
-> In the United States, large organizations such as unions, YMCA, and United Way are independent. But in China, the party manages everything.
+> In the [[United States]], large organizations such as unions, YMCA, and United Way are independent. But in [[China]], the party manages everything.
 > These nongovernment agencies are managed as government entities under the party
 
 > **China is the only major country that has not engaged in any warfare in the past four decades**
@@ -31,13 +31,13 @@ They are spying from us and
 > To avoid nepotism, in Chinese politics, a city’s leader is usually not from the area. This has been the practice for thousands of years
 
 > Corruption was an effective means for getting around cumbersome bureaucracy.
-> Fighting corruption has been Xi Jinping’s signature move
+> Fighting corruption has been [[Xi Jinping]]’s signature move
 
 What strategies does Xi Jinping use to right corruption?
 
 > Chinese regulations appear extremely complicated on paper - making it look almost impossible to do business in China - and yet deals are finalized rather quickly
 
-> This philosophy can be traced back to Confucianism - Confucius argued that subjects should be loyal to their emperor, and, in return, the emperor must be benevolent toward his subjects
+> This philosophy can be traced back to [[Confucianism]] - Confucius argued that subjects should be loyal to their emperor, and, in return, the emperor must be benevolent toward his subjects
 
 > Each level of Chinese government includes a department called the grievance agency. When people believe they have been mistreated.
 > They can line up at the agency’s door to have their voices heard.
@@ -95,7 +95,7 @@ China has always been self governing and has never needed protection from the US
 
 
 
-> For the sake of improving public relations with the rest of the world, many scholars have suggested that the party should remove the word communist from its name. However, popular Chinese culture favors continuity, and due to domestic considerations, the title of “communist” has been kept.
+> For the sake of improving public relations with the rest of the world, many scholars have suggested that the party should remove the word [[communist]] from its name. However, popular Chinese culture favors continuity, and due to domestic considerations, the title of “communist” has been kept.
 
 > China has not exported its ideology and political system to any other countries.
 > China has not sought to overturn any foreign regime.
@@ -106,18 +106,22 @@ This is unlike the US who is always trying to impose it systems and ways of thin
 
 > 80 percent of Chinese students who studied abroad from 2010 to 2020 have returned to China, rather than staying in foreign countries.
 
-> This does not necessarily refer to a political concept, but rather expresses the idea of home - central to the mindset of many Chinese.
+> This does not necessarily refer to a political concept, but rather expresses the idea of **home - central to the mindset of many Chinese.**
 > This is why most of the Chinese dynasties of the past two thousand years were not expansionary.
+
+Chinese dynasties are not expansionary
 
 > In Chinese philosophy, one has to push for economic growth first; political development will come later as a consequence of a higher quality of life.
 
+
 > High-tech companies such as Huawei began working on a contingency plan that they internally referred to as the “spare tire,” intending to establish their own operating systems and computer chips just in case the United States were to cut them out of the computer technology ecosystem.
 
-> For the past five hundred years, most wars were fought among Western nations.
+> ==For the past five hundred years, most wars were fought among Western nations.==
 
-> A theory called the Thucydides Trap:
+> A theory called the [[Thucydides Trap]]:
 > When a new power rose, the incumbent power felt challenged and as a consequence, wars between the new and the incumbent powers broke out.
 > When China grows bigger and stronger, China will face pushback from the United States.
+
 
 > China does not try and has not tried to cultivate its own satellite countries.
 > China does not have and has not attempted to build any military base overseas.
