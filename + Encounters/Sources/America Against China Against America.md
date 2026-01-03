@@ -17,10 +17,10 @@ China also has its own version of [[tall poppy syndrome]], but in its case, the 
 
 have also started creating “third places” and hosting “life-story salons,” writes
 
-*This is a sign of a rich country: China is summiting Maslow’s hierarchy.*
+*This is a sign of a rich country: China is summiting [[Maslow’s hierarchy]].*
 
-Someone once told me that China is the best place in the world to be a consumer. You can see such innovation shine brightest in the tea-drinking accoutrements: disposable cups for cold-brew that filter out leaves, carrier handles for take-out cups, flavors like Manner’s “osmanthus longjing latte” that actually taste good. Urban hubs feature other exotic conveniences too: battery packs on every block that you can rent for $0.75 an hour and drop off wherever, tiny electric fans to relieve you from 100 degree August days, LED screens in form factors that the West has never seen—building facades, foldable phones, and smart glasses much lighter weight than the Vision Pro. In
+Someone once told me that ==China is the best place in the world to be a consumer==. You can see such innovation shine brightest in the tea-drinking accoutrements: disposable cups for cold-brew that filter out leaves, carrier handles for take-out cups, flavors like Manner’s “osmanthus longjing latte” that actually taste good. Urban hubs feature other exotic conveniences too: battery packs on every block that you can rent for $0.75 an hour and drop off wherever, tiny electric fans to relieve you from 100 degree August days, LED screens in form factors that the West has never seen—building facades, foldable phones, and smart glasses much lighter weight than the Vision Pro. I
 
 But a substantial component is sheer fascination, and a solipsistic desire to understand China so that I might better understand America and myself.
 
-Expats there are all addicted to the pace of change; everywhere else is slow in comparison. It’s the same reason I love San Francisco, for all its thorns—China is a place where *things actually* *happen*.
+Expats there are all addicted to the pace of change; everywhere else is slow in comparison. It’s the same reason I love San Francisco, for all its thorns—==China is a place where *things actually* *happen*.==

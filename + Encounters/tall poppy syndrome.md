@@ -8,7 +8,9 @@ being resented or criticized of the success you achieve,
 
 people will feel envy and jealousy when they see other people's success and will try to tear them down.
 
-In [[china]] people adopt this idea and it could be one of the reasons why chinese people 
+In [[china]] people adopt this idea and it could be one of the reasons why chinese americans are not as successful in climbing the corporate ladder.
+
+
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
