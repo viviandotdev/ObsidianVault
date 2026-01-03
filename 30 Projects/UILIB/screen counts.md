@@ -81,7 +81,6 @@ home
 dashboard
 	- firecrawl
 
-
 checkout
 error
 search
@@ -90,8 +89,9 @@ notifications
 charts
 chat bot
 my account & profile 
-Subscription & Paywall
-Browse & Discover
+**Subscription & Paywall**
+**Browse & Discover**
+	air bnb
 
 *   Add & Create 3,554
 *   Acknowledgement & Success 3,080
