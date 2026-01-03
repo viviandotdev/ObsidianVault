@@ -25,10 +25,15 @@ type:: #source/artcicle
 
 > **China is the only major country that has not engaged in any warfare in the past four decades**
 
+America has painted China as a country that needs to stopped.
+They are spying from us and 
+
 > To avoid nepotism, in Chinese politics, a city’s leader is usually not from the area. This has been the practice for thousands of years
 
 > Corruption was an effective means for getting around cumbersome bureaucracy.
 > Fighting corruption has been Xi Jinping’s signature move
+
+What strategies does Xi Jinping use to right corruption?
 
 > Chinese regulations appear extremely complicated on paper - making it look almost impossible to do business in China - and yet deals are finalized rather quickly
 
@@ -38,22 +43,30 @@ type:: #source/artcicle
 > They can line up at the agency’s door to have their voices heard.
 > This is different from a court, where the adversary system exists
 
-> Government intervention is based on the belief that the good of society takes priority over an individual’s welfare. Again, this concept can be traced back to Confucius’s political philosophy. On the global stage, the American political philosophy sits at one extreme, placing great emphasis on individual liberty.
+> Government intervention is based on the belief that the ==good of society takes priority over an individual’s welfare==. Again, this concept can be traced back to Confucius’s political philosophy. On the global stage, the American political philosophy sits at one extreme, ==placing great emphasis on individual liberty.==
 > Social stability and economic prosperity are more important than ensuring individual rights
+
+In china social stability and economics are more important than individual rights
 
 > In China, to sell a product on the market, the producer often must first gain approval from the government by passing a standard.
 > In the United States, producers can often begin selling immediately without approval, but if the product is later believed to be unsafe, the producer may face lawsuits.
+
 
 > China often has very high technical thresholds for consumer products, at least on paper.
 > China’s product standards are often among the world’s highest.
 > However, the implementation and enforcement of these standards is the problem.
 > Manufacturers send their best samples for inspection, later assembling substandard products for volume production.
 
+
+
 > State-owned enterprises are enterprises in which the government holds the largest number of shares
 
 > These SOEs include China Mobile, Bank of China, China Unicom, China Telecom, Construction Bank of China, Agricultural Bank of China, and the Industrial and Commercial Bank of China (ICBC
 
-> Confucian values place businessmen among society’s lowest classes.
+> ==Confucian values place businessmen among society’s lowest classes.==
+
+Businessmen are the lowest of classes because they are the people who suffer the most for the grea
+
 
 > Deeply rooted in Confucian doctrine: parents and children are bonded for life.
 > A successful child is obliged to take care of their parents and grandparents.
