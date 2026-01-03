@@ -4,7 +4,6 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[philosophy]]
 type:: #note/idea 
-tags:: [[]]
 
 -  Society makes us feel that we always need to be doing something to better our selves, and be [[productivity|productive]]
 - ==However all we need to do is live==

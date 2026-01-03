@@ -13,7 +13,7 @@ Chinese engineers also seem more practical than their American counterparts. The
 > Chinese people are generally less political because they live in a single party state, they can move faster because they don't waste extra cycles coming up with something new.
 > Because of the polarizing 2 party system, we literally waste time each each year just undoing the work of the previous party causing us to be stagnant
 
-China also has its own version of [[tall poppy syndrome]], but in its case, the state wields the shears—Jack Ma being the key example. Idioms like 树大招风 (tall trees catch more wind) and 人怕出名猪怕壮 (people fear fame, pigs fear getting fat) warn the dangers of speaking up or standing out. These norms, my mom theorizes, are one reason that Chinese have not been as successful as Indian Americans in ascending American corporate hierarchies.
+China also has its own version of [[Tall Poppy Syndrome]], but in its case, the state wields the shears—Jack Ma being the key example. Idioms like 树大招风 (tall trees catch more wind) and 人怕出名猪怕壮 (people fear fame, pigs fear getting fat) warn the dangers of speaking up or standing out. These norms, my mom theorizes, are one reason that Chinese have not been as successful as Indian Americans in ascending American corporate hierarchies.
 
 have also started creating “third places” and hosting “life-story salons,” writes
 
