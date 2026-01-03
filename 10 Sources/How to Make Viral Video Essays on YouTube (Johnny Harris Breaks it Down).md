@@ -6,7 +6,10 @@ How to Make Viral Video Essays on YouTube (Johnny Harris Breaks it Down)
 
 9am - 2pm writing block
 3 days a week some times a 4 days
-everyday he needs to hit a block,
+everyday he needs to hit a block on specific topic,
+i think you are jumping around too much to find what is interesting to. you but if you stick to something enough it will become interesting you are not sticking with these ideas. long enough
+he has a very specific system that he follows to a tee
+
 
 - Greenlight a topic -> choose a topic
 	- create document 
