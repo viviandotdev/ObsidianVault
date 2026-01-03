@@ -18,5 +18,8 @@ type:: #source/video
 
 Put good stuff out into the universe and it. will return more good stuff back to you
 
+**Quotes**
+I knew I was getting somewhere when I began losing interest in the beginning and ending of things
+
 **Related**
 [[Finite vs infinite games]]
