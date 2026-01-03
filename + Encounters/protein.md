@@ -1,13 +1,11 @@
 ---
-created: 2026-01-03 13:13
+created: 2026-01-03 13:14
 modified: 2025-06-22T19:16:10-04:00
 ---
 type:: #note/concept 
-tags:: [[health]] [[brain]] 
+tags:: [[health]] [[biology]]
 
-Brain-Derived Neurotrophic Factor is a [[protein]] that plays an crucial role simulating neuron growth.
-
-
+Proteins are essential molecules in the body,
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
@@ -18,5 +16,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-Brain-Derived Neurotrophic Factor
