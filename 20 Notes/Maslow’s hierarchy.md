@@ -8,11 +8,11 @@ tags:: [[psychology]]
 
 Maslow's hierarchy of needs, is the hierarchy of humans needs, Once your basic needs are met you can focus on higher needs
 
-once their basic needs are met they can focus on other things such as mental health and sexuality which are modern day problems because all our basic needs are met and we can ruminate about these "non problems"
+Once their basic needs are met they can focus on other things such as mental health and sexuality which are modern day problems because all our basic needs are met and we can ruminate about these "non problems"
 
 ![[Pasted image 20260103074906.png]]
 
-we can see this happening in china as well, it is thought that mental illness and therapy were taboo subjects that are not discussed, but if you visit china now you will see advertising for therapy and counseling sessions at the mall
+We can see this happening in china as well, it is thought that mental illness and therapy were taboo subjects that are not discussed, but if you visit china now you will see advertising for therapy and counseling sessions at the mall
 
 
 ### Links to this page
