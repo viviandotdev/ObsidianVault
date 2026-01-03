@@ -5,8 +5,8 @@ type:: #source/article
 2025 Founder Recap: State of Sublime
 
 
-- playing the infinte game
-- building something that. exists
-- there is no exist strategey'
+- playing the infinite game
+- building something that exists
+- there is no exit strategy, she adopts an
 
-put good stuff out into the universe and it. will return more good stuff back to you
+Put good stuff out into the universe and it. will return more good stuff back to you

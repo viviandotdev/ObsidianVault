@@ -44,7 +44,7 @@ webscreens.app
 .dev
 .io
 
-Here are the highest rated applications sorted by their `trendingMetric` in descending order:
+Here are the highest rated applications sorted by their `trendingMetric` in descending order: (look at popular apps and their screens as well)
 
 1.  **Linear:** 291
 		plane
