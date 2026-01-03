@@ -56,8 +56,9 @@ Her value and **your inferiority complex** is a internal interpersonal relations
 Value with something that’s based on social context for example, the value of a dollar is not objective given the amount of resource that went into creating. It does not equal its exact work. It’s based on a social contract for example, if I had that dollar in the world all by myself , I would be using it to burn a fire during winter time because dollar inherently has no value without the social context behind it in the same way that feeling inferior to others based on my height is a subjective view because the. Because if I was the only person in the world, there were no there would be no reason for me to worry about my height.
 
 
-**ALL PROBLEMS ARE INTERPERSONAL RELATIONSHIP** Problems
-Tasks, everyone has their own life tasks, interpersonal relationships problems arise when you try you go into other people’s tasks and when other people try to do your tasks,
+**ALL PROBLEMS ARE INTERPERSONAL RELATIONSHIP** 
+
+==seperation of Tasks,== everyone has their own life tasks, interpersonal relationships problems arise when you try you go into other people’s tasks and when other people try to do your tasks,
 It is not selfish to focus on your own tasks, 
 Within family members it is harder to focus on your own life tasks
 My parents will try to impose what they want on to you,

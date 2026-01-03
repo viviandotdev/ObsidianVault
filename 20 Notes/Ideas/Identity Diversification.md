@@ -2,7 +2,7 @@
 created: 2024-11-12 10:48
 modified: 2025-06-18T08:10:19-04:00
 ---
-note:: #note/atomic
+note:: #note/idea 
 tags:: [[happiness]]
 This is concept similar to financial diversification do not base all your self worth on a singular project instead engage in multiple different activities at a time so that if one area faces challenges the other areas can provide fulfillment.
 
