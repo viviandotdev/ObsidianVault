@@ -65,14 +65,18 @@ In china social stability and economics are more important than individual right
 
 > ==Confucian values place businessmen among society’s lowest classes.==
 
-Businessmen are the lowest of classes because they are the people who suffer the most for the grea
+Confucians thought business was not a noble pursuit, because wealth accumulation is less virtuous than the pursuit of knowledge and moral development. 
 
 
 > Deeply rooted in Confucian doctrine: parents and children are bonded for life.
 > A successful child is obliged to take care of their parents and grandparents.
 > This is why their children’s education is the most important investment a family can make to ensure long-term prosperity.
 
+
+
 > The average income level in China is still only about 20 percent of that in the United States, and yet the average levels of education and health of the population are not too far away from those in the United States
+
+
 
 > But would never implement such a policy because it would set a bad example of pleasing the poor at the expense of long-term public investment
 
@@ -85,13 +89,20 @@ Businessmen are the lowest of classes because they are the people who suffer the
 > all-responsible government
 > with a matching social mentality,
 
-> China is too large, too proud, and too independent to conform to the Western model. China was a unified, self-governing country for most of the past thousands of years. Unlike Japan, Korea, and Taiwan, mainland China has never been under US protection and there is no need to prove itself as a genuine friend of the United States by importing Western political and economic systems.
+> **China is too large, too proud, and too independent to conform to the Western model.** China was a unified, self-governing country for most of the past thousands of years. Unlike Japan, Korea, and Taiwan, mainland China has never been under US protection and there is no need to prove itself as a genuine friend of the United States by importing Western political and economic systems.
+
+China has always been self governing and has never needed protection from the US like Korea or Japan
+
+
 
 > For the sake of improving public relations with the rest of the world, many scholars have suggested that the party should remove the word communist from its name. However, popular Chinese culture favors continuity, and due to domestic considerations, the title of “communist” has been kept.
 
 > China has not exported its ideology and political system to any other countries.
 > China has not sought to overturn any foreign regime.
 > China has taken care of the welfare of its large population and has not exported poverty or refugees to the world.
+
+China as a country keeps to itself and has not tried to impose this ideology and political systems to other countries.
+This is unlike the US who is always trying to impose it systems and ways of thinking to other countries and over powering them.
 
 > 80 percent of Chinese students who studied abroad from 2010 to 2020 have returned to China, rather than staying in foreign countries.
 
