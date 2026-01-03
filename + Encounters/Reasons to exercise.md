@@ -8,7 +8,7 @@ humans are a system
 what is bdnf?
 
 **how does exercise help cognitive performance?**
-
+[[BDNF]]
 what is the process and what does the body go through when we exercise?
 
 

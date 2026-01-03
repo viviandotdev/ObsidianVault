@@ -1,6 +1,6 @@
-tags::
+tags:: [[health]]
 source:: https://www.youtube.com/watch?v=DsVzKCk066g
-type:: #source/article
+type:: #source/video
 
 
 ### Video Summary: Exercise and Its Impact
@@ -38,5 +38,9 @@ little things
 	* serotinin
 	* less deperessed, less neurotic
 * **[11:30](https://www.youtube.com/watch?v=DsVzKCk066g&t=690s)** - Exercise alleviates the negative effects of stress
-	* cortisol is released
+	* ![[Pasted image 20260103130927.png]]
+	* how is cortisol is released
+	* cortisol, decreases activity in the hippocampus (learning,  memory, stress control)
+	* better at reacting to. stress
 * **[13:15](https://www.youtube.com/watch?v=DsVzKCk066g&t=795s)** - How can improving your life in virtually every way not be at the top of your to-do list?
+* 
