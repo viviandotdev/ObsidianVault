@@ -2,11 +2,12 @@ humans are a system
 
 
 [WHY Exercise is Underrated](https://www.youtube.com/watch?v=DsVzKCk066g&list=PLpnqOHebpT4gfIvlcPyCixqLoDPC2oFtA&index=14)
+**Book Spark**
 
 
 what is bdnf?
 
-how does ex
+how does exercise help cognitive performance
 
 what is the process and what does the body go through when we exercise?
 
