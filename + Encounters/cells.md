@@ -8,6 +8,7 @@ tags:: [[biology]]
 A cell is the basic structural unit of life,
 all living organisms are made up off cells
 
+![[Pasted image 20260103135554.png]]
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
