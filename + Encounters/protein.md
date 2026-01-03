@@ -7,7 +7,6 @@ tags:: [[health]] [[biology]]
 
 Proteins are essential molecules in the body,
 
-
 Proteins are made up of [[amino acids]] linked together by peptide bonds and their unique sequence and structures determine their function in the human body
 
 **Functions**
