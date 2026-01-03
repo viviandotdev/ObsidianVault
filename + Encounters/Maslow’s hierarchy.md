@@ -6,7 +6,7 @@ type:: #note/concept
 tags:: [[psychology]]
 
 
-Maslow's hierarchy of needs, this a pyramid of what humans need to think about 
+Maslow's hierarchy of needs, this a pyramid of what humans needs
 
 once their basic needs are met they can focus on other things such as mental health and sexuality which are modern day problems because all our basic needs are met and we can ruminate about these "non problems"
 
