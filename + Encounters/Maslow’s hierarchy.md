@@ -6,7 +6,7 @@ type:: #note/concept
 tags:: [[psychology]]
 
 
-Maslow's hierarchy of needs, is the hierarchy of humans needs
+Maslow's hierarchy of needs, is the hierarchy of humans needs, Once your basic needs are met you can focus on higher needs
 
 once their basic needs are met they can focus on other things such as mental health and sexuality which are modern day problems because all our basic needs are met and we can ruminate about these "non problems"
 
