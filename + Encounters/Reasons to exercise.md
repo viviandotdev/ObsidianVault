@@ -7,6 +7,30 @@
 
 How does exercise promote BNDF
 
+
+Why I exercise
+
+Improves cognitive function,
+When you exercise neurons in our brain fire more to control movement, coordination and balance,
+Due to this higher activity neurons which are brain cells get the signal to produce more of the BDNF protein,
+Cells can produce proteins by converting DNA to mRNA to proteins, cells have dna which contain the instructions to create the protein, a specific signal is sent to the neurons which turns on the genes to create the BDNF protein.
+
+What sends the signals?
+Your muscles can release signaling molecules called myokines to tell the neurons more BDNF
+
+
+•	DNA = cookbook
+	•	Gene = recipe
+	•	Turning on a gene = choosing to cook that recipe
+	•	Protein = the finished dish
+
+
+
+We have a brain to control movements, studies have shown that koala adapted to have smaller brains when their lifestyle became more sedentary.
+
+
+
+
 **how does exercise help cognitive performance?**
 [[BDNF]]
 what is the process and what does the body go through when we exercise?
