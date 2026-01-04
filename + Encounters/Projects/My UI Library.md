@@ -15,6 +15,8 @@ about:blank
 
 [[How to update packages]]
 
+
+089909077
 [[UI-Library Log]]
 **Outwork**: execute them harder for 90 days.
 
@@ -28,7 +30,7 @@ In the new letter you can give them the code this week
 If they want to buy the whole repo then pay in tiers 
 
 
-
+clone origin app
 
 create a newsletter everyweek sending out your components for only that week, 
 if that want the whole library they subscribe
