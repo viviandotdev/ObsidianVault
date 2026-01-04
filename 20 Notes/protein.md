@@ -13,6 +13,8 @@ Proteins are made up of [[amino acids]] linked together by peptide bonds and the
 - Can function as [[Hormones]] which are chemical messengers 
 - Transport molecules through the body.
 - Structural support
+
+[[Central dogma of molecular biology]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
