@@ -73,6 +73,10 @@ Here are the highest rated applications sorted by their `trendingMetric` in desc
 23. **Plane:** 14 -> 
 24. **Steep:** 6
 
+**others**
+dub
+
+
 **trending screens/most popular screens**
 also use your judgement on what is the most important, but focus on these
 sign up
