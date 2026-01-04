@@ -4,7 +4,7 @@ type:: #map/project
 [Magic UI](https://magicui.design/)
 [Align ui](about:blank)
 about:blank
-
+[inDev](https://square.lndev.me/)
 [Kavoft](https://www.youtube.com/@Kavsoft)
 **Copy**: steal their systems - their morning routines, writing habits, tools, workflows.
 [[How create a screen]]
