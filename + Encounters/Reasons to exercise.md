@@ -13,15 +13,17 @@ Our body sets a limit to how much energy it is willing to expend
 ![[Pasted image 20260110163717.png]]
 
 
-How does exercise promote BNDF
+However this does not mean that exercise does not contribute to weight loss, in addition exercise has many other benefits that are arguably a lot better than weight loss
+
+- **Improves congitive function**
+	- When you exercise neurons in our brain fire more to control movement, coordination and balance, Due to this higher activity neurons which are brain cells get the signal to produce more of the BDNF protein, Cells can produce proteins by converting DNA to mRNA to proteins, cells have dna which contain the instructions to create the protein, a specific signal is sent to the neurons which turns on the genes to create the BDNF protein.
+- Increase energy 
+	cellular communication
 
 
 Why I exercise
 
 Improves cognitive function,
-When you exercise neurons in our brain fire more to control movement, coordination and balance,
-Due to this higher activity neurons which are brain cells get the signal to produce more of the BDNF protein,
-Cells can produce proteins by converting DNA to mRNA to proteins, cells have dna which contain the instructions to create the protein, a specific signal is sent to the neurons which turns on the genes to create the BDNF protein.
 
 What sends the signals?
 Your muscles can release signaling molecules called myokines to tell the neurons more BDNF
