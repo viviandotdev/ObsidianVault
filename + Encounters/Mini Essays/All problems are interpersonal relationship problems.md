@@ -35,4 +35,4 @@ problems and resentment arise when people do not live up your expectations.
 
 
 **seperation of tasks**
-do not intrude on other people's tasks and don't let other people int
+do not intrude on other people's tasks and don't let other people intrude of your own
