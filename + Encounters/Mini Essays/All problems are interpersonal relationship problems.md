@@ -59,14 +59,21 @@ not intruding does not mean non-interernence, you should not meddle in the child
 
 
 **if interpersonal relationships cause problems what the point of having interpersonal relationships?**
+**how to build good relationships?**
 - community feeling is the goal of interpersonal relationships. what can you give to this person
 - to create community feeling your interpersonal relationships should be horizontal relationships not vertical relationshiops
-- in **vertical** relationships feelings of inferiority rises,
+	- in **vertical** relationships feelings of inferiority rises,
 	- words of judegemnt create vertical relationshios, 
 	- commanding others creates vertical relationhisp
 	- words or praise creates vertical relationshios
-- in **horizontal** relationships, equal but not the same there is no room for an inferiority complex to emerge
+	- in **horizontal** relationships, equal but not the same there is no room for an inferiority complex to emerge
 	- words gratitude convey horizontal relationships
 	- words of respect and joy
-**just exist**
-- your mother in critical condition is just by 
+- **just exist**
+	- your mother in critical condition is just by being alive, is supporting the psychological state of you and your family, and therefore be of use, she does not need to do anything extra ordinary or create some thing that changes the world, just being alive she is supporting you, this could be said for you and everyone. 
+	- you can be worth it just by being alive you don't need to be productive and contribute something crazy to the world,
+- have confidence in others, 
+	- without confidence in others you will not be able to build deep relationships with anyone
+		- unconditional confidence makes the relationship better and your should trust and have confidence that your friends also want to make the relationship better
+	- when you place confidence in others you see them a
+- 

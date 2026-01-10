@@ -429,7 +429,7 @@
 ### EXIST IN THE PRESENT
 
 **Highlight (yellow) - Location 3868**
-> Your mother might not be able to do anything in her critical condition that would be considered an act, but just by being alive, she would be supporting the psychological state of you and your family, and would therefore be of use. The same could be said for you, too.
+> **Your mother might not be able to do anything in her critical condition that would be considered an act, but just by being alive, she would be supporting the psychological state of you and your family, and would therefore be of use. The same could be said for you, too.**
 
 ---
 
@@ -451,7 +451,7 @@
 > But if you are afraid to have confidence in others, in the long run, you will not be able to build deep relationships with anyone.
 
 **Note - Location 4323**
-> Building deep and strong interpersonal relationships require unconditional confidence. Unconditional confidence does not mean believing people even if they deceive. Having unconditional confidence in the person makes the relationship better. You should trust and have confidence in your friends if you want that relationship to be better. If you do not have the desire to make the relationships with that person better you can sever the relationship but that is your task.
+> Building deep and strong interpersonal relationships require unconditional confidence. Unconditional confidence does not mean believing people even if they deceive. **Having unconditional confidence in the person makes the relationship better. You should trust and have confidence in your friends if you want that relationship to be better. If you do not have the desire to make the relationships with that person better you can sever the relationship but that is your task.**
 >
 > I have deep confidence that the people around me are good people.
 
