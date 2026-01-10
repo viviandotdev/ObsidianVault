@@ -344,7 +344,7 @@
 > Many people think that the interpersonal relationship cards are held by the other person. That is why they wonder, How does that person feel about me?, and end up living in such a way as to satisfy the wishes of other people. But if they can grasp the separation of tasks, they will notice that they are holding all the cards. This is a new way of thinking.
 
 **Highlight (yellow) - Location 3058**
-> So, due to your changing, did your father change too? PHILOSOPHER: I did not change in order to change my father. That is an erroneous notion of trying to manipulate another person. Even if I change, it is only 'I' who changes. I do not know what will happen to the other person as a result, and that is not an aspect I can take part in.
+> So, **due to your changing, did your father change too? PHILOSOPHER: I did not change in order to change my father. That is an erroneous notion of trying to manipulate another person. Even if I change, it is only 'I' who changes. I do not know what will happen to the other person as a result, and that is not an aspect I can take part in.**
 
 ---
 
@@ -356,7 +356,7 @@
 > When there are two people, society emerges in their presence, and community emerges there too. To gain an understanding of the community feeling that Adler speaks of, it is advisable to use 'you and I' as the starting point.
 
 **Note - Location 3256**
-> A community creates interpersonal relationships.
+> **A community creates interpersonal relationships.**
 >
 > One needs to think not, what will this person give me, but rather, what can I give to this person? That is commitment to the community.
 

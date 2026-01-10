@@ -48,6 +48,16 @@ answer the question who is ultimately going to recieve the end result brought ab
 
 not intruding does not mean non-interernence, you should not meddle in the child's task to study but should let them know that you are ready to assist them when they are ready to study.
 
-**resolving personal relationships problems**
-- the cards to resolve these problems are within you
+**resolving interpersonal relationships problems**
+- the cards to resolve these problems are within your hands
+- in freudian aetiologiy, there is a cause an effect, 
+	- my father hit me as a child therefore our relationship is bad
+- alderian teleophy flips this
+	- i brought out the emory of being hit because i don't want to fix my relationships with my father.
+- i have the power to change the goal to make steps to resolve the issue, most people think that to resolve these interpersonal relationship problems is it up to the other person, however you can have agency over improving your relationships.
+- 
 
+
+**if interpersonal relationships cause problems what the point of having interpersonal relationships?**
+- community feeling is the goal of interpersonal relationships. what can you give to this person
+- to create community feeling your interpersonal relationships should be horizontal relationships not v
