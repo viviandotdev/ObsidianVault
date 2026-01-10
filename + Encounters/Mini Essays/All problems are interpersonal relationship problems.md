@@ -64,7 +64,7 @@ building good relationships creates communicty feeling because community feeling
 - In order to create community feeling, think about how and what can you give to this person/community instead of what can others do for me.
 - to create community feeling your interpersonal relationships should be horizontal relationships not vertical relationshiops
 	- in **vertical** relationships feelings of inferiority rises,
-	- words of judegemnt create vertical relationshios, 
+	- words of judgment create vertical relationshios, 
 	- commanding others creates vertical relationhisp
 	- words or praise creates vertical relationshios
 	- in **horizontal** relationships, equal but not the same there is no room for an inferiority complex to emerge
