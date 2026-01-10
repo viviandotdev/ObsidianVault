@@ -7,6 +7,7 @@
 
 titles: exercise does not cause weight loss
 
+My mother always told me to you need to exercise to lose weight. However this is not the case because exercise does not cause weight loss. Exercise is for muscle gain.
 
 problem -> instability
 
