@@ -15,17 +15,18 @@ However this does not mean that exercise does not contribute to weight loss, in 
 
 - **Improves cognitive function**
 	- When you exercise neurons in our brain fire more to control movement, coordination and balance, Due to this higher activity neurons which are brain cells get the signal to produce more of the [[BDNF]] protein, 
-	- Exercise promotes the release of lactate, a myokine produced in skeletal muscle. Lactate enters the bloodstream and then crosses the blood-brain barrier, promoting BDNF production.
+	- Exercise promotes the release of lactate, a [[myokine]] produced in skeletal muscle. Lactate enters the bloodstream and then crosses the blood-brain barrier, promoting [[BDNF]] production.
 	- ![[Pasted image 20260110171335.png]]
-	- Since [[Lactate]] is crucial in elevating BDNF levels, with high-intensity interval training (HIIT) notably boosting BDNF more than moderate continuous exercise.
-		- **Protocol**- HIIT exercise, six 40-second intervals at 100 percent of VO2 peak increased BDNF 4 to 5 times more than prolonged exercise 90 minutes at 25 percent VO2 peak
-- Alleviates stress, depression and anxiety
-	- Releases norephinrerinece, serotiinen and dopamine (talk more about how this works)
-- Releasing signaling molecules called myokines to reduce inflummation, regulate metaboilism,
+	- Lactate and BDNF: Since **lactate** is crucial in elevating [[BDNF]] (Brain-Derived Neurotrophic Factor) levels, high-intensity interval training (HIIT) notably boosts [[BDNF]] more than moderate continuous exercise.
+		- **Protocol**: HIIT exercise consisting of six 40-second intervals at 100 percent of VO2​ peak increased BDNF 4 to 5 times more than prolonged exercise (90 minutes at 25 percent VO2​ peak).
+- Improves mental health, alleviates stress, depression and anxiety
+	- Stimulates the release of norepinephrine, serotonin, and dopamine.
+- During exercise, contracting muscles release signaling molecules called [[myokines]].
 	- during exercise when the muslces contract it release signaling molecules called **myokines** 
-- Decrease insulin resistiance and increase sensitivity, so your body can easily process fats (i don't like this phrasing what do you mean by this?) 
+- Increase metabolic efficiency.
+	- Decrease insulin resistiance and increase sensitivity, the body can easily switch to fat oxidation ( burning fat for fuel)
 	- Muscles can decrease insulin resistance, this allows more glucose to enter your cells keeping blood sugar low. We only need a little bit of insulin for our cells to start to let glucose in,
-		- People with high insulin resistance require a lot of insulin in order for cells to come in,
+		- People with high insulin resistance require a lot of insulin in order for cells to come in, [[Are you too Fat or just Too weak?]]
 
 
 **resources**
