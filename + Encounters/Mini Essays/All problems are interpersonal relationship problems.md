@@ -46,7 +46,7 @@ when the parent tries to intrude on a child's task it seems like they are doing 
 how do you know whose task is this?
 answer the question who is ultimately going to recieve the end result brought about by the choice that is made?
 
-not intruding does not mean non-interernence, you should not meddle in the child's task to study but should let them know that you are ready to assist them when they are ready to study.
+not intruding does not mean non-interernence, you should not meddle in the child's task to study but should let them know that you are ready to assist them when they are ready to study. this create the sepration of tasks and forms horizontal relationships, instead of commanding from above that the child must study, they can gain confidence and have trust in that the child will take care of their studies on their own
 
 **resolving interpersonal relationships problems**
 - the cards to resolve these problems are within your hands
@@ -60,4 +60,13 @@ not intruding does not mean non-interernence, you should not meddle in the child
 
 **if interpersonal relationships cause problems what the point of having interpersonal relationships?**
 - community feeling is the goal of interpersonal relationships. what can you give to this person
-- to create community feeling your interpersonal relationships should be horizontal relationships not v
+- to create community feeling your interpersonal relationships should be horizontal relationships not vertical relationshiops
+- in **vertical** relationships feelings of inferiority rises,
+	- words of judegemnt create vertical relationshios, 
+	- commanding others creates vertical relationhisp
+	- words or praise creates vertical relationshios
+- in **horizontal** relationships, equal but not the same there is no room for an inferiority complex to emerge
+	- words gratitude convey horizontal relationships
+	- words of respect and joy
+**just exist**
+- your mother in critical condition is just by 
