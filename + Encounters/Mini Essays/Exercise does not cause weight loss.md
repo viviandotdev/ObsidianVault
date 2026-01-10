@@ -3,5 +3,6 @@ titles: exercise does not cause weight loss
 
 
 problem -> instability,
-what they thought was wrong
-is
+
+- What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them?
+	- most people think that exercise creates weight loss
