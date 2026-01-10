@@ -60,7 +60,8 @@ not intruding does not mean non-interernence, you should not meddle in the child
 
 **if interpersonal relationships cause problems what the point of having interpersonal relationships?**
 **how to build good relationships?**
-- community feeling is the goal of interpersonal relationships. what can you give to this person
+building good relationships creates communicty feeling because community feeling in the gaol of interperson relationships
+- In order to create community feeling, think about how and what can you give to this person/community instead of what can others do for me.
 - to create community feeling your interpersonal relationships should be horizontal relationships not vertical relationshiops
 	- in **vertical** relationships feelings of inferiority rises,
 	- words of judegemnt create vertical relationshios, 
