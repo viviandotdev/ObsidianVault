@@ -16,4 +16,4 @@ INSTABILITY if made stable will beneift the readers
 
 
 Structure of an essay
-Instalbility -> Solution / Promise of solu
+Instalbility -> Solution / Promise of solution
