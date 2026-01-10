@@ -5,7 +5,9 @@
 
 For most of our life, exercise has been reduced to calorie burning. We have all heard the phrase **calories in, calories out**. If you spend time at the gym burning more calories that you eat you will lose weight.
 
-However this is not how the body works, studies have shown that **exercise does not cause weight loss**
+However this is not how the body works, studies have shown that **exercise does not cause weight loss**.
+In fact energy expenditure actually plateaus, meaning the at after a certain amount of exercise, you don't keep burning calories at the same rate.
+Our body 
 
 
 How does exercise promote BNDF
