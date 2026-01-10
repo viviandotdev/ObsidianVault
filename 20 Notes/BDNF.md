@@ -7,7 +7,10 @@ tags:: [[health]] [[brain]]
 
 Brain-Derived Neurotrophic Factor is a [[protein]] that plays an crucial role simulating neuron growth.
 
+BDNF is a [[myokine]] and neurotrophic factor
+produced in the muscles and brain in response to vigorous exercise.
 
+Increases [[neurogenesises]] and [[neuroplasticity]]
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
