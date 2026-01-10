@@ -24,7 +24,7 @@ However this does not mean that exercise does not contribute to weight loss, in 
 - During exercise, contracting muscles release signaling molecules called [[myokines]].
 	- during exercise when the muslces contract it release signaling molecules called **myokines** 
 - Increase metabolic efficiency.
-	- Decrease insulin resistiance and increase sensitivity, the body can easily switch to fat oxidation ( burning fat for fuel)
+	- Decrease insulin resistance and increase sensitivity, the body can easily switch to fat oxidation ( burning fat for fuel)
 	- Muscles can decrease insulin resistance, this allows more glucose to enter your cells keeping blood sugar low. We only need a little bit of insulin for our cells to start to let glucose in,
 		- People with high insulin resistance require a lot of insulin in order for cells to come in, [[Are you too Fat or just Too weak?]]
 
