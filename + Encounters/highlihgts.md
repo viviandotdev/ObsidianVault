@@ -139,7 +139,7 @@
 ### FEELINGS OF INFERIORITY ARE SUBJECTIVE ASSUMPTIONS
 
 **Highlight (yellow) - Location 1216**
-> My feelings about my height were all subjective feelings of inferiority, which arose entirely through my comparing myself to others. That is to say, in my interpersonal relationships. Because if there hadn't been anyone with whom to compare myself, I wouldn't have had any occasion to think I was short. Right now, you too are suffering from various feelings of inferiority. But please understand that what you are feeling is not an objective inferiority, but a subjective feeling of inferiority. Even with an issue like height, it's all reduced to its subjectivity. YOUTH: In other words, the feelings of inferiority we're suffering from are subjective interpretations rather than objective facts?
+> My feelings about my height were all subjective feelings of inferiority, which arose entirely through my comparing myself to others. That is to say, in my interpersonal relationships. Because if there hadn't been anyone with whom to compare myself, I wouldn't have had any occasion to think I was short. Right now, you too are suffering from various feelings of inferiority. But please understand that what you are feeling is not an objective inferiority, but a subjective feeling of inferiority. Even with an issue like height, it's all reduced to its subjectivity. YOUTH: In other words, **the feelings of inferiority we're suffering from are subjective interpretations rather than objective facts?**
 
 ---
 
@@ -223,7 +223,7 @@
 > In other words, the conviction that 'I am right' leads to the assumption that 'this person is wrong', and finally it becomes a contest and you are thinking, I have to win. It's a power struggle through and through.
 
 **Note - Location 1864**
-> Most people have a power struggle, they have the desire to be right. The desire to be right means that the other person must be wrong.
+> **Most people have a power struggle, they have the desire to be right. The desire to be right means that the other person must be wrong.**
 
 ---
 
