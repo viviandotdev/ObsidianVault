@@ -17,8 +17,11 @@ However this does not mean that exercise does not contribute to weight loss, in 
 
 - **Improves congitive function**
 	- When you exercise neurons in our brain fire more to control movement, coordination and balance, Due to this higher activity neurons which are brain cells get the signal to produce more of the BDNF protein, Cells can produce proteins by converting DNA to mRNA to proteins, cells have dna which contain the instructions to create the protein, a specific signal is sent to the neurons which turns on the genes to create the BDNF protein.
-- Increase energy 
-	cellular communication
+- Increase allieviates stress, depression and anxieity
+	- Releases norephinrerinece, serotiinen and dopamine
+- Reduce inflammation, and Longevirity
+	- Muscles can decrease insulin resistance, this allows more glucose to enter your cells keeping blood sugar low. We only need a little bit of insulin for 
+	- during exercise when the muslces contract it release signaling molecules called myokines 
 
 
 Why I exercise
