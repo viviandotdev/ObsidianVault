@@ -75,5 +75,7 @@ not intruding does not mean non-interernence, you should not meddle in the child
 - have confidence in others, 
 	- without confidence in others you will not be able to build deep relationships with anyone
 		- unconditional confidence makes the relationship better and your should trust and have confidence that your friends also want to make the relationship better
-	- when you place confidence in others you see them a
+	- when you place confidence in others you see them as comrades, because you can only have confidence in your comrades.
+	- what problems are created if you don't have confidence in your friends?
+		- you start to doubt them, this creates resentment, and you start seeing them in a bad light 
 - 
