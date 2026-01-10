@@ -1,8 +1,14 @@
 
+[You Were Lied to About Exercise - by Erin Nystrom](https://erinnystrom.substack.com/p/you-were-lied-to-about-exercise)
+
+
+[[WHY Exercise is so Underrated (Brain Power & Movement Link)]]
+
+
 titles: exercise does not cause weight loss
 
 
-problem -> instability,
+problem -> instability
 
 - What are the common goals related to this topic? What problems arise, and what typical advice is offered to solve them?
 	- most people think that exercise creates weight loss
