@@ -11,6 +11,10 @@ BDNF is a [[myokine]] and neurotrophic factor
 produced in the muscles and brain in response to vigorous exercise.
 
 Increases [[neurogenesises]] and [[neuroplasticity]]
+
+**Resources**
+[FoundMyFitness Topic - Brain-derived neurotrophic factor (BDNF)](https://www.foundmyfitness.com/topics/bdnf)
+
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview
@@ -22,4 +26,4 @@ and -#map
 SORT file.link asc
 ```
 
-Brain-Derived Neurotrophic Factor
+

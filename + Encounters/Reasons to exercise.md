@@ -1,6 +1,4 @@
-**resources**
-[WHY Exercise is Underrated](https://www.youtube.com/watch?v=DsVzKCk066g&list=PLpnqOHebpT4gfIvlcPyCixqLoDPC2oFtA&index=14)
-**Book Spark**
+tags:: [[fitness]] 
 
 For most of my life, exercise has been **marketed as a weight loss strategy**. At the start of every year there is the spike in gym memberships of people who want to lose weight.  We have all heard the phrase **calories in, calories out**. If you spend time at the gym burning more calories that you eat you will lose weight.
 
@@ -15,12 +13,12 @@ Our body sets a limit to how much energy it is willing to expend
 
 However this does not mean that exercise does not contribute to weight loss, in addition exercise has many other benefits that are arguably a lot better than weight loss
 
-- **Improves congitive function**
+- **Improves cognitive function**
 	- When you exercise neurons in our brain fire more to control movement, coordination and balance, Due to this higher activity neurons which are brain cells get the signal to produce more of the [[BDNF]] protein, 
 	- Exercise promotes the release of lactate, a myokine produced in skeletal muscle. Lactate enters the bloodstream and then crosses the blood-brain barrier, promoting BDNF production.
 	- ![[Pasted image 20260110171335.png]]
-
-	- Test scores increase
+	- Since [[Lactate]] is crucial in elevating BDNF levels, with high-intensity interval training (HIIT) notably boosting BDNF more than moderate continuous exercise.
+		- **Protocol**- HIIT exercise, six 40-second intervals at 100 percent of VO2 peak increased BDNF 4 to 5 times more than prolonged exercise 90 minutes at 25 percent VO2 peak
 - Alleviates stress, depression and anxiety
 	- Releases norephinrerinece, serotiinen and dopamine (talk more about how this works)
 - Releasing signaling molecules called myokines to reduce inflummation, regulate metaboilism,
@@ -29,6 +27,10 @@ However this does not mean that exercise does not contribute to weight loss, in 
 	- Muscles can decrease insulin resistance, this allows more glucose to enter your cells keeping blood sugar low. We only need a little bit of insulin for our cells to start to let glucose in,
 		- People with high insulin resistance require a lot of insulin in order for cells to come in,
 
+
+**resources**
+[WHY Exercise is Underrated](https://www.youtube.com/watch?v=DsVzKCk066g&list=PLpnqOHebpT4gfIvlcPyCixqLoDPC2oFtA&index=14)
+**Book Spark**
 
 [You Were Lied to About Exercise - by Erin Nystrom](https://erinnystrom.substack.com/p/you-were-lied-to-about-exercise)
 [[WHY Exercise is so Underrated (Brain Power & Movement Link)]]
