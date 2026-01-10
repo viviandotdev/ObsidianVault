@@ -254,7 +254,7 @@
 > if you are not living your life for yourself, then who is going to live it for you? You are living only your own life. When it comes to who you are living it for, of course it's you. And then, if you are not living your life for yourself, who could there be to live it instead of you? Ultimately, we live thinking about 'I'. There is no reason that we must not think that way.
 
 **Highlight (yellow) - Location 2366**
-> It is not nihilism at all. Rather, it's the opposite. When one seeks recognition from others, and concerns oneself only with how one is judged by others, in the end, one is living other people's lives.
+> It is not nihilism at all. Rather, it's the opposite. **When one seeks recognition from others, and concerns oneself only with how one is judged by others, in the end, one is living other people's lives.**
 
 **Highlight (yellow) - Location 2373**
 > And please remember this: if you are not living to satisfy other people's expectations, it follows that other people are not living to satisfy your expectations. Someone might not act the way you want him to, but it doesn't do to get angry. That's only natural.
@@ -263,9 +263,9 @@
 > It might come as a surprise to you, but almost none of my clients who come for counselling are selfish people. Rather, they are suffering trying to meet the expectations of other people, the expectations of their parents and teachers.
 
 **Note - Location 2419**
-> It is not selfish to live to other people's expectations. You should not expect other people to live up to expectation either.
+> **It is not selfish to live to other people's expectations. You should not expect other people to live up to expectation either.**
 >
-> You are suffering when trying to live of the expectations of anyone but yourself.
+> ==You are suffering when trying to live of the expectations of anyone but yourself.==
 
 ---
 
@@ -275,7 +275,7 @@
 > When one is confronted with the task of studying, for instance, in Adlerian psychology we consider it from the perspective of 'whose task is this?'
 
 **Note - Location 2447**
-> Do not intrude on other people's tasks and don't let other people intrude on your own.
+> ==Do not intrude on other people's tasks and don't let other people intrude on your own.==
 
 **Highlight (yellow) - Location 2448**
 > Whether the child studies or not. Whether he goes out and plays with his friends, or not. Essentially this is the child's task, not the parent's task.

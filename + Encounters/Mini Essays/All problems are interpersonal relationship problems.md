@@ -21,8 +21,18 @@ this feeling being inferior is a subjective interpretation not an objective fact
 **thinking that you are not educated so you cannot succeed**
 - my mother has this inferioirty complex and projects this on to to me which is why she always says i cannot do this.'
 
+**superiority complex**
 
 **power struggle**
+when one thinks that they are right, this creates a power struggle, where they have the desire to be right which means the other person must be wrong.
+
+**seeking recognition from others**
+when you seek recognition for others, you care about how others judge so you are living the lives of other people. 
+**you should not live to act in the way other people expect you to.**
+**live and act in the way that you want to.**
+it is not selfish to not live up to other people's expectations and you should not expecv other people to live up to your expectations.
+problems and resentment arise when people do not live up your expectations. 
 
 
-**superiority complex**
+**seperation of tasks**
+do not intrude on other people's tasks and don't let other people int
