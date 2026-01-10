@@ -39,5 +39,15 @@ it is not selfish to not live up to other people's expectations and you should n
 **separation of tasks**
 do not intrude on other people's tasks and don't let other people intrude of your own
 
-studying is the child's task not the parent's task
-problems arise when intruding on other people's task and when other people intrude on your tasks
+studying is the child's task not the parent's task,
+when the parent tries to intrude on a child's task it seems like they are doing it for the good of the child but actually they are doing so to fullfill their own goals, such as appearance in the eyes of the socieity, the child who sees this deception will want ot rebe
+**problems** arise when intruding on other people's task and when other people intrude on your tasks
+
+how do you know whose task is this?
+answer the question who is ultimately going to recieve the end result brought about by the choice that is made?
+
+not intruding does not mean non-interernence, you should not meddle in the child's task to study but should let them know that you are ready to assist them when they are ready to study.
+
+**resolving personal relationships problems**
+- the cards to resolve these problems are within you
+

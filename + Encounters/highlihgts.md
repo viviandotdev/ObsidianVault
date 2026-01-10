@@ -293,13 +293,13 @@
 > Who ultimately is going to receive the end result brought about by the choice that is made?
 
 **Highlight (yellow) - Location 2485**
-> But they are clearly doing so in order to fulfil their own goals, which could be their appearance in the eyes of society, their need to put on airs, or their desire for control, for example. In other words, it is not 'for your own good', but for the parents'. And it is because the child senses this deception that he rebels.
+> But they **are clearly doing so in order to fulfil their own goals, which could be their appearance in the eyes of society, their need to put on airs, or their desire for control, for example. In other words, it is not 'for your own good', but for the parents'. And it is because the child senses this deception that he rebels.**
 
 **Highlight (yellow) - Location 2496**
 > Instead, it is by knowing what the child is doing that one protects him. If it's studying that is the issue, one tells the child that that is his task, and one lets him know that one is ready to assist him whenever he has the urge to study. But one must not intrude on the child's task. When no requests are being made, it does not do to meddle in things.
 
 **Note - Location 2502**
-> Not intruding in other people's task does not mean you don't have to be interested in what the child is doing. Not intruding does not mean non-interference. As a parent do not meddle in your child's tasks but you should be ready to assist them when they have the urge to study. Instead of telling them you need to study now, you can let them know that you are ready to assist them when they want to study.
+> Not intruding in other people's task does not mean you don't have to be interested in what the child is doing. Not intruding does not mean non-interference. As a parent do not meddle in your child's tasks but you should be ready to assist them when they have the urge to study. **Instead of telling them you need to study now, you can let them know that you are ready to assist them when they want to study.**
 
 **Highlight (yellow) - Location 2518**
 > You are the only one who can change yourself.
@@ -315,7 +315,7 @@
 > Though the child is one's own, he or she is not living to satisfy one's expectations as a parent.
 
 **Highlight (yellow) - Location 2581**
-> And discard other people's tasks. That is the first step toward lightening the load and making life simpler.
+> **And discard other people's tasks. That is the first step toward lightening the load and making life simpler.**
 
 ---
 
@@ -338,7 +338,7 @@
 > way. Because my father was a moody, taciturn person. But to think to myself, He hit me that time, and that is why our relationship went bad, is a Freudian aetiological way of thinking. The Adlerian teleology position completely reverses the cause-and-effect interpretation. That is to say, I brought out the memory of being hit because I don't want my relationship with my father to get better. YOUTH: So, first you had the goal of not wanting your relationship with your father to get better, and not wanting to repair things between you. PHILOSOPHER: That's right. For me, it was more convenient to not repair my relationship with my father.
 
 **Highlight (yellow) - Location 3030**
-> As long as I use aetiology to think, It is because he hit me that I have a bad relationship with my father, it would be a matter that was impossible for me to do anything about. But if I can think, I brought out the memory of being hit because I don't want my relationship with my father to get better, then I will be holding the card to repair relations. Because if I can just change the goal that fixes everything.
+> As long as **I use aetiology to think, It is because he hit me that I have a bad relationship with my father, it would be a matter that was impossible for me to do anything about. But if I can think, I brought out the memory of being hit because I don't want my relationship with my father to get better, then I will be holding the card to repair relations. Because if I can just change the goal that fixes everything.**
 
 **Highlight (yellow) - Location 3052**
 > Many people think that the interpersonal relationship cards are held by the other person. That is why they wonder, How does that person feel about me?, and end up living in such a way as to satisfy the wishes of other people. But if they can grasp the separation of tasks, they will notice that they are holding all the cards. This is a new way of thinking.
