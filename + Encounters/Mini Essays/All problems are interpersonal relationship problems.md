@@ -79,7 +79,11 @@ building good relationships creates communicty feeling because community feeling
 	- when you place confidence in others you see them as comrades, because you can only have confidence in your comrades.
 	- what problems are created if you don't have confidence in your friends?
 		- you start to doubt them, this creates resentment, and you start seeing them in a bad light 
-	- when one has confidence in others, one can contribute to others,
+	- **when one has confidence in others,** one can **contribute to others,**
 		- for example it is dinner
-		- everyone is at home and finished dinner, the children go to their rooms and the husband is sitting on the sofa watching tv
+		- everyone is at home and finished dinner, the children go to their rooms and the husband is sitting on the sofa watching tv.
+		- it is up to me to clean everything up, no one else is making the effort to help,
+		- one way you can think is why won't they give me a hand.
+		- instead of thinking of what others can do for me, think what you can do for others, if you are grumbling and angrily washing the dishes no one i going to want to help, however if you are humming away and washing the dishes in good spirits the children might come and give your a hand. 
+		- Contribution is 
 - 
