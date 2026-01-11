@@ -61,7 +61,8 @@ not intruding does not mean non-interernence, you should not meddle in the child
 **if interpersonal relationships cause problems what the point of having interpersonal relationships?**
 **how to build good relationships?**
 building good relationships creates communicty feeling because community feeling in the gaol of interperson relationships
-- In order to create community feeling, think about how and what can you give to this person/community instead of what can others do for me.
+ **contribution to others**
+	- In order to create community feeling, think about how and what can you give to this person/community instead of what can others do for me.
 - to create community feeling your interpersonal relationships should be horizontal relationships not vertical relationshiops
 	- in **vertical** relationships feelings of inferiority rises,
 	- words of **judgment**** create vertical relationshios, 
@@ -73,17 +74,17 @@ building good relationships creates communicty feeling because community feeling
 - **just exist**
 	- your mother in critical condition is just by being alive, is supporting the psychological state of you and your family, and therefore be of use, she does not need to do anything extra ordinary or create some thing that changes the world, just being alive she is supporting you, this could be said for you and everyone. 
 	- you can be worth it just by being alive you don't need to be productive and contribute something crazy to the world,
-- have confidence in others, 
+-
+- **have confidence in others**
 	- without confidence in others you will not be able to build deep relationships with anyone
 		- unconditional confidence makes the relationship better and your should trust and have confidence that your friends also want to make the relationship better
 	- when you place confidence in others you see them as comrades, because you can only have confidence in your comrades.
 	- what problems are created if you don't have confidence in your friends?
 		- you start to doubt them, this creates resentment, and you start seeing them in a bad light 
 	- **when one has confidence in others,** one can **contribute to others,**
-		- for example it is dinner
-		- everyone is at home and finished dinner, the children go to their rooms and the husband is sitting on the sofa watching tv.
+		- it is dinner everyone is at home and finished dinner, the children go to their rooms and the husband is sitting on the sofa watching tv.
 		- it is up to me to clean everything up, no one else is making the effort to help,
-		- one way you can think is why won't they give me a hand.
-		- instead of thinking of what others can do for me, think what you can do for others, if you are grumbling and angrily washing the dishes no one i going to want to help, however if you are humming away and washing the dishes in good spirits the children might come and give your a hand. 
-		- Contribution is 
+		- One way you can think is why won't they give me a hand.
+		- Instead of thinking of what others can do for me, **think what you can do for others**, if you are grumbling and angrily washing the dishes no one i going to want to help, however if you are humming away and washing the dishes in good spirits the children might come and give your a hand. 
+		- **Feeling of contribution** is carried out because you see your family as your comrades.
 - 
