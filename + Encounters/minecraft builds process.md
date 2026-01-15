@@ -11,7 +11,7 @@
 # structure
 [Block Palettes - Minecraft Building Inspiration Through Blocks](https://www.blockpalettes.com/)
 choose your color pallete to build your struucture
-make a frame support
+**make a frame support** or **make foundation**
 add walls, you create depth by pushing the walls back
 ![[Pasted image 20260115163311.png]]
 ![[Pasted image 20260115164131.png]]
