@@ -23,8 +23,7 @@ start with simple and few **color** block at a time
 
 
 **texture**
-
-- start with one block at a time
+start with one block at a time
 glass panes
 
 chimney
