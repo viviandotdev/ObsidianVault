@@ -3,7 +3,7 @@
 # shape
 ![[Pasted image 20260115163109.png]]
 - every side is odd number
-- add extensios to boring parts
+- add extensions to boring parts
 ![[Pasted image 20260115163144.png]]
 # structure
 [Block Palettes - Minecraft Building Inspiration Through Blocks](https://www.blockpalettes.com/)
@@ -12,4 +12,24 @@ add walls, you create depth by pushing the walls back
 ![[Pasted image 20260115163311.png]]
 
 # roof
+[build guides ref](https://imgur.com/a/building-guides-minecraft-by-pixelandpoly-eBOnrxc)
 ![[Pasted image 20260115163359.png]]
+
+
+**texture**
+glass panes
+
+chimney
+lighting
+add trapdoors
+bushes
+
+# surroundings
+pathways
+gardens
+teraform
+![[Pasted image 20260115163952.png]]
+
+
+refs
+[build like a prod in 3 mintes](https://www.youtube.com/watch?v=uMyGZ69iI44)
