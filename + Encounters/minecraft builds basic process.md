@@ -1,10 +1,10 @@
-
-
 # shape
 ![[Pasted image 20260115163109.png]]
-- every side is odd number
+- every side is **odd number**
+	- 
 - add extensions to boring parts
 - make the build asymmetrical,
+- 
 ![[Pasted image 20260115163144.png]]
 
 ![[Pasted image 20260115164107.png]]
@@ -23,6 +23,8 @@ start with simple and few **color** block at a time
 
 
 **texture**
+contrast floor and ceilng blocks
+	dark feels closer, light further
 start with one block at a time
 glass panes
 
@@ -35,6 +37,11 @@ bushes
 pathways
 gardens
 teraform
+**add elevation to doors** 
+![[Pasted image 20260115174630.png]]
+break up sections, separete ares
+![[Pasted image 20260115174701.png]]
+
 ![[Pasted image 20260115163952.png]]
 
 
