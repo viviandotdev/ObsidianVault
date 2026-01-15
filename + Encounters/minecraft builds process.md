@@ -4,19 +4,27 @@
 ![[Pasted image 20260115163109.png]]
 - every side is odd number
 - add extensions to boring parts
+- make the build asymmetrical,
 ![[Pasted image 20260115163144.png]]
+
+![[Pasted image 20260115164107.png]]
 # structure
 [Block Palettes - Minecraft Building Inspiration Through Blocks](https://www.blockpalettes.com/)
+choose your color pallete to build your struucture
 make a frame support
 add walls, you create depth by pushing the walls back
 ![[Pasted image 20260115163311.png]]
-
+![[Pasted image 20260115164131.png]]
+start with simple and few **color** block at a time
 # roof
 [build guides ref](https://imgur.com/a/building-guides-minecraft-by-pixelandpoly-eBOnrxc)
 ![[Pasted image 20260115163359.png]]
 
 
+
 **texture**
+
+- start with one block at a time
 glass panes
 
 chimney
