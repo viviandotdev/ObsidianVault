@@ -1,4 +1,4 @@
-# shape
+# shapew
 ![[Pasted image 20260115163109.png]]
 - every side is **odd number**
 	- 
