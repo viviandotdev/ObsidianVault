@@ -2,7 +2,8 @@ tags:: [[self-improvement]]
 source:: https://moretothat.com/the-staircase-of-the-self/
 type:: #source/article
 
-Imitation is the birthplace of human behavior. There's no way around this fact, and we all intuitively understand this to be true.
+Imitation is the birthplace of human behavior. There's no way around this fact, and we all intuitively understand this to be true. 
+
 
 **Intellectual development is deeply personal, and can only occur when one takes on the experiential challenges required to update their schemas.**
 
@@ -10,6 +11,10 @@ Imitation is the birthplace of human behavior. There's no way around this fact, 
 
 **At its core, self-esteem is about having the [[confidence]] to solve problems on your own accord.**
 
+**Related Ideas**
+“There is only one success – to be able to spend your life in your own way.” 
+
+[[Freedom and flexility over one’s life is the best predictor of wellbeing]]
 
 **Related**
 [[How to be more agentic]]

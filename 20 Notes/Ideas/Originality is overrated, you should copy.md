@@ -26,6 +26,11 @@ I will copy **writing**
 
 Copy others and steal their systems to get to their level and then outwork them for 90 days.
 
+Imitation is the birthplace of human behavior. There's no way around this fact, and we all intuitively understand this to be true. 
+[[The Staircase of the Self - More To That]]
+
+
+[[th]]
 
 **Related**
 [[Framework to doing the job you actually want]]
