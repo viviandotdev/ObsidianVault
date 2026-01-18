@@ -1,6 +1,7 @@
 type:: #note/concept 
+tags:: [[productivity]] [[focus]]
 
-Deep 
+Deep work
 
 
 [[Cal Newport]]

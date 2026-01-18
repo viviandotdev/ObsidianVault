@@ -10,7 +10,7 @@ tags::
 
 **Books**
 [[Flow by Mihaly Csikszentmihalyi]]
-[[Deep Work]]
+[[Deep work]]
 **Youtube**
 [Rian Doris - YouTube](https://www.youtube.com/@riandoris)
 
