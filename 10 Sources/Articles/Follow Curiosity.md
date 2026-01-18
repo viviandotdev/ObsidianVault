@@ -5,7 +5,6 @@ type:: #source/article #❤️
 Suddenly, [[ambition]] becomes the driver, or money, or doing something that sounds cool. And then things start to go downhill.
 
 #### Highlights
-
 > In other words, ambition and doing something that sounds cool had become the driver for him.
 
 > Once he recognized this and went back to just following his [[curiosity]], the slump instantly disappeared and he started producing **great work** again.
