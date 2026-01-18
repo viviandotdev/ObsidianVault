@@ -1,14 +1,8 @@
 # The Riddle of Ambition - More To That
 
-![rw-book-cover](https://moretothat.com/wp-content/uploads/2019/05/cropped-B01-Gunny-Face-Illustrator-32x32.png)
-
-## Metadata
-- Author: [[Lawrence Yeo]]
-- Full Title: The Riddle of Ambition - More To That
-- Category: #articles
-- Document Tags: [[❤️]] [[read]] 
-- Summary: The text explores the paradox of ambition through a dialogue from the film Jackie Brown, highlighting the tension between pursuing goals and being content with the present moment. It questions whether being okay with what is can coexist with ambition, emphasizing the importance of self-awareness and humility in directing ambition towards meaningful challenges.
-- URL: https://moretothat.com/the-riddle-of-ambition/
+source: https://moretothat.com/the-riddle-of-ambition/
+type:: #source/articles
+summary:: The text explores the paradox of ambition through a dialogue from the film Jackie Brown, highlighting the tension between pursuing goals and being content with the present moment. It questions whether being okay with what is can coexist with ambition, emphasizing the importance of self-awareness and humility in directing ambition towards meaningful challenges.
 
 ## Highlights
 - I’ve thought about this quite a bit, especially because I consider myself an ambitious person. Not in the pursuit of [status or recognition](https://moretothat.com/pursue-mastery-not-status/), but more so in the actualization of what I’m capable of ([View Highlight](https://read.readwise.io/read/01kf7ef6rnxen8r3zw8zacsr3n))
