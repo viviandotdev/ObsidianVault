@@ -6,6 +6,7 @@
 
 ![[Pasted image 20260119114513.png]]
 
+add to dos 
 
 - [ ] BOOK  HOTELs
 - [ ]  ORDER SHINKANSEN TICKETS ON KLOOK
