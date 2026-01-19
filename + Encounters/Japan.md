@@ -41,7 +41,7 @@ Arashiyama Bamboo Forest
 Arashiyama Monkey Park
 
 
-oksaka (day trips to osaka)
+oksaka (day trips to osaka?)
 nara deer park
 
 
