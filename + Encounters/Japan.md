@@ -14,7 +14,7 @@ check in friday 7pm
 dinner 
 
 **march 14**
-bouderling day  (no)
+bouderling day  (noboro)
 mt fuji day
 
 
