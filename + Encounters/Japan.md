@@ -14,7 +14,14 @@ check in friday 7pm
 dinner 
 
 **march 14**
-bouderling day  (noboro)
+cafe
+bouderling day  (noborock), shibuya, ikerbukuro and takadanobaba? (snack by 711, lawson or family mart)
+![[Pasted image 20260119095204.png]]
+Dinner
+
+
+cherry blossom day
+
 mt fuji day
 
 
@@ -27,10 +34,14 @@ kyoto hotels
 [2](https://www.hotels.com/ho3765820288/yugen-kyoto-shijo?chkin=2026-03-17&chkout=2026-03-19&x_pwa=1&rfrr=HSR&pwa_ts=1768502288032&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C+Kyoto+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=6204517&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=137&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel+gion+ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=326856797&selectedRatePlan=403391463&expediaPropertyId=117650634&searchId=bd4235e8-c374-48be-9baa-88775814ed04&startDate=2026-03-17&endDate=2026-03-19)
 [3](https://www.hotels.com/ho2979353280/asai-kyoto-shijo-hotel-kyoto-japan?chkin=2026-03-17&chkout=2026-03-19&x_pwa=1&rfrr=HSR&pwa_ts=1768502626843&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C+Kyoto+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=6204517&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=76&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel+gion+ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=322102194&selectedRatePlan=390334467&expediaPropertyId=93073540&searchId=9ea46036-25c9-4bcf-aff2-a868376483f8&startDate=2026-03-17&endDate=2026-03-19)
 [4](https://www.hotels.com/ho2874599488/the-general-kyoto-shijyoshinmachi-kyoto-japan?chkin=2026-01-30&chkout=2026-01-31&x_pwa=1&rfrr=HSR&pwa_ts=1768502626859&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C%20Kyoto%20Prefecture%2C%20Japan&destType=MARKET&neighborhoodId=6204517&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=83&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel%20gion%20ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=321472930&selectedRatePlan=388908031&expediaPropertyId=89799984&searchId=0b2cbc3a-1979-49a9-99ba-9f70fccf01bf) i like this one (stay in kyoto and travel to osaka)
+places
+Arashiyama Bamboo Forest
+Arashiyama Monkey Park
 
 
 oksaka (day trips to osaka)
 nara deer park
+
 
 
 **back to tokyo**
