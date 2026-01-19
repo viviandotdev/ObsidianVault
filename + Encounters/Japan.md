@@ -1,61 +1,16 @@
 
 3 days tokyo, 3 days Kyoto, 2 days Osaka, 2 days tokyo 
-hotels
-[Onyado Nono Asakusa - Google Search](https://www.google.com/search?q=Onyado+Nono+Asakusa&oq=Onyado+Nono+Asakusa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEHNDAyajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
+tokygo hotels
+[onyado](https://www.booking.com/hotel/jp/onyado-nono-asakusa.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaKsCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKE_LjLBsACAdICJGMyYTVjMGZlLTgyMmItNGRkNC05NmI3LWNhMzY5NjFiNDZjM9gCAeACAQ&sid=bd5ea2c23c39fa94c1d59a397f4f0657&all_sr_blocks=507230806_374061214_0_2_0_923224&checkin=2026-03-13&checkout=2026-03-15&dest_id=5072308&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=507230806_374061214_0_2_0_923224&hpos=1&matching_block_id=507230806_374061214_0_2_0_923224&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=507230806_374061214_0_2_0_923224_6766364&srepoch=1768832566&srpvid=38d3ddbbe319497e28534be78d53f48c&type=total&ucfs=1&)
 
 
 
-    ✓    Shinsaibashisuji (stores) 
-    ◦    Try okonomiyaki (food)
-    ✓    Shinsekai 
-    ◦    Eat at izakaya
-    ◦    Matcha house 
-    ✓    Strawberry mania 
-    ✓    Dontonbori
+kyoto hotels
+[1](https://www.hotels.com/ho1117106848/hotel-gion-ichirin-kyoto-japan?chkin=2026-01-30&chkout=2026-01-31&x_pwa=1&rfrr=HSR&pwa_ts=1768502286173&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C%20Kyoto%20Prefecture%2C%20Japan&destType=MARKET&neighborhoodId=6160577&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=216&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel%20gion%20ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=316618601&selectedRatePlan=391725468&expediaPropertyId=34878339&searchId=2a337a83-6633-4878-be08-8a614008d8b7)
+[2](https://www.hotels.com/ho3765820288/yugen-kyoto-shijo?chkin=2026-03-17&chkout=2026-03-19&x_pwa=1&rfrr=HSR&pwa_ts=1768502288032&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C+Kyoto+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=6204517&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=137&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel+gion+ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=326856797&selectedRatePlan=403391463&expediaPropertyId=117650634&searchId=bd4235e8-c374-48be-9baa-88775814ed04&startDate=2026-03-17&endDate=2026-03-19)
+[3](https://www.hotels.com/ho2979353280/asai-kyoto-shijo-hotel-kyoto-japan?chkin=2026-03-17&chkout=2026-03-19&x_pwa=1&rfrr=HSR&pwa_ts=1768502626843&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C+Kyoto+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=6204517&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=76&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel+gion+ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=322102194&selectedRatePlan=390334467&expediaPropertyId=93073540&searchId=9ea46036-25c9-4bcf-aff2-a868376483f8&startDate=2026-03-17&endDate=2026-03-19)
+[4](https://www.hotels.com/ho2874599488/the-general-kyoto-shijyoshinmachi-kyoto-japan?chkin=2026-01-30&chkout=2026-01-31&x_pwa=1&rfrr=HSR&pwa_ts=1768502626859&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=10323&destination=Kyoto%2C%20Kyoto%20Prefecture%2C%20Japan&destType=MARKET&neighborhoodId=6204517&selected=34878339&latLong=35.011636%2C135.768029&sort=RECOMMENDED&top_dp=83&top_cur=USD&semcid=HCOM-US.UB.GOOGLE.PT-c-EN.HOTEL&semdtl=a115092464002.b1127076957937.g1aud-2191522228734%3Akwd-648095389361.e1c.m1CjwKCAiAvaLLBhBFEiwAYCNTf0AKP3txpFOpISgCON5j7W2vLxwK-ytN3gMD4ElrdlAcLROki0FbDBoCbmMQAvD_BwE.r1d939a22b010f440e439069f01f6fd64805b569ae19de861ede692e41c2a27cf6.c1.j19004354.k1.d1722235569699.h1e.i1.l1.n1.o1.p1.q1.s1hotel%20gion%20ichirin.t1.x1.f1.u1.v1.w1&userIntent=&selectedRoomType=321472930&selectedRatePlan=388908031&expediaPropertyId=89799984&searchId=0b2cbc3a-1979-49a9-99ba-9f70fccf01bf)
 
-Feb 21 
-    ✓    Namba shrine 
-    ✓    Osaka castle
-    ✓    Kuromon ichiba market
 
-Feb 22 (day trip to Kyoto) leave early 
-    ✓    Nara park 
-    ✓    Fushimi inari shrine (the red stairs, can get good luck charms) 
-    ✓    Osaka aquarium kaiyukan 
-    ◦    Gion district (sannenzaka ninenzaka)
-    ◦    Nishiki market
-    ◦    gyoza chaochao (gyoza spot)
 
-Feb 23
-    ✓    Take bullet train back to Tokyo 
-    ✓    Hotel: https://maps.app.goo.gl/17M5dBt1gDRzEaS78?g_st=ic
-    ⁃    the centurion  hotel classic Akasaka 
-    ◦    Ueno garden
-    ✓    Ginza shopping  
-    ⁃    Uniqlo 
-    ⁃    Gu 
-    ✓    Muji (cable case + pjs) 
-    ✓    Kiddy land (miffy Kirby smiskii) 
-    ✓    Tokyo hands for Sonny angels 
-    ◦    JINS (glasses) 
-    ✓    Amore vintage 
-    ✓    QOO (vintage bags go here) 
-    ✓    Marion crepes 
-    ◦    Ameya Yokocho(street food market)
-
-Feb 24: 
-    ✓    Tsukji Market in am (30 min train to tea ceremony)  dec t 
-    ✓    maikoya tea ceremony @2….  
-    ⁃    https://maps.app.goo.gl/5LeczmZiD3vrF3hV9?g_st=ic
-    ✓    Nakamise dori street 
-    ✓    Sensoji temple (Sony angel store) 
-    ◦    Ameya-yokocho market 
-
-Feb 25: 
-    ✓    Team lab borderless: ($161) @3:30….. 1-2-4 Azabudai, Minato-ku, Tokyo
-    ◦    Gyukatsu Motomura (Nishi-Shinjuku Branch
-    ✓    Ginza Karen for luggage 
-    ◦    Cosmo
-
-random: 711, family mart, lawson(chicken)
-honorable mentions: Strawberry Fetish in shibuya(candied fruit)
+**back to**
