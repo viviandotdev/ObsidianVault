@@ -4,6 +4,14 @@
 [alvin/katie](https://docs.google.com/document/d/1mEfNrWpJp2jf1jCRNqS0QHtwQdkyOa_f6xeOvXGO6lE/mobilebasic)
 
 
+- [ ] BOOK  HOTELs
+- [ ]  ORDER TRAIN/SHINKANSEN TICKETS ON KLOOK
+	Narita → Yokohama 12/16 5:48PM-7:19PM
+	Odawara → Kyoto 12/18 12:07PM-14:12PM
+	Kyoto → Nagano 12/22
+	Nagano → Tokyo 12/24
+
+
 3 days tokyo, 3 days Kyoto, 2 days Osaka, 2 days tokyo 
 osaka then kyoto?
 ![[Pasted image 20260119095436.png]]
