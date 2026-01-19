@@ -25,5 +25,4 @@ Focus on the challenge, and not its byproducts.
 **If you want a certain state to persist, you will no longer have an ambition to accumulate, but rather an ambition to preserve.**
 
 **Ideas**
-
 [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
