@@ -1,4 +1,4 @@
-tags:: [[success]]
+tags:: [[success]] [[work]] [[hobbies]]
 source:: https://ajkprojects.com/stopactinglikeyourefamous
 type:: #source/articles
 
@@ -11,7 +11,7 @@ type:: #source/articles
 - As long as your thoughts are coherent, don’t worry too much about writing mistakes or filtering yourself. ([View Highlight](https://read.readwise.io/read/01kf7fthahqe6vgcrpfecyjjt4))
 - It’s more about the writing process than the final product. ([View Highlight](https://read.readwise.io/read/01kf7ftm7j1yrf6bsqam8nmfyx))
 - **The most egregious thing you can do with any activity is daydream about how you can make money off of it.** That’s the quickest way to optimize for the wrong things and suck the fun right out of it. Most likely you will stop doing the activity almost immediately, so save the money-making schemes for work. ([View Highlight](https://read.readwise.io/read/01kf7ftwqhrhd2cgd4dga11mq2))
-	**Save the money-making schemes for work**
+	**Save the money-making schemes for work** -> by this is mean with your job
 	Find something you enjoy doing and do it because you enjoy
 	I want to make apps because I enjoy it, I like the process of make technology do what I want to do.
 - **In the end, find something you enjoy doing and just do it because you enjoy** it. ([View Highlight](https://read.readwise.io/read/01kf7ftzrgvwac5astk82z7h6v))
