@@ -1,4 +1,4 @@
-tags:: [[productivity]]
+ags:: [[productivity]]
 source:: https://newsletter.techleadmentor.com/p/perceived-difficulty-is-a-productivity
 type:: #source/articles
 
