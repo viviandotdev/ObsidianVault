@@ -1,6 +1,6 @@
 tags:: [[creativity]]
 source:: https://paulgraham.com/do.html
-type:: #source/article
+type:: #source/articles
 
 ==Follow your curiosity and **make good new things**==
 

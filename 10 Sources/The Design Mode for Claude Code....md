@@ -1,6 +1,6 @@
 tags::
 source:: https://www.youtube.com/watch?v=vcJVnyhmLS4
-type:: #source/article
+type:: #source/articles
 
 The Design Mode for Claude Code..
 

@@ -1,6 +1,6 @@
 tags:: [[reading]]
 source:: https://www.icopilots.com/of-narrow-specialists-vs-superficial-generalists/
-type:: #source/article
+type:: #source/articles
 
 Narrow specialists are people who know lots and lots about a specific subject but less and less about other things. These people are pendants.
 

@@ -1,5 +1,3 @@
-# The Day I Became a Millionaire
-
 source: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
 type:: #source/articles
 

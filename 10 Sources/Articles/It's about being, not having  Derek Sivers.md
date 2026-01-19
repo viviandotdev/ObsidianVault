@@ -1,6 +1,6 @@
 tags:: [[success]] [[happiness]]
 source:: https://sive.rs/being
-type:: #source/article #❤️ 
+type:: #source/articles #❤️
 
 It's not that I wanted to get it done and have good vocals. It's that I wanted to be a great singer.
 

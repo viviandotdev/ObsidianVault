@@ -1,6 +1,6 @@
 tags::
 source:: https://erinnystrom.substack.com/p/you-were-lied-to-about-exercise
-type:: #source/article
+type:: #source/articles
 
 Since then, exercise has largely been reduced to mere calorie burning.
 
@@ -13,9 +13,9 @@ What he found was shocking:
 At a certain point, energy expenditure plateaus: people with extremely active lives burn about the same as those with moderately active lives.
 
 x[Burn](https://www.powells.com/book/burn-new-research-blows-the-lid-off-how-we-really-burn-calories-lose-weight-stay-healthy-9780525541523)
-biological processes 
+biological processes
 cellular communication-
-cells become more sensitive and responsive to insulin allowing glucose to enter more easily, it reduce inflammatory signaling and enhances mitochondrial function, 
+cells become more sensitive and responsive to insulin allowing glucose to enter more easily, it reduce inflammatory signaling and enhances mitochondrial function,
 Stronger mitochondria = more cellular energy with less waste, which = less fatigue, less brain fog, faster recovery, and slower aging.
 
 **hormone regulation**

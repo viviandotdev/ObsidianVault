@@ -1,6 +1,6 @@
 tags:: [[self-improvement]] [[success]]
 source:: https://paulgraham.com/greatwork.html
-type:: #source/article #❤️
+type:: #source/articles #❤️
 
 **If you're not sure what to work on, guess**. But pick something and get going. You'll probably guess wrong some of the time, but that's fine. It's good to know about multiple things; some of the biggest discoveries come from noticing connections between different fields.
 
@@ -8,7 +8,7 @@ Don't let "work" mean something other people tell you to do. If you do manage to
 
 **Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones.** This is how practically everyone who's done great work has done it, from painters to physicists.
 - Choose a field -> building apps/software
-- Notice gaps ->  mobile seems to be lagging behind web, I think the same way UI libraries are created for web will happen on mobile as well, I can start creating templates for mobile 
+- Notice gaps ->  mobile seems to be lagging behind web, I think the same way UI libraries are created for web will happen on mobile as well, I can start creating templates for mobile
 
 When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions. \[[5](https://paulgraham.com/#f5n)\]
 - I want to read more biographies and memoirs of interesting people.
@@ -45,7 +45,7 @@ Don't divide your attention *evenly* between many topics though, or you'll sprea
 - 2 hours climbing + commute
 - 1 hour eating/chores
 - Programming is my main thing -> then writing then drawing
-- Climbing is something that is part of me, it is like eating and sleeping I must do it 
+- Climbing is something that is part of me, it is like eating and sleeping I must do it
 - Exercise should not be optional
 
 

@@ -1,6 +1,6 @@
 tags:: [[writing]]
 source:: https://www.paulgraham.com/simply.html
-type:: #source/article
+type:: #source/articles
 
 **Write using ordinary words and simple sentences**, use Hemingway Editor to achieve grade 6 readability.
 

@@ -1,5 +1,3 @@
-# It’s About Being, Not Having | Derek Sivers
-
 source: https://sive.rs/being
 type:: #source/articles
 

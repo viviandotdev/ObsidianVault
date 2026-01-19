@@ -1,6 +1,6 @@
 tags:: [[money]]
 source:: https://moretothat.com/the-nothingness-of-money/
-type:: #source/article
+type:: #source/articles
 
 The key is to take that exact feeling and remind yourself of it whenever money hijacks your attention. That when you're fixated on its pursuit, you can break the spell by understanding how laughable it is to be remembered for it. **That in the end, it will have very little to say about the person you are.**
 

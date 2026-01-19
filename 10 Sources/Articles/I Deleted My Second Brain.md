@@ -1,9 +1,9 @@
 tags:: [[PKM]]
 source:: https://www.joanwestenberg.com/p/i-deleted-my-second-brain
-type:: #source/article
+type:: #source/articles
 
 **Summary**
-- When your vault has too many notes it can become a burden to maintain, it feels like you brain is a mess and feel disorganized. 
+- When your vault has too many notes it can become a burden to maintain, it feels like you brain is a mess and feel disorganized.
 - Maintaining a vault feels like I spend more time organizing instead of thinking.
 - Don't capture everything, only capture things that you will use and ideas that  resonate with you.
 - Delete notes often and keep your vault clean, remove outdated ideas, do not feel tied to your ideas, important ideas will always come back to you and will you find it again..
@@ -23,7 +23,7 @@ type:: #source/article
 
 **Eventually, I realized I had created a new problem: deferral.** The more my system grew, the more I deferred the work of thought to some future self who would sort, tag, distill, and extract the gold.
 
-**I write knowing it may disappear. I highlight books knowing the highlights will fade. I trust that what matters will return, will find its way to the surface. 
+**I write knowing it may disappear. I highlight books knowing the highlights will fade. I trust that what matters will return, will find its way to the surface.
 
 ==**I no longer worship the permanence of text.**==
 

@@ -1,13 +1,13 @@
 tags:: [[money]] [[time]]
 source:: https://paulgraham.com/selfindulgence.html
-type:: #source/article  #❤️ 
+type:: #source/articles  #❤️
 
 
 #### Highlights
 
 > So I started to pay attention to how fortunes are lost. If you'd asked me as a kid how rich people became poor, I'd have said by spending all their money. That's how it happens in books and movies, because that's the colorful way to do it. **But in fact the way most fortunes are lost is not through excessive expenditure, but through bad investments**
 
-Wealth is usually lost not through spending on your money but on bad investments. 
+Wealth is usually lost not through spending on your money but on bad investments.
 
 
 > It's hard to spend a fortune without noticing. Someone with ordinary tastes would find it hard to blow through more than a few tens of thousands of dollars without thinking "wow, I'm spending a lot of money" Whereas if you start trading derivatives, you can lose a million dollars (as much as you want, really) in the blink of an eye
@@ -28,4 +28,3 @@ Wealth is usually lost not through spending on your money but on bad investments
 > But the same alarms don't go off on the days when I get nothing done, because I'm doing stuff that seems, superficially, like real work.
 
 > the most dangerous traps now are new behaviors that bypass our alarms about self-indulgence by mimicking more virtuous types. And the worst thing is, they're not even fun.
-

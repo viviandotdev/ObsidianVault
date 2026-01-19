@@ -1,5 +1,5 @@
 source:: https://read.engineerscodex.com/p/simple-software-engineering-habits
-type:: #source/article
+type:: #source/articles
 
 A breakdown of 4 simple software engineering and coding [[habits]] that improved my [[productivity]]. These include keyboard shortcuts, [[learning]] to say no, reaching [[flow]] faster, and keeping a big book of commands handy.
 

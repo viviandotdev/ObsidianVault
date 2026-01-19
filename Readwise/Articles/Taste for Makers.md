@@ -1,5 +1,3 @@
-# Taste for Makers
-
 source: https://paulgraham.com/taste.html
 type:: #source/articles
 

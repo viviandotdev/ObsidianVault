@@ -1,6 +1,6 @@
 tags::
 source:: https://www.youtube.com/watch?v=zq4b96m1AvM&list=WL&index=2
-type:: #source/article
+type:: #source/articles
 
 How to Make Viral Video Essays on YouTube (Johnny Harris Breaks it Down)
 
@@ -12,7 +12,7 @@ he has a very specific system that he follows to a tee
 
 
 - Greenlight a topic -> choose a topic
-	- create document 
+	- create document
 		- **of all the questions and everything you know about this document**
 		- **what is interesting about this topic**
 		- everything you want to know

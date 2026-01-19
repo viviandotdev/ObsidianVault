@@ -1,6 +1,6 @@
 tags::
 source:: https://www.coleschafer.com/blog/the-day-you-became-a-better-writer
-type:: #source/article
+type:: #source/articles
 
 A good argument in five sentences will sway more people than a brilliant argument in a hundred sentences. Don’t fight it.
 

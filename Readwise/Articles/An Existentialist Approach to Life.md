@@ -1,5 +1,3 @@
-# An Existentialist Approach to Life
-
 source: https://postanly.substack.com/p/an-existentialist-approach-to-life?isFreemail=true&post_id=146462378&publication_id=11353&r=f9r78&triedRedirect=true&utm_campaign=email-post-title&utm_medium=email
 type:: #source/articles
 

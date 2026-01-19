@@ -1,6 +1,6 @@
 tags:: [[money]] [[time]]
 source:: https://www.coryzue.com/writing/time-wealth/
-type:: #source/article
+type:: #source/articles
 
 
 Why having more free time can be better than becoming rich.

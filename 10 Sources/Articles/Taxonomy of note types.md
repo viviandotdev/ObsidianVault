@@ -1,6 +1,6 @@
 tags::  [[note-taking]]
 source:: https://notes.andymatuschak.org/zTDjZQbKAT9pALtsk2HfePx
-type:: #source/article
+type:: #source/articles
 
 For me, the practice of writing and revising notes is, at its core, about trying to move up the following rough ladder:
 

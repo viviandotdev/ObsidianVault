@@ -1,5 +1,3 @@
-# The Riddle of Ambition - More To That
-
 source: https://moretothat.com/the-riddle-of-ambition/
 type:: #source/articles
 

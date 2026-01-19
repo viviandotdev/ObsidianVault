@@ -1,5 +1,3 @@
-# What to Do
-
 source: https://paulgraham.com/do.html
 type:: #source/articles
 

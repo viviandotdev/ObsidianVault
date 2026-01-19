@@ -1,5 +1,3 @@
-# Vibe Code Is Legacy Code
-
 source: https://maggieappleton.com/2025-08-vibe-legacy-code/
 type:: #source/articles
 

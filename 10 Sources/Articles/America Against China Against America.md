@@ -1,6 +1,6 @@
 tags:: [[china]]
 source:: https://jasmi.news/p/china-2025
-type:: #source/article
+type:: #source/articles
 
 On one hand, he noticed how technology can increase social alienation and a materialistic “money first” attitude. But he also considered how it may tame an unruly society more effectively than law:
 

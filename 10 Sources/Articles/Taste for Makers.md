@@ -1,6 +1,6 @@
 tags:: [[content-creation]] [[success]]
 source:: https://paulgraham.com/taste.html
-type:: #source/article
+type:: #source/articles
 
 What my friend meant was that he wanted students who were not just good technicians, but who could use their technical knowledge to design beautiful things.
 

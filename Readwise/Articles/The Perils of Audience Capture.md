@@ -1,5 +1,3 @@
-# The Perils of Audience Capture
-
 source: https://www.gurwinder.blog/p/the-perils-of-audience-capture
 type:: #source/articles
 

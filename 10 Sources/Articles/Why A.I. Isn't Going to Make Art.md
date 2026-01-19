@@ -1,6 +1,6 @@
 tags:: [[ai]]
 source:: https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art
-type:: #source/article
+type:: #source/articles
 
 
 **To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence.**

@@ -1,6 +1,6 @@
 tags:: [[goals]]
 source:: https://www.joanwestenberg.com/p/why-the-smartest-people-i-know-set-constraints-not-goals-93fd89ff28f98627
-type:: #source/article
+type:: #source/articles
 
 **Goals vs. Constraints:**
 - **Goals are a winning condition.** They focus on the end result ("becoming a best-selling author").
@@ -16,5 +16,3 @@ This approach is inherently **adaptive** and allows for creativity to emerge wit
 **Constraint-Oriented Approach:**
 - **Constraint:** Write every day, and never write what bores you.
 - This focuses on sustainable, creative actions within your control. Success becomes a byproduct of consistently following the rules you've set for yourself.
-
-

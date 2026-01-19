@@ -1,5 +1,3 @@
-# Stop Acting Like You're Famous
-
 source: https://ajkprojects.com/stopactinglikeyourefamous
 type:: #source/articles
 

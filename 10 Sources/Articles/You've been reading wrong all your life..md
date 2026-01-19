@@ -1,6 +1,6 @@
 tags:: [[reading]]
 source:: https://www.youtube.com/watch?v=DpIrzA2ohcg&t=1s
-type:: #source/article
+type:: #source/articles
 
 **Blueprint, read the summary, to build the skeleton to get the main idea of each section.**
 

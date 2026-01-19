@@ -1,6 +1,6 @@
 tags:: [[learning]]
 source:: https://craigmod.com/essays/drumming/
-type:: #source/article
+type:: #source/articles
 
 >I love the ramping up of knowing that happens within your muscles when you [[learning|learn]] something new and physical.
 

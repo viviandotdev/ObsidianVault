@@ -1,6 +1,6 @@
 tags::
 source:: https://moretothat.com/the-many-worlds-of-enough/
-type:: #source/article
+type:: #source/articles
 
 Enough is elusive because when you reach it, you're no longer the person that once desired it.
 

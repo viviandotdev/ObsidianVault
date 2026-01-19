@@ -13,4 +13,4 @@ I do them because they are enjoyable to me and they make be happy
 
 [Don’t make things so you can make money; make money so you can make things.](https://x.com/naval/status/1934477226634080633)
 [[It's about being, not having  Derek Sivers]]
-[[The Riddle of Ambition - More To That]]
+[[Readwise/Articles/The Riddle of Ambition - More To That]]

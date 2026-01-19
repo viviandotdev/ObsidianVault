@@ -1,6 +1,6 @@
 tags:: [[productivity]]
 source:: https://andrewchen.substack.com/p/10x-work-versus-1x-work
-type:: #source/article
+type:: #source/articles
 
 **Find leverage. Create work assets that compound over time so that it spreads even when you sleep.** Maybe this is a project you've put out into the world, and customers can find it and share it. Or it's a series of videos or essays that grow in audience over time, and each new bit content builds upon the last.
 

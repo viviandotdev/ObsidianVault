@@ -1,6 +1,6 @@
 tags::
 source:: https://web.archive.org/web/20251225184107/https://www.vox.com/2016/4/28/11518804/weight-loss-exercise-myth-burn-calories
-type:: #source/article
+type:: #source/articles
 
 he argues that the body sets a limit on how much energy it is willing to expend, regardless of how active we are.
 

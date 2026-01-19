@@ -1,6 +1,6 @@
 tags::
 source:: https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginners
-type:: #source/article
+type:: #source/articles
 
 *your writing needs to solve other people’s problems first and foremost if you want people to read your work.*
 

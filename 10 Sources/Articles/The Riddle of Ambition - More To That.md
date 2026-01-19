@@ -1,6 +1,6 @@
 tags:: [[success]]
 source:: https://moretothat.com/the-riddle-of-ambition/
-type:: #source/article
+type:: #source/articles
 
 Focus on the challenge, and not its byproducts.
 
@@ -10,7 +10,7 @@ Focus on the challenge, and not its byproducts.
 **But where ambition goes wrong, however, is when we thirst for the byproducts of that ambition.** When the promotion becomes more important than the work, when the money is more desirable than the challenge, and so on. This is when you've commoditized your ambition, rather than using it as a gateway to knowing yourself.
 
 *Ambition doing the best with the mind and body you are given.*
-*I'm ambitious not in the pursuit of money or success but in the self actualization* 
+*I'm ambitious not in the pursuit of money or success but in the self actualization*
 
 **Ambition is a tricky thing because it's both empowering and pointless.**
 

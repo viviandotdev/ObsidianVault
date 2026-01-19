@@ -1,6 +1,6 @@
 tags:: [[writing]]
 source:: https://www.developing.dev/p/why-engineers-need-to-write
-type:: #source/article
+type:: #source/articles
 
 **Why you should write**
 

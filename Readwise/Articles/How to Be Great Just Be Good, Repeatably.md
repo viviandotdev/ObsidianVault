@@ -1,5 +1,3 @@
-# How to Be Great? Just Be Good, Repeatably
-
 source: https://blog.stephsmith.io/how-to-be-great/
 type:: #source/articles
 

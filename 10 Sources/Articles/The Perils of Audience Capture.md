@@ -1,6 +1,6 @@
 tags:: [[content-creation]]
 source:: https://www.gurwinder.blog/p/the-perils-of-audience-capture
-type:: #source/article
+type:: #source/articles
 
 **Put simply, in order to be someone, we need someone to be someone for.** Our personalities develop as a role we perform for other people, fulfilling the expectations we think they have of us.
 

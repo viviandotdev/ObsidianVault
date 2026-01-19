@@ -1,6 +1,6 @@
-tags:: 
+tags::
 source:: https://moretothat.com/travel-is-no-cure-for-the-mind/
-type:: #source/article
+type:: #source/articles
 
 **We tend to grossly overestimate the pleasure brought forth by new experiences and ==underestimate the power of finding meaning in current ones.==**
 

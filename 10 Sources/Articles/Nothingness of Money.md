@@ -1,6 +1,6 @@
-tags:: [[money]] 
+tags:: [[money]]
 source:: https://moretothat.com/the-nothingness-of-money/
-type:: #source/article #❤️ 
+type:: #source/articles #❤️
 
 
 Rich people need it. Poor people have it. If you eat it you die. And when you die, you take it with you. What is it? **Nothing**

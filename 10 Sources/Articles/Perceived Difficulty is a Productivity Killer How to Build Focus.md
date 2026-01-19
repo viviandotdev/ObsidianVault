@@ -1,6 +1,6 @@
-tags:: [[productivity]] 
+tags:: [[productivity]]
 source:: https://newsletter.techleadmentor.com/p/perceived-difficulty-is-a-productivity
-type:: #source/article
+type:: #source/articles
 
 
 **Find similar experiences**

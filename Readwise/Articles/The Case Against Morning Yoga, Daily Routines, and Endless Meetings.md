@@ -1,5 +1,3 @@
-# The Case Against Morning Yoga, Daily Routines, and Endless Meetings
-
 source: https://andrewchen.substack.com/p/10x-work-versus-1x-work
 type:: #source/articles
 

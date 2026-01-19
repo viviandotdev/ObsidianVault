@@ -1,6 +1,6 @@
 tags:: [[moped]] [[scooter]]
 source:: https://www.reddit.com/r/scooters/comments/1el1yw9/what_are_some_reputable_and_affordable_moped/
-type:: #source/article
+type:: #source/articles
 
 
 

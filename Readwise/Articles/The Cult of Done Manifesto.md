@@ -1,5 +1,3 @@
-# The Cult of Done Manifesto
-
 source: https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13
 type:: #source/articles
 

@@ -1,5 +1,5 @@
 source:: https://paulgraham.com/wealth.html
-type:: #source/article
+type:: #source/articles
 
 #### Highlights
 
@@ -16,7 +16,7 @@ type:: #source/article
 
 
 > Someone graduating from college thinks, and is told, that he needs to get a job, as if the important thing were becoming a member of an institution. A more direct way to put it would be: you need to start doing something people want.
-> 
+>
 > It's doing something people want that matters, not joining the group
 
 

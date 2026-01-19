@@ -11,4 +11,4 @@ It is when one's potential is realized after more basic needs are fulfilled.
 
 
 **Releated**
-[[The Riddle of Ambition - More To That]]
+[[Readwise/Articles/The Riddle of Ambition - More To That]]

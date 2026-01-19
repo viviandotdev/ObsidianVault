@@ -1,5 +1,3 @@
-# The Many Worlds of Enough - More to That
-
 source: https://moretothat.com/the-many-worlds-of-enough/
 type:: #source/articles
 

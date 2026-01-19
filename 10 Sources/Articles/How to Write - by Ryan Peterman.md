@@ -1,6 +1,6 @@
 tags:: [[writing]]
 source:: https://www.developing.dev/p/how-to-write
-type:: #source/article
+type:: #source/articles
 
 **Writing Process**
 1. **Outline** - create a bulleted list to structure your thoughts, simple and malleable (20% of writing time)

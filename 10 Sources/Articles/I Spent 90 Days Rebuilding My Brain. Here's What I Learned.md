@@ -1,6 +1,6 @@
 tags:: [[learning]] [[writing]]
 source:: https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542
-type:: #source/article
+type:: #source/articles
 
 ### Summary
 Writing is the thinking, you need to write to output your thoughts and ideas.

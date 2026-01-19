@@ -3,7 +3,7 @@ created: 2024-02-18 19:09
 modified: 2025-06-16T08:15:27-04:00
 ---
 tags::  [[drawing]] [[habits]]
-type:: #source/article 
+type:: #source/articles
 source::  [(vent) advice on daily drawing routine/practice? : r/ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/mu3tsw/vent_advice_on_daily_drawing_routinepractice/)
 ## (vent) advice on daily drawing routine/practice?
 
