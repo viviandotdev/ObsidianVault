@@ -6,9 +6,9 @@
 
 - [ ] BOOK  HOTELs
 - [ ]  ORDER SHINKANSEN TICKETS ON KLOOK
-	Tokyo → Osaka on 3/15
-	Osaka → Kyoto on 3/
-	Kyoto → Tokyo on 3/
+	Tokyo → Kyoto on 3/15
+	Kyoto → Osaka on 3/
+	Osaka → Tokyo on 3/
 
 
 3 days tokyo, 3 days Kyoto, 2 days Osaka, 2 days tokyo 
