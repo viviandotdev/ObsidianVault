@@ -4,6 +4,9 @@
 [alvin/katie](https://docs.google.com/document/d/1mEfNrWpJp2jf1jCRNqS0QHtwQdkyOa_f6xeOvXGO6lE/mobilebasic)
 [japan itnenery](https://docs.google.com/document/d/1siIcfKK0pgngjIK2p6Y2dfYPrf7HMe-wOknAc4i-dTM/edit?tab=t.0)
 
+![[Pasted image 20260119114513.png]]
+
+
 - [ ] BOOK  HOTELs
 - [ ]  ORDER SHINKANSEN TICKETS ON KLOOK
 	Tokyo → Kyoto on 3/15
