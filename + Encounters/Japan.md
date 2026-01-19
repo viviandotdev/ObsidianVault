@@ -2,7 +2,7 @@
 **iternaries **
 [japan/taiwin](https://docs.google.com/document/u/0/d/1eqkZA-Y4TEgVkJl1_gpKvhTw8vX6q_Y8XdPrNctebIY/mobilebasic?pli=1)
 [alvin/katie](https://docs.google.com/document/d/1mEfNrWpJp2jf1jCRNqS0QHtwQdkyOa_f6xeOvXGO6lE/mobilebasic)
-
+[japan itnenery](https://docs.google.com/document/d/1siIcfKK0pgngjIK2p6Y2dfYPrf7HMe-wOknAc4i-dTM/edit?tab=t.0)
 
 - [ ] BOOK  HOTELs
 - [ ]  ORDER SHINKANSEN TICKETS ON KLOOK
@@ -30,12 +30,11 @@ Dinner
 
 
 cherry blossom day
-
 mt fuji day
-
-
 places **gotokuji temple** (tokyo)
 
+
+go to hakone shrine?
 
 ![[Pasted image 20260119093953.png]]
 kyoto hotels
