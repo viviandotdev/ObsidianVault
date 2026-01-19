@@ -1,11 +1,24 @@
 
+**iternaries **
+[japan/taiwin](https://docs.google.com/document/u/0/d/1eqkZA-Y4TEgVkJl1_gpKvhTw8vX6q_Y8XdPrNctebIY/mobilebasic?pli=1)
+[alvin/katie](https://docs.google.com/document/d/1mEfNrWpJp2jf1jCRNqS0QHtwQdkyOa_f6xeOvXGO6lE/mobilebasic)
+
+
 3 days tokyo, 3 days Kyoto, 2 days Osaka, 2 days tokyo 
+
 tokygo hotels
 [onyado](https://www.booking.com/hotel/jp/onyado-nono-asakusa.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaKsCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKE_LjLBsACAdICJGMyYTVjMGZlLTgyMmItNGRkNC05NmI3LWNhMzY5NjFiNDZjM9gCAeACAQ&sid=bd5ea2c23c39fa94c1d59a397f4f0657&all_sr_blocks=507230806_374061214_0_2_0_923224&checkin=2026-03-13&checkout=2026-03-15&dest_id=5072308&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=507230806_374061214_0_2_0_923224&hpos=1&matching_block_id=507230806_374061214_0_2_0_923224&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=507230806_374061214_0_2_0_923224_6766364&srepoch=1768832566&srpvid=38d3ddbbe319497e28534be78d53f48c&type=total&ucfs=1&)
+**march 13**
+check in friday 7pm 
+(explore the area and the hotel)
+dinner 
 
-
-climb day
+**march 14**
+bouderling day  (no)
 mt fuji day
+
+
+places **gotokuji temple**
 
 
 ![[Pasted image 20260119093953.png]]
