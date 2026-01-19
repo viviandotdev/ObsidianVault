@@ -61,6 +61,12 @@ nara deer park
 
 
 **back to tokyo**
+check in 3pm march 22
+
+
+
+checkout by march 24 10 am (go on the plance)
+[toyoko inn haneda](https://www.booking.com/hotel/jp/toyoko-inn-tokyo-haneda-airport-no2.html?aid=356929&label=metagha-link-LUUS-hotel-7129767_dev-desktop_los-2_bw-61_dow-Sunday_defdate-0_room-0_gstadt-2_rateid-0_aud-0_gacid-21404666577_mcid-50_bc-AGzKpw_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20260322_ppt-_lp-2840_r-203557922813652335&sid=bd5ea2c23c39fa94c1d59a397f4f0657&all_sr_blocks=712976706_399208729_0_1_0&checkin=2026-03-22&checkout=2026-03-24&dest_id=7129767&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=712976706_399208729_0_1_0&hpos=1&matching_block_id=712976706_399208729_0_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=712976706_399208729_0_1_0__2123864&srepoch=1768837850&srpvid=944c047e013874b0c5ff56a1e521ce43&type=total&ucfs=1&)
 shopping days?
 matcha
 [1](https://www.booking.com/hotel/jp/richmond-tokyo-mejiro.html?aid=311088&label=richmond-tokyo-mejiro-AbQXXQMHN96PbQ9BrWp9xwS417728957438%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-12304434087%3Alp9004354%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcUSe6BbHz0A_uhMSOKgInk&sid=21bb38b22bfaeb020e6dc9a912690e5c&all_sr_blocks=41641628_383570320_0_2_0&checkin=2026-04-01&checkout=2026-04-02&dest_id=-246227&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=41641628_383570320_0_2_0&hpos=1&matching_block_id=41641628_383570320_0_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=41641628_383570320_0_2_0__2891455&srepoch=1768501682&srpvid=214181d71fed0f65&type=total&ucfs=1&activeTab=main)
