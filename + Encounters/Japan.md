@@ -5,11 +5,10 @@
 
 
 - [ ] BOOK  HOTELs
-- [ ]  ORDER TRAIN/SHINKANSEN TICKETS ON KLOOK
-	Narita → Yokohama 12/16 5:48PM-7:19PM
-	Odawara → Kyoto 12/18 12:07PM-14:12PM
-	Kyoto → Nagano 12/22
-	Nagano → Tokyo 12/24
+- [ ]  ORDER SHINKANSEN TICKETS ON KLOOK
+	Tokyo → Osaka on 3/15
+	Osaka → Kyoto on 3/
+	Kyoto → Tokyo on 3/
 
 
 3 days tokyo, 3 days Kyoto, 2 days Osaka, 2 days tokyo 
@@ -50,7 +49,9 @@ Arashiyama Bamboo Forest
 Arashiyama Monkey Park
 
 
-oksaka (day trips to osaka?)
+oksaka (day trips to osaka or stay easier)
+
+
 [sumo tounrnmant](https://www.sumo.or.jp/EnTicket/year_schedule)
 need to buy tickets feb 7
 
@@ -59,4 +60,6 @@ nara deer park
 
 
 **back to tokyo**
+shopping days?
+matcha
 [1](https://www.booking.com/hotel/jp/richmond-tokyo-mejiro.html?aid=311088&label=richmond-tokyo-mejiro-AbQXXQMHN96PbQ9BrWp9xwS417728957438%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-12304434087%3Alp9004354%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcUSe6BbHz0A_uhMSOKgInk&sid=21bb38b22bfaeb020e6dc9a912690e5c&all_sr_blocks=41641628_383570320_0_2_0&checkin=2026-04-01&checkout=2026-04-02&dest_id=-246227&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=41641628_383570320_0_2_0&hpos=1&matching_block_id=41641628_383570320_0_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=41641628_383570320_0_2_0__2891455&srepoch=1768501682&srpvid=214181d71fed0f65&type=total&ucfs=1&activeTab=main)
