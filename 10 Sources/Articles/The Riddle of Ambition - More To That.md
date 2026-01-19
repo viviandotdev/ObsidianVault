@@ -21,6 +21,9 @@ Focus on the challenge, and not its byproducts.
 *Most people think of ambition as chasing success but in my definition I am ambitions in the actualization of what I am capable*
 *I want to use the brain and body the best of my ability and become the person that I want to and know that I can be.*
 
-[[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
 
 **If you want a certain state to persist, you will no longer have an ambition to accumulate, but rather an ambition to preserve.**
+
+**Ideas**
+
+[[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
