@@ -24,7 +24,7 @@ dinner
 
 **march 14**
 cafe
-bouderling day  (noborock), shibuya, ikerbukuro and takadanobaba? (snack by 711, lawson or family mart)
+boulder day  (noborock), shibuya, ikerbukuro and takadanobaba? (by a711, lawson or family mart)
 ![[Pasted image 20260119095204.png]]
 Dinner
 
