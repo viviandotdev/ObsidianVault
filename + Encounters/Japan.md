@@ -48,6 +48,8 @@ Arashiyama Bamboo Forest
 Arashiyama Monkey Park
 
 
+toyoko INN haneda
+
 oksaka (day trips to osaka or stay easier)
 
 
