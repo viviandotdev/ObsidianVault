@@ -2,7 +2,7 @@
 created: 2025-10-25 18:48
 modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/perspective 
+type:: #note/idea
 tags::
 
 

@@ -3,7 +3,7 @@ created: 2025-08-24 17:25
 modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/perspective 
+type:: #note/idea
 tags:: [[self-improvement]]
 
 You’re body is still capable of doing it you don’t need that much rest

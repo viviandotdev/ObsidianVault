@@ -2,17 +2,17 @@
 modified: 2025-06-15T14:15:26-04:00
 ---
 up::  [[My Perspectives]]
-type:: #note/perspective 
+type:: #note/idea
 **Topic**
 *What are you writing about from The Queue? This can be a quote, tweet, idea, thought, interest, or even a broad topic.*
 
 [James Clear Tweet](https://x.com/JamesClear/status/1808881078414786737)
-> I'm not the best writer, but it is a strength. I might be a 90th percentile writer.  
-> 
-> And I'm not the best marketer, but it is a strength. Again, maybe 90th percentile? I'm better than most, but if you pass 100 people on the street it won't be hard to find some people better than me.  
-> 
-> What I have gradually learned is that it is not your strengths, **but your combination of strengths that sets you apart**. It is the fact that writing and marketing are mutually reinforcing—and that I enjoy both—that leads to great results.  
-> 
+> I'm not the best writer, but it is a strength. I might be a 90th percentile writer.
+>
+> And I'm not the best marketer, but it is a strength. Again, maybe 90th percentile? I'm better than most, but if you pass 100 people on the street it won't be hard to find some people better than me.
+>
+> What I have gradually learned is that it is not your strengths, **but your combination of strengths that sets you apart**. It is the fact that writing and marketing are mutually reinforcing—and that I enjoy both—that leads to great results.
+>
 > How can you combine your strength? That's something I would encourage everyone to think about. **You will find talented people in every area of life. It's the combinations that are rare.**
 
 
@@ -25,7 +25,7 @@ type:: #note/perspective
 
 This reminds of a concept that I think Paul Grahm mentioned or is it from millionaire fastlane?
 For example it is almost impossible to be a top 1% basketball player. You have to work extremely hard and better than 99% of the people in the world
-However if you combine your strengths/skills there is less competietion. 
+However if you combine your strengths/skills there is less competietion.
 
 
 **Common Goals, Problems, & Advice**

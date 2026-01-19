@@ -3,7 +3,7 @@ created: 2025-10-14 07:05
 modified: 2025-06-22T19:16:10-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/perspective 
+type:: #note/idea
 tags:: [[productivity]]
 
 
@@ -29,5 +29,3 @@ and -#map
 
 SORT file.link asc
 ```
-
-

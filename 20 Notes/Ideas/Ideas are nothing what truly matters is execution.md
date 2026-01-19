@@ -3,7 +3,7 @@ created: 2025-06-23 20:03
 modified: 2025-06-23T22:04:11-04:00
 ---
 up:: [[My Perspectives]]
-type:: #note/perspective 
+type:: #note/idea
 tags:: [[business]]
 **Brain dump**
 - most people think they need a special idea to be successful

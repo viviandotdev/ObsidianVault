@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-23T07:31:04-04:00
 ---
-type:: #note/perspective 
+type:: #note/idea
 tags:: [[life]] [[career]]
 
 

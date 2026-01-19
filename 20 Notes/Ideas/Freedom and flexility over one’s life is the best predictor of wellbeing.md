@@ -3,7 +3,7 @@ created: 2024-01-16 10:44
 modified: 2025-06-23T07:39:44-04:00
 ---
 up::  [[My Perspectives]]
-type: #note/perspective 
+type: #note/idea
 tags:: [[happiness]]
 
 I value freedom and flexibility over my time more that money, when making decisions I consider the time cost as well

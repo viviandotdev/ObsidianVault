@@ -1,4 +1,4 @@
-note:: #note/perspective 
+note:: #note/idea
 up:: [[My Perspectives]]
 tags:: [[creativity]] [[success]]
 
