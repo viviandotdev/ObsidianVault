@@ -3,8 +3,6 @@ source:: https://moretothat.com/the-riddle-of-ambition/
 type:: #source/articles
 
 Focus on the challenge, and not its byproducts.
-
-
 Ambition doing the best with the mind and body you are given.
 I'm ambitious not in the pursuit of money or success but in the self actualization
 
