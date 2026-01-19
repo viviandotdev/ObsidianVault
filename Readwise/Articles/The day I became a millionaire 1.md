@@ -1,0 +1,10 @@
+tags:: [[money]] [[success]]
+source:: https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/
+type:: #source/articles
+
+## Highlights
+- A yellow Lamborghini! While all very nice, very wonderful, it didn’t, as we say, really move the needle of deep satisfaction. ([View Highlight](https://read.readwise.io/read/01kf7gtr39219404wg7byygac7))
+- What kept moving the needle, though, was [programming Ruby](http://rubyonrails.org), [building Basecamp](https://basecamp.com), writing for [Signal v Noise](https://signalvnoise.com), [taking pictures](https://500px.com/dhh), and enjoying all the same avenues of learning and entertainment my already privileged lifestyle had afforded me for years in advance. ([View Highlight](https://read.readwise.io/read/01kf7gtdvxhsmk3zq10q07bk7h))
+- If anything, I began to appreciate even more intently **that [[flow]] and [tranquility](http://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614/) were the true sources of happiness** for me all along. It was like I had pulled back the curtain on that millionaire’s dream and found, to my surprise, that most of the things on the other side were things I already had. Equal parts shock and awe, but ultimately deeply reassuring. ([View Highlight](https://read.readwise.io/read/01kf7gss8867cwyvccjnnbjgs0))
+- My interests and curiosity intact. My passions as fit as ever. I traveled across a broad swath of the first world spectrum of wealth, and both ends were not only livable, but enjoyable. That was a revelation. ([View Highlight](https://read.readwise.io/read/01kf7gsp5e690v3h2fctp13b1t))
+
