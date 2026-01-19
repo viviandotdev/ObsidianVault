@@ -22,7 +22,7 @@ The goal is to not retire to goal is find activities that bring you flow and sur
 When people succeed they believe they are done and don’t need to work anymore
 However it was work that gave them the feeling of flow which what made them happy.
 [[Your don't get happy from achieving your goal, you get happiness from the seeing progress towards your goal]]
-[[Readwise/Articles/The Day I Became a Millionaire]]
+[[The day I became a millionaire]]
 
 
 **Cycle of the rich**
