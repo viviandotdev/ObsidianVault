@@ -13,4 +13,4 @@ kyoto hotels
 
 
 
-**back to**
+**back to tokyo**
