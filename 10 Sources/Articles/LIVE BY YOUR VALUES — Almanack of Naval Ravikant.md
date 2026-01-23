@@ -1,10 +1,3 @@
----
-raindrop_id: 1279107936
-raindrop_highlights:
-  688d430781c6c3e6b038f096: e93d5232695c52f62febe3291352c61f
-
----
-
 tags:: [[70 Tags/values|values]]
 source:: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
 type:: #source/articles

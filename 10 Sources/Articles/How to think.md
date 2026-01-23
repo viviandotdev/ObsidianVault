@@ -1,9 +1,3 @@
----
-raindrop_id: 1360655582
-raindrop_highlights:
-  68d85a990849e8ac777f2d25: 62a64ac9c00bae24eabb825b06343f2b
-
----
 
 tags:: [[communication]]
 source:: https://jeremynixon.github.io/thinking/2015/06/23/how-to-think.html
