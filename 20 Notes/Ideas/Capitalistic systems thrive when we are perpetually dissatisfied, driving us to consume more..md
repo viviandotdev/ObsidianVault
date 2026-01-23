@@ -2,7 +2,7 @@
 created: 2025-07-01 18:49
 modified: 2025-07-01T18:52:07-04:00
 ---
-type:: #note/atomic 
+type:: #note/idea
 tags:: [[happiness]] [[capitalism]] [[consumerism]]
 
 - Capitalism distorts our idea of happiness because it benefits from our constant search for the next thing. 

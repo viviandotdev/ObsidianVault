@@ -2,7 +2,7 @@
 created: 2025-11-09 11:51
 modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[economics]]
 
 The increase efficiency of using a resource leads to increase in consumption rather than a decrease.

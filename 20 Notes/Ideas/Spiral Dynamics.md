@@ -3,7 +3,7 @@ created: 2025-08-02 07:40
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[psychology]]
 
 **Actualized.org**

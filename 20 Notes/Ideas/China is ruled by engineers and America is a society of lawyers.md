@@ -2,7 +2,7 @@
 created: 2025-11-06 08:14
 modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/atomic
+type:: #note/idea
 tags:: [[china]]
 
 The **Lawyerly** Society vs the **Engineering** State
