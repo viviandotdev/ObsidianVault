@@ -4,7 +4,7 @@ modified: 2025-06-15T18:39:22-04:00
 
 ---
 tags::  [[language]]
-type:: #note/how-to 
+type:: #note/tool
 [learning a new language is easy, actually - YouTube](https://www.youtube.com/watch?v=E6588DlZW-c)
 [Matt vs Japan - YouTube](https://www.youtube.com/@mattvsjapan/videos)
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://zenith-raincoat-5cf.notion.site/Mandarin-Guide-82734307494a429c9ccf0b98e1d8a80c)

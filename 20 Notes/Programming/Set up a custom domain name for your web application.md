@@ -3,7 +3,7 @@ created: 2024-05-16 17:33
 modified: 2025-06-28T08:05:32-04:00
 ---
 up::  [[How to deploy an api using Digital Ocean and Dokku]]
-type:: #note/how-to
+type:: #note/tool
 tags:: [[dns]]
 
 **Do this first to make sure it propagates**

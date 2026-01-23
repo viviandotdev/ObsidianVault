@@ -5,7 +5,8 @@ modified: 2025-08-01T21:35:00-04:00
 [[Perfect friend]]
 
 **quotes**
-[[A friend is a single soul dwelling in two bodies.]]
+"A friend is a single soul dwelling in two bodies."
+Aristotle
 ### Notes
 ```dataview
 LIST

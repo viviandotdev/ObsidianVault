@@ -3,7 +3,7 @@ created: 2025-06-22 19:10
 modified: 2025-08-01T12:58:11-04:00
 ---
 up:: [[My PKM Workflows]]
-tags:: #note/framework 
+tags:: #note/tool
 **Checklist**
 - [ ] Fill out topic
 - [ ] Fill out references
@@ -13,24 +13,24 @@ tags:: #note/framework
 - [ ] Turn it into new notes or intended outputs
 
 
-### Ideation 
+### Ideation
 First, we look for existing Brainstorms > References we already have to use as inspiration for the work.
 
 There are five ways you can look for notes, which are highlighted in Retrieving information from your notes
 
-### Fill out brain dump (how) 
-**From previous ideas** 
+### Fill out brain dump (how)
+**From previous ideas**
 First, we need to extract the ideas in the notes we just found from going through our Brainstorms > References
 
 Whenever you come across something that can be useful, just make a bullet point under either linking to the section or with the copy pasted idea you want to use.
 
-**From current ideas** 
+**From current ideas**
 Now that we have a foundation through our past work, we can use it as inspiration to bring out the ideas in our current mind.
 
-**Prompts** 
+**Prompts**
 Can use callouts for different prompts or structures you can add to your draft, inspired by Kortex workflow.
 
-### Organizing Ideas 
+### Organizing Ideas
 Now, from your ideas, we can start coming up with paragraphs or groups in Brainstorms > Organized Ideas:
 
 Are there any emerging patterns or bigger themes that these ideas indicate?

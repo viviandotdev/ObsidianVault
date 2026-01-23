@@ -3,7 +3,7 @@ created: 2024-10-20 11:35
 modified: 2025-06-16T07:10:58-04:00
 
 ---
-type:: #note/how-to
+type:: #note/tool 
 ### Rules
 1. Don't drink calories
 2. Don't eat fruit

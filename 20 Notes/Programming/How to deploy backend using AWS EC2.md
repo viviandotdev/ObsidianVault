@@ -5,7 +5,7 @@ modified: 2025-06-16T07:01:37-04:00
 ---
 up::  [[How to start a programming project]]
 tags:: [[aws]]
-type:: #note/how-to
+type:: #note/tool
 source:: [[TWC-Twitter Clone Course]]
 **Launch a EC2 instance**
 1. Go to [Instances](https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:)

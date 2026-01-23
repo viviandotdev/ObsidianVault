@@ -4,7 +4,7 @@ modified: 2025-06-22T20:39:51-04:00
 ---
 up::  [[My PKM Frameworks]]
 tags:: [[note-taking]]
-type:: #note/framework 
+type:: #note/tool
 ## How to take book/video/blog notes
 
 **Before Reading**

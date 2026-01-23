@@ -2,14 +2,14 @@
 modified: 2025-07-13T07:18:02-04:00
 ---
 tags:: [[leetcode]]
-type:: #note/framework 
+type:: #note/tool
 
-Problem solving skill	
+Problem solving skill
 https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=2
 
-Do these same questions again 
+Do these same questions again
 Execute Leetcode plan- if it works it works if not it does not
-2 months = 3 cycles 
+2 months = 3 cycles
 I did something similar with fewer puzzles and only went through them 3 times
 
 Part 1 easy
@@ -35,10 +35,10 @@ Complete in x*0.75 days
 - make sure you understand all the problems and all the details (do problems and make sure you fully understand the patterns)
 	- i think a pattern a week is good enough plan for now
 - make anki flash cards of problems you have solved and understand (small chunks if problem is too long)
-	- you should memorize the problem and the solution with it as well, 
+	- you should memorize the problem and the solution with it as well,
 
 **The memorization stage** (daily cards)
-- anki flash cards 
+- anki flash cards
 - go through questions
 **Revision stage**
 - retrospective revision

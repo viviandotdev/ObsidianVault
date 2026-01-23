@@ -2,7 +2,7 @@
 created: 2023-09-02 15:45
 modified: 2025-06-22T19:17:38-04:00
 ---
-type:: #note/framework 
+type:: #note/tool
 tags:: [[learning]]
 
 A simple technique for seeing the world through the lens of open-ended questions, which he called his “favorite problems.”

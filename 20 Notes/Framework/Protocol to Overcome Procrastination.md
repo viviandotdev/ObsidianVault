@@ -2,7 +2,7 @@
 created: 2025-09-09 08:04
 modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #note/framework 
+type:: #note/tool
 tags:: [[procrastination]]
 ## Protocol to Overcome Procrastination - Action-Oriented Prioritization
 
@@ -21,7 +21,7 @@ Remove the "deciding" and replace it with "doing." Break the stalemate by commit
 4.  **Cycle Through Tasks:** Continue this process – doing 15-25 minutes on a task, and if it's not sticking, moving to the next – until you find a task that you *do* want to continue. The goal is to keep the energy flowing and avoid getting stuck.
 
 **Applying It to Your Examples:**
-**Areas in order of priority** 
+**Areas in order of priority**
 - Programming
 - Writing
 - Drawing

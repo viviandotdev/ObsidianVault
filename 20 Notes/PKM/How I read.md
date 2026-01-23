@@ -3,7 +3,7 @@ created: 2024-12-21 14:41
 modified: 2025-06-22T19:46:01-04:00
 ---
 up::  [[My PKM Frameworks]]
-type:: #note/framework 
+type:: #note/tool
 tags:: [[reading]]
 source:: [How I Read](https://notes.burke.libbey.me/how-i-read/)
 ## Capture

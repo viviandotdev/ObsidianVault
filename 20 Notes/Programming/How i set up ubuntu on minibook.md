@@ -3,7 +3,7 @@ created: 2025-06-23 22:15
 modified: 2025-07-06T21:46:51-04:00
 ---
 up:: [[CHUWI MiniBook X]]
-type:: #note/how-to 
+type:: #note/tool
 tags:: [[linux]]
 
 I swapped esc with caps recently on ubuntu. Steps i followed:
@@ -26,4 +26,3 @@ https://github.com/jbhoot/pin-unpin-tab
 **Reference**
 - [Esc to Capslock on ubuntu 22.04 : r/vim](https://www.reddit.com/r/vim/comments/1d6xv5a/esc_to_capslock_on_ubuntu_2204/)
 [GitHub - rvaiya/keyd: A key remapping daemon for linux.](https://github.com/rvaiya/keyd)
-

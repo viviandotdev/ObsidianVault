@@ -1,5 +1,5 @@
 
-type:: #note/list
+type:: #note/concept 
 tags:: [[politics]]
 
 

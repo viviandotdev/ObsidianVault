@@ -3,7 +3,7 @@ created: 2025-07-06 21:05
 modified: 2025-07-06T21:08:46-04:00
 ---
 up:: [[2HW-The 2 Hour Writer]]
-type:: #note/framework 
+type:: #note/tool
 ### **Step 1: Ideation & Content Generation**
 
 Begin by gathering potential topics and angles for your newsletter.
@@ -70,6 +70,6 @@ With your detailed outline in hand, the writing process becomes much smoother.
 * [Readwise Reader Shared Content](https://readwise.io/reader/shared/01j4wv71ezkjhsk6dm0cvdaghj/)
 
 
-Practice drawing 
+Practice drawing
 https://practicedrawingthis.com/ (make a better version?)
 https://fluxedigitalmarketing.com/email-newsletter-examples/

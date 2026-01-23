@@ -2,7 +2,7 @@
 created: 2025-06-22 19:26
 modified: 2025-07-12T12:53:16-04:00
 ---
-type:: #note/how-to 
+type:: #note/tool
 tags:: [[drawing]]
 
 [Perspective Drawing Study Guide for How to Draw and Framed Perspective 1 - YouTube](https://www.youtube.com/watch?v=pGgYGP3szuk)

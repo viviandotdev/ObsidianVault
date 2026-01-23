@@ -3,8 +3,8 @@ created: 2024-04-21 14:55
 modified: 2025-08-01T17:57:01-04:00
 ---
 up:: [[My PKM Workflows]]
-tags:: [[writing]] 
-type:: #note/how-to 
+tags:: [[writing]]
+type:: #note/tool
 ## How to Write an Atomic Essay?
 
 [Examples of Productivity Atomic Essays](https://twitter.com/julia_saxena/status/1373253118297772032)

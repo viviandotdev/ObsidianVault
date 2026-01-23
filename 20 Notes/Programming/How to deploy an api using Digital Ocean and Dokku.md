@@ -3,7 +3,7 @@ created: 2023-09-24 07:20
 modified: 2025-07-12T08:53:48-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
-type: #note/how-to 
+type: #note/tool
 tags:: [[programming]] [[devops]]
 **sources**
 [Deploying a PostgresQL, Redis, GraphQL backend and frontend the easiest way! - DEV Community](https://dev.to/lastnameswayne/deploying-a-postgresql-redis-graphql-backend-and-frontend-the-easiest-way-4gob)
@@ -52,7 +52,7 @@ docker buildx build --platform linux/amd64 --push -t vivianlin61/bookcue:2 .
 [Image Tag Deployment - Dokku Documentation](https://dokku.com/docs~v0.8.2/deployment/methods/images/)
 [Why can't i pull the newest image by using the latest tag?](https://cloud.ibm.com/docs/Registry?topic=Registry-troubleshoot-docker-latest)
 `
-```	
+```
 ssh -i ~/.ssh/bookshelf root@178.156.140.183
 ```
 1. Pull the latest image from docker hub

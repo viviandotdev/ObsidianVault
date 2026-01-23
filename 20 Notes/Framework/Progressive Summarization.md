@@ -4,7 +4,7 @@ modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[How I read]]
 tags:: [[note-taking]]
-type:: #note/framework
+type:: #note/tool
 
 tags::
 **Layer 1** is the starting point of Progressive Summarization, like the bedrock on which everything else is built:

@@ -4,7 +4,7 @@ modified: 2025-06-16T07:22:39-04:00
 
 ---
 up:: [[My PKM Workflows]]
-type:: #note/how-to
+type:: #note/tool
 tags:: [[note-taking]]
 ## How I Take Smart Notes- Books/Articles
 

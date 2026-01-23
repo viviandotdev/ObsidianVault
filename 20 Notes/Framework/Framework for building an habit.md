@@ -1,6 +1,6 @@
 tags:: [[habits]]
 source:: [master any language: build your daily routine - YouTube](https://www.youtube.com/watch?v=FB4o6sgJPA0)
-type:: #note/framework 
+type:: #note/tool
 # Consistency Building Framework
 
 This framework offers a progressive, three-level approach to building daily consistency, discipline, and effective study habits.
