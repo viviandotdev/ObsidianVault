@@ -2,7 +2,7 @@
 created: 2024-06-19 07:58
 modified: 2025-06-23T07:15:12-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 source::
 Ohm's law is a fundamental principle in electrical engineering that describes the relationship between voltage (V), current (I), and resistance (R) in an electrical circuit. It states that the current flowing through a conductor is directly proportional to the voltage across the conductor and inversely proportional to the resistance of the conductor.
 

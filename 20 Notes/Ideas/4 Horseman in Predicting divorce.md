@@ -2,7 +2,7 @@
 created: 2023-12-11 08:19
 modified: 2025-08-01T11:39:38-04:00
 ---
-type:: #note/idea
+type:: #note/concept 
 tags:: [[relationships]]
 
 

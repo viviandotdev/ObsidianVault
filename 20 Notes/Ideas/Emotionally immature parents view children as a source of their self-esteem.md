@@ -3,7 +3,7 @@ created: 2025-08-24 16:30
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
-type:: #note/atomic
+type:: #note/idea
 tags:: [[parenting]] [[relationships]]
 ## Emotionally immature parents view children as a source of their [[self-esteem]]
 

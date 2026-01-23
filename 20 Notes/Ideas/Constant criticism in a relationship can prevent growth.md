@@ -3,7 +3,7 @@ created: 2025-08-24 12:34
 modified: 2025-08-01T18:24:06-04:00
 ---
 up::
-type:: #note/atomic
+type:: #note/idea
 tags:: [[communication]]
 related:: [[The Four Horsemen]]
 My sister is always constantly correcting the smallest things that I do. **Attacking a person's character rather than addressing the specific behavior**

@@ -2,7 +2,7 @@
 created: 2025-11-09 14:26
 modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[china]] [[communism]]
 
 

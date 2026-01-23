@@ -2,7 +2,7 @@
 created: 2025-06-22 13:14
 modified: 2025-06-23T20:19:40-04:00
 ---
-type:: #note/atomic
+type:: #note/idea
 tags:: [[relationships]] [[love]]
 
 Love should be active, it is like art it should require focus and dedication, it is something that you should build and be proud of the result.

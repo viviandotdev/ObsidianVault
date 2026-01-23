@@ -2,7 +2,7 @@
 created: 2024-10-07 20:51
 modified: 2025-06-23T07:15:20-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[brain]]
 source::
 ![[Pasted image 20241007205241.png]]

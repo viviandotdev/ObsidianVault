@@ -1,7 +1,7 @@
 ---
 modified: 2025-07-06T21:53:03-04:00
 ---
-type:: #note/atomic
+type:: #note/idea
 tags:: [[content-creation]]
 
 You are the only person who can and will ever create it

@@ -2,7 +2,7 @@
 created: 2025-12-06 09:22
 modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[psychology]]
 
 
@@ -11,7 +11,7 @@ Similar to the System 1 (Fast thinking), responsible for our immediate reactions
 
 
 **Releated**
-[[Thinking Fast and Slow]] by Daniel Kahneman 
+[[Thinking Fast and Slow]] by Daniel Kahneman
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
 ```dataview

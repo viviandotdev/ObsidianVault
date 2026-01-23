@@ -2,7 +2,7 @@
 created: 2025-08-01 21:50
 modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[productivity]]
 It is tendency to set extremely high standards for oneself and others, often accompanied by critical self-evaluations and concerns about how others perceive them
 **Problems with this mindset**

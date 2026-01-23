@@ -3,7 +3,7 @@ created: 2025-07-17 17:57
 modified: 2025-07-17T17:57:59-04:00
 ---
 up::
-type:: #note/atomic
+type:: #note/idea
 
 **Problem Solving**
 - Problem solving is not just pattern matching, you have to be able to identify the patterns in the first place

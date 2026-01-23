@@ -3,10 +3,10 @@ created: 2025-10-14 07:16
 modified: 2025-06-22T19:16:10-04:00
 ---
 up:: [[job-search]]
-type:: #note/atomic
+type:: #note/personal 
 tags::
 
-My name is Vivian Lin. In my current role as a Lead QA Automation Engineer at Cigna, I leverage my strong development skills to create robust E2E test scripts with Cypress and WebdriverIO, achieving 100% test coverage on critical user flows. 
+My name is Vivian Lin. In my current role as a Lead QA Automation Engineer at Cigna, I leverage my strong development skills to create robust E2E test scripts with Cypress and WebdriverIO, achieving 100% test coverage on critical user flows.
 
 I have also mentored new team members on testing methodologies and facilitating cross-functional collaboration between QA and product teams to identify and resolve potential defects early in the development cycle.
 
@@ -30,14 +30,6 @@ Answer size should be 200 characters or less.
 Briefly describe your Front End and/or Back End experience.
 Answer size should be 200 characters or less.
 
-
-
----
-created: 2025-10-14 07:16
-modified: 2025-06-22T19:16:10-04:00
----
-type:: #note/atomic
-tags::
 
 
 ### Links to this page

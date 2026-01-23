@@ -2,7 +2,7 @@
 created: 2023-12-11 08:31
 modified: 2025-06-22T19:17:54-04:00
 ---
-type:: #note/atomic
+type:: #note/framework 
 tags:: [[communication]]
 
 **Active Listening:** Focus on what the other person is saying. This disarms your counterpart. Listen and give your opponent the opportunity to give you more information.

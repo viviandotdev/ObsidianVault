@@ -2,7 +2,7 @@
 created: 2025-07-06 21:53
 modified: 2025-07-13T07:32:17-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[motivation]]
 
 **The drive to engage in an activity because it is inherently enjoyable rather than for the external rewards or pressure**

@@ -2,7 +2,7 @@
 created: 2024-10-03 21:38
 modified: 2025-06-23T07:15:08-04:00
 ---
-type:: #note/atomic
+type:: #note/idea
 tags::  [[intelligence]]
 Japan is known for its technological advancements and intellectual achievements. According to a recent report by researchers Richard Lynn and David Becker, Japan has an average IQ of 106.49, the highest in the world
 

@@ -2,7 +2,7 @@
 created: 2024-10-27 19:58
 modified: 2025-06-23T07:15:16-04:00
 ---
-type:: #note/atomic
+type:: #note/concept 
 tags:: [[health]]
 source:: [[How to Reprogram Your Hunger and Lose 7lb of Fat with Fasting Protocol]]
 **Peroxisome Proliferator-Activated Receptor Alpha (PPAR-alpha) and Fat Adaptation**
