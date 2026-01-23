@@ -1,7 +1,7 @@
 ---
 modified: 2025-06-30T07:35:05-04:00
 ---
-note::  #note/list 
+note::  #note/tool 
 tags:: [[job-search]]
 -  Show your genuine enthusiasm for the role in the first question
 	- When someone asks "How are you?" during an interview, instead of just saying "I'm good, how about you," try:

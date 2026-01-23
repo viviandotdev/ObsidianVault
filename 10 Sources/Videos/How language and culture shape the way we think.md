@@ -22,7 +22,6 @@ Holistic way of think
 
 
 
-![[Screenshot 2023-10-19 at 5.00.39 PM.png]]
 Left is the west and right is the east,
 
 Ancient Greek thoght
@@ -68,3 +67,7 @@ Turkish:  Electric Broom
 [Fetching Title#c4n7](https://www.goodreads.com/book/show/226630.The_Geography_of_Thought)
 
 [How language shapes the way we think | Lera Boroditsky - YouTube](https://www.youtube.com/watch?v=RKK7wGAYP6k)
+
+
+output
+[[Eastern vs. western values]]

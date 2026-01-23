@@ -2,9 +2,9 @@
 created: <% tp.file.creation_date() %>
 modified: 2025-07-06T21:45:22-04:00
 ---
-type:: #note/weekly
+type:: #output/weekly
 
-**In My Life** 
+**In My Life**
 <!--What is going on in your life? -->
 
 **Ideas**
