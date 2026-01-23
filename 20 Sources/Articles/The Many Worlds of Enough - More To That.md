@@ -15,4 +15,4 @@ type:: #source/articles
 [[I consider myself ambitions in the sense that I want to see what I am capable of given the mind and body I was born with]]
 
 **Related**
-[[10 Sources/Articles/The Riddle of Ambition - More To That]]
+[[20 Sources/Articles/The Riddle of Ambition - More To That]]

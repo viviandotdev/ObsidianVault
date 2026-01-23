@@ -4,4 +4,4 @@ status:: #🟥
 
 
 **Source**
-[[Taste for Makers]]
+[[Readwise/Articles/Taste for Makers]]
