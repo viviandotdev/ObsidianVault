@@ -7,6 +7,8 @@ tags:: [[writing]]
 type:: #note/tool
 ## How to Write an Atomic Essay?
 
+
+
 [Examples of Productivity Atomic Essays](https://twitter.com/julia_saxena/status/1373253118297772032)
 [How to Write An Atomic Essay: A Beginner's Guide](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
 
