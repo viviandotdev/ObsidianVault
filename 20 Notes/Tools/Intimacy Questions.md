@@ -5,6 +5,7 @@ modified: 2025-06-13T07:41:02-04:00
 ---
 up:: [[Barking up the Wrong Tree by Eric Barker]]
 tags:: [[relationships]]
+type:: #note/tool  
 
 1. Would you like to be **famous**? In what way?
 	1. No I would not like to be famous, I don't want to be famous, famous people lack privacy and are constantly being judged by people they don't know. I think it would be exhausting to be famous. I would prefer to live a normal life. I want to be able to do all the boring things without people following me. I also don't like attention so I don't think I would be happier if I was famous.
