@@ -3,7 +3,6 @@ created: 2025-08-04 06:26
 modified: 2025-08-01T18:24:06-04:00
 ---
 up:: [[Tools]]
-type:: #note/list 
 tags:: [[movies]]
 WebTorrent is a streaming torrent client for the web browser and the desktop.
 

@@ -2,8 +2,7 @@
 modified: 2025-05-21T07:22:47-04:00
 ---
 up::  [[Tools]]
-tags:: 
-related: 
+tags:: [[programming]]
 
 - set up task master ai to help you prompt cursor to getting the task correct
 [Taskmaster AI - The PM for your AI agent](https://www.task-master.dev/)[How I reduced 90% errors for my Cursor (+ any other AI IDE) - YouTube](https://www.youtube.com/watch?v=1L509JK8p1I)

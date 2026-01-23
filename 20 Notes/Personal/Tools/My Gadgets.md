@@ -1,4 +1,4 @@
-type:: #note/list 
+up:: [[Tools]]
 
 **Tech**
 MacBook Pro

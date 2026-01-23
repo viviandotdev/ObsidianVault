@@ -2,7 +2,6 @@
 created: 2025-09-06 08:27
 modified: 2025-08-01T18:24:06-04:00
 ---
-type:: #note/list 
 tags:: [[react-native]]
 [Commits · praveen1295/lms · GitHub](https://github.com/praveen1295/lms/commits/main/?after=0ea2517e7a24b0cd61010d3fbe8fbbcbfd1f39e1+69)
 [GitHub - tegbiye/LMS-Mobile-App-Elementary](https://github.com/tegbiye/LMS-Mobile-App-Elementary)
