@@ -4,7 +4,7 @@ modified: 2025-06-15T18:58:40-04:00
 
 ---
 tags:: [[habits]]
-
+type:: #note/concept 
 Temporal landmarks are dates and times that differentiate your current self from your past self.
 Common temporal landmarks are
 - a new year

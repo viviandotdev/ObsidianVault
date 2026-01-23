@@ -3,7 +3,8 @@ created: 2024-06-04 18:21
 modified: 2025-06-15T18:59:58-04:00
 
 ---
-up::  [[serotonin]]
+type:: #note/concept 
+tags::  [[serotonin]]
 This is known as the sensitive gene and studies have shown that people of East Asian decent were much more likely to carry this short gene variant.
 
 This gene plays in important role in the regulation of of the neurotransmitter serotonin, which influences mood and emotional states.

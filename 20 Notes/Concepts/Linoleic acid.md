@@ -3,6 +3,8 @@ created: 2024-10-07 20:44
 modified: 2025-06-15T18:48:32-04:00
 
 ---
+
+type:: #note/concept 
 source:: [[intelligence]]
 Linoleic acid is an essential (this means that humans cannot produce it, it is obtained through diet) fatty acid
  - [[Linoleic acid]] makes you dumb; it hogs up space in the brain cells so DHA cannot get in. It shoves out DHA and other fats that are good for your brain.

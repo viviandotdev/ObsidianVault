@@ -3,7 +3,8 @@ created: 2024-10-03 21:51
 modified: 2025-06-15T18:32:01-04:00
 
 ---
-up::
+type:: #note/concept 
+tags:: [[biology]]
 source::[Docosahexaenoic Acid benefits, dosage, and side effects](https://examine.com/supplements/docosahexaenoic-acid/)
 Omega-3 fatty acid that is important for brain and development, and for the health of the eyes, skin, and retina
 

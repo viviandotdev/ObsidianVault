@@ -3,6 +3,7 @@ created: 2024-01-16 10:35
 modified: 2025-06-15T18:49:47-04:00
 
 ---
+type:: #note/concept 
 tags:: [[psychology]]
 
 We the emotions we perceive from loses are more more severe than the emotions we perceive from gains.
