@@ -1,4 +1,4 @@
-type:: #note/error
+type:: #dev/error
 tags:: [[expo]]
 
 **trigger**
