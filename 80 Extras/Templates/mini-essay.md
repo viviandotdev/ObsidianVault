@@ -5,8 +5,9 @@ modified: 2025-06-22T19:16:10-04:00
 type:: #output/mini-essay 
 tags::
 
-**Common Problems:**
-<!-- What struggles related to your topic are your readers facing? -->
+**Problems:**
+<!-- What struggles related to your topic are your readers facing? Create instability -->
+
 
 **Costs:**
 <!-- What doubts or counter-arguments might your readers have? Address these proactively. -->
