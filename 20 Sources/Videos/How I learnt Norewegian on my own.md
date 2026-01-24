@@ -4,6 +4,7 @@ modified: 2025-06-17T06:53:29-04:00
 ---
 tags::  [[language]]
 source::  [How I learnt Norwegian on my own - YouTube](https://www.youtube.com/watch?v=uWQYqcFX8JE)
+
 How do kids learn language?
 1. Listen to the language as much as possible
 2. Listen to podcasts, cleaning, playing a game, before going to bed

@@ -6,6 +6,8 @@ type:: #source/video
 tags:: [[productivity]]
 source:: [How I stay focused for long periods of time (and stop infinite scrolling) - YouTube](https://www.youtube.com/watch?v=XF8EqnE1iLo&t=575s)
 
+![](https://www.youtube.com/watch?v=XF8EqnE1iLo&t=575s)
+
 1. **Log your distractions**
 	Identify the discomfort
 	**Time**, **Trigger**, **Urge**, **Feelings**

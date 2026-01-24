@@ -5,6 +5,7 @@ modified: 2025-06-16T08:10:17-04:00
 type: #source/video
 tags:: [[fasting]] 
 source:: [Are you took fat or just too weak?](https://reclipped.com/docs?q=uri:https://www.youtube.com/watch?v%3DseDmwOQtazU)
+
 **Summary Note**
 - [[01:05]]
 Highly **insulin resistant**-body has trouble processing carbs.
