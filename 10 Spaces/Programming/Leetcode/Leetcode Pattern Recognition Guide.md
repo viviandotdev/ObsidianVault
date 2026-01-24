@@ -2,7 +2,7 @@
 created: 2025-07-21 09:07
 modified: 2025-07-21T09:08:16-04:00
 ---
-type:: #note/tool
+type:: #note/guide
 tags:: [[leetcode]]
 source:: [How to Instantly Recognize Leetcode Patterns (500 problems later)](https://www.youtube.com/watch?v=LAnEeffb5zI&list=LL&index=1
 ### Step 1: Check The Constraints

@@ -3,7 +3,7 @@ created: 2023-09-24 07:20
 modified: 2025-07-12T08:53:48-04:00
 ---
 up:: [[Deploying nest.js app to dokku]]
-type: #note/tool
+type: #note/guide
 tags:: [[programming]] [[devops]]
 **sources**
 [Deploying a PostgresQL, Redis, GraphQL backend and frontend the easiest way! - DEV Community](https://dev.to/lastnameswayne/deploying-a-postgresql-redis-graphql-backend-and-frontend-the-easiest-way-4gob)

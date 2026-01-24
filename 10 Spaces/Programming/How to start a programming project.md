@@ -3,6 +3,7 @@ created: 2024-05-10 20:55
 modified: 2025-08-01T17:54:08-04:00
 ---
 up:: [[My PKM Frameworks]]
+type:: #note/guide
 **Pre Development**
 **How to start and plan the project**
 

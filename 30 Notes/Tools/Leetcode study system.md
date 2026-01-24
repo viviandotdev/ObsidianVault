@@ -2,7 +2,7 @@
 modified: 2025-07-13T07:18:02-04:00
 ---
 tags:: [[leetcode]]
-type:: #note/tool
+type:: #note/guide
 
 Problem solving skill
 https://www.youtube.com/watch?v=gK8KmTDtX8E&list=LL&index=2
