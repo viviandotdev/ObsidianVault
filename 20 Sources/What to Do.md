@@ -3,7 +3,7 @@ type:: #source/articles
 
 ## Highlights
 - When I ask that, the answer that pops up is *Make good new things*. ([View Highlight](https://read.readwise.io/read/01kf7nnhhyme83ehqbdmqy83tj))
-- And the best kind of thinking, or more precisely the best proof that one has thought well, is to make good new things. ([View Highlight](https://read.readwise.io/read/01kf7np0vjnq2wc83xmxkr0xaa))
+- And the best kind of thinking, or more precisely the best **proof that one has thought well, is to make good new things.** ([View Highlight](https://read.readwise.io/read/01kf7np0vjnq2wc83xmxkr0xaa))
 - Indeed, trying to express what you understand is not just a way to prove that you understand it, but a way to understand it better. ([View Highlight](https://read.readwise.io/read/01kf7nvvfyerxydfwmhd1xyg7p))
 - . Criticism seems sophisticated, and making new things often seems awkward, especially at first; and yet it's precisely those first steps that are most rare and valuable. ([View Highlight](https://read.readwise.io/read/01kf7nwqktz0jepp6yjxxfcme7))
 - Indeed this pattern is so common that you can use it as a recipe: if you're excited about some kind of work that's not considered prestigious and you can explain what everyone else is overlooking about it, then this is not merely a kind of work that's ok to do, but one to seek out.
