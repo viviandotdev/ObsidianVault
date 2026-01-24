@@ -20,7 +20,7 @@ type:: #source/artcicle
 > Every village has a party committee, every department of a university has a party branch, and even factories have a party branch.
 > Party committee members to hold regular meetings called democratic life meetings, during which they analyze their actions and areas for improvement through self-inspection and self-criticism
 
-> In the [[United States]], large organizations such as unions, YMCA, and United Way are independent. But in [[China]], the party manages everything.
+> In the [[United States]], large organizations such as unions, YMCA, and United Way are independent. But in [[china]], the party manages everything.
 > These nongovernment agencies are managed as government entities under the party
 
 > **China is the only major country that has not engaged in any warfare in the past four decades**

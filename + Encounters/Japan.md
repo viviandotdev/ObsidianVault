@@ -30,6 +30,11 @@ dinner
 cafe
 boulder day  (noborock), shibuya, ikerbukuro and takadanobaba? (by a711, lawson or family mart)
 ![[Pasted image 20260119095204.png]]
+
+Ryokan japanese style tatami may and onsen 
+
+arashiyama bamboo forest too crowded they said there’s another one 20 mins away 
+
 Dinner
 
 
