@@ -2,9 +2,8 @@
 created: <% tp.file.creation_date() %>
 modified: 2025-06-22T19:16:10-04:00
 ---
-type:: #note/idea
+type:: #note/concept 
 tags::
-
 
 
 ### Links to this page

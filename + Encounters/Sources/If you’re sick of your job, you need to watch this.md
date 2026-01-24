@@ -6,7 +6,7 @@ type:: #source/video
 
 **Why did she want to quit?**
 - Work was getting worse 
-- absorbed a colleague's role, my job + his job without a pay raise
+- Absorbed a colleague's role, my job + his job without a pay raise
 
 
 200,000 Net Worth
