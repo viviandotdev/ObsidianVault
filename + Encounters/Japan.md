@@ -19,8 +19,7 @@ add to dos
 osaka then kyoto?
 ![[Pasted image 20260119095436.png]]
 
-4147203746830112
-633
+
 tokygo hotels
 [onyado](https://www.booking.com/hotel/jp/onyado-nono-asakusa.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaKsCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKE_LjLBsACAdICJGMyYTVjMGZlLTgyMmItNGRkNC05NmI3LWNhMzY5NjFiNDZjM9gCAeACAQ&sid=bd5ea2c23c39fa94c1d59a397f4f0657&all_sr_blocks=507230806_374061214_0_2_0_923224&checkin=2026-03-13&checkout=2026-03-15&dest_id=5072308&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=507230806_374061214_0_2_0_923224&hpos=1&matching_block_id=507230806_374061214_0_2_0_923224&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=507230806_374061214_0_2_0_923224_6766364&srepoch=1768832566&srpvid=38d3ddbbe319497e28534be78d53f48c&type=total&ucfs=1&)
 **march 13**
