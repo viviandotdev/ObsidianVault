@@ -29,6 +29,10 @@ type:: #map/area
 
 **Books**
 
+**Tools**
+[[How to Write an Mini Essay]]
+[[How to write my newsletter]]
+
 
 **Projects**
 Write an [[Compendium]] about a topic of interest

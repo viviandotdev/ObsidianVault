@@ -2,7 +2,7 @@ tags::
 source:: https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginners
 type:: #source/articles
 
-*your writing needs to solve other people’s problems first and foremost if you want people to read your work.*
+*Your writing needs to solve other people’s problems first and foremost if you want people to read your work.*
 
 Look at 5-10 creators talking about topics you want to write about. I have my own list that includes lots of different niches. I like to see my own brand as a mix of each one.
 

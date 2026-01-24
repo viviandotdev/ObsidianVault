@@ -4,12 +4,9 @@ modified: 2025-08-01T17:57:01-04:00
 ---
 up:: [[My PKM Workflows]]
 tags:: [[writing]]
-type:: #note/tool
-## How to Write an Atomic Essay?
+type:: #note/tool 
 
-
-
-[Examples of Productivity Atomic Essays](https://twitter.com/julia_saxena/status/1373253118297772032)
+[A Guide to Writing For Beginners](https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginners)
 [How to Write An Atomic Essay: A Beginner's Guide](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
 
 1. Pick a specific topic
@@ -20,10 +17,6 @@ type:: #note/tool
 	- How are you making the reader feel?
 	- What is the outcome/ the promise you are giving the reader?
 	- How many or how much information can the reader expect from you?
-	**Examples**
-		30 big ideas for a better government
-		5 Things I want to t ell my 20 year old self
-		9 reasons writers experience writer's block
 4. Outline the Key Points
 	1.  Once you have a headline, come up with the points you want to talk about. 
 	2. Constantly ask yourself this question: “Are my key points relevant to my headline?”
