@@ -1,4 +1,5 @@
 source: https://erinnystrom.substack.com/p/you-were-lied-to-about-exercise
+tags:: [[health]] [[fitness]]
 type:: #source/articles
 
 ## Highlights
@@ -6,7 +7,7 @@ type:: #source/articles
 - On the flip side, though, you can simply move more, or with more intensity—the more movement you get, the more calories you burn, thus increasing the deficit. ([View Highlight](https://read.readwise.io/read/01kfqxxrpmzvah1bjy0rcxg2h7))
 - This is what exercise has been reduced to, for a large portion of the population.
   But it **doesn’t really work that way.** ([View Highlight](https://read.readwise.io/read/01kfqxy6b4dg9a8x3wb4a6rzz2))
-- At a certain point, energy expenditure plateaus: people with extremely active lives burn about the same as those with moderately active lives. ([View Highlight](https://read.readwise.io/read/01kfqxyfw13rbqwyxs9kp27g6d))
+- **At a certain point, energy expenditure plateaus: people with extremely active lives burn about the same as those with moderately active lives**. ([View Highlight](https://read.readwise.io/read/01kfqxyfw13rbqwyxs9kp27g6d))
 - Exercise isn’t just about calorie burn—it cannot be reduced to simple math, *because it’s so much more than that.*
   It’s about **cellular communication**. When we move our bodies, cells become more sensitive and responsive to insulin, allowing glucose (energy) to enter more easily. It reduces inflammatory signaling. And it enhances mitochondrial function, which, for some reason, the only thing we all collectively remember from high school biology is that the mitochondria (say it with me) *is the powerhouse of the cell.* Stronger mitochondria = more cellular energy with less waste, which = less fatigue, less brain fog, faster recovery, and slower aging. ([View Highlight](https://read.readwise.io/read/01kfqxz51xkgsr1t8cm0kkfzee))
 - It’s about **hormone regulation**. Most people don’t know that muscle is an endocrine organ. When you move, contract, and build muscle, it releases signaling molecules—called myokines—that reduce inflammation, improve brain function, help regulate mood, metabolism, and immune response.
