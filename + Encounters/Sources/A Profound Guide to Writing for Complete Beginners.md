@@ -1,4 +1,4 @@
-tags::
+tags:: [[writing]]
 source:: https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginners
 type:: #source/articles
 

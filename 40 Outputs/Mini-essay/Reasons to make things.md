@@ -25,5 +25,5 @@ tags:: [[self-improvement]]
 
 
 
-[[Readwise/Articles/What to Do|What to Do]]
+[[20 Sources/What to Do|What to Do]]
 [[Make Something Wonderful (Steve Jobs)]]
