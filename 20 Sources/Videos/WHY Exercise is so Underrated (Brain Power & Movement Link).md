@@ -18,13 +18,12 @@ type:: #source/video
 	* learn efficently
 	* stress and anxiety, mood and focus
 	* High impact running learn faster
-* **[5:21](https://www.youtube.com/watch?v=DsVzKCk066g&t=321s)** - BDNF - "Miracle Gro" for the Brain
-	* BDNF, improves the function of neurons, encourages their growth and strengthens and protects them against the natural process of cell death
+* **[5:21](https://www.youtube.com/watch?v=DsVzKCk066g&t=321s)** - [[BDNF]] - "Miracle Gro" for the Brain
+	* [[BDNF]], improves the function of neurons, encourages their growth and strengthens and protects them against the natural process of cell death
 	* it is a hormone that will stimulate growth in cells
 	* 32%
 * **[6:36](https://www.youtube.com/watch?v=DsVzKCk066g&t=396s)** - Our human body: The IF THEN system
 	* body triggers
-	* 
 * **[8:10](https://www.youtube.com/watch?v=DsVzKCk066g&t=490s)** - Arnold Schwarzenegger, productivity genius
 * **[8:44](https://www.youtube.com/watch?v=DsVzKCk066g&t=524s)** - Brain's reward center & Dopamine
 * ![[Pasted image 20260103130430.png]]
@@ -35,7 +34,7 @@ adderall mimics dopamine
 little things 
 * **[10:45](https://www.youtube.com/watch?v=DsVzKCk066g&t=645s)** - Exercise alleviates depression & anxiety
 	* norepherniphrine
-	* serotinin
+	* [[serotinin]]
 	* less deperessed, less neurotic
 * **[11:30](https://www.youtube.com/watch?v=DsVzKCk066g&t=690s)** - Exercise alleviates the negative effects of stress
 	* ![[Pasted image 20260103130927.png]]
