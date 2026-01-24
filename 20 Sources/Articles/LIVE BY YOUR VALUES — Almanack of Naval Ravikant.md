@@ -1,4 +1,4 @@
-tags:: [[70 Tags/values|values]]
+tags:: [[60 Tags/values|values]]
 source:: https://www.navalmanack.com/almanack-of-naval-ravikant/live-by-your-values
 type:: #source/articles
 

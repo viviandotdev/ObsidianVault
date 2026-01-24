@@ -15,5 +15,5 @@ Paul Graham said something similar in his essay [[How to Do Great Work]]
 The first strategy is difficult to the point of near impossibility. Few people will ever play in the NBA or make a platinum album. I don't recommend anyone even try.
 
 - The magic is that few people can draw well and write jokes. It’s the combination of the two that makes what I do so rare. And when you add in my business background, suddenly I had a topic that few cartoonists could hope to understand without living it.
-  [[Capitalism]] rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix… ([View Highlight](https://read.readwise.io/read/01kf7gx1zwz1h0ddnzbtc5786b))
+  [[capitalism]] rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix… ([View Highlight](https://read.readwise.io/read/01kf7gx1zwz1h0ddnzbtc5786b))
 
