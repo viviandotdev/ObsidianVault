@@ -2,7 +2,7 @@ tags:: [[career]] [[financial-independence ]]
 source:: https://www.youtube.com/watch?v=Zl0EfP33v0k
 type:: #source/video
 
-work was getting worse and absorbed his role
+Work was getting worse and absorbed his role
 my job + his job
 
 no pay raise
