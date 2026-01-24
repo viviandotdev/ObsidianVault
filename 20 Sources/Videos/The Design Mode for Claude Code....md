@@ -1,8 +1,6 @@
-tags::
+tags:: [[ai]]
 source:: https://www.youtube.com/watch?v=vcJVnyhmLS4
-type:: #source/articles
-
-The Design Mode for Claude Code..
+type:: #source/video 
 
 **Rebuild a example design using HI-FI context**
 **Context**
@@ -12,7 +10,6 @@ The Design Mode for Claude Code..
 ```
 Help me rebuild the exact same UI design in single html as motherduck.html, above is the extracted css
 ```
-
 
 ```
 Help me rebuild the exact same mobile-menu component UI design as the html provided,here is the extracted css, and an image of the UI is also provided
@@ -45,7 +42,7 @@ The style guide must include the following sections:
 In short, provide a detailed analysis and description of the project's style system, ensuring all important details are included.
 ```
 
-output a styleGuide.md
+Output a styleGuide.md
 
 **Create UI based on the style*
 ```
