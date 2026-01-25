@@ -29,11 +29,10 @@ However this does not mean that exercise does not contribute to weight loss, in 
 		- People with high insulin resistance require a lot of insulin in order for cells to come in, [[Are you too Fat or just Too weak?]]
 
 
-**resources**
 
-[WHY Exercise is Underrated](https://www.youtube.com/watch?v=DsVzKCk066g&list=PLpnqOHebpT4gfIvlcPyCixqLoDPC2oFtA&index=14)
 **Book Spark**
-[You Were Lied to About Exercise - by Erin Nystrom](https://erinnystrom.substack.com/p/you-were-lied-to-about-exercise)
+[[Why you shouldn’t exercise to lose weight, explained with 60+ studies]]
+[[You Were Lied to About Exercise]]
 [[WHY Exercise is so Underrated (Brain Power & Movement Link)]]
 
 
