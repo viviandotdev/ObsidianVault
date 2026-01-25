@@ -5,8 +5,15 @@ modified: 2025-06-22T19:16:10-04:00
 type:: #output/mini-essay 
 tags::
 
+[[Outline Brainstorming Prompt]]
+
+
+### Topic
+
 ### Problem
-**Problems:**
+<!-- Challenge, obstacle, or question that needs to be solved or addressed. -->
+
+**Instability:**
 <!-- What struggles related to your topic are your readers facing? What idea is creating instability-->
 
 **Costs:**
@@ -18,6 +25,8 @@ tags::
 
 
 ### Insight
+<!-- Insights often help you understand why something is happening or reveal new possibilities. -->
+
 **Personal Experiences:**
 <!-- Share relevant stories or lessons learned to build connection and trust. -->
 
@@ -25,6 +34,8 @@ tags::
 ### Solution/Promise of a Solution
 **Outline Steps & Frameworks:**
 <!-- If applicable, break down complex ideas into actionable steps or easy-to-follow frameworks. -->
+
+
 
 ### Links to this page
 These notes point directly to this note. But this note doesn't point back.
