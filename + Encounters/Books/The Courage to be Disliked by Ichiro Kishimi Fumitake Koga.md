@@ -30,11 +30,16 @@ create a mind map of the ideas grouped
 
 
 
+[[Life life for your self, not to satisfy other people's exepecations]]
 
 **All problems are interpersonal relationship problems**, if one was alone in the universe all of one's problems would disappear. It is only in social contexts that problems can exist.
 
 
-In a power 
+**Power struggle**
+In a power struggle the person has the desire to be right and in order to be right that means the other person must be wrong.
+- The power struggles begins the moment one is convinced that are right in an interpersonal relationship
+
+
 
 [[Weakness can be quite strong and powerful]]
 
