@@ -7,8 +7,8 @@ Readers -> people who still think America is the global power,
 Instability -> costs of the instability -> china will rise and over power the united states
 benefits -> of stabilizing then America can still continue to be a global power
 
-**what kind of solutions?**
-- do we have?
+Insights
+**Solutions**
 
 
 
