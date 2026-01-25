@@ -3,7 +3,8 @@
 [[America Against China Against America]]
 
 **Problem**
-readers -> people who still think america is the global power,
+Readers -> people who still think america is the global power,
+
 
 
 
