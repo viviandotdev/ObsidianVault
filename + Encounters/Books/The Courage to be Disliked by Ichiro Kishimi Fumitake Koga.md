@@ -26,12 +26,13 @@ create a mind map of the ideas grouped
 
 [[We fabricate these fears and reasons to prevent us from having the courage to what we actually want]]
 
+
 [[Lifestyle is the tendencies of thought and action in life. Your lifestyle essentially becomes your life]]
 
 
 
-[[Life life for your self, not to satisfy other people's exepecations]]
 
+****
 **All problems are interpersonal relationship problems**, if one was alone in the universe all of one's problems would disappear. It is only in social contexts that problems can exist.
 
 
@@ -40,8 +41,12 @@ In a power struggle the person has the desire to be right and in order to be rig
 - The power struggles begins the moment one is convinced that are right in an interpersonal relationship
 
 
-
 [[Weakness can be quite strong and powerful]]
+
+[[Life life for your self, not to satisfy other people's expectations]]
+
+
+**seperation of tasks**
 
 
 
