@@ -1,6 +1,7 @@
 type:: #source/quote 
 
-China's success to win 
+China's goal is to win without fighting
+China's goal is to succeed without even trying.
 
 
 Related quotes
