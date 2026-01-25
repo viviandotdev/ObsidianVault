@@ -30,9 +30,9 @@ However this does not mean that exercise does not contribute to weight loss, in 
 
 
 **resources**
+
 [WHY Exercise is Underrated](https://www.youtube.com/watch?v=DsVzKCk066g&list=PLpnqOHebpT4gfIvlcPyCixqLoDPC2oFtA&index=14)
 **Book Spark**
-
 [You Were Lied to About Exercise - by Erin Nystrom](https://erinnystrom.substack.com/p/you-were-lied-to-about-exercise)
 [[WHY Exercise is so Underrated (Brain Power & Movement Link)]]
 
