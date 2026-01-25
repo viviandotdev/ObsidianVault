@@ -2,13 +2,17 @@
 [[China’s World View - by David Daokui Li  Derek Sivers]]
 [[America Against China Against America]]
 
-**Ideas**
+**Problem**
+readers -> people who still think america is the global power,
 [[China is ruled by engineers and America is a society of lawyers]]
 
 [[Eastern vs. western values]]
 
+**Insights**
+U.S. leaders picked short-term profits over long-term success. We moved manufacturing overseas because it cost less however that helped accelerate China's growth
 
-U.S. leaders picked short-term profits over long-term success. We moved manufacturing overseas because it cost less and that helped accelerate China's growth
+
+**Solution?**
 
 
 **books**
