@@ -44,7 +44,7 @@ In a power struggle the person has the desire to be right and in order to be rig
 [[Life life for your self, not to satisfy other people's expectations]]
 
 
-**seperation of tasks**
+**Seperation of tasks**
 [[Do not intrude on other people's tasks and don't let other people intrude on your own]]
 
 
