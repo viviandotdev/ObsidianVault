@@ -22,9 +22,10 @@ create a mind map of the ideas grouped
 Freud believe that the past determined who we are today. This idea denies our free will and is driven by determinism. If our past determined everything and who we are today could not take steps forward to change our lives, we would end up in a kind of nihilism where we lose all hope.
 
 
-The important this is not what one is born with but what one makes use of that equ
+[[The important this is not what one is born with but what one makes use of that equipment]]
 
 
+Lifestyle vs Personality 
 **Best Ideas**
  read through highlights and synthesize the best ideas
 **Frameworks/Tools**
