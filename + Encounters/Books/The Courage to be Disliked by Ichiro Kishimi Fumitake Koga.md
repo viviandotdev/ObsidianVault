@@ -17,7 +17,7 @@ create a mind map of the ideas grouped
 
 
 
-[[Anger is a fabricated tool, used to achieve a selfish egotistical goal to make someone else fee small]]
+[[Anger is a fabricated tool, used to achieve a selfish egotistical goal to make someone else feel small]]
 
 
 
