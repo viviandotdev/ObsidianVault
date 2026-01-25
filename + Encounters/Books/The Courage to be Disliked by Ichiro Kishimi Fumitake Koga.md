@@ -29,6 +29,17 @@ create a mind map of the ideas grouped
 [[Lifestyle is the tendencies of thought and action in life. Your lifestyle essentially becomes your life]]
 
 
+
+
+**All problems are interpersonal relationship problems**, if one was alone in the universe all of one's problems would disappear. It is only in social contexts that problems can exist.
+
+
+People who don’t have the courage to healthily improve their situation with their inferiority complex will try to compensate with their superiority complex by making it seem like they have everything and are important
+
+[[Weakness can be quite strong and powerful]]
+
+
+
 **Best Ideas**
 **Frameworks/Tools**
 
