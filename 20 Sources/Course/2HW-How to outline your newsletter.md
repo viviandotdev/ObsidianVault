@@ -3,7 +3,7 @@ created: 2025-07-06 21:05
 modified: 2025-07-06T21:08:46-04:00
 ---
 up:: [[2HW-The 2 Hour Writer]]
-type:: #note/tool
+type:: #source/course 
 ### **Step 1: Ideation & Content Generation**
 
 Begin by gathering potential topics and angles for your newsletter.

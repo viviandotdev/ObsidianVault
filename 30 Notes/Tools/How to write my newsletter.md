@@ -1,5 +1,5 @@
-tags:: [[note-taking]]
-type:: #note/tool
+tags:: [[note-taking]] [[writing]]
+type:: #note/guide
 
 [[2HW-How to outline your newsletter]]
 

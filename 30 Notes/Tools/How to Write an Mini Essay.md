@@ -4,7 +4,7 @@ modified: 2025-08-01T17:57:01-04:00
 ---
 up:: [[My PKM Workflows]]
 tags:: [[writing]]
-type:: #note/tool 
+type:: #note/guide
 
 [A Guide to Writing For Beginners](https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginners)
 [How to Write An Atomic Essay: A Beginner's Guide](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
