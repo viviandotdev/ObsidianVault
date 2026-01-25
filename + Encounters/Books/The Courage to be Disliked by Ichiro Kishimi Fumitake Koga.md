@@ -1,4 +1,4 @@
----
+****---
 title: The Courage to be Disliked
 author: Ichiro Kishimi, Fumitake Koga
 status: 🟨
@@ -12,8 +12,6 @@ type:: #source/book
 by [[Ichiro Kishimi, Fumitake Koga]]
 
 [books notes](https://publish.obsidian.md/ethans/000+Content+Maps/%2B%2BStart+Here)
-create and distill into best ideas
-create a mind map of the ideas grouped
 
 
 
@@ -47,7 +45,7 @@ In a power struggle the person has the desire to be right and in order to be rig
 
 
 **seperation of tasks**
-
+[[Do not intrude on other people's tasks and don't let other people intrude on your own]]
 
 
 **Best Ideas**
