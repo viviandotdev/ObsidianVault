@@ -7,8 +7,9 @@
 
 [[Eastern vs. western values]]
 
-U.S. Policy chose short-term profit over long-term growth. We shifted manufacturing overseas not because they forced us to but because it served corporate interests.
-We opened the doors to cheap labor markets, and that helped accelerate China's growth
+
+U.S. leaders picked short-term profits over long-term success. We moved manufacturing overseas because it cost less and that helped accelerate China's growth
+
 
 **books**
 [[Apple in China by Patrick McGee]]
