@@ -7,6 +7,7 @@
 
 [[Eastern vs. western values]]
 
+U.S. Policy chose short-term profit over long-term growth. We shifted manufacturing overseas not because they forced us to but because it opened the doors to cheap labor and 
 
 **books**
 [[Apple in China by Patrick McGee]]
