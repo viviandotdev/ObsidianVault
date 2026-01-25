@@ -1,4 +1,3 @@
 - [ ] create a guides for writing essay
 - [ ] create a guide for reading,
 - [ ] write an essay  with that guide
-- [ ] **proof of thought**
