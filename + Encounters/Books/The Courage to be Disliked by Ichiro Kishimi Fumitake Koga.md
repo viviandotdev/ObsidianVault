@@ -19,30 +19,17 @@ create a mind map of the ideas grouped
 
 [[Anger is a fabricated tool, used to achieve a selfish egotistical goal to make someone else feel small]]
 
-
 [[No matter what has occurred in your life up to this point, it should have no bearing at all on how you live from now on]].
 
 [[The important this is not what one is born with but what one makes use of that equipment]]
 
-Here's a clearer, more concise version:
 
-**Lifestyle = Personality**
-- In Adlerian psychology, your lifestyle (patterns of thought and action) is your personality
-- Unlike "personality" which sounds fixed, "lifestyle" emphasizes that you can change
+[[We fabricate these fears and reasons to prevent us from having the courage to what we actually want]]
 
-**Why People Stay Stuck**
-- Many believe personality is unchangeable and use this as an excuse to avoid growth
-- We often choose familiar unhappiness over the stress and anxiety that comes with change
-
-**The Path Forward**
-- Your lifestyle naturally evolves (childhood vs. adulthood), proving change is possible
-- Designing a fulfilling, sustainable lifestyle requires courage
-- Lasting happiness comes from intentionally creating a lifestyle you can maintain long-term
-- 
+[[Lifestyle is the tendencies of thought and action in life. Your lifestyle essentially becomes your life]]
 
 
 **Best Ideas**
- read through highlights and synthesize the best ideas
 **Frameworks/Tools**
 
 
