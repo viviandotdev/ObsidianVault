@@ -16,6 +16,11 @@ create and distill into best ideas
 create a mind map of the ideas grouped
 
 
+
+[[Anger is a fabricated tool, used to achieve a selfish egotistical goal to make someone else fee small]]
+
+
+
 **Best Ideas**
  read through highlights and synthesize the best ideas
 **Frameworks/Tools**
