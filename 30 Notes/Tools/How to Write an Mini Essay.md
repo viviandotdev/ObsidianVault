@@ -6,10 +6,15 @@ up:: [[My PKM Workflows]]
 tags:: [[writing]]
 type:: #note/guide
 
-
 - Choose a topic
 	- Validate the topic and make sure **you are interested in it.**
 	- Write about topics that **solve your own problems** and share the solutions you've found.
+	- Components of a problem
+		1. AN INSTABILITY:
+		2. THE CONSEQUENCES of that instability, presented
+			- most often as the “Costs” of leaving the instability unstable;
+			- sometimes as the “Benefits” of stabilizing it. 
+		3. READERS who constitute a community of discourse defined by their interest in a topic and who will accept or are open to accepting the cost/benefits.
   • Research 
 	- Create a list of sources to watch or listen to throughout the day.
 	- Check youtube and search for titles you plan to write about.

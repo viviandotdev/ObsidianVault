@@ -1,3 +1,4 @@
+tags:: [[writing]]
 source: https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf
 type:: #source/articles
 
