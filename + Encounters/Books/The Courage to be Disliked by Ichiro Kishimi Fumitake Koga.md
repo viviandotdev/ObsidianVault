@@ -1,4 +1,4 @@
-****---
+---
 title: The Courage to be Disliked
 author: Ichiro Kishimi, Fumitake Koga
 status: 🟨
@@ -47,6 +47,7 @@ In a power struggle the person has the desire to be right and in order to be rig
 **Seperation of tasks**
 [[Do not intrude on other people's tasks and don't let other people intrude on your own]]
 
+remove personal relationship problems
 
 **Best Ideas**
 **Frameworks/Tools**
