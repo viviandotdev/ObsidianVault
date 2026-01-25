@@ -1,4 +1,4 @@
-[[writing]]
+tags:: [[writing]]
 type:: #prompt
 
 ```

@@ -12,7 +12,7 @@ type:: #source/articles
   • Ideate [[research synthesis prompt]]
 	- Use AI to Generate a 1000 word summary to **compare and synthesize the ideas** from various sources and build something new .
 	- As the LLM to help give you the Lego bricks to build something unique in your writing.
-  • Outline [[outline brainstorming prompt]]
+  • Outline [[Outline Brainstorming Prompt]]
 	- Creativity thrives within constraints.
 	- The outline isn’t limiting you, it’s freeing you to write however way you want.
 	- It removes decision paralysis so you can focus on how you solve the problem and not what to write about.
