@@ -15,9 +15,9 @@ Insights
 
 **Insights**
 U.S. leaders picked short-term profits over long-term success. We moved manufacturing overseas because it cost less however that helped accelerate China's growth.
-Example of Apple as a company and why did they send all the labor overseas,
-there were some issues in the U.S. they saw how fast the taiwainese companies could work and build and took advantage of that, 
-even so the rate that Americans were working would not allow apple to reach the supply that was being demanded of consumers.
+- Example of Apple as a company and why did they send all the labor overseas,
+- there were some issues in the U.S. they saw how fast the Taiwanese companies could work and build and took advantage of that, 
+- even so the rate that Americans were working would not allow apple to reach the supply that was being demanded of consumers.
 
 
 [[Eastern vs. western values]]
