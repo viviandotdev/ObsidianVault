@@ -2,8 +2,6 @@ tags:: [[self-improvement]]
 source: https://paulgraham.com/do.html
 type:: #source/articles
 
-
-
 ## Highlights
 - When I ask that, the answer that pops up is *Make good new things*. ([View Highlight](https://read.readwise.io/read/01kf7nnhhyme83ehqbdmqy83tj))
 - And the best kind of thinking, or more precisely the best **proof that one has thought well, is to make good new things.** ([View Highlight](https://read.readwise.io/read/01kf7np0vjnq2wc83xmxkr0xaa))
