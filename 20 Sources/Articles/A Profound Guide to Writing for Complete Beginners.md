@@ -3,7 +3,7 @@ source: https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginn
 type:: #source/articles
 
 ## Highlights
-- • Choose a topic
+- Choose a topic
 	- Validate the topic and make sure **you are interested in it.**
 	- Write about topics that **solve your own problems** and share the solutions you've found.
   • Research 

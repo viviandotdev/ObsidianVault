@@ -6,21 +6,28 @@ up:: [[My PKM Workflows]]
 tags:: [[writing]]
 type:: #note/guide
 
+
+- Choose a topic
+	- Validate the topic and make sure **you are interested in it.**
+	- Write about topics that **solve your own problems** and share the solutions you've found.
+  • Research 
+	- Create a list of sources to watch or listen to throughout the day.
+	- Check youtube and search for titles you plan to write about.
+  • Ideate [[research synthesis prompt]]
+	- Use AI to Generate a 1000 word summary to **compare and synthesize the ideas** from various sources and build something new .
+	- As the LLM to help give you the Lego bricks to build something unique in your writing.
+  • Outline [[Outline Brainstorming Prompt]]
+	- Creativity thrives within constraints.
+	- The outline isn’t limiting you, it’s freeing you to write however way you want.
+	- It removes decision paralysis so you can focus on how you solve the problem and not what to write about.
+  • Write
+	- Split your PC screen in to two, one side is your outline and AI chat and the other as the newsletter draft
+
+
+
 [A Guide to Writing For Beginners](https://ideas.profoundideas.com/p/a-guide-to-writing-for-complete-beginners)
 [How to Write An Atomic Essay: A Beginner's Guide](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide)
 
-1. Pick a specific topic
-2. Decide who you are writing for
-3. How to create interesting titles
-	- Who are you writing for?
-	- What are you writing about?
-	- How are you making the reader feel?
-	- What is the outcome/ the promise you are giving the reader?
-	- How many or how much information can the reader expect from you?
-4. Outline the Key Points
-	1.  Once you have a headline, come up with the points you want to talk about. 
-	2. Constantly ask yourself this question: “Are my key points relevant to my headline?”
-5. Expand on each of the main key points
 
 **Linked References to this Note**
 These notes point directly to this note. But this note doesn't point back.
