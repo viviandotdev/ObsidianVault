@@ -20,8 +20,9 @@ create a mind map of the ideas grouped
 
 
 **Best Ideas**
+  
+**Frameworks/Tools**
 
-**Frameworks**
 
 [Psycho Cybernetics - Maxwell Maltz - Personal Development AπI - Obsidian Publish](https://publish.obsidian.md/ethans/001+Authors/Maxwell+Maltz/Psycho+Cybernetics+-+Maxwell+Maltz)
 
