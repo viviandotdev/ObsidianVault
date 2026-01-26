@@ -9,5 +9,5 @@
 
 
 **writing sources**
-- [ ] add all the highlights to the kindle and create a book note
-- [ ] create notes from courage to be disliked 
+- [ ] create notes from courage to be disliked  add all the ideas worthing mentioning (working)
+- [ ] 

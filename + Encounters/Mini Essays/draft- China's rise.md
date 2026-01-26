@@ -10,9 +10,6 @@ benefits -> of stabilizing then America can still continue to be a global power
 Insights
 **Solutions**
 
-
-
-
 **Insights**
 U.S. leaders picked short-term profits over long-term success. We moved manufacturing overseas because it cost less however that helped accelerate China's growth.
 - Example of Apple as a company and why did they send all the labor overseas,
