@@ -13,8 +13,6 @@ by [[Ichiro Kishimi, Fumitake Koga]]
 
 [books notes](https://publish.obsidian.md/ethans/000+Content+Maps/%2B%2BStart+Here)
 
-
-
 [[Anger is a fabricated tool, used to achieve a selfish egotistical goal to make someone else feel small]]
 
 [[No matter what has occurred in your life up to this point, it should have no bearing at all on how you live from now on]].
@@ -44,7 +42,7 @@ In a power struggle the person has the desire to be right and in order to be rig
 [[Life life for your self, not to satisfy other people's expectations]]
 
 
-**Seperation of tasks**
+**Separation of tasks**
 [[Do not intrude on other people's tasks and don't let other people intrude on your own]]
 
 remove personal relationship problems
