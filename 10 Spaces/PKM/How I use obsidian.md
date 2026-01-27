@@ -10,8 +10,7 @@ up:: [[My PKM Frameworks]]
 	Restructuring other people's ideas into your own
 
 [[How I Take Smart Notes- Books]]
-[[How I Take Smart Notes- Videos]]
-[[How to Write Atomic Notes]]
+[[How to Write Notes]]
 [[How to Write an Mini Essay]]
 ### Daily time block for writing
 - Start off your mornings with reading and taking notes
@@ -22,4 +21,3 @@ up:: [[My PKM Frameworks]]
 - After each work period create a daily note to log everything you did and then sub-bullets for details
 
 ### At the end of the day do some house keeping of your notes
-- 

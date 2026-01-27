@@ -29,7 +29,7 @@ modified: 2025-08-01T17:57:34-04:00
 [[How I write]]
 [[How I brainstorm]]
 [[How I create unique perspectives]]
-[[How to Write Atomic Notes]]
+[[How to Write Notes]]
 [[How to Write an Mini Essay]]
 
 **Protocols**

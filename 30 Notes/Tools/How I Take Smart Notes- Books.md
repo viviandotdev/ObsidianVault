@@ -27,7 +27,7 @@ tags:: [[note-taking]]
 	**How to Take Reading Notes**
 	-  With **Progressive Summarization**, we are summarizing our notes, and then summarizing _that_ summary, then summarizing _that_ summary, distilling the ideas into smaller and smaller layers each time.
 	- After highlights of a book are imported into obsidian, bold passages on the marked passages from the book, then from the bold passages make highlights,
-	- Then from the highlighted passage [[How to Write Atomic Notes|create atomic note]]
+	- Then from the highlighted passage [[How to Write Notes|create atomic note]]
 	- categorize and file (categorize notes, and the make the permanent notes, connect the notes to other ideas in your system)
 
 ### Resources

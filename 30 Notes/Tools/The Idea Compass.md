@@ -5,7 +5,7 @@ modified: 2025-06-15T18:57:23-04:00
 ---
 up:: [[My PKM Workflows]]
 tags:: [[note-taking]]
-related: [[How to Write Atomic Notes]]
+related: [[How to Write Notes]]
 
 The idea compass is a list of questions that helps you link your atomic notes
 1. Where does X come from?

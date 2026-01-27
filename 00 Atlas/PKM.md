@@ -25,7 +25,7 @@ Managing my PKM system
 **How to take notes**
 [[How I Take Smart Notes- Books]]
 [[How I Take Smart Notes- Videos]]
-[[How to Write Atomic Notes]]
+[[How to Write Notes]]
 [[How to Write an Mini Essay]]
 
 

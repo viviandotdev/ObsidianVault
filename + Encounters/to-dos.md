@@ -8,6 +8,7 @@
 
 
 
+
 **writing sources**
 - [ ] create notes from courage to be disliked  add all the ideas worthing mentioning (working)
-- [ ] 
+- [ ] move, synthesize highlight all your souces to 

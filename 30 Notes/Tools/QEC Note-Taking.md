@@ -3,7 +3,7 @@ created: 2023-07-15 16:07
 modified: Saturday 15th July 2023 16:09:11
 
 ---
-related: [[How to Write Lecture Notes]] [[How to Write Atomic Notes]]
+related: [[How to Write Lecture Notes]] [[How to Write Notes]]
 tags:: [[note-taking]]
 
 ## QEC Note-Taking Method
