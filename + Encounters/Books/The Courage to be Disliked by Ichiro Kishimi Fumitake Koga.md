@@ -35,6 +35,8 @@ by [[Ichiro Kishimi, Fumitake Koga]]
 **Power struggle**
 In a power struggle the person has the desire to be right and in order to be right that means the other person must be wrong.
 - The power struggles begins the moment one is convinced that are right in an interpersonal relationship
+**Approach conversations with the desire to understand instead of being "right".**
+
 
 
 [[Weakness can be quite strong and powerful]]
