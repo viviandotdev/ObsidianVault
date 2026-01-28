@@ -2,7 +2,7 @@ Robert S
 
 **Human behavior and decisions are heavily influenced by biology**
 - Wheat farmers are more likely to walk around obstacles than rice farmers. **Deeply ingrained ancestral cultural practices can influence individual approaches.**
-- Depending on the stage women are in their [[menstrual cycle]] they have differences in what men they prefer
+- Depending on the stage women are in their menstrual cycle they have differences in what men they prefer
 
 
 **Premenstrual changes, brain tumors, glucose fluctuations, anabolic steroids**
